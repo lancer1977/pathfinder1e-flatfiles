@@ -101,7 +101,7 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - [x] Add markdown enrichment for specific armor
 - [x] Add markdown enrichment for ammunition
 - [x] Add markdown enrichment for class abilities
-- [x] Add markdown enrichment for monsters
+- [x] Add exact-match markdown enrichment for monsters
 - [x] Add markdown enrichment for encounters
 - [x] Add markdown enrichment for encounter titles
 - [ ] Extend SRD overlay if the upstream repository adds classes, skills, equipment, feats, or traits

@@ -69,7 +69,7 @@
 - [x] Generate source-linked flatfiles for armor, feats, magic items, mundane gear, and weapons
 - [x] Generate source-linked flatfiles for armor features, ammunition, specific armor, specific weapons, and weapon features
 - [x] Generate source-linked flatfiles for class abilities
-- [x] Generate source-linked flatfiles for monsters
+- [x] Generate exact-match source-linked flatfiles for monsters
 - [x] Generate source-linked flatfiles for encounters and encounter titles
 - [x] Generate SRD markdown source index with upstream commit and match counts
 
