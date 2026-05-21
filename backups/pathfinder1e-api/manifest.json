@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "description": "Raw Pathfinder 1e API/DataSeeds payload backup. This backup is not markdown-enriched.",
+  "dataSeedsRoot": "/home/lancer1977/code/DataSeeds/pathfinder1e",
+  "backupRoot": "backups/pathfinder1e-api",
+  "groups": {
+    "adventure": [
+      "encounters",
+      "encountertitles"
+    ],
+    "ancestry": [
+      "race",
+      "racialtrait",
+      "traits"
+    ],
+    "bestiary": [
+      "monster"
+    ],
+    "classes": [
+      "archtype",
+      "characterClass",
+      "classAbility",
+      "classAbility.UnchainedMonk",
+      "deed",
+      "powers",
+      "specialization"
+    ],
+    "equipment": [
+      "ammo",
+      "armor",
+      "armorFeatures",
+      "magicItems",
+      "mundane",
+      "specificArmor",
+      "specificWeapon",
+      "weapon",
+      "weaponfeature"
+    ],
+    "magic": [
+      "spells",
+      "words"
+    ],
+    "rules": [
+      "conditions",
+      "feats",
+      "language",
+      "skills"
+    ]
+  },
+  "totalPayloads": 28,
+  "payloads": [
+    {
+      "family": "ammo",
+      "group": "equipment",
+      "sourceFile": "../DataSeeds/pathfinder1e/ammo.js",
+      "backupFile": "backups/pathfinder1e-api/equipment/ammo.json",
+      "shape": "array",
+      "count": 32,
+      "sha256": "fa871307324b9b53ec704f42ad3d3c1c9d26169f22ac70f7c92a8fcc320a2023"
+    },
+    {
+      "family": "archtype",
+      "group": "classes",
+      "sourceFile": "../DataSeeds/pathfinder1e/archtype.js",
+      "backupFile": "backups/pathfinder1e-api/classes/archtype.json",
+      "shape": "array",
+      "count": 246,
+      "sha256": "0e78ac8df69c5695ab336d8f520398d2dee80f9ad77f1cabe2cc9a4de1ad03db"
+    },
+    {
+      "family": "armor",
+      "group": "equipment",
+      "sourceFile": "../DataSeeds/pathfinder1e/armor.js",
+      "backupFile": "backups/pathfinder1e-api/equipment/armor.json",
+      "shape": "array",
+      "count": 54,
+      "sha256": "bf1a726260a83f538259f67f5b5ec6b28bd54060e0925430b465e689b491b7d7"
+    },
+    {
+      "family": "armorFeatures",
+      "group": "equipment",
+      "sourceFile": "../DataSeeds/pathfinder1e/armorFeatures.js",
+      "backupFile": "backups/pathfinder1e-api/equipment/armorFeatures.json",
+      "shape": "array",
+      "count": 67,
+      "sha256": "69c9e4270e2a4a44b4b746f7fb5547673764b14e3021bbd793e48e6bb197250b"
+    },
+    {
+      "family": "characterClass",
+      "group": "classes",
+      "sourceFile": "../DataSeeds/pathfinder1e/characterClass.js",
+      "backupFile": "backups/pathfinder1e-api/classes/characterClass.json",
+      "shape": "array",
+      "count": 66,
+      "sha256": "1c322ba5a0a7b2ccce9223de1854fd4e66e16740e834ef2f5d1e2f24fedba0eb"
+    },
+    {
+      "family": "classAbility",
+      "group": "classes",
+      "sourceFile": "../DataSeeds/pathfinder1e/classAbility.js",
+      "backupFile": "backups/pathfinder1e-api/classes/classAbility.json",
+      "shape": "array",
+      "count": 927,
+      "sha256": "d1c846f3a36409f9ec86f8949bc70fabeab89fb8b553fbafc6df52000bb5e241"
+    },
+    {
+      "family": "classAbility.UnchainedMonk",
+      "group": "classes",
+      "sourceFile": "../DataSeeds/pathfinder1e/classAbility.UnchainedMonk.js",
+      "backupFile": "backups/pathfinder1e-api/classes/classAbility.UnchainedMonk.json",
+      "shape": "array",
+      "count": 19,
+      "sha256": "930890764c4b944e188500cb2e98997615f1c45b3bee46fa4a9ba1685b7bff47"
+    },
+    {
+      "family": "conditions",
+      "group": "rules",
+      "sourceFile": "../DataSeeds/pathfinder1e/conditions.js",
+      "backupFile": "backups/pathfinder1e-api/rules/conditions.json",
+      "shape": "array",
+      "count": 33,
+      "sha256": "d60a76d8bd3e436641e60d6bf2059b8eace43ba737deb29df9d5e2c8dfd44cbd"
+    },
+    {
+      "family": "deed",
+      "group": "classes",
+      "sourceFile": "../DataSeeds/pathfinder1e/deed.js",
+      "backupFile": "backups/pathfinder1e-api/classes/deed.json",
+      "shape": "array",
+      "count": 37,
+      "sha256": "95bfbeaf8b8ea5dd91dcb6ae974faf0904fa6e20adb9696c12fc5b60c439cf68"
+    },
+    {
+      "family": "encounters",
+      "group": "adventure",
+      "sourceFile": "../DataSeeds/pathfinder1e/encounters.js",
+      "backupFile": "backups/pathfinder1e-api/adventure/encounters.json",
+      "shape": "array",
+      "count": 945,
+      "sha256": "7f07cf530972304569be7639faba10f955e2777bb411b7eae823dadd99e7f9f4"
+    },
+    {
+      "family": "encountertitles",
+      "group": "adventure",
+      "sourceFile": "../DataSeeds/pathfinder1e/encountertitles.js",
+      "backupFile": "backups/pathfinder1e-api/adventure/encountertitles.json",
+      "shape": "array",
+      "count": 51,
+      "sha256": "2453481ddcf7f94735e12d896e711b5ddd94cf12984a5d4a06918b37bde29b57"
+    },
+    {
+      "family": "feats",
+      "group": "rules",
+      "sourceFile": "../DataSeeds/pathfinder1e/feats.js",
+      "backupFile": "backups/pathfinder1e-api/rules/feats.json",
+      "shape": "array",
+      "count": 1145,
+      "sha256": "70f20f09c56e5bb741edcfce26fa47527964d7c73bb9578f8cc1d78c901d1bfb"
+    },
+    {
+      "family": "language",
+      "group": "rules",
+      "sourceFile": "../DataSeeds/pathfinder1e/language.js",
+      "backupFile": "backups/pathfinder1e-api/rules/language.json",
+      "shape": "array",
+      "count": 33,
+      "sha256": "9868e5df04ba0494e5b6a3b0f2a42b8e2fa87dd5c1ebbbe381141e7915f334b4"
+    },
+    {
+      "family": "magicItems",
+      "group": "equipment",
+      "sourceFile": "../DataSeeds/pathfinder1e/magicItems.js",
+      "backupFile": "backups/pathfinder1e-api/equipment/magicItems.json",
+      "shape": "array",
+      "count": 1125,
+      "sha256": "0662084066571b994086d07bc7d3f6ba4cc3c011c6f557184fab39eb9a234cd2"
+    },
+    {
+      "family": "monster",
+      "group": "bestiary",
+      "sourceFile": "../DataSeeds/pathfinder1e/monster.js",
+      "backupFile": "backups/pathfinder1e-api/bestiary/monster.json",
+      "shape": "array",
+      "count": 2009,
+      "sha256": "b521acd5e5167c1f505a1f6fa491675f5373cde78a52275a50de367ddbc1a0b6"
+    },
+    {
+      "family": "mundane",
+      "group": "equipment",
+      "sourceFile": "../DataSeeds/pathfinder1e/mundane.js",
+      "backupFile": "backups/pathfinder1e-api/equipment/mundane.json",
+      "shape": "array",
+      "count": 277,
+      "sha256": "f755e217485a202931a97a90402c111d2b08b2441647ef486f34cebb5ec43f12"
+    },
+    {
+      "family": "powers",
+      "group": "classes",
+      "sourceFile": "../DataSeeds/pathfinder1e/powers.js",
+      "backupFile": "backups/pathfinder1e-api/classes/powers.json",
+      "shape": "array",
+      "count": 1062,
+      "sha256": "fc596666d9f46ad97e89a01fd8fd2bf808c10e199c4835df8c547c6333731a8c"
+    },
+    {
+      "family": "race",
+      "group": "ancestry",
+      "sourceFile": "../DataSeeds/pathfinder1e/race.js",
+      "backupFile": "backups/pathfinder1e-api/ancestry/race.json",
+      "shape": "array",
+      "count": 42,
+      "sha256": "3cd5b30cbadb8e77dad870d3d92c8d2d3a57e5f96acc7e3c914916eb08f691db"
+    },
+    {
+      "family": "racialtrait",
+      "group": "ancestry",
+      "sourceFile": "../DataSeeds/pathfinder1e/racialtrait.js",
+      "backupFile": "backups/pathfinder1e-api/ancestry/racialtrait.json",
+      "shape": "array",
+      "count": 629,
+      "sha256": "e9904fc5e607daa95d781a32a5a7f532eafa7470f9477ce91f12c48fb4dec996"
+    },
+    {
+      "family": "skills",
+      "group": "rules",
+      "sourceFile": "../DataSeeds/pathfinder1e/skills.js",
+      "backupFile": "backups/pathfinder1e-api/rules/skills.json",
+      "shape": "array",
+      "count": 96,
+      "sha256": "12a2f020164e4428f42ef2e4ff409534497cafc334eb90b617e704c02130ba43"
+    },
+    {
+      "family": "specialization",
+      "group": "classes",
+      "sourceFile": "../DataSeeds/pathfinder1e/specialization.js",
+      "backupFile": "backups/pathfinder1e-api/classes/specialization.json",
+      "shape": "array",
+      "count": 279,
+      "sha256": "65a84de8d32f245818175e107e93ba27e962cf86541e93c5d19df432dbabde78"
+    },
+    {
+      "family": "specificArmor",
+      "group": "equipment",
+      "sourceFile": "../DataSeeds/pathfinder1e/specificArmor.js",
+      "backupFile": "backups/pathfinder1e-api/equipment/specificArmor.json",
+      "shape": "array",
+      "count": 58,
+      "sha256": "af2d108c8484dc31de05abf4c8455bcc334cbcca7fbd688e2461bcf5c8103c1e"
+    },
+    {
+      "family": "specificWeapon",
+      "group": "equipment",
+      "sourceFile": "../DataSeeds/pathfinder1e/specificWeapon.js",
+      "backupFile": "backups/pathfinder1e-api/equipment/specificWeapon.json",
+      "shape": "array",
+      "count": 81,
+      "sha256": "6fcbd3b5abc1e14d436fb684f947ae06c1d74b6c0ab17398621fb79bb4474014"
+    },
+    {
+      "family": "spells",
+      "group": "magic",
+      "sourceFile": "../DataSeeds/pathfinder1e/spells.js",
+      "backupFile": "backups/pathfinder1e-api/magic/spells.json",
+      "shape": "array",
+      "count": 1553,
+      "sha256": "9f127d5acf51699b9fca5704d1d635f14ca1a2cfb03dcf18446e8a6a0f3faf8b"
+    },
+    {
+      "family": "traits",
+      "group": "ancestry",
+      "sourceFile": "../DataSeeds/pathfinder1e/traits.js",
+      "backupFile": "backups/pathfinder1e-api/ancestry/traits.json",
+      "shape": "array",
+      "count": 523,
+      "sha256": "c68bcb7522bdc6954860e9ff6812527b3409ea3788f74c7107609cfe28d93ea4"
+    },
+    {
+      "family": "weapon",
+      "group": "equipment",
+      "sourceFile": "../DataSeeds/pathfinder1e/weapon.js",
+      "backupFile": "backups/pathfinder1e-api/equipment/weapon.json",
+      "shape": "array",
+      "count": 218,
+      "sha256": "f9d2857fcb1f7c64e3569ed3ae76714a7914f7392b457bffa48d765d97b2ec95"
+    },
+    {
+      "family": "weaponfeature",
+      "group": "equipment",
+      "sourceFile": "../DataSeeds/pathfinder1e/weaponfeature.js",
+      "backupFile": "backups/pathfinder1e-api/equipment/weaponfeature.json",
+      "shape": "array",
+      "count": 91,
+      "sha256": "08acd2d6d96dd367293903d5e4902f88d737c88d7f0c4a5e07a9827c5798acf4"
+    },
+    {
+      "family": "words",
+      "group": "magic",
+      "sourceFile": "../DataSeeds/pathfinder1e/words.js",
+      "backupFile": "backups/pathfinder1e-api/magic/words.json",
+      "shape": "array",
+      "count": 152,
+      "sha256": "f63764c6db43f11d8b0c1ca22cbe49be8a84a90b4cfd63af26c3247ea80d8d13"
+    }
+  ]
+}

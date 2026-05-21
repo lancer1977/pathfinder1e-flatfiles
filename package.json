@@ -1,0 +1,19 @@
+{
+  "name": "pathfinder1e-flatfiles",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync:dataseeds": "node scripts/sync-dataseeds-payloads.mjs",
+    "export:backup": "node scripts/export-pf1-api-backup.mjs",
+    "refresh:all": "npm run sync:dataseeds && npm run refresh:classes && npm run refresh:skills && npm run refresh:spells",
+    "validate:all": "npm run validate:backup && npm run validate:payloads && npm run validate:classes && npm run validate:skills && npm run validate:spells",
+    "validate:backup": "node scripts/validate-pf1-api-backup.mjs",
+    "validate:payloads": "node scripts/validate-pf1-payloads.mjs",
+    "refresh:classes": "node scripts/refresh-pf1-classes.mjs",
+    "validate:classes": "node scripts/validate-pf1-classes.mjs",
+    "refresh:skills": "node scripts/refresh-pf1-skills.mjs",
+    "validate:skills": "node scripts/validate-pf1-skills.mjs",
+    "refresh:spells": "node scripts/refresh-pf1-spells.mjs",
+    "validate:spells": "node scripts/validate-pf1-spells.mjs"
+  }
+}

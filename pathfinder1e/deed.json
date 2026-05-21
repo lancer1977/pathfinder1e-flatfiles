@@ -1,0 +1,306 @@
+[
+  {
+    "Name": "Derring-do",
+    "Class": "Swashbuckler",
+    "Level": "1",
+    "Implemented": "false",
+    "Description": "A swashbuckler can spend 1 panache point when she makes an Acrobatics, Climb, Escape Artist, Fly, Ride, Swim check to roll d6 and add the result to the check. She must choose to do this before she rolls. If the d6 roll is a natural “6,” she rolls another d6 and add it to the check. She can continue to do this as long as she rolls natural “6s” up to a number of times equal to her Dexterity modifier (minimum 1). This deed’s cost cannot be reduced by the Signature Deed feat, or any other effect that reduces the amount of panache a deed costs.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Opportune Parry",
+    "Class": "Swashbuckler",
+    "Level": "1",
+    "Implemented": "true",
+    "Description": "When an opponent makes a melee attack against the swashbuckler, she can spend 1 panache point and can expend a use of an attack of opportunity to attempt to parry that attack. The swashbuckler makes an attack roll as if she were making an attack of opportunity. If her attack roll is greater than the roll of the attacking creature, the attack automatically misses. For each size category the attacking creature is larger than the swashbuckler, the swashbuckler takes a –4 penalty on her attack roll. The swashbuckler must declare the use of this ability after the creature’s attack is announced, but before that attack roll is made.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Riposte",
+    "Class": "Swashbuckler",
+    "Level": "1",
+    "Implemented": "true",
+    "Description": "Immediately after a swashbuckler performs a successful parry, she can spend 1 panache point to make an attack of opportunity against the creature whose attack she blocked, provided that creature is within her reach. She must have an available attack of opportunity to use this deed (one for the parry and one for the riposte).",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Recovery",
+    "Class": "Swashbuckler",
+    "Level": "1",
+    "Implemented": "true",
+    "Description": "When an opponent attempts a melee attack against the swashbuckler, she can spend 1 panache point to move 5 feet as an immediate action; doing so grants the swashbuckler a +2 bonus to AC against the triggering attack {0}. This movement doesn’t negate the attack, which is still resolved as if the swashbuckler was in the original square. This movement is not a 5-foot step; it provokes attacks of opportunity from creatures other than the one who triggered this deed. The swashbuckler can only perform this deed while wearing light or no armor, and while carrying no more than a light load.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Menacing Swordplay",
+    "Class": "Swashbuckler",
+    "Level": "3",
+    "Implemented": "true",
+    "Description": "While she at least 1 panache, when a swashbuckler hits an opponent with a light or one-handed piercing melee weapon, she can choose to use Intimidate to demoralize that opponent (Pathfinder RPG Core Rulebook 99) as a swift action instead of a standard action.",
+    "Cost": "0",
+    "Passive": "true"
+  },
+  {
+    "Name": "Precise Strike",
+    "Class": "Swashbuckler",
+    "Level": "3",
+    "Implemented": "false",
+    "Description": "As long as she has at least 1 panache point, a swashbuckler gains the ability to strike precisely with a light or one-handed piercing melee weapon (though not natural weapon attacks), adding her swashbuckler level to her damage roll. To use this deed, a swashbuckler cannot attack with a weapon in her other hand or use a shield other than a buckler. A precise strike only works against living creatures with discernible anatomies. The extra damage of precise strike is precision damage, and isn’t multiplied with a critical hit. As a swift action, a swashbuckler can spend 1 panache point to double her precise strike's damage bonus on the next attack. This must be used before the end of her turn, or it is lost.",
+    "Cost": "1",
+    "Passive": "true"
+  },
+  {
+    "Name": "Swashbuckler Initiative",
+    "Class": "Swashbuckler",
+    "Level": "3",
+    "Implemented": "true",
+    "Description": "While the swashbuckler has at least 1 panache point, she gains a +2 bonus on initiative checks. In addition, if she has the Quick Draw feat, her hands are free and unrestrained, and her weapon isn’t hidden, she can draw a single light or one-handed piercing weapon as part of the initiative check.",
+    "Cost": "0",
+    "Passive": "true"
+  },
+  {
+    "Name": "Pommel Swipe",
+    "Class": "Swashbuckler",
+    "Level": "7",
+    "Description": "Tthe swashbuckler can as a swift action spend 1 panache point to make a surprise melee attack with the pommel of a light or one-handed piercing weapon she is wielding. The swashbuckler is considered proficient with this weapon attack. The attack deals bludgeoning damage, and gains a bonus on the attack and damage equal to the enhancement bonus of the weapon. The damage dealt by the pommel swipe is determined by the size of the weapon being used. Small weapons deal 1d4 damage, while Medium weapons deal 1d6 damage. Regardless of the weapon’s size the critical multiplier of this attack is 20/×2. If the attack hits, the swashbuckler can as a free action attempt a combat maneuver check to knock the target prone.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Swift Feint",
+    "Class": "Swashbuckler",
+    "Level": "7",
+    "Description": "A swashbuckler with at least 1 panache point can spend a standard action to purposely miss a creature that she could normally hit with a light or one-handed weapon melee attack. When she does, that creature is denied its Dexterity bonus to AC until the start of her next turn.",
+    "Cost": "0",
+    "Passive": "true"
+  },
+  {
+    "Name": "Targeted Strike",
+    "Class": "Swashbuckler",
+    "Level": "7",
+    "Description": "As a full-round action the swashbuckler can spend 1 panache point to make a single light or one-handed piercing weapon melee attack that cripple’s part of a foe’s body. The swashbuckler chooses a part of the body to target. If the attack succeeds, the target takes the following effects, depending on the part of the body targeted. If a creature doesn’t have one of the listed body locations, that part cannot be targeted. Creatures that are immune to sneak attacks are immune to these effects. Items or abilities that protect a creature from a critical hit also protect a creature from a targeted strike. • Arms: On a hit, the target takes no damage from the attack but drops one carried item of the swashbuckler’s choice, even if the item is wielded with two hands. Items held in a locked gauntlet aren’t dropped on a hit. • Head: On a hit, the target is damaged normally and is confused for 1 round. This is a mind-affecting effect. • Legs: On a hit, the target is damaged normally and knocked prone. Creatures with four or more legs or that are immune to trip attacks are immune to this effect. • Torso or Wings: Targeting the torso causes the target to be staggered for 1 round.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Bleeding Wound",
+    "Class": "Swashbuckler",
+    "Level": "11",
+    "Description": "When the swashbuckler hits a living creature with a light or onehanded piercing melee weapon attack, as a free action she can spend 1 panache point to have that attack deal extra bleed damage. The amount of bleed damage is equal to the swashbuckler’s Dexterity modifier. Alternatively, the swashbuckler can spend 2 panache points to deal 1 point of Strength, Dexterity, or Constitution bleed damage (swashbuckler’s choice) instead. Creatures immune to sneak attacks are also immune to these types of bleed damage.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Evasive",
+    "Class": "Swashbuckler",
+    "Level": "11",
+    "Description": "While a swashbuckler has at least 1 panache point, she gains the benefit of the evasion, uncanny dodge, and improved uncanny dodge rogue class features. She uses her swashbuckler level as her rogue level for improved uncanny dodge.",
+    "Cost": "0",
+    "Passive": "true"
+  },
+  {
+    "Name": "Subtle Blade",
+    "Class": "Swashbuckler",
+    "Level": "11",
+    "Description": "While a swashbuckler has at least 1 panache point, she is immune to disarm, steal, and sunder combat maneuvers made against a light or one-handed piercing melee weapon she is wielding.",
+    "Cost": "0",
+    "Passive": "true"
+  },
+  {
+    "Name": "Dizzying Defense",
+    "Class": "Swashbuckler",
+    "Level": "15",
+    "Description": "While wielding a light or one-handed piercing melee weapon in one hand, the swashbuckler can spend 1 panache point to take the total defense action as a swift action instead of a standard action.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Perfect Thrust",
+    "Class": "Swashbuckler",
+    "Level": "15",
+    "Description": "While the swashbuckler has at least 1 panache, she can as a full-round action make a perfect thrust, pooling all of her attack potential into a single attack made with a light or one-handed piercing weapon. When she does, she makes the attack against the target’s touch AC, and ignores all damage reduction. The swashbuckler must spend 1 panache point to perform this deed.",
+    "Cost": "0",
+    "Passive": "true"
+  },
+  {
+    "Name": "Swashbuckler’s Edge",
+    "Class": "Swashbuckler",
+    "Level": "15",
+    "Description": "While the swashbuckler has at least 1 panache, she can take 10 on any Acrobatics, Climb, Escape Artist, Fly, Ride, or Swim check, even if she’s in immediate danger or distracted. She can use this ability in conjunction with the daringdo deed.",
+    "Cost": "1",
+    "Passive": "true"
+  },
+  {
+    "Name": "Cheat Death",
+    "Class": "Swashbuckler",
+    "Level": "19",
+    "Description": "Whenever you are reduced to 0 or fewer hit points, you can spend all of your remaining panache to instead be reduced to 1 hit point. Effects that kill you outright without dealing hit point damage are unaffected by this ability.",
+    "Cost": "1",
+    "Passive": "true"
+  },
+  {
+    "Name": "Deadly Stab",
+    "Class": "Swashbuckler",
+    "Level": "19",
+    "Description": "When the swashbuckler confirms a critical hit with a light or one-handed piercing melee weapon, in addition to the normal damage, she can spend 1 panache point to inf lict a deadly stab. The target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or die. This is a death attack. Performing this deed does not count for regaining panache.",
+    "Cost": "1",
+    "Passive": "true"
+  },
+  {
+    "Name": "Stunning Stab",
+    "Class": "Swashbuckler",
+    "Level": "19",
+    "Description": "When a swashbuckler hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or be stunned for 1 round. Creature that are immune to critical hits are also immune to this effect.",
+    "Cost": "2",
+    "Passive": "true"
+  },
+  {
+    "Name": "Deadeye",
+    "Class": "Gunslinger",
+    "Level": "1",
+    "Description": "The gunslinger can resolve an attack against touch AC instead of normal AC when firing beyond her firearm’s first range increment. Performing this deed costs 1 grit point per range increment beyond the first. The gunslinger still takes the –2 penalty on attack rolls for each range increment beyond the first when she performs this deed.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Gunslinger’s Dodge",
+    "Class": "Gunslinger",
+    "Level": "1",
+    "Description": "The gunslinger gains an uncanny knack for getting out of the way of ranged attacks. When a ranged attack is made against the gunslinger, she can spend 1 grit point to move 5 feet as an immediate action; doing so grants the gunslinger a +2 bonus to AC against the triggering attack. This movement is not a 5-foot step, and provokes attacks of opportunity. Alternatively, the gunslinger can drop prone to gain a +4 bonus to AC against the triggering attack. The gunslinger can only perform this deed while wearing medium or light armor, and while carrying no more than a light load.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Quick Clear",
+    "Class": "Gunslinger",
+    "Level": "1",
+    "Description": "As a standard action, the gunslinger can remove the broken condition from a single firearm she is currently wielding, as long as that condition was gained by a firearm misfire. The gunslinger must have at least 1 grit point to perform this deed. Alternatively, if the gunslinger spends 1 grit point to perform this deed, she can perform quick clear as a move-equivalent action instead of a standard action.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Gunslinger Initiative",
+    "Class": "Gunslinger",
+    "Level": "3",
+    "Implemented": "true",
+    "Description": "As long as the gunslinger has at least 1 grit point, she gains the following benefits. First, she gains a +2 bonus on initiative checks. Furthermore, if she has the Quick Draw feat, her hands are free and unrestrained, and the firearm is not hidden, she can draw a single firearm as part of the initiative check.",
+    "Cost": "0",
+    "Passive": "false"
+  },
+  {
+    "Name": "Pistol-Whip",
+    "Class": "Gunslinger",
+    "Level": "3",
+    "Description": "The gunslinger can make a surprise melee attack with the butt or handle of her firearm as a standard action. When she does, she is considered to be proficient with the firearm as a melee weapon and gains a bonus on the attack and damage rolls equal to the enhancement bonus of the firearm. The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the firearm. One-handed firearms deal 1d6 points of damage (1d4 if wielded by Small creatures) and two-handed firearms deal 1d10 points of damage (1d8 if wielded by Small creatures). Regardless of the gunslinger’s size, the critical multiplier of this attack is 20/×2. If the attack hits, the gunslinger can make a combat maneuver check to knock the target prone as a free action. Performing this deed costs 1 grit point.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Utility Shot",
+    "Class": "Gunslinger",
+    "Level": "3",
+    "Description": "If the gunslinger has at least 1 grit point, she can perform all of the following utility shots. Each utility shot can be applied to any single attack with a firearm, but the gunslinger must declare the utility shot she is using before firing the shot.",
+    "Cost": "1",
+    "Passive": "true"
+  },
+  {
+    "Name": "Dead Shot",
+    "Class": "Gunslinger",
+    "Level": "7",
+    "Description": "As a full-round action, the gunslinger can take careful aim and pool all of her attack potential into a single, deadly shot. When she does this, she shoots the firearm at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack. If any of the attack rolls hit the target, the gunslinger’s single attack is considered to have hit. For each additional successful attack roll beyond the first, the gunslinger increases the damage of the shot by the base damage dice of the firearm. For instance, if a 7th-level gunslinger firing a musket hits with both attacks, she does 2d12 points of damage with the shot, instead of 1d12 points of damage, before adding any damage modifiers. Precision damage and extra damage from weapon special abilities (such as flaming) are added with damage modifiers and are not increased by this deed. If one or more rolls are critical threats, she confirms the critical once using her highest base attack bonus –5. For each critical threat beyond the first, she reduces this penalty by 1 (to a maximum of 0). The gunslinger only misfires on a dead shot if all the attack rolls are misfires. She cannot perform this deed with a blunderbuss or other scatter weapon when attacking creatures in a cone. The gunslinger must spend 1 grit point to perform this deed.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Startling Shot",
+    "Class": "Gunslinger",
+    "Level": "7",
+    "Description": "A gunslinger with least 1 grit point can spend a standard action to purposely miss a creature that she could normally hit with a firearm attack. When she does, that creature becomes flat-footed until the start of its next turn.",
+    "Cost": "1",
+    "Passive": "true"
+  },
+  {
+    "Name": "Targeting",
+    "Class": "Gunslinger",
+    "Level": "7",
+    "Description": "As a full-round action, the gunslinger can make a single firearm attack and choose part of the body to target. She gains the following effects depending on the part of the body targeted. If a creature does not have one of the listed body locations, that part cannot be targeted. This deed costs 1 grit point to perform no matter which part of the creature she targets. Creatures that are immune to sneak attacks are immune to these effects.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Bleeding Wound",
+    "Class": "Gunslinger",
+    "Level": "11",
+    "Description": "When the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger’s Dexterity modifier. Alternatively, the gunslinger can spend 2 grit points to deal 1 point of Strength, Dexterity, or Constitution bleed damage (gunslinger’s choice) instead. Creatures that are immune to sneak attacks are also immune to these types of bleed damage.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Expert Loading",
+    "Class": "Gunslinger",
+    "Level": "11",
+    "Description": "Whenever the gunslinger rolls a misfire with a gun that has the broken condition, she can spend 1 grit point to keep the gun from exploding, though it retains the broken condition.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Lightning Reload",
+    "Class": "Gunslinger",
+    "Level": "11",
+    "Description": "As long as the gunslinger has at least 1 grit point, she can reload a single barrel of a one-handed or two-handed firearm as a swift action once per round. If she has the Rapid Reload feat or is using an alchemical cartridge (or both), she can reload a single barrel of the weapon as a free action each round instead. Furthermore, using this deed does not provoke attacks of opportunity.",
+    "Cost": "1",
+    "Passive": "true"
+  },
+  {
+    "Name": "Evasive",
+    "Class": "Gunslinger",
+    "Level": "15",
+    "Description": "When the gunslinger has at least 1 grit point, she gains the benefit of the evasion, uncanny dodge, and improved uncanny dodge rogue class features. She uses her gunslinger level as her rogue level for improved uncanny dodge.",
+    "Cost": "0",
+    "Passive": "true"
+  },
+  {
+    "Name": "Menacing Shot",
+    "Class": "Gunslinger",
+    "Level": "15",
+    "Description": "The gunslinger can spend 1 grit point, shoot a firearm into the air, and affect all living creatures within a 30-foot-radius burst as if they were subject to the fear spell. The DC of this effect is equal to 10 + 1/2 the gunslinger’s level + the gunslinger’s Wisdom modifier.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Slinger’s Luck",
+    "Class": "Gunslinger",
+    "Level": "15",
+    "Description": "The gunslinger can spend grit to reroll a saving throw or a skill check. It costs 2 grit points to reroll a saving throw, and 1 grit point to reroll a skill check. The gunslinger must take the result of the second roll, even if it is lower. The deed’s cost cannot be reduced by the true grit class ability, the Signature Deed feat, or any other effect that reduces the amount of grit a deed costs.",
+    "Cost": "1",
+    "Passive": "false"
+  },
+  {
+    "Name": "Cheat Death",
+    "Class": "Gunslinger",
+    "Level": "19",
+    "Description": "Whenever you are reduced to 0 or fewer hit points, you can spend all of your remaining grit to instead be reduced to 1 hit point. Effects that kill you outright without dealing hit point damage are unaffected by this ability.",
+    "Cost": "1",
+    "Passive": "true"
+  },
+  {
+    "Name": "Death’s Shot",
+    "Class": "Gunslinger",
+    "Level": "19",
+    "Description": "When the gunslinger scores a critical hit, she can spend 1 grit point to deal normal damage, and the target must succeed at a Fortitude saving throw with a DC equal to 10 + 1/2 the gunslinger’s level + the gunslinger’s Dexterity modifier. On a failed saving throw, the target dies. This is a death attack. Performing this deed does not allow the gunslinger to regain grit from confirming a critical hit or making a killing blow.",
+    "Cost": "1",
+    "Passive": "true"
+  },
+  {
+    "Name": "Stunning Shot",
+    "Class": "Gunslinger",
+    "Level": "19",
+    "Description": "When a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger’s level + the gunslinger’s Wisdom modifier). If the creature fails, it is stunned for 1 round. Creatures that are immune to critical hits are also immune to this effect.",
+    "Cost": "2",
+    "Passive": "true"
+  }
+]

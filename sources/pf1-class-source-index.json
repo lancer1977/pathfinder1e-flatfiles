@@ -1,0 +1,537 @@
+{
+  "generatedAt": "2026-05-20T22:50:32.327Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyClassesFile": "/home/lancer1977/code/DataSeeds/pathfinder1e/characterClass.js",
+  "markdownCoverage": 33,
+  "totalRecords": 66,
+  "records": [
+    {
+      "name": "Aberration",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Adept",
+      "markdownPath": "nPCClasses.md",
+      "source": null,
+      "type": "NPC",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Alchemist",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/alchemist.md",
+      "source": "APG",
+      "type": "Base",
+      "spellStat": "Intelligence",
+      "casterType": "Spontaneous"
+    },
+    {
+      "name": "Animal",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Antipaladin",
+      "markdownPath": null,
+      "source": "APG",
+      "type": "Alternate",
+      "spellStat": "Charisma",
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Arcane Archer",
+      "markdownPath": "prestigeClasses/arcaneArcher.md",
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": null,
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Arcane Trickster",
+      "markdownPath": "prestigeClasses/arcaneTrickster.md",
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": null,
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Arcanist",
+      "markdownPath": null,
+      "source": "ACG",
+      "type": "Advanced",
+      "spellStat": "Intelligence",
+      "casterType": "Spontaneous"
+    },
+    {
+      "name": "Aristocrat",
+      "markdownPath": null,
+      "source": null,
+      "type": "NPC",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Assassin",
+      "markdownPath": "prestigeClasses/assassin.md",
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Barbarian",
+      "markdownPath": "ultimateCombat/classArchetypes/barbarian.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Bard",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/bard.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Charisma",
+      "casterType": "Spontaneous"
+    },
+    {
+      "name": "Bloodrager",
+      "markdownPath": null,
+      "source": "ACG",
+      "type": "Advanced",
+      "spellStat": "Charisma",
+      "casterType": "Spontaneous"
+    },
+    {
+      "name": "Brawler",
+      "markdownPath": null,
+      "source": "ACG",
+      "type": "Advanced",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Cavalier",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "source": "APG",
+      "type": "Base",
+      "spellStat": "Intelligence",
+      "casterType": null
+    },
+    {
+      "name": "Cleric",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/cleric.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Wisdom",
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Commoner",
+      "markdownPath": null,
+      "source": null,
+      "type": "NPC",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Construct",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Dragon",
+      "markdownPath": "monsters/dragon.md",
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Dragon Disciple",
+      "markdownPath": "prestigeClasses/dragonDisciple.md",
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": null,
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Druid",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/druid.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Wisdom",
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Duelist",
+      "markdownPath": "prestigeClasses/duelist.md",
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Eidolon Biped",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Eidolon",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Eidolon Quadruped",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Eidolon",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Eidolon Serpentine",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Eidolon",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Eldritch Knight",
+      "markdownPath": "prestigeClasses/eldritchKnight.md",
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": null,
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Expert",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "NPC",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Fey",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Fighter",
+      "markdownPath": "ultimateCombat/classArchetypes/fighter.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Intelligence",
+      "casterType": null
+    },
+    {
+      "name": "Gunslinger",
+      "markdownPath": "ultimateCombat/classArchetypes/gunslinger.md",
+      "source": "UC",
+      "type": "Base",
+      "spellStat": "Intelligence",
+      "casterType": null
+    },
+    {
+      "name": "Humanoid",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Hunter",
+      "markdownPath": null,
+      "source": "ACG",
+      "type": "Advanced",
+      "spellStat": "Wisdom",
+      "casterType": "None"
+    },
+    {
+      "name": "Inquisitor",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/inquisitor.md",
+      "source": "APG",
+      "type": "Base",
+      "spellStat": "Intelligence",
+      "casterType": "Spontaneous"
+    },
+    {
+      "name": "Investigator",
+      "markdownPath": null,
+      "source": "ACG",
+      "type": "Advanced",
+      "spellStat": "Intelligence",
+      "casterType": "Spontaneous"
+    },
+    {
+      "name": "Loremaster",
+      "markdownPath": "prestigeClasses/loremaster.md",
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": null,
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Magical Beast",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Magus",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/magus.md",
+      "source": "UM",
+      "type": "Base",
+      "spellStat": "Intelligence",
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Monk",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/monk.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Wisdom",
+      "casterType": null
+    },
+    {
+      "name": "Unchained Monk",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Wisdom",
+      "casterType": null
+    },
+    {
+      "name": "Monstrous Humanoid",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Mystic Theurge",
+      "markdownPath": "prestigeClasses/mysticTheurge.md",
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": null,
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Ninja",
+      "markdownPath": "ultimateCombat/classes/ninja.md",
+      "source": "UC",
+      "type": "Alternate",
+      "spellStat": "Intelligence",
+      "casterType": null
+    },
+    {
+      "name": "Ooze",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Oracle",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/oracle.md",
+      "source": "APG",
+      "type": "Base",
+      "spellStat": "Charisma",
+      "casterType": "Spontaneous"
+    },
+    {
+      "name": "Outsider",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Paladin",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/paladin.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Charisma",
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Pathfinder Chronicler",
+      "markdownPath": "prestigeClasses/pathfinderChronicler.md",
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": null,
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Plant",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Ranger",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/ranger.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Wisdom",
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Red Mantis Assassin",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": "Wisdom",
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Rogue",
+      "markdownPath": "ultimateCombat/classArchetypes/rogue.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Intelligence",
+      "casterType": null
+    },
+    {
+      "name": "Samurai",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "source": "UC",
+      "type": "Alternate",
+      "spellStat": "Intelligence",
+      "casterType": null
+    },
+    {
+      "name": "Shadowdancer",
+      "markdownPath": "prestigeClasses/shadowdancer.md",
+      "source": "CRB",
+      "type": "Prestige",
+      "spellStat": null,
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Shaman",
+      "markdownPath": null,
+      "source": "ACG",
+      "type": "Advanced",
+      "spellStat": "Wisdom",
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Skald",
+      "markdownPath": null,
+      "source": "ACG",
+      "type": "Advanced",
+      "spellStat": "Charisma",
+      "casterType": "Spontaneous"
+    },
+    {
+      "name": "Slayer",
+      "markdownPath": null,
+      "source": "ACG",
+      "type": "Advanced",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Sorcerer",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/sorcerer.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Charisma",
+      "casterType": "Spontaneous"
+    },
+    {
+      "name": "Summoner",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "source": "APG",
+      "type": "Base",
+      "spellStat": "Charisma",
+      "casterType": "Spontaneous"
+    },
+    {
+      "name": "Swashbuckler",
+      "markdownPath": null,
+      "source": "ACG",
+      "type": "Advanced",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Undead",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Unknown",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Vermin",
+      "markdownPath": null,
+      "source": "CRB",
+      "type": "Monster",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Warpriest",
+      "markdownPath": null,
+      "source": "ACG",
+      "type": "Advanced",
+      "spellStat": "Wisdom",
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Warrior",
+      "markdownPath": null,
+      "source": null,
+      "type": "NPC",
+      "spellStat": null,
+      "casterType": null
+    },
+    {
+      "name": "Witch",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/witch.md",
+      "source": "APG",
+      "type": "Base",
+      "spellStat": "Intelligence",
+      "casterType": "Memorized"
+    },
+    {
+      "name": "Wizard",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/wizard.md",
+      "source": "CRB",
+      "type": "Core",
+      "spellStat": "Intelligence",
+      "casterType": "Memorized"
+    }
+  ]
+}

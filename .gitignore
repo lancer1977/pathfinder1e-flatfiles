@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+bin/
+obj/
+dist/
+out/
+node_modules/
+*.log
+*.tmp
+*.swp

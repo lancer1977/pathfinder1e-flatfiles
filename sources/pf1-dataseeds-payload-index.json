@@ -1,0 +1,267 @@
+{
+  "generatedAt": "2026-05-20T22:50:32.170Z",
+  "dataSeedsRoot": "/home/lancer1977/code/DataSeeds/pathfinder1e",
+  "outputRoot": "pathfinder1e",
+  "totalPayloads": 28,
+  "copiedPayloads": 25,
+  "preservedManagedPayloads": 3,
+  "enrichedFamilies": {
+    "characterClass": "refresh:classes",
+    "skills": "refresh:skills",
+    "spells": "refresh:spells"
+  },
+  "records": [
+    {
+      "family": "ammo",
+      "sourceFile": "../DataSeeds/pathfinder1e/ammo.js",
+      "outputFile": "pathfinder1e/ammo.json",
+      "shape": "array",
+      "count": 32,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "archtype",
+      "sourceFile": "../DataSeeds/pathfinder1e/archtype.js",
+      "outputFile": "pathfinder1e/archtype.json",
+      "shape": "array",
+      "count": 246,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "armor",
+      "sourceFile": "../DataSeeds/pathfinder1e/armor.js",
+      "outputFile": "pathfinder1e/armor.json",
+      "shape": "array",
+      "count": 54,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "armorFeatures",
+      "sourceFile": "../DataSeeds/pathfinder1e/armorFeatures.js",
+      "outputFile": "pathfinder1e/armorFeatures.json",
+      "shape": "array",
+      "count": 67,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "characterClass",
+      "sourceFile": "../DataSeeds/pathfinder1e/characterClass.js",
+      "outputFile": "pathfinder1e/characterClass.json",
+      "shape": "array",
+      "count": 66,
+      "managedBy": "refresh:classes",
+      "copiedFromDataSeeds": false
+    },
+    {
+      "family": "classAbility",
+      "sourceFile": "../DataSeeds/pathfinder1e/classAbility.js",
+      "outputFile": "pathfinder1e/classAbility.json",
+      "shape": "array",
+      "count": 927,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "classAbility.UnchainedMonk",
+      "sourceFile": "../DataSeeds/pathfinder1e/classAbility.UnchainedMonk.js",
+      "outputFile": "pathfinder1e/classAbility.UnchainedMonk.json",
+      "shape": "array",
+      "count": 19,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "conditions",
+      "sourceFile": "../DataSeeds/pathfinder1e/conditions.js",
+      "outputFile": "pathfinder1e/conditions.json",
+      "shape": "array",
+      "count": 33,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "deed",
+      "sourceFile": "../DataSeeds/pathfinder1e/deed.js",
+      "outputFile": "pathfinder1e/deed.json",
+      "shape": "array",
+      "count": 37,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "encounters",
+      "sourceFile": "../DataSeeds/pathfinder1e/encounters.js",
+      "outputFile": "pathfinder1e/encounters.json",
+      "shape": "array",
+      "count": 945,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "encountertitles",
+      "sourceFile": "../DataSeeds/pathfinder1e/encountertitles.js",
+      "outputFile": "pathfinder1e/encountertitles.json",
+      "shape": "array",
+      "count": 51,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "feats",
+      "sourceFile": "../DataSeeds/pathfinder1e/feats.js",
+      "outputFile": "pathfinder1e/feats.json",
+      "shape": "array",
+      "count": 1145,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "language",
+      "sourceFile": "../DataSeeds/pathfinder1e/language.js",
+      "outputFile": "pathfinder1e/language.json",
+      "shape": "array",
+      "count": 33,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "magicItems",
+      "sourceFile": "../DataSeeds/pathfinder1e/magicItems.js",
+      "outputFile": "pathfinder1e/magicItems.json",
+      "shape": "array",
+      "count": 1125,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "monster",
+      "sourceFile": "../DataSeeds/pathfinder1e/monster.js",
+      "outputFile": "pathfinder1e/monster.json",
+      "shape": "array",
+      "count": 2009,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "mundane",
+      "sourceFile": "../DataSeeds/pathfinder1e/mundane.js",
+      "outputFile": "pathfinder1e/mundane.json",
+      "shape": "array",
+      "count": 277,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "powers",
+      "sourceFile": "../DataSeeds/pathfinder1e/powers.js",
+      "outputFile": "pathfinder1e/powers.json",
+      "shape": "array",
+      "count": 1062,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "race",
+      "sourceFile": "../DataSeeds/pathfinder1e/race.js",
+      "outputFile": "pathfinder1e/race.json",
+      "shape": "array",
+      "count": 42,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "racialtrait",
+      "sourceFile": "../DataSeeds/pathfinder1e/racialtrait.js",
+      "outputFile": "pathfinder1e/racialtrait.json",
+      "shape": "array",
+      "count": 629,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "skills",
+      "sourceFile": "../DataSeeds/pathfinder1e/skills.js",
+      "outputFile": "pathfinder1e/skills.json",
+      "shape": "array",
+      "count": 96,
+      "managedBy": "refresh:skills",
+      "copiedFromDataSeeds": false
+    },
+    {
+      "family": "specialization",
+      "sourceFile": "../DataSeeds/pathfinder1e/specialization.js",
+      "outputFile": "pathfinder1e/specialization.json",
+      "shape": "array",
+      "count": 279,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "specificArmor",
+      "sourceFile": "../DataSeeds/pathfinder1e/specificArmor.js",
+      "outputFile": "pathfinder1e/specificArmor.json",
+      "shape": "array",
+      "count": 58,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "specificWeapon",
+      "sourceFile": "../DataSeeds/pathfinder1e/specificWeapon.js",
+      "outputFile": "pathfinder1e/specificWeapon.json",
+      "shape": "array",
+      "count": 81,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "spells",
+      "sourceFile": "../DataSeeds/pathfinder1e/spells.js",
+      "outputFile": "pathfinder1e/spells.json",
+      "shape": "array",
+      "count": 1553,
+      "managedBy": "refresh:spells",
+      "copiedFromDataSeeds": false
+    },
+    {
+      "family": "traits",
+      "sourceFile": "../DataSeeds/pathfinder1e/traits.js",
+      "outputFile": "pathfinder1e/traits.json",
+      "shape": "array",
+      "count": 523,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "weapon",
+      "sourceFile": "../DataSeeds/pathfinder1e/weapon.js",
+      "outputFile": "pathfinder1e/weapon.json",
+      "shape": "array",
+      "count": 218,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "weaponfeature",
+      "sourceFile": "../DataSeeds/pathfinder1e/weaponfeature.js",
+      "outputFile": "pathfinder1e/weaponfeature.json",
+      "shape": "array",
+      "count": 91,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    },
+    {
+      "family": "words",
+      "sourceFile": "../DataSeeds/pathfinder1e/words.js",
+      "outputFile": "pathfinder1e/words.json",
+      "shape": "array",
+      "count": 152,
+      "managedBy": null,
+      "copiedFromDataSeeds": true
+    }
+  ]
+}

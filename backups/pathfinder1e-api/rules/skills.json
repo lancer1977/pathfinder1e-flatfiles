@@ -1,0 +1,695 @@
+[
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Architect",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Baker",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Brewer",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Butcher",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Clerk",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Barrister",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Cook",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Courtesan",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Driver",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Engineer",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Farmer",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Fisherman",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Librarian",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Innkeeper",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Herbalist",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Gardener",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Gambler",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Merchant",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Midwife",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Shepherd",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Miller",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Miner",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Porter",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Sailor",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Scribe",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Stable Master",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Soldier",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Tanner",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Trapper",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 2,
+    "Game": "Pathfinder",
+    "Name": "Woodcutter",
+    "Stat": "Wisdom",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Glass",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Jewelry",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Clothing",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Carpentry",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Calligraphy",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Bows",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Books",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Baskets",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Armor",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Alchemy",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Cloth",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Leather",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Locks",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Paintings",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Pottery",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Sculptures",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Shoes",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Ships",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Stonemasonry",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Traps",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 3,
+    "Game": "Pathfinder",
+    "Name": "Weapons",
+    "Stat": "Intelligence",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Arcana",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Nature",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Local",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Engineering",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Geography",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Dungeoneering",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Wildspace",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Planetology",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Nobility",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Religion",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "Planes",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 4,
+    "Game": "Pathfinder",
+    "Name": "History",
+    "Stat": "Intelligence",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Use Magic Device",
+    "Stat": "Charisma",
+    "Trained": 0
+  },
+  {
+    "CategoryId": 5,
+    "Game": "Pathfinder",
+    "Name": "Act",
+    "Stat": "Charisma",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 5,
+    "Game": "Pathfinder",
+    "Name": "Comedy",
+    "Stat": "Charisma",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 5,
+    "Game": "Pathfinder",
+    "Name": "Dance",
+    "Stat": "Charisma",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 5,
+    "Game": "Pathfinder",
+    "Name": "Keyboard Instruments",
+    "Stat": "Charisma",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 5,
+    "Game": "Pathfinder",
+    "Name": "Oratory",
+    "Stat": "Charisma",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 5,
+    "Game": "Pathfinder",
+    "Name": "Percussion",
+    "Stat": "Charisma",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 5,
+    "Game": "Pathfinder",
+    "Name": "String",
+    "Stat": "Charisma",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 5,
+    "Game": "Pathfinder",
+    "Name": "Wind",
+    "Stat": "Charisma",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 5,
+    "Game": "Pathfinder",
+    "Name": "Sing",
+    "Stat": "Charisma",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Wild Empathy",
+    "Stat": "Charisma",
+    "Trained": 1
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Stealth",
+    "Stat": "Dexterity",
+    "Trained": 1,
+    "Description": "You are skilled at avoiding detection, allowing you to slip past foes or strike from an unseen position. This skill covers hiding and moving silently."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Disguise",
+    "Stat": "Charisma",
+    "Trained": 1,
+    "Description": "You are skilled at changing your appearance."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Sense Motive",
+    "Stat": "Wisdom",
+    "Trained": 1,
+    "Description": "You are skilled at detecting falsehoods and true intentions."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Disable Device",
+    "Stat": "Dexterity",
+    "Trained": 0,
+    "Description": "You are skilled at disarming traps and opening locks. In addition, this skill lets you sabotage simple mechanical devices, such as catapults, wagon wheels, and doors."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Fly",
+    "Stat": "Dexterity",
+    "Trained": 1,
+    "Description": "You are skilled at flying, through either the use of wings or magic, and can perform daring or complex maneuvers while airborne. Note that this skill does not give you the ability to fly."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Ride",
+    "Stat": "Dexterity",
+    "Trained": 1,
+    "Description": "You are skilled at riding mounts, usually a horse, but possibly something more exotic, like a griffon or pegasus."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Climb",
+    "Stat": "Strength",
+    "Trained": 1,
+    "Description": "You are skilled at scaling vertical surfaces, from smooth city walls to rocky cliffs."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Survival",
+    "Stat": "Wisdom",
+    "Trained": 1,
+    "Description": "You are skilled at surviving in the wild and at navigating in the wilderness. You also excel at following trails and tracks left by others."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Heal",
+    "Stat": "Wisdom",
+    "Trained": 1,
+    "Description": "You are skilled at tending to wounds and ailments."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Spellcraft",
+    "Stat": "Intelligence",
+    "Trained": 0,
+    "Description": "You are skilled at the art of casting spells, identifying magic items, crafting magic items, and identifying spells as they are being cast."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Linguistics",
+    "Stat": "Intelligence",
+    "Trained": 1,
+    "Description": "You are skilled at working with language, in both its spoken and written forms. You can speak multiple languages, and can decipher nearly any tongue given enough time. Your skill in writing allows you to create and detect forgeries as well."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Handle Animal",
+    "Stat": "Charisma",
+    "Trained": 0,
+    "Description": "You are trained at working with animals, and can teach them tricks, get them to follow your simple commands, or even domesticate them."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Appraise",
+    "Stat": "Intelligence",
+    "Trained": 1,
+    "Description": "You can evaluate the monetary value of an object."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Acrobatics",
+    "Stat": "Dexterity",
+    "Trained": 1,
+    "Description": "You can keep your balance while traversing narrow or treacherous surfaces. You can also dive, flip, jump, and roll to avoid attacks and overcome obstacles."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Intimidate",
+    "Stat": "Charisma",
+    "Trained": 1,
+    "Description": "You can use this skill to frighten an opponent or to get them to act in a way that benefits you. This skill includes verbal threats and displays of prowess."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Diplomacy",
+    "Stat": "Charisma",
+    "Trained": 1,
+    "Description": "You can use this skill to persuade others to agree with your arguments, to resolve differences, and to gather valuable information or rumors from people. This skill is also used to negotiate conflicts by using the proper etiquette and manners suitable to"
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Swim",
+    "Stat": "Strength",
+    "Trained": 1,
+    "Description": "You know how to swim and can do so even in stormy water."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Bluff",
+    "Stat": "Charisma",
+    "Trained": 1,
+    "Description": "You know how to tell a lie."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Perception",
+    "Stat": "Wisdom",
+    "Trained": 1,
+    "Description": "Your senses allow you to notice fine details and alert you to danger. Perception covers all five senses, including sight, hearing, touch, taste, and smell."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Sleight Of Hand",
+    "Stat": "Dexterity",
+    "Trained": 1,
+    "Description": "Your training allows you to pick pockets, draw hidden weapons, and take a variety of actions without being noticed."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Escape Artist",
+    "Stat": "Dexterity",
+    "Trained": 1,
+    "Description": "Your training allows you to slip out of bonds and escape from grapples."
+  },
+  {
+    "CategoryId": 1,
+    "Game": "Pathfinder",
+    "Name": "Perform",
+    "Stat": "Charisma",
+    "Trained": 1
+  }
+]

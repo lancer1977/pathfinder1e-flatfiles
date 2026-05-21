@@ -1,0 +1,167 @@
+[
+  {
+    "Name": "Aboleth",
+    "Spoken": "Aboleth and other deep sea (aquatic) aberrations",
+    "Description": ""
+  },
+  {
+    "Name": "Abyssal",
+    "Spoken": "Demons and other chaotic evil outsiders",
+    "Description": "The language of demons, Abyssal is often,Spoken by evil spirits."
+  },
+  {
+    "Name": "Aklo",
+    "Spoken": "Derro, inhuman or otherworldly monsters, evil fey.",
+    "Description": "This ancient tongue is,'Spoken by strange eldritch entities, and certain ancient beings."
+  },
+  {
+    "Name": "Aquan",
+    "Spoken": "Aquatic and water-based creatures",
+    "Description": "The so-called tongue of the sea is, Spoken primarily in the sunken nation of the locathahs— those who trade frequently with the ocean empires often speak this tongue as well."
+  },
+  {
+    "Name": "Auran",
+    "Spoken": "A soft-spoken, breathy language, also known as the “tongue of the heavens.",
+    "Description": ""
+  },
+  {
+    "Name": "Boggard",
+    "Spoken": "Boggards",
+    "Description": ""
+  },
+  {
+    "Name": "Celestial",
+    "Spoken": "Angels and other good outsiders",
+    "Description": "The language of angels."
+  },
+  {
+    "Name": "Common",
+    "Spoken": "Humans and other core races",
+    "Description": ""
+  },
+  {
+    "Name": "Cyclops",
+    "Spoken": "Cyclops and kin",
+    "Description": "Once the ancient language of the giants, this tongue was created before the rise of humanity by the cyclopes of Ghol-gan."
+  },
+  {
+    "Name": "Dark Folk",
+    "Spoken": "Dark creepers, dark slayers, and dark stalkers (creatures of the Dark Folk subtype.)",
+    "Description": ""
+  },
+  {
+    "Name": "Draconic",
+    "Spoken": "",
+    "Description": ""
+  },
+  {
+    "Name": "Drow Sign Language",
+    "Spoken": "Drow",
+    "Description": "Like Druidic, drow sign language is a secret language."
+  },
+  {
+    "Name": "Druidic",
+    "Spoken": "",
+    "Description": "A secret sign language typically known only to druids."
+  },
+  {
+    "Name": "Dwarven",
+    "Spoken": "",
+    "Description": ""
+  },
+  {
+    "Name": "D'ziriak",
+    "Spoken": "D'ziriak",
+    "Description": "The insectoid d'ziriak language consists of buzzes and chitters. It is an obscure one known by few outside their race."
+  },
+  {
+    "Name": "Elven",
+    "Spoken": "Elves, half-elves",
+    "Description": ""
+  },
+  {
+    "Name": "Giant",
+    "Spoken": "Cyclops, ettins, giants, ogres, trolls",
+    "Description": "This brutish tongue and its numerous minor variants are,Spoken in any region where the wrath of giants is known."
+  },
+  {
+    "Name": "Gnoll",
+    "Spoken": "Gnolls",
+    "Description": ""
+  },
+  {
+    "Name": "Gnome",
+    "Spoken": "Gnomes",
+    "Description": ""
+  },
+  {
+    "Name": "Goblin",
+    "Spoken": "Bugbears, goblins, hobgoblins",
+    "Description": "The official language of hobgoblins, this dialect is similar to the Goblin tongue."
+  },
+  {
+    "Name": "Grippli",
+    "Spoken": "Grippli",
+    "Description": ""
+  },
+  {
+    "Name": "Halfling",
+    "Spoken": "Halflings",
+    "Description": ""
+  },
+  {
+    "Name": "Ignan",
+    "Spoken": "Fire-based creatures",
+    "Description": "Also called the “tongue of fire."
+  },
+  {
+    "Name": "Infernal",
+    "Spoken": "Devils and other lawful evil outsiders",
+    "Description": "The language of devils is often,Spoken by evil spirits."
+  },
+  {
+    "Name": "Necril",
+    "Spoken": "undead",
+    "Description": "An ancient language of the dead, this whispering tongue is shared among undead and is also often associated with necromancy."
+  },
+  {
+    "Name": "Orc",
+    "Spoken": "Orcs, half-orcs",
+    "Description": ""
+  },
+  {
+    "Name": "Protean",
+    "Spoken": "Proteans",
+    "Description": "Like the proteans chaotic nature, the protean language itself is mutable, evolving so quickly that few outsiders can understand it without magical aid."
+  },
+  {
+    "Name": "Sphinx",
+    "Spoken": "Sphinxes.",
+    "Description": ""
+  },
+  {
+    "Name": "Sylvan",
+    "Spoken": "Centaurs, fey creatures, plant creatures, unicorns.",
+    "Description": ""
+  },
+  {
+    "Name": "Tengu",
+    "Spoken": "Tengu",
+    "Description": "The official language of the tengu race."
+  },
+  {
+    "Name": "Terran",
+    "Spoken": "Earth-based creatures.",
+    "Description": "Also called the tongue of earth."
+  },
+  {
+    "Name": "Treant",
+    "Spoken": "Treants.",
+    "Description": ""
+  },
+  {
+    "Name": "Undercommon",
+    "Spoken": "Drow, duergar, morlocks, svirfneblin.",
+    "Description": ""
+  }
+]

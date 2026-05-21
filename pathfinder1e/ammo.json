@@ -1,0 +1,270 @@
+[
+  {
+    "Name": "Arrow, Common",
+    "Cost": 5,
+    "Weight": 2,
+    "DamageType": "Piercing",
+    "Source": "CRB",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Bleeding",
+    "Cost": 36000,
+    "Weight": 0,
+    "Source": "EoG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Blunt",
+    "Cost": 10,
+    "Weight": 2,
+    "DamageType": "Bludgeoning",
+    "Source": "APG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Durable",
+    "Cost": 100,
+    "Weight": 2,
+    "Source": "EoG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Dye",
+    "Cost": 100,
+    "Weight": 2,
+    "Source": "EoG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Flight",
+    "Cost": 10,
+    "Weight": 2,
+    "DamageType": "Piercing",
+    "Source": "APG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Lodestone",
+    "Cost": 1000,
+    "Weight": 2,
+    "Source": "EoG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Pheromone",
+    "Cost": 1500,
+    "Weight": 2,
+    "Source": "EoG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Raining",
+    "Cost": 3000,
+    "Weight": 2,
+    "Source": "EoG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Slow Burn",
+    "Cost": 15000,
+    "Weight": 2,
+    "Source": "EoG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Smoke",
+    "Cost": 1000,
+    "Weight": 2,
+    "DamageType": "Piercing",
+    "Source": "APG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Splintercloud",
+    "Cost": 2500,
+    "Weight": 2,
+    "Source": "EoG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Tanglefoot",
+    "Cost": 2000,
+    "Weight": 2,
+    "Source": "EoG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Thistle",
+    "Cost": 100,
+    "Weight": 2,
+    "DamageType": "Piercing",
+    "Source": "AA",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Trip",
+    "Cost": 2500,
+    "Weight": 2,
+    "Source": "EoG",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Arrow, Whistling",
+    "Cost": 10,
+    "Weight": 2,
+    "Source": "UC",
+    "AmmoType": "Arrow",
+    "Quantity": 1
+  },
+  {
+    "Name": "Crossbow Bolt",
+    "Cost": 20,
+    "Weight": 2,
+    "Source": "CRB",
+    "AmmoType": "Bolt",
+    "Quantity": 1
+  },
+  {
+    "Name": "Bolt, Crossbow",
+    "Cost": 10,
+    "Weight": 2,
+    "Source": "CRB",
+    "AmmoType": "Bolt",
+    "Quantity": 1
+  },
+  {
+    "Name": "Bolt, Acid",
+    "Cost": 4000,
+    "Weight": 2,
+    "Source": "AP15",
+    "AmmoType": "Bolt",
+    "Quantity": 1
+  },
+  {
+    "Name": "Bolt, Drow Poison",
+    "Cost": 10000,
+    "Weight": 2,
+    "Source": "AP15",
+    "AmmoType": "Bolt",
+    "Quantity": 1
+  },
+  {
+    "Name": "Bolt, Fire",
+    "Cost": 5000,
+    "Weight": 2,
+    "DamageType": "Fire",
+    "Source": "AP15",
+    "AmmoType": "Bolt",
+    "Quantity": 1
+  },
+  {
+    "Name": "Bullet, Groaning",
+    "Cost": 20,
+    "Weight": 0,
+    "Source": "AA",
+    "AmmoType": "Sling",
+    "Quantity": 1
+  },
+  {
+    "Name": "Bullet, Sling",
+    "Cost": 1,
+    "Weight": 0,
+    "Source": "CRB",
+    "AmmoType": "Sling",
+    "Quantity": 1
+  },
+  {
+    "Name": "Bullet, Smoke",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "PCS",
+    "AmmoType": "Sling",
+    "Quantity": 1
+  },
+  {
+    "Name": "Dart, Blowgun",
+    "Cost": 5,
+    "Weight": 1,
+    "Source": "CRB",
+    "AmmoType": "Dart",
+    "Quantity": 1
+  },
+  {
+    "Name": "Firearm Bullet",
+    "Cost": 100,
+    "Weight": 2,
+    "Source": "UC",
+    "AmmoType": "Bullet",
+    "Quantity": 1
+  },
+  {
+    "Name": "Alchemical cartridge, paper",
+    "Cost": 1200,
+    "Weight": 0,
+    "Source": "UC",
+    "AmmoType": "Bullet",
+    "Quantity": 1,
+    "Misfire": 1
+  },
+  {
+    "Name": "Alchemical cartridge, dragon’s breath",
+    "Cost": 1200,
+    "Weight": 0,
+    "Source": "UC",
+    "AmmoType": "Bullet",
+    "Quantity": 1,
+    "Misfire": 1
+  },
+  {
+    "Name": "Alchemical cartridge, flare",
+    "Cost": 1200,
+    "Weight": 0,
+    "Source": "UC",
+    "AmmoType": "Bullet",
+    "Quantity": 1,
+    "Misfire": 1
+  },
+  {
+    "Name": "Alchemical cartridge, salt shot",
+    "Cost": 1200,
+    "Weight": 0,
+    "Source": "UC",
+    "AmmoType": "Bullet",
+    "Quantity": 1,
+    "Misfire": 1
+  },
+  {
+    "Name": "Pellets",
+    "Cost": 300,
+    "Weight": 2,
+    "Source": "UC",
+    "AmmoType": "Bullet",
+    "Quantity": 1,
+    "Misfire": 30
+  },
+  {
+    "Name": "Bullet, adamantine",
+    "Cost": 6100,
+    "Weight": 0,
+    "Source": "UC",
+    "AmmoType": "Bullet",
+    "Quantity": 1,
+    "Special": "Adamantine"
+  }
+]

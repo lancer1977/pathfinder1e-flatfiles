@@ -1,0 +1,681 @@
+{
+  "generatedAt": "2026-05-20T22:50:32.395Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacySkillsFile": "/home/lancer1977/code/DataSeeds/pathfinder1e/skills.js",
+  "markdownCoverage": 23,
+  "totalRecords": 96,
+  "records": [
+    {
+      "name": "Architect",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Baker",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Brewer",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Butcher",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Clerk",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Barrister",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Cook",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Courtesan",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Driver",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Engineer",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Farmer",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Fisherman",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Librarian",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Innkeeper",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Herbalist",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Gardener",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Gambler",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Merchant",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Midwife",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Shepherd",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Miller",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Miner",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Porter",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Sailor",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Scribe",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Stable Master",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Soldier",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Tanner",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Trapper",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Woodcutter",
+      "markdownPath": null,
+      "categoryId": 2,
+      "stat": "Wisdom",
+      "trained": 0
+    },
+    {
+      "name": "Glass",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Jewelry",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Clothing",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Carpentry",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Calligraphy",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Bows",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Books",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Baskets",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Armor",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Alchemy",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Cloth",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Leather",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Locks",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Paintings",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Pottery",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Sculptures",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Shoes",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Ships",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Stonemasonry",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Traps",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Weapons",
+      "markdownPath": null,
+      "categoryId": 3,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Arcana",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Nature",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Local",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Engineering",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Geography",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Dungeoneering",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Wildspace",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Planetology",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Nobility",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Religion",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Planes",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "History",
+      "markdownPath": null,
+      "categoryId": 4,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Use Magic Device",
+      "markdownPath": "skills/useMagicDevice.md",
+      "categoryId": 1,
+      "stat": "Charisma",
+      "trained": 0
+    },
+    {
+      "name": "Act",
+      "markdownPath": null,
+      "categoryId": 5,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Comedy",
+      "markdownPath": null,
+      "categoryId": 5,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Dance",
+      "markdownPath": null,
+      "categoryId": 5,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Keyboard Instruments",
+      "markdownPath": null,
+      "categoryId": 5,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Oratory",
+      "markdownPath": null,
+      "categoryId": 5,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Percussion",
+      "markdownPath": null,
+      "categoryId": 5,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "String",
+      "markdownPath": null,
+      "categoryId": 5,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Wind",
+      "markdownPath": null,
+      "categoryId": 5,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Sing",
+      "markdownPath": null,
+      "categoryId": 5,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Wild Empathy",
+      "markdownPath": null,
+      "categoryId": 1,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Stealth",
+      "markdownPath": "skills/stealth.md",
+      "categoryId": 1,
+      "stat": "Dexterity",
+      "trained": 1
+    },
+    {
+      "name": "Disguise",
+      "markdownPath": "skills/disguise.md",
+      "categoryId": 1,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Sense Motive",
+      "markdownPath": "skills/senseMotive.md",
+      "categoryId": 1,
+      "stat": "Wisdom",
+      "trained": 1
+    },
+    {
+      "name": "Disable Device",
+      "markdownPath": "skills/disableDevice.md",
+      "categoryId": 1,
+      "stat": "Dexterity",
+      "trained": 0
+    },
+    {
+      "name": "Fly",
+      "markdownPath": "skills/fly.md",
+      "categoryId": 1,
+      "stat": "Dexterity",
+      "trained": 1
+    },
+    {
+      "name": "Ride",
+      "markdownPath": "skills/ride.md",
+      "categoryId": 1,
+      "stat": "Dexterity",
+      "trained": 1
+    },
+    {
+      "name": "Climb",
+      "markdownPath": "skills/climb.md",
+      "categoryId": 1,
+      "stat": "Strength",
+      "trained": 1
+    },
+    {
+      "name": "Survival",
+      "markdownPath": "skills/survival.md",
+      "categoryId": 1,
+      "stat": "Wisdom",
+      "trained": 1
+    },
+    {
+      "name": "Heal",
+      "markdownPath": "skills/heal.md",
+      "categoryId": 1,
+      "stat": "Wisdom",
+      "trained": 1
+    },
+    {
+      "name": "Spellcraft",
+      "markdownPath": "skills/spellcraft.md",
+      "categoryId": 1,
+      "stat": "Intelligence",
+      "trained": 0
+    },
+    {
+      "name": "Linguistics",
+      "markdownPath": "skills/linguistics.md",
+      "categoryId": 1,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Handle Animal",
+      "markdownPath": "skills/handleAnimal.md",
+      "categoryId": 1,
+      "stat": "Charisma",
+      "trained": 0
+    },
+    {
+      "name": "Appraise",
+      "markdownPath": "skills/appraise.md",
+      "categoryId": 1,
+      "stat": "Intelligence",
+      "trained": 1
+    },
+    {
+      "name": "Acrobatics",
+      "markdownPath": "skills/acrobatics.md",
+      "categoryId": 1,
+      "stat": "Dexterity",
+      "trained": 1
+    },
+    {
+      "name": "Intimidate",
+      "markdownPath": "skills/intimidate.md",
+      "categoryId": 1,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Diplomacy",
+      "markdownPath": "skills/diplomacy.md",
+      "categoryId": 1,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Swim",
+      "markdownPath": "skills/swim.md",
+      "categoryId": 1,
+      "stat": "Strength",
+      "trained": 1
+    },
+    {
+      "name": "Bluff",
+      "markdownPath": "skills/bluff.md",
+      "categoryId": 1,
+      "stat": "Charisma",
+      "trained": 1
+    },
+    {
+      "name": "Perception",
+      "markdownPath": "skills/perception.md",
+      "categoryId": 1,
+      "stat": "Wisdom",
+      "trained": 1
+    },
+    {
+      "name": "Sleight Of Hand",
+      "markdownPath": "skills/sleightOfHand.md",
+      "categoryId": 1,
+      "stat": "Dexterity",
+      "trained": 1
+    },
+    {
+      "name": "Escape Artist",
+      "markdownPath": "skills/escapeArtist.md",
+      "categoryId": 1,
+      "stat": "Dexterity",
+      "trained": 1
+    },
+    {
+      "name": "Perform",
+      "markdownPath": "skills/perform.md",
+      "categoryId": 1,
+      "stat": "Charisma",
+      "trained": 1
+    }
+  ]
+}

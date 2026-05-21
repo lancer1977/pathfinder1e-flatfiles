@@ -1,0 +1,2321 @@
+[
+  {
+    "Type": "Bloodline",
+    "Name": "Aquatic",
+    "Skill": "Swim",
+    "Spells": "Hydraulic Push#Slipstream#Aqueous Orb#Geyser#Control Water#Beast Shape IV#Summon Monster VII#Seamantle#World Wave",
+    "Power": "Whenever you cast a spell of the water type, your effective caster level is increased by one, and summoned creatures with a swim speed or the aquatic or water type gain a +1 morale bonus on attack and damage rolls",
+    "Power1": "Dehydrating Touch",
+    "Power2": "Aquatic Adaptation",
+    "Power3": "Aquatic Telepathy",
+    "Power4": "Raise the Deep",
+    "Power5": "Deep One",
+    "Feat": "Athletic, Brew Potion, Defensive Combat Training, Dodge, Mobility, Silent Spell, Skill Focus (Swim), Toughness",
+    "Description": "Your family traces its heritage back to the ocean depths, whether scions of undersea empires left in the wake of nomadic sea-tribes, or the spawn of creeping ichthyic infiltrators into remote seaside villages. The song of the sea hums in your blood, calling the waves and all those within to your command"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Boreal",
+    "Skill": "Survival",
+    "Spells": "Enlarge Person#Rage#Elemental Aura #Wall Of Ice#Cone Of Cold#Transformation#Giant Form I#Polar Ray#Meteor Swarm",
+    "Power": "Whenever you cast a spell with the cold descriptor, increase the spell’s save DC by 1",
+    "Power1": "Cold Steel",
+    "Power2": "Icewalker",
+    "Power3": "Snow Shroud",
+    "Power4": "Blizzard",
+    "Power5": "Child of Ancient Winters",
+    "Feat": "Arcane Strike, Diehard, Empower Spell, Endurance, Exotic Weapon Proficiency, Power Attack, Skill Focus (Intimidate), Toughness",
+    "Description": "Descended from inhabitants of the lands of ice and snow, you count among your ancestors giant-kin, troll-born, and frost-rimed spirits. Their savage and raw energies flow down through generations to infuse you to the marrow with the chill of the polar wind, crackling auroras, and the long winter’s night"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Orc",
+    "Skill": "Survival",
+    "Spells": "Burning Hands#Bull’s Strength#Rage#Wall Of Fire#Cloudkill#Transformation#Delayed Blast Fireball#Iron Body#Meteor Swarm",
+    "Power": "You gain the orc subtype, including darkvision 60 feet and light sensitivity. If you already have darkvision, its range increases to 90 feet. Whenever you cast a spell that deals damage, that spell deals +1 point of damage per die rolled",
+    "Power1": "Touch of Rage",
+    "Power2": "Fearless",
+    "Power3": "Strength of the Beast",
+    "Power4": "Power of Giants",
+    "Power5": "Warlord Reborn",
+    "Feat": "Diehard, Endurance, Great Fortitude, Intimidating Prowess, Improved Overrun, Power Attack, Toughness, Widen Spell",
+    "Description": "The rage of your ancestors burns within you, and the taint of savage orc blood flows through your veins. Your anger is never far from the surface, giving you strength and driving you to seek greater power"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Shadow",
+    "Skill": "Stealth",
+    "Spells": "Ray Of Enfeeblement#Darkvision#Deeper Darkness#Shadow Conjuration#Shadow Evocation#Shadow Walk#Power Word Blind#Greater Shadow Evocation#Shades",
+    "Power": "Whenever you cast a spell with the [darkness] descriptor or the shadow subschool, you gain a circumstance bonus on Stealth checks equal to the spell’s level for 1d4 rounds",
+    "Power1": "Shadowstrike",
+    "Power2": "Nighteye",
+    "Power3": "Shadow Well",
+    "Power4": "Enveloping Darkness",
+    "Power5": "Shadow Master",
+    "Feat": "Acrobatic, Blind-Fight, Dodge, Quick Draw, Silent Spell, Skill Focus (Stealth), Stealthy, Weapon Finesse",
+    "Description": "Spirits from the shadow plane dally at times in the world of light, and such as these lay with your ancestors once upon a time, imparting the mystery of shadow-stuff into your lineage. You are often sullen and withdrawn, preferring to skulk at the fringes of social circles and keep to yourself, cultivating an air of mystery and majesty that is all your own"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Dreamspun",
+    "Skill": "Sense Motive",
+    "Spells": "Sleep#Augury#Deep Slumber#Divination#Dream#Shadow Walk#Vision#Moment Of Prescience#Astral Projection",
+    "Power": "Whenever you target a single creature with a spell, you gain an insight bonus equal to half the spell’s level (minimum +1) for 1 round to your AC and saving throws against any spell or attack made by that creature",
+    "Power1": "Lullaby",
+    "Power2": "Combat Precognition",
+    "Power3": "Dreamshaper",
+    "Power4": "Eye of Somnus",
+    "Power5": "Solipsism",
+    "Feat": "Alertness, Blind-Fight, Combat Expertise, Deceitful, Heighten Spell, Improved Feint, Persuasive, Skill Focus (Sense Motive",
+    "Description": "Your family is a long line of dreamers, who dream not as ordinary mortals do but rather as those who reach through and touch the supernal realm of dreams and the farthest shores of night. Whether it is a gift or curse is not always clear, but your visions of the past and future call you ineluctably to a life of adventure"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Undead",
+    "Skill": "Religion",
+    "Spells": "Chill Touch#False Life#Vampiric Touch#Animate Dead#Waves Of Fatigue#Undeath To Death#Finger Of Death#Horrid Wilting#Energy Drain",
+    "Power": "Some undead are susceptible to your mind-affecting spells. Corporeal undead that were once humanoids are treated as humanoids for the purposes of determining which spells affect them",
+    "Power1": "Grave Touch",
+    "Power2": "Death's Gift",
+    "Power3": "Grasp of the Dead",
+    "Power4": "Incorporeal Form",
+    "Power5": "One of Us",
+    "Feat": "Combat Casting, Diehard, Endurance, Iron Will, Skill Focus Religion, Spell Focus, Still Spell, Toughness",
+    "Description": "The taint of the grave runs through your family. Perhaps one of your ancestors became a powerful lich or vampire, or maybe you were born dead before suddenly returning to life. Either way, the forces of death move through you and touch your every action"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Abyssal",
+    "Skill": "Planes",
+    "Spells": "Cause Fear#Bull's Strength#Rage#Stoneskin#Dismissal#Transformation#Greater Teleport#Unholy Aura#Summon Monster IX",
+    "Power": "Whenever you cast a spell of the summoning subschool, the creatures summoned gain DR/good equal to 1/2 your sorcerer level (minimum 1). This does not stack with any DR the creature might have",
+    "Power1": "Claws",
+    "Power2": "Demon Resistances",
+    "Power3": "Strength of the Abyss",
+    "Power4": "Added Summonings",
+    "Power5": "Demonic Might",
+    "Feat": "Augment Summoning, Cleave, Empower Spell, Great Fortitude, Improved Bull Rush, Improved Sunder, Power Attack, Skill Focus (Knowledge [planes]",
+    "Description": "Generations ago, a demon spread its filth into your heritage. While it does not manifest in all of your kin, for you it is particularly strong. You might sometimes have urges to chaos or evil, but your destiny (and alignment) is up to you"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Djinni",
+    "Skill": "Planes",
+    "Spells": "Shocking Grasp#Invisibility#Fly#Minor Creation#Overland Flight#Chain Lightning#Plane Shift#Greater Planar Binding#Wish",
+    "Power": "Whenever you cast a spell that deals energy damage, you can change the type of damage to electricity. This also changes the spell’s descriptors to match this energy type",
+    "Power1": "Electricity Ray",
+    "Power2": "Elemental Resistance",
+    "Power3": "Whirlwind",
+    "Power4": "Elemental Movement",
+    "Power5": "Power of the Djinn",
+    "Feat": "Dodge, Empower Spell, Great Fortitude, Improved Initiative, Lightning Reflexes, Power Attack, Skill Focus Planes, Weapon Finesse",
+    "Description": "You were born with the power of air genies, and the magic of the djinn is strong in you"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Efreeti",
+    "Skill": "Planes",
+    "Spells": "Enlarge Person#Scorching Ray#Fireball#Wall Of Fire#Persistent Image#Planar Binding#Plane Shift#Giant Form II#Wish",
+    "Power": "Whenever you cast a spell that deals energy damage, you can change the type of damage to fire. This also changes the spell’s descriptors to match this energy type",
+    "Power1": "Fire Ray",
+    "Power2": "Elemental Resistance",
+    "Power3": "Efreeti Form",
+    "Power4": "Elemental Movement",
+    "Power5": "Power of the Efreet",
+    "Feat": "Dodge, Empower Spell, Great Fortitude, Improved Initiative, Lightning Reflexes, Power Attack, Skill Focus Planes, Weapon Finesse",
+    "Description": "You were born with the power of fire genies, and the magic of the efreet is strong in you"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Elemental",
+    "Skill": "Planes",
+    "Spells": "Burning Hands#Scorching Ray#Protection From Energy#Elemental Body I#Elemental Body II#Elemental Body III#Elemental Body IV#Summon Monster VIII #Elemental Swarm",
+    "Power1": "Bloodline Powers",
+    "Power2": "Elemental Ray",
+    "Power3": "Elemental Resistance",
+    "Power4": "Elemental Blast",
+    "Power5": "Elemental Movement",
+    "Feat": "Dodge, Empower Spell, Great Fortitude, Improved Initiative, Lightning Reflexes, Power Attack, Skill Focus Planes, Weapon Finesse",
+    "Description": "The power of the elements resides in you, and at times you can hardly control its fury. This influence comes from an elemental outsider in your family history or a time when you or your relatives were exposed to a powerful elemental force"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Marid",
+    "Skill": "Planes",
+    "Spells": "Obscuring Mist#See Invisibility#Gaseous Form#Wall Of Ice#Persistent Image#Elemental Body III#Plane Shift#Polar Ray#Wish",
+    "Power": "Whenever you cast a spell that deals energy damage, you can change the type of damage to cold. This also changes the spell’s descriptors to match this energy type",
+    "Power1": "Frost Ray",
+    "Power2": "Elemental Resistance",
+    "Power3": "Water’s Fury",
+    "Power4": "Elemental Movement",
+    "Power5": "Power of the Marid",
+    "Feat": "Dodge, Empower Spell, Great Fortitude, Improved Initiative, Lightning Reflexes, Power Attack, Skill Focus Planes, Weapon Finesse",
+    "Description": "You were born with the power of water genies, and the magic of the marids is strong in you"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Shaitan",
+    "Skill": "Planes",
+    "Spells": "True Strike#Glitterdust#Greater Magic Weapon#Stoneskin#Wall Of Stone#Wall Of Iron#Plane Shift#Iron Body#Wish",
+    "Power": "Whenever you cast a spell that deals energy damage, you can change the type of damage to acid. This effect also changes the spell’s descriptors to match this energy type",
+    "Power1": "Acid Ray",
+    "Power2": "Elemental Resistance",
+    "Power3": "Avalanche",
+    "Power4": "Elemental Movement",
+    "Power5": "Power of the Shaitan",
+    "Feat": "Dodge, Empower Spell, Great Fortitude, Improved Initiative, Lightning Reflexes, Power Attack, Skill Focus Planes, Weapon Finesse",
+    "Description": "You were born with the power of earth genies, and the magic of the shaitans is strong in you"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Protean",
+    "Skill": "Planes",
+    "Spells": "Entropic Shield#Blur#Gaseos Form#Confusion#Major creation#Disintegrate#Greater Polymorph#Polymorph Any Object#Shapechange",
+    "Power": "Your magic of creation and changing is hard to unravel. The DC to dispel transmutation or conjuration (creation) spells that you cast is increased by +4.",
+    "Power1": "Protoplasm",
+    "Power2": "Protean Resistances",
+    "Power3": "Wrinkle",
+    "Power4": "Spatial Tear",
+    "Power5": "Avatar of Chaos",
+    "Feat": "Agile Maneuvers#Defensive Combat Training#Enlarge Spell#Great Fortitude#Improved Great Fortitude#Skill Focus:Craft#Spell Focus#Toughness",
+    "Description": "You have in your veins the ever-changing wildness of primal chaos, the raw essence of unbound creation. Your mind and spirit burst with the constant inspiration of consummate freedom, though you have difficulty following through on a task when another, new and exciting, catches your interest."
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Maestro",
+    "Skill": "Perform",
+    "Spells": "Ventriloquism#Hideous Laughter#Suggestion#Shout#Dominate Person#Mass Suggestion#Power Word Blind#Greater Shout#Wail Of The Banshee",
+    "Power": "Whenever you cast a spell with a verbal component and no somatic or material component, you treat your caster level as if it were one higher",
+    "Power1": "Beguiling Voice",
+    "Power2": "Fascinate",
+    "Power3": "Perfect Voice",
+    "Power4": "Inspire",
+    "Power5": "Grand Maestro",
+    "Feat": "Deceitful, Greater Spell Focus (enchantment), Lingering Performance, Persuasive, Skill Focus (Perform), Spell Focus (enchantment), Spellsong, Still Spell",
+    "Description": "The spiritual power of art and song runs strongly through your family line. This may be the result of ancient pacts made with azata patrons, or even an inheritance from a lillend or trumpet archon ancestor. It could also be the lingering taint of a less savory heritage, such as from a harpy or a forefather driven to madness by the disquieting gibbering of a shoggoth. However it came to be, your family’s artistic bent shows itself strongly in your magic"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Accursed",
+    "Skill": "Perception",
+    "Spells": "Ray Of Enfeeblement#Touch Of Idiocy#Ray Of Exhaustion#Bestow Curse#Feeblemind#Eyebite#Insanity#Dimensional Lock#Energy Drain",
+    "Power": "You count as a hag for the purpose of joining a hag’s coven. The coven must contain at least one hag. In addition, whenever you are within 30 feet of another sorcerer with this bloodline or a witch with the coven hex, you can use the aid another action to",
+    "Power1": "Horrific Visage",
+    "Power2": "Wretched Endurance",
+    "Power3": "Dread Gaze",
+    "Power4": "Dream Walking",
+    "Power5": "Fearsome Survival",
+    "Feat": "Alertness, Blind-Fight, Combat Casting, Deceitful, Defensive Combat Training, Endurance, Great Fortitude, Mounted Combat",
+    "Description": "Misfortune, pestilence, and nightmares follow your family like vermin drawn to carrion. Somewhere in your family history, a hag’s foul influence entered your bloodline. You may actually be related to the hag, or you may still be suffering the effects of a curse that a hag laid upon your kin in generations past. Now the hag’s powers are part of your heritage"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Draconic",
+    "Skill": "Perception",
+    "Spells": "Mage Armor#Resist Energy#Fly#Fear#Spell Resistance#Form Of The Dragon I#Form Of The Dragon II#Form Of The Dragon III#Wish",
+    "Power": "Whenever you cast a spell with an energy descriptor that matches your draconic bloodline's energy type, that spell deals +1 point of damage per die rolled",
+    "Power1": "Claws",
+    "Power2": "Dragon Resistances",
+    "Power3": "Breath Weapon",
+    "Power4": "Wings",
+    "Power5": "Power of Wyrms",
+    "Feat": "Blind-Fight, Great Fortitude, Improved Initiative, Power Attack, Quicken Spell, Skill Focus (Fly), Skill Focus (Knowledge [arcana]), Toughness",
+    "Description": "At some point in your family's history, a dragon interbred with your bloodline, and now its ancient power flows through your veins"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Fey",
+    "Skill": "Nature",
+    "Spells": "Entangle#Hideous Laughter#Deep Slumber#Poison#Tree Stride#Mislead#Phase Door#Irresistible Dance#Shapechange",
+    "Power": "Whenever you cast a spell of the compulsion subschool, increase the spell's DC by +2",
+    "Power1": "Laughing Touch",
+    "Power2": "Woodland Stride",
+    "Power3": "Fleeting Glance",
+    "Power4": "Fey Magic",
+    "Power5": "Soul of the Fey",
+    "Feat": "Dodge, Improved Initiative, Lightning Reflexes, Mobility, Point Blank Shot, Precise Shot, Quicken Spell, Skill Focus (Knowledge Nature",
+    "Description": "The capricious nature of the fey runs in your family due to some intermingling of fey blood or magic. You are more emotional than most, prone to bouts of joy and rage"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Starsoul",
+    "Skill": "Nature",
+    "Spells": "Unseen Servant#Glitterdust#Blink#Call Lightning Storm#Overland Flight#Repulsion#Reverse Gravity#Greater Prying Eyes#Meteor Swarm",
+    "Power": "Whenever you cast an evocation spell, targets that fail their saves are dazzled by tiny sparkling starlights for 1 round per level of the spell",
+    "Power1": "Minute Meteors",
+    "Power2": "Voidwalker",
+    "Power3": "Aurora Borealis",
+    "Power4": "Breaching the Gulf",
+    "Power5": "Starborn",
+    "Feat": "Blind-Fight, Craft Rod, Dodge, Endurance, Improved Counterspell, Improved Iron Will, Iron Will, Quicken Spell, Skill Focus (Perception), Toughness",
+    "Description": "You come from a line of stargazers and explorers who delved deeply into the darkness beyond the stars. In touching the void, the void touched them, and your mind, spirit, and body yearn to span the gulf between worlds"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Stormborn",
+    "Skill": "Nature",
+    "Spells": "Shocking Grasp#Gust Of Wind#Lightning Bolt#Shout#Overland Flight#Chain Lightning#Control Weather#Whirlwind#Storm Of Vengeance",
+    "Power": "Whenever you cast a spell with the [electricity] or [sonic] descriptor, increase the save DC by 1",
+    "Power1": "Thunderstaff",
+    "Power2": "Stormchild",
+    "Power3": "Thunderbolt",
+    "Power4": "Ride the Lightning",
+    "Power5": "Storm Lord",
+    "Feat": "Deadly Aim, Dodge, Enlarge Spell, Far Shot, Great Fortitude, Point Blank Shot, Skill Focus (Fly), Wind Stance",
+    "Description": "You trace your heritage to fierce and proud spirits of storm and sky, and living lightning sings in your veins"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Verdant",
+    "Skill": "Nature",
+    "Spells": "Entangle#Barkskin#Speak With Plants#Command Plants#Wall Of Thorns#Transport Via Plants#Plant Shape III#Animate Plants#Shambler",
+    "Power": "Whenever you cast a spell with a range of personal, your skin toughens, granting you a natural armor bonus equal to the spell’s level for 1d4 rounds. This bonus does not stack with any other natural armor bonuses you might have",
+    "Power1": "Tanglevine",
+    "Power2": "Photosynthesis",
+    "Power3": "Massmorph",
+    "Power4": "Rooting",
+    "Power5": "Shepherd of the Trees",
+    "Feat": "Acrobatic Steps, Craft Staff, Endurance, Extend Spell, Fleet, Nimble Moves, Skill Focus (Knowledge Nature), Toughness",
+    "Description": "Your progenitors infused themselves with raw plant life, binding it into their own tissue and passing it down to their literal seed, giving you innate communion with nature"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Oni",
+    "Skill": "Intimidate",
+    "Spells": "ray of enfeeblement, invisibility, fly, charm monster, cone of cold, greater dispel magic, waves of exhaustion, trap the soul), dominate monster",
+    "Power": "y",
+    "Power1": "Bloodline Powers",
+    "Power2": "Touch of Agony",
+    "Power3": "Altered Form",
+    "Power4": "Windborne",
+    "Power5": "Oni Healing",
+    "Feat": "Combat Expertise, Combat Reflexes, Enforcer, Fast Healer, Improved Initiative, Iron Will, Power Attack, Skill Focus (Intimidate), Weapon Proficiency (katana)",
+    "Description": "As slaves of capricious oni lords, your ancestors were forced to yield to their masters’ hedonistic desires, inevitably tainting their descendents with oni blood. Now, you wield the powers of the oni thanks to your vile heritage"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Destined",
+    "Skill": "History",
+    "Spells": "Alarm#Blur#Protection From Energy#Freedom Of Movement#Break Enchantment#Mislead#Spell Turning#Moment Of Prescience#Foresight",
+    "Power": "Whenever you cast a spell with a range of “personal,” you gain a luck bonus equal to the spell's level on all your saving throws for 1 round",
+    "Power1": "Touch of Destiny",
+    "Power2": "Fated",
+    "Power3": "It Was Meant To Be",
+    "Power4": "Within Reach",
+    "Power5": "Destiny Realized",
+    "Feat": "Arcane Strike, Diehard, Endurance, Leadership, Lightning Reflexes, Maximize Spell, Skill Focus (Knowledge [history]), Weapon Focus",
+    "Description": "Your family is destined for greatness in some way. Your birth could have been foretold in prophecy, or perhaps it occurred during an especially auspicious event, such as a solar eclipse. Regardless of your bloodline's origin, you have a great future ahead"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Celestial",
+    "Skill": "Heal",
+    "Spells": "Bless#Resist Energy#Magic Circle Against Evil#Remove Curse#Flame Strike#Greater Dispel Magic#Banishment#Sunburst#Gate",
+    "Power": "Whenever you cast a spell of the summoning subschool, the creatures summoned gain DR/evil equal to 1/2 your sorcerer level (minimum 1). This does not stack with any DR the creature might have",
+    "Power1": "Heavenly Fire",
+    "Power2": "Celestial Resistances",
+    "Power3": "Wings of Heaven",
+    "Power4": "Conviction",
+    "Power5": "Ascension",
+    "Feat": "Dodge, Extend Spell, Iron Will, Mobility, Mounted Combat, Ride-By Attack, Skill Focus Religion, Weapon Finesse",
+    "Description": "Your bloodline is blessed by a celestial power, either from a celestial ancestor or through divine intervention. Although this power drives you along the path of good, your fate (and alignment) is your own to determine"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Daemon",
+    "Skill": "Heal",
+    "Spells": "Ray Of Enfeeblement#Touch Of Idiocy#Vampiric Touch#Contagion#Blight#Circle Of Death#Waves Of Exhaustion#Horrid Wilting#Soul Bind",
+    "Power": "Whenever you cast a spell that kills one or more living creatures with an Intelligence score of 3 or higher, the caster level of any spell you cast in the next round increases by +1 for each creature your first spell killed. This ability does not stack wi",
+    "Power1": "Wasting Ray (Sp)",
+    "Power2": "At 1st level, as a standard action, you can impose either starvation or thirst upon a living creature you can see within 30 feet. This requires the creature to make a Constitution check each round (DC 10 + 1 for each previous check) to avoid taking 1d6 po",
+    "Power3": "Daemonic Resistances (Ex)",
+    "Power4": "At 3rd level, you gain resist acid 5 and a +2 bonus on saving throws made against poison and death effects. At 9th level, your resistance to acid increases to 10 and your bonus on saving throws against poison and death effects increases to +4",
+    "Power5": "Age Out (Su)",
+    "Feat": "Diehard, Endurance, Fast Healer, Great Fortitude, Heroic Defiance, Heroic Recovery, Sickening Spell, Toughness",
+    "Description": "A daemon lurks somewhere along your family tree. Your powers derive from these soul-devouring fiends, who take pleasure and gain power from manipulating mortal frailties like aging, pestilence, famine, and the horrors of war. Your lineage gives you great insight into how to exploit the weaknesses of living beings and how to use leeched soul energy to enhance your wicked abilities"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Pestilence",
+    "Skill": "Heal",
+    "Spells": "charm animal, summon swarm, contagion, repel vermin, insect plague, eyebite, creeping doom, horrid wilting, power word kill",
+    "Power": "Vermin are susceptible to your mind-affecting spells. They are treated as animals for the purposes of determining which mind-affecting spells affect them.",
+    "Power1": "Plague’s Caress",
+    "Power2": "Accustomed to Awfulness",
+    "Power3": "Shroud of Vermin",
+    "Power4": "Pestilential Breath",
+    "Power5": "Plague Carrier",
+    "Feat": "Brew Potion, Diehard, Endurance, Great Fortitude, Self-Sufficient, Skill Focus (Knowledge Nature), Silent Spell, Toughness",
+    "Description": "You were born during the height of a great magical plague, to a mother suffering from an eldritch disease, or you suffered an eldritch pox as a child, such that your very soul now carries a blight of pestilence within it"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Aberrant",
+    "Skill": "Dungeoneering",
+    "Spells": "Enlarge Person#See Invisibility#Tongues#Black Tentacles#Feeblemind#Veil#Plane Shift#Mind Blank#Shapechange",
+    "Power": "Whenever you cast a spell of the polymorph subschool, increase the duration of the spell by 50% (minimum 1 round). This bonus does not stack with the increase granted by the Extend Spell feat",
+    "Power1": "Acidic Ray",
+    "Power2": "Long Limbs",
+    "Power3": "Unusual Anatomy",
+    "Power4": "Alien Resistance",
+    "Power5": "Aberrant Form",
+    "Feat": "Combat Casting, Improved Disarm, Improved Grapple, Improved Initiative, Improved Unarmed Strike, Iron Will, Silent Spell, Skill Focus (Knowledge [dungeoneering]",
+    "Description": "There is a taint in your blood, one that is alien and bizarre. You tend to think in odd ways, approaching problems from an angle that most would not expect. Over time, this taint manifests itself in your physical form"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Deep Earth",
+    "Skill": "Dungeoneering",
+    "Spells": "Expeditious Excavation#Darkvision#Shifting Sand#Stoneskin#Spike Stones#Stone Tell#Repel Metal Or Stone#Earthquake#Clashing Rocks",
+    "Power": "Whenever you and the target of your spell are both underground, increase the spell’s save DC by +1",
+    "Power1": "Tremor",
+    "Power2": "Rockseer",
+    "Power3": "Crystal Shard",
+    "Power4": "Earth Glide",
+    "Power5": "Strength of Stone",
+    "Feat": "Acrobatic Steps, Alertness, Blind-Fight, Forge Ring, Nimble Moves, Skill Focus (Perception), Stealthy, Still Spell",
+    "Description": "The echoing cave-songs and the rumble and creak of primal spirits deep below the ground thrum in your soul and in all your family line. You are likely slow, steady, and stable in your thinking, little prone to wandering and preferring to instead find depth in contemplation"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Rakshasa",
+    "Skill": "Disguise",
+    "Spells": "Charm Person#Invisibility#Suggestion#Detect Scrying#Prying Eyes#Mass Suggestion#Greater Polymorph#Mind Blank#Dominate Monster",
+    "Power": "Add half your sorcerer level to the Spellcraft DC for others to identify spells you cast. If their checks fail by 5 or more, they mistakenly believe you are casting an entirely different spell (selected by you when you begin casting",
+    "Power1": "Silver Tongue",
+    "Power2": "Mind Reader",
+    "Power3": "Hide Aura",
+    "Power4": "Alter Self",
+    "Power5": "Outsider",
+    "Feat": "Arcane Armor Mastery, Arcane Armor Training, Deceitful, Detect Expertise, Empower Spell, Light Armor Proficiency, Martial Weapon Proficiency, Stealthy",
+    "Description": "At some point in your family’s history, one of your ancestors was tainted by the influence of a rakshasa. Though most of your family seem entirely normal, you have always felt your own skin is a prison from which magic allows you to escape. Your birthright is a secret you may be forced to keep from societies that would never deal with you if your heritage were known"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Infernal",
+    "Skill": "Diplomacy",
+    "Spells": "Protection From Good#Scorching Ray#Suggestion#Charm Monster#Dominate Person#Planar Binding #Greater Teleport#Power Word Stun#Meteor Swarm",
+    "Power": "Whenever you cast a spell of the charm subschool, increase the spell's DC by +2",
+    "Power1": "Corrupting Touch",
+    "Power2": "Infernal Resistances",
+    "Power3": "Hellfire",
+    "Power4": "On Dark Wings",
+    "Power5": "Power of the Pit",
+    "Feat": "Blind-Fight, Combat Expertise, Deceitful, Extend Spell, Improved Disarm, Iron Will, Skill Focus Planes, Spell Penetration",
+    "Description": "Somewhere in your family's history, a relative made a deal with a devil, and that pact has influenced your family line ever since. In you, it manifests in direct and obvious ways, granting you powers and abilities. While your fate is still your own, you can't help but wonder if your ultimate reward is bound to the Pit"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Serpentine",
+    "Skill": "Diplomacy",
+    "Spells": "Hypnotism#Delay Poison#Summon Monster III #Poison#Hold Monster#Mass Suggestion#Summon Monster VII #Irresistible Dance#Dominate Monster",
+    "Power": "Your powers of compulsion can affect even bestial creatures. Whenever you cast a mind-affecting or language-dependent spell, it affects animals, magical beasts, and monstrous humanoids as if they were humanoids who understood your language",
+    "Power1": "Serpent’s Fang",
+    "Power2": "Serpentfriend",
+    "Power3": "Snakeskin",
+    "Power4": "Den of Vipers",
+    "Power5": "Scaled Soul",
+    "Feat": "Combat Casting, Combat Reflexes, Deceitful, Deft Hands, Persuasive, Silent Spell, Skill Focus (Bluff ), Stealthy",
+    "Description": "Your bloodline carries the lingering stain of ancient serpent races that ruled when the world was young; your forebears were likely favored slaves anointed by their reptilian masters and gifted with their cold cunning and subtle manipulation. While deception and a mesmeric charm are your birthright, you may struggle for truth in spite of your heritage"
+  },
+  {
+    "Type": "Bloodline",
+    "Name": "Arcane",
+    "Skill": "Any One",
+    "Spells": "Identify#Invisibility#Dispel Magic#Dimension Door#Overland Flight#True Seeing#Greater Teleport#Power Word Stun#Wish",
+    "Power": "Whenever you apply a metamagic feat to a spell that increases the slot used by at least one level, increase the spell's DC by +1. This bonus does not stack with itself and does not apply to spells modified by the Heighten Spell feat",
+    "Power1": "Arcane Bond",
+    "Power2": "Metamagic Adept",
+    "Power3": "New Arcana",
+    "Power4": "School Power",
+    "Power5": "Arcane Apotheosis",
+    "Feat": "Combat Casting, Improved Counterspell, Improved Initiative, Iron Will, Scribe Scroll, Skill Focus (Knowledge [arcana]), Spell Focus, Still Spell",
+    "Description": "Your family has always been skilled in the eldritch art of magic. While many of your relatives were accomplished wizards, your powers developed without the need for study and practice"
+  },
+  {
+    "Type": "Bloodrage",
+    "Name": "Aberrant",
+    "Spells": "Enlarge Person#See Invisibility#Displacement#Black Tentacles",
+    "Power": "While bloodraging, you show the signs of our tainted heritage, and gain the abilities and immunities of some aberrations.",
+    "Power1": "Staggering Strike",
+    "Power2": "Abnormal Reach",
+    "Power3": "Aberrant Fortitude",
+    "Power4": "Unusual Anatomy",
+    "Power5": "Aberrant Form",
+    "Feat": "Combat Reflexes#Great Fortitude#Improved Disarm#Improved Grapple#Improved Initiative#Improved Unarmed Strike#Iron Will",
+    "Description": "There is a taint in your blood that is both alien and bizarre. When you bloodrage, your taint manifests in peculiar and terrifying ways."
+  },
+  {
+    "Type": "Bloodrage",
+    "Name": "Abyssal",
+    "Spells": "Cause Fear#Bull’s Strength#Rage#Stoneskin",
+    "Power": "The power of the Abyss courses through your veins, causing horrific transformations during your bloodrage.",
+    "Power1": "Claws",
+    "Power2": "Demonic Bulk",
+    "Power3": "Demon Resistances",
+    "Power4": "Abyssal Bloodrage",
+    "Power5": "Demonic Aura",
+    "Feat": "Cleave#Great Fortitude#Improved Bull Rush#Improved Sunder#Intimidating Prowess#Power Attack#Toughness",
+    "Description": "Generations ago, a demon spread its filth into the essence of your bloodline. While it doesn’t manifest in all of your kin, in those moments when you’re bloodraging, you embody it to terrifying ends."
+  },
+  {
+    "Type": "Bloodrage",
+    "Name": "Arcane",
+    "Spells": "Magic Missile#Invisibility#Lightning Bolt#Dimension Door",
+    "Power": "When you bloodrage, arcane power transforms you into an arcane juggernaut who can cut down even the most careful caster.",
+    "Power1": "Disruptive Bloodrage",
+    "Power2": "Arcane Bloodrage",
+    "Power3": "Greater Arcane Bloodrage",
+    "Power4": "True Arcane Bloodrage",
+    "Power5": "Caster’s Bane",
+    "Feat": "Combat Ref lexes#Disruptive*#Improved Initiative#Iron Will#Power Attack#Quick Draw#Spellbreaker",
+    "Description": "While others of your kin are powerful wizards and sorcerers, the eldritch nature of the blood coursing through your veins transforms you into a spell-breaking terror."
+  },
+  {
+    "Type": "Bloodrage",
+    "Name": "Celestial",
+    "Spells": "Bless#Resist Energy#Heroism#Holy Smite",
+    "Power": "Your bloodline grants a number of resistances and changes your form to something angelic and terrible when you bloodrage.",
+    "Power1": "Angelic Attacks",
+    "Power2": "Celestial Resistances",
+    "Power3": "Wings of Heaven",
+    "Power4": "Angelic Protection",
+    "Power5": "Ascension",
+    "Feat": "Dodge#Improved Initiative#Iron Will#Mobility#Mounted Combat#Ride-By Attack#Weapon Focus",
+    "Description": "By way of either a celestial ancestor or due to divine intervention, the blood of angels runs though the veins of you and your kin. It grants majestic powers when you bloodrage."
+  },
+  {
+    "Type": "Bloodrage",
+    "Name": "Destined",
+    "Spells": "Shield#Blur#Protection From Energy#Freedom Of Movement",
+    "Power": "Your future is greatness, and the powers that you gain prove it to your enemies.",
+    "Power1": "Destined Strike",
+    "Power2": "Fated Bloodrager",
+    "Power3": "Certain Strike",
+    "Power4": "Fate’s Intervention",
+    "Power5": "Victory or Death",
+    "Feat": "Diehard#Endurance#Improved Initiative#Intimidating Prowess#Leadership#Lightning Ref lexes#Weapon Focus",
+    "Description": "Your bloodline is destined for great things. And when you bloodrage, you exude a greatness that makes all but mythic creatures seem lesser."
+  },
+  {
+    "Type": "Bloodrage",
+    "Name": "Draconic",
+    "Spells": "Shield#Resist Energy#FLy#Fear",
+    "Power": "The power of dragons f lows through you and manifests in a number of ways. At 1st level, you must select one of the chromatic or metallic dragon types. Once chosen, this cannot be changed. A number of your bloodrage powers deal damage and grant resistance",
+    "Power1": "Claws",
+    "Power2": "Draconic Resistance",
+    "Power3": "Breath Weapon",
+    "Power4": "Dragon Wings",
+    "Power5": "Power of Wyrms",
+    "Feat": "Blind-Fight#Cleave#Great Fortitude#Improved Initiative#Power Attack#Skill Focus (Fly)#Toughness",
+    "Description": "At some point in your family’s history, a dragon interbred with your bloodline. Now, its ancient power fuels your bloodrage."
+  },
+  {
+    "Type": "Bloodrage",
+    "Name": "Elemental",
+    "Spells": "Burning Hands#Scorching Ray#Protection From Energy #Elemental Body I",
+    "Power": "One of the four elements infuses your being, and you can draw upon its power during your bloodrages. At first level, you must select an element: air, earth, fire, or water. Once chosen, this cannot be changed. A number of your abilities deal damage and gr",
+    "Power1": "Elemental Strikes",
+    "Power2": "Elemental Resistance",
+    "Power3": "Elemental Movement",
+    "Power4": "Elemental Form",
+    "Power5": "Elemental Body",
+    "Feat": "Cleave#Dodge#Great Fortitude#Improved Initiative#Lightning Ref lexes#Power Attack#Weapon Focus.",
+    "Description": "The power of the elements resides in you, and at times you can hardly control its fury. This inf luence comes either from an elemental outsider in your family history or from a moment when you or your ancestors were exposed to powerful elemental forces."
+  },
+  {
+    "Type": "Bloodrage",
+    "Name": "Fey",
+    "Spells": "Entangle#Hideous Laughter#Deep Slumber#Poison",
+    "Power": "The power of the natural world saturates your being, and manifests itself when you bloodrage.",
+    "Power1": "Confusing Critical",
+    "Power2": "Leaping Charger",
+    "Power3": "Blurring Charge",
+    "Power4": "One With Nature",
+    "Power5": "Fury of the Fey",
+    "Feat": "Combat Ref lexes#Dodge#Improved Initiative#Lightning Ref lexes#Mobility#Step-Up#Intimidate Prowess",
+    "Description": "One of your ancestors was fey, or the fey realm somehow intermixed with your bloodline. It affects your bloodrage in tricky and surprising ways."
+  },
+  {
+    "Type": "Bloodrage",
+    "Name": "Infernal",
+    "Spells": "Protection From Good#Scorching Ray#Suggestion#Fire Shield",
+    "Power": "When you bloodrage, hellfire infuses with blood with terrifying effect.",
+    "Power1": "Hellfire Strike",
+    "Power2": "Infernal Resistance",
+    "Power3": "Hellfire Charge",
+    "Power4": "Diabolical Arrogance",
+    "Power5": "Fiend of the Pit",
+    "Feat": "Blind-Fight#Combat Ref lexes#Deceitful#Improved Disarm#Improved Sunder#Intimidating Prowess#Iron Will",
+    "Description": "The Pit lives in your blood. Maybe one of your ancestors was seduced by the powers of Hell, or they made a deal with one its denizens, either way its corruption seethes within your lineage, and makes you fight with devilish ferocity."
+  },
+  {
+    "Type": "Bloodrage",
+    "Name": "Undead",
+    "Spells": "Chill Touch#False Life#Vampiric Touch#Fear",
+    "Power": "When you enter a bloodrage, the powers of undeath manifest, empowering your attacks with fear and your body with foul resistances.",
+    "Power1": "Frightful Charger",
+    "Power2": "Death’s Gift",
+    "Power3": "Ghost Strike",
+    "Power4": "Frightful Strikes",
+    "Power5": "One Foot in the Grave",
+    "Feat": "Diehard#Dodge#Endurance#Intimidating Prowess#Iron Will#Mobility#Toughness",
+    "Description": "The foul corruption of undeath courses though your veins. Somewhere in the past, death became infused with your lineage, which bestows frightening power when your bloodrage."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Agathion",
+    "Spells": "Shield Of Faith#Align Weapon (Good Only)#Tongues#Holy Smite#Dispel Evil#Planar Ally#Holy Word#Holy Aura#Summon Monster IX",
+    "Power1": "Touch Of Good",
+    "Power2": "Protective Aura",
+    "Description": "You have pledged your life and soul to goodness and purity."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Ancestors",
+    "Spells": "Deathwatch#Gentle Repose#Speak With Dead#Rest Eternal#Slay Living#Geas/Quest#Destruction#Waves Of Exhaustion#Wail Of The Banshee",
+    "Power1": "Gentle Rest",
+    "Power2": "Speak With Dead",
+    "Description": "You see death not as something to be feared, but as a final rest and reward for a life well spent. The taint of undeath is a mockery of what you hold dear."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Arcane",
+    "Spells": "Magic Aura#Magic Mouth#Dispel Magic#Arcane Eye#Spell Resistance#Analyze Dweomer#Spell Turning#Protection From Spells#Mage's Disjunction",
+    "Power1": "Hand Of The Acolyte",
+    "Power2": "Dispelling Touch",
+    "Description": "You are a true student of all things mystical, and see divinity in the purity of magic."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Ash",
+    "Spells": "Burning Hands#Produce Flame#Fireball#Wall Of Fire#Fire Shield#Fire Seeds#Disintegrate#Incendiary Cloud#Fiery Body",
+    "Power1": "Fire Bolt",
+    "Power2": "Wall Of Ashes",
+    "Description": "You can call forth fire, command creatures of the inferno, and your flesh does not burn."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Blood",
+    "Spells": "Magic Weapon#Spiritual Weapon#Vampiric Touch#Divine Power#Wall Of Thorns#Blade Barrier#Inflict Serious Wounds (Mass)#Power Word Stun#Power Word Kill",
+    "Power1": "Battle Rage",
+    "Power2": "Wounding Blade",
+    "Description": "You are a crusader for your god, always ready and willing to fight to defend your faith."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Catastrophe",
+    "Spells": "True Strike#Gust Of Wind#Call Lightning#Inflict Critical Wounds#Shout#Harm#Control Weather#Earthquake#Implosion",
+    "Power1": "Destructive Smite",
+    "Power2": "Deadly Weather",
+    "Description": "You revel in ruin and devastation, and can deliver particularly destructive attacks."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Caves",
+    "Spells": "Magic Stone#Create Pit#Spiked Pit#Spike Stones#Wall Of Stone#Hungry Pit#Elemental Body Iv (Earth Only)#Earthquake#Elemental Swarm (Earth Spell Only)",
+    "Power1": "Acid Dart",
+    "Power2": "Tunnel Runner",
+    "Description": "You have mastery over earth, metal, and stone, can fire darts of acid, and command earth creatures."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Cloud",
+    "Spells": "Obscuring Mist#Wind Wall#Gaseous Form#Solid Fog#Control Winds#Chain Lightning#Elemental Body IV (Air Only)#Whirlwind#Storm Of Vengeance",
+    "Power1": "Lightning Arc",
+    "Power2": "Thundercloud",
+    "Description": "You can manipulate lightning, mist, and wind, traffic with air creatures, and are resistant to electricity damage."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Construct",
+    "Spells": "Animate Rope#Wood Shape#Stone Shape#Minor Creation#Fabricate#Major Creation#Limited Wish#Polymorph Any Object#Prismatic Sphere",
+    "Power1": "Artificer's Touch",
+    "Power2": "Dancing Weapons",
+    "Description": "You can repair damage to objects, animate objects with life, and create objects from nothing."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Curse",
+    "Spells": "Bane#Aid#Bestow Curse#Freedom Of Movement#Break Enchantment#Eyebite#Spell Turning#Moment Of Prescience#Miracle",
+    "Power1": "Malign Eye",
+    "Power2": "Good Fortune",
+    "Description": "You are infused with luck, and your mere presence can spread good fortune."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Daemon",
+    "Spells": "Cause Fear#Align Weapon (Evil Only)#Vampiric Touch#Unholy Blight#Dispel Good#Planar Binding (Daemons Only)#Blasphemy#Unholy Aura#Summon Monster Ix (Evil Spell Only)",
+    "Power1": "Touch Of Evil",
+    "Power2": "Whispering Evil",
+    "Description": "You are sinister and cruel, and have wholly pledged your soul to the cause of evil."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Day",
+    "Spells": "Endure Elements#Continual Flame#Daylight#Fire Shield#Flame Strike#Fire Seeds#Sunbeam#Sunburst#Prismatic Sphere",
+    "Power1": "Sun's Blessing",
+    "Power2": "Day's Resurgence",
+    "Description": "You see truth in the pure and burning light of the sun, and can call upon its blessing or wrath to work great deeds."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Decay",
+    "Spells": "Entangle#Barkskin#Contagion#Poison#Wall Of Thorns#Harm#Animate Plants#Control Plants#Shambler",
+    "Power1": "Wooden Fist",
+    "Power2": "Aura Of Decay",
+    "Description": "You find solace in the green, can grow defensive thorns, and can communicate with plants."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Deception",
+    "Spells": "Disguise Self#Mirror Image#Nondetection#Confusion#False Vision#Mislead#Project Image#Mass Invisibility#Time Stop",
+    "Power1": "Sudden Shift",
+    "Power2": "Master's Illusion",
+    "Description": "You are a master of illusions and deceptions. Bluff, Disguise, and Stealth are class skills."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Defense",
+    "Spells": "Shield#Barkskin#Protection From Energy#Spell Immunity#Spell Resistance#Antimagic Field#Deflection#Mind Blank#Prismatic Sphere",
+    "Power1": "Deflection Aura",
+    "Power2": "Aura Of Protection",
+    "Description": "Your faith is your greatest source of protection, and you can use that faith to defend others. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Demon Evil",
+    "Spells": "Doom#Align Weapon (Evil Only)#Rage#Unholy Blight#Dispel Good#Planar Binding (Demons Only)#Blasphemy#Unholy Aura#Summon Monster Ix (Evil Spell Only)",
+    "Power1": "Touch Of Evil",
+    "Power2": "Scythe Of Evil",
+    "Description": "You are sinister and cruel, and have wholly pledged your soul to the cause of evil."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Demon Chaos",
+    "Spells": "Doom#Align Weapon (Chaos Only)#Rage#Chaos Hammer#Dispel Law#Planar Binding (Demons Only)#Word Of Chaos#Cloak Of Chaos#Summon Monster Ix (Chaos Spell Only)",
+    "Power1": "Fury Of The Abyss",
+    "Power2": "Chaos Blade",
+    "Description": "Your touch infuses life and weapons with chaos, and you revel in all things anarchic."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Devil Evil",
+    "Spells": "Command#Align Weapon (Evil Only)#Suggestion#Unholy Blight#Dispel Good#Planar Binding (Devils Only)#Blasphemy#Unholy Aura#Summon Monster Ix (Evil Spell Only)",
+    "Power1": "Hell's Corruption",
+    "Power2": "Scythe Of Evil",
+    "Description": "You are sinister and cruel, and have wholly pledged your soul to the cause of evil."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Devil Law",
+    "Spells": "Command#Align Weapon (Law Only)#Suggestion#Order's Wrath#Dispel Chaos#Planar Binding (Devils Only)#Dictum#Shield Of Law#Summon Monster Ix (Law Spell Only)",
+    "Power1": "Touch Of Law",
+    "Power2": "Staff Of Order",
+    "Description": "You follow a strict and ordered code of laws, and in so doing, achieve enlightenment."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Divine",
+    "Spells": "Identify#Bless Water#Dispel Magic#Imbue With Spell Ability#Cleanse#Antimagic Field#Resurrection#Protection From Spells#Miracle",
+    "Power1": "Hand Of The Acolyte",
+    "Power2": "Dispelling Touch",
+    "Description": "You are a true student of all things mystical, and see divinity in the purity of magic."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Exploration",
+    "Spells": "Expeditious Retreat#Locate Object#Fly#Locate Creature#Teleport#Find The Path#Greater Teleport#Phase Door#World Wave",
+    "Power1": "Door Sight",
+    "Power2": "Dimensional Hop",
+    "Description": "You are an explorer and find enlightenment in the simple joy of travel, be it by foot or conveyance or magic. Increase your base speed by 10 feet."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Family",
+    "Spells": "Bless#Calm Emotions#Create Food And Water#Imbue With Spell Ability#Telepathic Bond#Heroes' Feast#Refuge#Mass Cure Critical Wounds#Miracle",
+    "Power1": "Binding Ties",
+    "Power2": "Unity",
+    "Description": "Your touch can heal wounds, and your presence instills unity and strengthens emotional bonds."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Feather",
+    "Spells": "Calm Animals#Feather Fall#Fly#Summon Nature's Ally IV (Animals Only)#Beast Shape III (Animals Only)#Fly (Mass)#Animal Shapes#Summon Nature's Ally Viii (Animals Only)#Shapechange",
+    "Power1": "Eyes Of The Hawk",
+    "Power2": "Animal Companion",
+    "Description": "You can speak with and befriend animals with ease. In addition, you treat Knowledge (nature) as a class skill."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Ferocity",
+    "Spells": "Enlarge Person#Bull's Strength#Rage#Spell Immunity#Righteous Might#Bull's Strength (Mass)#Grasping Hand#Clenched Fist#Crushing Hand",
+    "Power1": "Ferocious Strike",
+    "Power2": "Might Of The Gods",
+    "Description": "In strength and brawn there is truth—your faith gives you incredible might and power."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Freedom",
+    "Spells": "Sanctuary#Remove Paralysis#Remove Curse#Freedom Of Movement#Plane Shift#Greater Dispel Magic#Refuge#Mind Blank#Freedom",
+    "Power1": "Liberty's Blessing",
+    "Power2": "Freedom's Call",
+    "Description": "You are a spirit of freedom and a staunch foe against all who would enslave and oppress."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Fur",
+    "Spells": "Magic Fang#Hold Animal#Beast Shape I (Animals Only)#Summon Nature's Ally IV (Animals Only)#Beast Shape III (Animals Only)#Antilife Shell#Animal Shapes#Summon Nature's Ally Viii (Animals Only)#Shapechange",
+    "Power1": "Predator's Grace",
+    "Power2": "Animal Companion",
+    "Description": "You can speak with and befriend animals with ease. In addition, you treat Knowledge (nature) as a class skill."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Growth",
+    "Spells": "Enlarge Person#Barkskin#Plant Growth#Command Plants#Righteous Might#Repel Wood#Animate Plants#Control Plants#Shambler",
+    "Power1": "Enlarge",
+    "Power2": "Bramble Armor",
+    "Description": "You find solace in the green, can grow defensive thorns, and can communicate with plants."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Heroism",
+    "Spells": "Shield Of Faith#Bless Weapon#Heroism#Holy Smite#Righteous Might#Heroism (Greater)#Holy Sword#Holy Aura#Gate",
+    "Power1": "Touch Of Glory",
+    "Power2": "Aura Of Heroism",
+    "Description": "You are infused with the glory of the divine, and are a true foe of the undead. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Home",
+    "Spells": "Alarm#Shield Other#Glyph Of Warding#Imbue With Spell Ability#Telepathic Bond#Heroes' Feast#Guards And Wards#Mass Cure Critical Wounds#Miracle",
+    "Power1": "Calming Touch",
+    "Power2": "Guarded Hearth",
+    "Description": "Your touch can heal wounds, and your presence instills unity and strengthens emotional bonds."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Honor",
+    "Spells": "Shield Of Faith#Zone Of Truth#Searing Light#Holy Smite#Righteous Might#Geas/Quest#Holy Sword#Holy Aura#Gate",
+    "Power1": "Honor Bound",
+    "Power2": "Divine Presence",
+    "Description": "You are infused with the glory of the divine, and are a true foe of the undead. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Ice",
+    "Spells": "Obscuring mist#Fog Cloud#Water Breathing#Control water#Ice Storm#Cone of Cold#Freezing Sphere#Horrid wilting#Polar Ray",
+    "Power1": "Icicle",
+    "Power2": "Body Of Ice",
+    "Description": "You can manipulate water and mist and ice, conjure creatures of water, and resist cold"
+  },
+  {
+    "Type": "Domain",
+    "Name": "Inevitable",
+    "Spells": "Protection From Chaos#Align Weapon (Law Only)#Command Undead#Order's Wrath#Command (Greater)#Planar Binding (Inevitables Only)#Dictum#Shield Of Law#Summon Monster Ix (Law Spell Only)",
+    "Power1": "Command",
+    "Power2": "Staff Of Order",
+    "Description": "You follow a strict and ordered code of laws, and in so doing, achieve enlightenment."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Insanity",
+    "Spells": "Lesser Confusion#Touch Of Idiocy#Rage#Moonstruck#Nightmare#Phantasmal Web#Insanity#Scintillating Pattern#Weird",
+    "Power1": "Insane Focus",
+    "Power2": "Aura Of Madness",
+    "Description": "You embrace the madness that lurks deep in your heart, and can unleash it to drive your foes insane or to sacrifice certain abilities to hone others."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Language",
+    "Spells": "Comprehend Languages#Share Language#Tongues#Explosive Runes#Telepathic Bond#Greater Glyph Of Warding#Instant Summons#Symbol Of Death#Teleportation Circle",
+    "Power1": "Blast Rune",
+    "Power2": "Rune Shift",
+    "Description": "In strange and eldritch runes you find potent magic. You gain Scribe Scroll as a bonus feat."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Leadership",
+    "Spells": "Bless#Enthrall#Prayer#Discern Lies#Greater Command#Brilliant Inspiration#Repulsion#Demand#Storm Of Vengeance",
+    "Power1": "Inspiring Command",
+    "Power2": "Leadership",
+    "Description": "You are a great leader, an inspiration to all who follow the teachings of your faith."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Light",
+    "Spells": "Faerie Fire#Heat Metal#Daylight#Fire Shield#Flame Strike#Fire Seeds#Sunbeam#Sunburst#Prismatic Sphere",
+    "Power1": "Blinding Flash",
+    "Power2": "Nimbus Of Light",
+    "Description": "You see truth in the pure and burning light of the sun, and can call upon its blessing or wrath to work great deeds."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Loss",
+    "Spells": "Obscuring Mist#Blindness/Deafness (Only To Cause Blindness)#Deeper Darkness#Shadow Conjuration#Enervation#Modify Memory#Power Word Blind#Greater Shadow Evocation#Energy Drain",
+    "Power1": "Touch Of Darkness",
+    "Power2": "Aura Of Forgetfulness",
+    "Description": "You manipulate shadows and darkness. In addition, you receive Blind-Fight as a bonus feat."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Love",
+    "Spells": "Charm Person#Enthrall#Suggestion#Heroism#Charm Monster#Geas/Quest#Insanity#Euphoric Tranquility#Dominate Monster",
+    "Power1": "Adoration",
+    "Power2": "Charming Smile",
+    "Description": "You can baffle and befuddle foes with a touch or a smile, and your beauty and grace are divine."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Lust",
+    "Spells": "Charm Person#Touch Of Idiocy#Suggestion#Confusion#Charm Monster#Geas/Quest#Insanity#Demand#Dominate Monster",
+    "Power1": "Dazing Touch",
+    "Power2": "Anything To Please",
+    "Description": "You can baffle and befuddle foes with a touch or a smile, and your beauty and grace are divine."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Martyr",
+    "Spells": "Divine Favor#Shield Other#Magic Vestment#Discern Lies#Greater Command#Sacrificial Oath#Repulsion#Demand#Storm Of Vengeance",
+    "Power1": "Inspiring Word",
+    "Power2": "Sacrificial Bond",
+    "Description": "You are a great leader, an inspiration to all who follow the teachings of your faith."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Memory",
+    "Spells": "Comprehend Languages#Memory Lapse#Speak With Dead#Divination#True Seeing#Modify Memory#Legend Lore#Moment Of Prescience#Foresight",
+    "Power1": "Recall",
+    "Power2": "Remote Viewing",
+    "Description": "You are a scholar and a sage of legends. In addition, you treat all Knowledge skills as class skills."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Metal",
+    "Spells": "Magic Stone#Heat Metal#Stone Shape#Spike Stones#Wall Of Stone#Wall Of Iron#Elemental Body Iv (Earth Only)#Iron Body#Elemental Swarm (Earth Spell Only)",
+    "Power1": "Metal Fist",
+    "Power2": "Acid Resistance",
+    "Description": "You have mastery over earth, metal, and stone, can fire darts of acid, and command earth creatures."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Murder",
+    "Spells": "Cause Fear#Death Knell#Keen Edge#Death Ward#Suffocation#Create Undead#Destruction#Create Greater Undead#Suffocation (Mass)",
+    "Power1": "Bleeding Touch",
+    "Power2": "Killing Blow",
+    "Description": "You can cause the living to bleed at a touch, and find comfort in the presence of the dead."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Night",
+    "Spells": "Sleep#Blindness/Deafness (Only To Cause Blindness)#Deeper Darkness#Shadow Conjuration#Summon Monster V (Summons 1D3 Shadows)#Nightmare#Power Word Blind#Greater Shadow Evocation#Shades",
+    "Power1": "Night Hunter",
+    "Power2": "Eyes Of Darkness",
+    "Description": "You manipulate shadows and darkness. In addition, you receive Blind-Fight as a bonus feat."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Nightmare",
+    "Spells": "Lesser Confusion#Touch Of Idiocy#Rage#Phantasmal Killer#Nightmare#Cloak Of Dreams#Insanity#Scintillating Pattern#Weird",
+    "Power1": "Fearful Touch",
+    "Power2": "Aura Of Madness",
+    "Description": "You embrace the madness that lurks deep in your heart, and can unleash it to drive your foes insane or to sacrifice certain abilities to hone others."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Oceans",
+    "Spells": "Obscuring mist#Slipstream#Water Walk#Control water#Ice Storm#Cone of Cold#Elemental Body IV#Horrid wilting#Tsunami",
+    "Power1": "Surge",
+    "Power2": "Cold Resistance",
+    "Description": "You can manipulate water and mist and ice, conjure creatures of water, and resist cold"
+  },
+  {
+    "Type": "Domain",
+    "Name": "Protean",
+    "Spells": "Confusion (Lesser)#Align Weapon (Chaos Only)#Displacement#Chaos Hammer#Dispel Law#Planar Binding (Proteans Only)#Word Of Chaos#Cloak Of Chaos#Summon Monster Ix (Chaos Spell Only)",
+    "Power1": "Touch Of Chaos",
+    "Power2": "Aura Of Chaos",
+    "Description": "Your touch infuses life and weapons with chaos, and you revel in all things anarchic."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Purity",
+    "Spells": "Protection From Chaos/Evil/Good/Law#Shield Other#Remove Blindness/Deafness#Spell Immunity#Atonement#Antimagic Field#Repulsion#Mind Blank#Prismatic Sphere",
+    "Power1": "Resistant Touch",
+    "Power2": "Purifying Touch",
+    "Description": "Your faith is your greatest source of protection, and you can use that faith to defend others. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Rage",
+    "Spells": "True Strike#Bull's Strength#Rage#Inflict Critical Wounds#Shout#Moonstruck#Disintegrate#Earthquake#Implosion",
+    "Power1": "Destructive Smite",
+    "Power2": "Rage",
+    "Description": "You revel in ruin and devastation, and can deliver particularly destructive attacks."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Resolve",
+    "Spells": "Bless#Bull's Strength#Magic Vestment#Spell Immunity#Righteous Might#Heroes' Feast#Grasping Hand#Clenched Fist#Crushing Hand",
+    "Power1": "Strength Surge",
+    "Power2": "Might Of The Gods",
+    "Description": "In strength and brawn there is truth—your faith gives you incredible might and power."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Restoration",
+    "Spells": "Cure Light Wounds#Remove Disease#Cure Serious Wounds#Neutralize Poison#Break Enchantment#Heal#Regenerate#Mass Cure Critical Wounds#Mass Heal",
+    "Power1": "Restorative Touch",
+    "Power2": "Healer's Blessing",
+    "Description": "Your touch staves off pain and death, and your healing magic is particularly vital and potent."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Resurrection",
+    "Spells": "Cure Light Wounds#Cure Moderate Wounds#Cure Serious Wounds#Cure Critical Wounds#Raise Dead#Heal#Resurrection#Mass Cure Critical Wounds#True Resurrection",
+    "Power1": "Rebuke Death",
+    "Power2": "Gift Of Life",
+    "Description": "Your touch staves off pain and death, and your healing magic is particularly vital and potent."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Revolution",
+    "Spells": "Remove Fear#Enthrall#Remove Curse#Freedom Of Movement#Break Enchantment#Symbol Of Persuasion#Refuge#Mind Blank#Freedom",
+    "Power1": "Liberation",
+    "Power2": "Powerful Persuader",
+    "Description": "You are a spirit of freedom and a staunch foe against all who would enslave and oppress."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Seasons",
+    "Spells": "Goodberry#Fog Cloud#Call Lightning#Blight#Ice Storm#Control Winds#Control Weather#Sunburst#Storm of Vengeance",
+    "Power1": "Untouched By The Seasons",
+    "Power2": "Lightning Lord",
+    "Description": "With power over storm and sky, you can call down the wrath of the gods upon the world below."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Smoke",
+    "Spells": "Burning Hands#Pyrotechnics#Stinking Cloud#Wall Of Fire#Fire Shield#Fire Seeds#Elemental Body Iv (Fire Only)#Incendiary Cloud#Elemental Swarm (Fire Spell Only)",
+    "Power1": "Cloud Of Smoke",
+    "Power2": "Fire Resistance",
+    "Description": "You can call forth fire, command creatures of the inferno, and your flesh does not burn."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Souls",
+    "Spells": "Deathwatch#Gentle Repose#Animate Dead#Death Ward#Slay Living#Antilife Shield#Destruction#Waves Of Exhaustion#Trap The Soul",
+    "Power1": "Touch The Spirit World",
+    "Power2": "Ward Against Death",
+    "Description": "You see death not as something to be feared, but as a final rest and reward for a life well spent. The taint of undeath is a mockery of what you hold dear."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Storms",
+    "Spells": "Obscuring Mist#Fog Cloud#Call Lightning#Sleet Storm#Call Lightning Storm#Sirocco#Control Weather#Whirlwind#Storm of Vengeance",
+    "Power1": "Storm Burst",
+    "Power2": "Gale Aura",
+    "Description": "With power over storm and sky, you can call down the wrath of the gods upon the world below."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Tactics",
+    "Spells": "Magic Weapon#Aid#Magic Vestment#Divine Power#Command (Greater)#Blade Barrier#Power Word Blind#Planar Ally (Greater)#Power Word Kill",
+    "Power1": "Seize The Initiative",
+    "Power2": "Weapon Master",
+    "Description": "You are a crusader for your god, always ready and willing to fight to defend your faith."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Thievery",
+    "Spells": "Disguise Self#Invisibility#Locate Object#Confusion#False Vision#Mislead#Ethereal Jaunt#Mass Invisibility#Time Stop",
+    "Power1": "Copycat",
+    "Power2": "Master's Illusion",
+    "Description": "You are a master of illusions and deceptions. Bluff, Disguise, and Stealth are class skills."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Thought",
+    "Spells": "Comprehend Languages#Detect Thoughts#Seek Thoughts#Divination#Telepathic Bond#Find The Path#Legend Lore#Mind Blank#Foresight",
+    "Power1": "Lore Keeper",
+    "Power2": "Read Minds",
+    "Description": "You are a scholar and a sage of legends. In addition, you treat all Knowledge skills as class skills."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Toil",
+    "Spells": "Command#Wood Shape#Stone Shape#Minor Creation#Waves Of Fatigue#Major Creation#Waves Of Exhaustion#Instant Summons#Prismatic Sphere",
+    "Power1": "Artificer's Touch",
+    "Power2": "Dancing Weapons",
+    "Description": "You can repair damage to objects, animate objects with life, and create objects from nothing."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Trade",
+    "Spells": "Floating Disk#Locate Object#Fly#Dimension Door#Overland Flight#Find The Path#Greater Teleport#Phase Door#Gate",
+    "Power1": "Silver-Tongued Haggler",
+    "Power2": "Dimensional Hop",
+    "Description": "You are an explorer and find enlightenment in the simple joy of travel, be it by foot or conveyance or magic. Increase your base speed by 10 feet."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Undead",
+    "Spells": "Cause Fear#Ghoul Touch#Animate Dead#Enervation#Slay Living#Create Undead#Destruction#Create Greater Undead#Energy Drain",
+    "Power1": "Death's Kiss",
+    "Power2": "Death's Embrace",
+    "Description": "You can cause the living to bleed at a touch, and find comfort in the presence of the dead."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Wards",
+    "Spells": "Arcane Lock#Secret Page#Glyph Of Warding#Dimensional Anchor#Lesser Planar Binding#Guards And Wards#Instant Summons#Symbol Of Death#Teleportation Circle",
+    "Power1": "Blast Rune",
+    "Power2": "Warding Rune",
+    "Description": "In strange and eldritch runes you find potent magic. You gain Scribe Scroll as a bonus feat."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Wind",
+    "Spells": "Whispering Wind#Wind Wall#Gaseous Form#Air Walk#Control Winds#Wind Walk#Elemental Body IV (Air Only)#Whirlwind#Winds Of Vengeance",
+    "Power1": "Wind Blast",
+    "Power2": "Electricity Resistance",
+    "Description": "You can manipulate lightning, mist, and wind, traffic with air creatures, and are resistant to electricity damage."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Air",
+    "Spells": "Obscuring Mist#Wind Wall#Gaseous Form#Air Walk#Control Winds#Chain Lightning#Elemental Body IV (Air Only)#Whirlwind#Elemental Swarm (Air Spell Only)",
+    "Power1": "Lightning Arc",
+    "Power2": "Electricity Resistance",
+    "Description": "You can manipulate lightning, mist, and wind, traffic with air creatures, and are resistant to electricity damage."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Animal",
+    "Spells": "Calm Animals#Hold Animal#Dominate Animal#Summon Nature's Ally IV (Animals Only)#Beast Shape III (Animals Only)#Antilife Shell#Animal Shapes#Summon Nature's Ally Viii (Animals Only)#Shapechange",
+    "Power1": "Speak With Animals",
+    "Power2": "Animal Companion",
+    "Description": "You can speak with and befriend animals with ease. In addition, you treat Knowledge (nature) as a class skill."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Artifice",
+    "Spells": "Animate Rope#Wood Shape#Stone Shape#Minor Creation#Fabricate#Major Creation#Wall Of Iron#Instant Summons#Prismatic Sphere",
+    "Power1": "Artificer's Touch",
+    "Power2": "Dancing Weapons",
+    "Description": "You can repair damage to objects, animate objects with life, and create objects from nothing."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Chaos",
+    "Spells": "Protection From Law#Align Weapon (Chaos Only)#Magic Circle Against Law#Chaos Hammer#Dispel Law#Animate Objects#Word Of Chaos#Cloak Of Chaos#Summon Monster Ix (Chaos Spell Only)",
+    "Power1": "Touch Of Chaos",
+    "Power2": "Chaos Blade",
+    "Description": "Your touch infuses life and weapons with chaos, and you revel in all things anarchic."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Charm",
+    "Spells": "Charm Person#Calm Emotions#Suggestion#Heroism#Charm Monster#Geas/Quest#Insanity#Demand#Dominate Monster",
+    "Power1": "Dazing Touch",
+    "Power2": "Charming Smile",
+    "Description": "You can baffle and befuddle foes with a touch or a smile, and your beauty and grace are divine."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Community",
+    "Spells": "Bless#Shield Other#Prayer#Imbue With Spell Ability#Telepathic Bond#Heroes' Feast#Refuge#Mass Cure Critical Wounds#Miracle",
+    "Power1": "Calming Touch",
+    "Power2": "Unity",
+    "Description": "Your touch can heal wounds, and your presence instills unity and strengthens emotional bonds."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Darkness",
+    "Spells": "Obscuring Mist#Blindness/Deafness (Only To Cause Blindness)#Deeper Darkness#Shadow Conjuration#Summon Monster V (Summons 1D3 Shadows)#Shadow Walk#Power Word Blind#Greater Shadow Evocation#Shades",
+    "Power1": "Touch Of Darkness",
+    "Power2": "Eyes Of Darkness",
+    "Description": "You manipulate shadows and darkness. In addition, you receive Blind-Fight as a bonus feat."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Death",
+    "Spells": "Cause Fear#Death Knell#Animate Dead#Death Ward#Slay Living#Create Undead#Destruction#Create Greater Undead#Wail Of The Banshee",
+    "Power1": "Bleeding Touch",
+    "Power2": "Death's Embrace",
+    "Description": "You can cause the living to bleed at a touch, and find comfort in the presence of the dead."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Destruction",
+    "Spells": "True Strike#Shatter#Rage#Inflict Critical Wounds#Shout#Harm#Disintegrate#Earthquake#Implosion",
+    "Power1": "Destructive Smite",
+    "Power2": "Destructive Aura",
+    "Description": "You revel in ruin and devastation, and can deliver particularly destructive attacks."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Earth",
+    "Spells": "Magic Stone#Soften Earth And Stone#Stone Shape#Spike Stones#Wall Of Stone#Stoneskin#Elemental Body Iv (Earth Only)#Earthquake#Elemental Swarm (Earth Spell Only)",
+    "Power1": "Acid Dart",
+    "Power2": "Acid Resistance",
+    "Description": "You have mastery over earth, metal, and stone, can fire darts of acid, and command earth creatures."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Evil",
+    "Spells": "Protection From Good#Align Weapon (Evil Only)#Magic Circle Against Good#Unholy Blight#Dispel Good#Create Undead#Blasphemy#Unholy Aura#Summon Monster Ix (Evil Spell Only)",
+    "Power1": "Touch Of Evil",
+    "Power2": "Scythe Of Evil",
+    "Description": "You are sinister and cruel, and have wholly pledged your soul to the cause of evil."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Fire",
+    "Spells": "Burning Hands#Produce Flame#Fireball#Wall Of Fire#Fire Shield#Fire Seeds#Elemental Body Iv (Fire Only)#Incendiary Cloud#Elemental Swarm (Fire Spell Only)",
+    "Power1": "Fire Bolt",
+    "Power2": "Fire Resistance",
+    "Description": "You can call forth fire, command creatures of the inferno, and your flesh does not burn."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Glory",
+    "Spells": "Shield Of Faith#Bless Weapon#Searing Light#Holy Smite#Righteous Might#Undeath To Death#Holy Sword#Holy Aura#Gate",
+    "Power1": "Touch Of Glory",
+    "Power2": "Divine Presence",
+    "Description": "You are infused with the glory of the divine, and are a true foe of the undead. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Good",
+    "Spells": "Protection From Evil#Align Weapon (Good Only)#Magic Circle Against Evil#Holy Smite#Dispel Evil#Blade Barrier#Holy Word#Holy Aura#Summon Monster Ix (Good Spell Only)",
+    "Power1": "Touch Of Good",
+    "Power2": "Holy Lance",
+    "Description": "You have pledged your life and soul to goodness and purity."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Healing",
+    "Spells": "Cure Light Wounds#Cure Moderate Wounds#Cure Serious Wounds#Cure Critical Wounds#Breath Of Life#Heal#Regenerate#Mass Cure Critical Wounds#Mass Heal",
+    "Power1": "Rebuke Death",
+    "Power2": "Healer's Blessing",
+    "Description": "Your touch staves off pain and death, and your healing magic is particularly vital and potent."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Knowledge",
+    "Spells": "Comprehend Languages#Detect Thoughts#Speak With Dead#Divination#True Seeing#Find The Path#Legend Lore#Discern Location#Foresight",
+    "Power1": "Lore Keeper",
+    "Power2": "Remote Viewing",
+    "Description": "You are a scholar and a sage of legends. In addition, you treat all Knowledge skills as class skills."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Law",
+    "Spells": "Protection From Chaos#Align Weapon (Law Only)#Magic Circle Against Chaos#Order's Wrath#Dispel Chaos#Hold Monster#Dictum#Shield Of Law#Summon Monster Ix (Law Spell Only)",
+    "Power1": "Touch Of Law",
+    "Power2": "Staff Of Order",
+    "Description": "You follow a strict and ordered code of laws, and in so doing, achieve enlightenment."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Liberation",
+    "Spells": "Remove Fear#Remove Paralysis#Remove Curse#Freedom Of Movement#Break Enchantment#Greater Dispel Magic#Refuge#Mind Blank#Freedom",
+    "Power1": "Liberation",
+    "Power2": "Freedom's Call",
+    "Description": "You are a spirit of freedom and a staunch foe against all who would enslave and oppress."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Luck",
+    "Spells": "True Strike#Aid#Protection From Energy#Freedom Of Movement#Break Enchantment#Mislead#Spell Turning#Moment Of Prescience#Miracle",
+    "Power1": "Bit Of Luck",
+    "Power2": "Good Fortune",
+    "Description": "You are infused with luck, and your mere presence can spread good fortune."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Madness",
+    "Spells": "Lesser Confusion#Touch Of Idiocy#Rage#Confusion#Nightmare#Phantasmal Killer#Insanity#Scintillating Pattern#Weird",
+    "Power1": "Vision Of Madness",
+    "Power2": "Aura Of Madness",
+    "Description": "You embrace the madness that lurks deep in your heart, and can unleash it to drive your foes insane or to sacrifice certain abilities to hone others."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Magic",
+    "Spells": "Identify#Magic Mouth#Dispel Magic#Imbue With Spell Ability#Spell Resistance#Antimagic Field#Spell Turning#Protection From Spells#Mage's Disjunction",
+    "Power1": "Hand Of The Acolyte",
+    "Power2": "Dispelling Touch",
+    "Description": "You are a true student of all things mystical, and see divinity in the purity of magic."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Nobility",
+    "Spells": "Divine Favor#Enthrall#Magic Vestment#Discern Lies#Greater Command#Geas/Quest#Repulsion#Demand#Storm Of Vengeance",
+    "Power1": "Inspiring Word",
+    "Power2": "Leadership",
+    "Description": "You are a great leader, an inspiration to all who follow the teachings of your faith."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Plant",
+    "Spells": "Entangle#Barkskin#Plant Growth#Command Plants#Wall Of Thorns#Repel Wood#Animate Plants#Control Plants#Shambler",
+    "Power1": "Wooden Fist",
+    "Power2": "Bramble Armor",
+    "Description": "You find solace in the green, can grow defensive thorns, and can communicate with plants."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Protection",
+    "Spells": "Sanctuary#Shield Other#Protection From Energy#Spell Immunity#Spell Resistance#Antimagic Field#Repulsion#Mind Blank#Prismatic Sphere",
+    "Power1": "Resistant Touch",
+    "Power2": "Aura Of Protection",
+    "Description": "Your faith is your greatest source of protection, and you can use that faith to defend others. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Repose",
+    "Spells": "Deathwatch#Gentle Repose#Speak With Dead#Death Ward#Slay Living#Undeath To Death#Destruction#Waves Of Exhaustion#Wail Of The Banshee",
+    "Power1": "Gentle Rest",
+    "Power2": "Ward Against Death",
+    "Description": "You see death not as something to be feared, but as a final rest and reward for a life well spent. The taint of undeath is a mockery of what you hold dear."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Rune",
+    "Spells": "Erase#Secret Page#Glyph Of Warding#Explosive Runes#Lesser Planar Binding#Greater Glyph Of Warding#Instant Summons#Symbol Of Death#Teleportation Circle",
+    "Power1": "Blast Rune",
+    "Power2": "Spell Rune",
+    "Description": "In strange and eldritch runes you find potent magic. You gain Scribe Scroll as a bonus feat."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Strength",
+    "Spells": "Enlarge Person#Bull's Strength#Magic Vestment#Spell Immunity#Righteous Might#Stoneskin#Grasping Hand#Clenched Fist#Crushing Hand",
+    "Power1": "Strength Surge",
+    "Power2": "Might Of The Gods",
+    "Description": "In strength and brawn there is truth—your faith gives you incredible might and power."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Sun",
+    "Spells": "Endure Elements#Heat Metal#Searing Light#Fire Shield#Flame Strike#Fire Seeds#Sunbeam#Sunburst#Prismatic Sphere",
+    "Power1": "Sun's Blessing",
+    "Power2": "Nimbus Of Light",
+    "Description": "You see truth in the pure and burning light of the sun, and can call upon its blessing or wrath to work great deeds."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Travel",
+    "Spells": "Longstrider#Locate Object#Fly#Dimension Door#Teleport#Find The Path#Greater Teleport#Phase Door#Astral Projection",
+    "Power1": "Agile Feet",
+    "Power2": "Dimensional Hop",
+    "Description": "You are an explorer and find enlightenment in the simple joy of travel, be it by foot or conveyance or magic. Increase your base speed by 10 feet."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Trickery",
+    "Spells": "Disguise Self#Invisibility#Nondetection#Confusion#False Vision#Mislead#Screen#Mass Invisibility#Time Stop",
+    "Power1": "Copycat",
+    "Power2": "Master's Illusion",
+    "Description": "You are a master of illusions and deceptions. Bluff, Disguise, and Stealth are class skills."
+  },
+  {
+    "Type": "Domain",
+    "Name": "War",
+    "Spells": "Magic Weapon#Spiritual Weapon#Magic Vestment#Divine Power#Flame Strike#Blade Barrier#Power Word Blind#Power Word Stun#Power Word Kill",
+    "Power1": "Battle Rage",
+    "Power2": "Weapon Master",
+    "Description": "You are a crusader for your god, always ready and willing to fight to defend your faith."
+  },
+  {
+    "Type": "Domain",
+    "Name": "Weather",
+    "Spells": "Obscuring Mist#Fog Cloud#Call Lightning#Sleet Storm#Ice Storm#Control Winds#Control Weather#Whirlwind#Storm of Vengeance",
+    "Power1": "Storm Burst",
+    "Power2": "Lightning Lord",
+    "Description": "With power over storm and sky, you can call down the wrath of the gods upon the world below."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Spellkiller",
+    "Feat": "Disruptive",
+    "Description": "Some inquisitor domains are not the domains of their faith but are movements within a number of faiths. Many religious individuals and orders find themselves in conflict with the users of arcane magic, and have created inquisitions and training regimens expressly to fight arcane spellcasters."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Black Powder",
+    "Power1": "Firearms",
+    "Power2": "Firearm Interuption",
+    "Feat": "Gunsmithing",
+    "Description": "Some inquisitor domains are not the domains of their faith but are movements within a number of faiths. Many religious individuals and orders find themselves in conflict with the users of arcane magic, and have created inquisitions and training regimens expressly to fight arcane spellcasters."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Banishment",
+    "Power1": "Righteous Awe",
+    "Power2": "Dismissive Touch",
+    "Description": "Your devotion to your deity is matched only by your hatred for fiends. You know the rites to cast evil outsiders back to the realms from which they hail."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Anger",
+    "Power1": "Hateful Retort",
+    "Power2": "Divine Anger",
+    "Description": "Holy (or unholy) rage, granted by your patron deity, ensures that when you fight, the battle ends with a bloody victory."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Conversion",
+    "Power1": "Deities",
+    "Power2": "Charm of Wisdom",
+    "Description": "You are a powerful persuader. A honeyed tongue empowered by divine argumentation sways the indifferent and adversarial to your side."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Excommunication",
+    "Power1": "Excommunicate",
+    "Power2": "Excommunicate",
+    "Description": "You can repulse the influence of confused divine servants."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Fate",
+    "Power1": "Augury",
+    "Power2": "Agent of Fate",
+    "Description": "Fate is a powerful tool for those who dole out justice for their deity. You can read the strands of fate, and those strands guide your endeavors."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Fervor",
+    "Power1": "Fire of Belief",
+    "Power2": "Fervent Action",
+    "Description": "Only a passionate and righteous will such as yours can ensure that justice will be properly done."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Final Rest",
+    "Power1": "Unravel Animation",
+    "Power2": "Disrupt Animation",
+    "Description": "The dead have paid their dues; there is no need, and no excuse, for them to walk. You protect their rest personally."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Heresy",
+    "Power1": "Righteous Infiltration",
+    "Power2": "Blessed Infiltration",
+    "Power3": "Charm of Wisdom",
+    "Description": "Often it is hard to tell heretics from the faithful. You use duplicity, stealth, and the heretics’ own arguments to root them out and bring them to justice."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Illumination",
+    "Power1": "Illuminating Touch",
+    "Power2": "Aura of Enlightenment",
+    "Description": "Many times an inquisitor’s greatest weapon is pure and unflinching illumination; errors are often illuminated by light and wisdom."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Imprisonment",
+    "Power1": "Caging Strike",
+    "Power2": "Divine Prison",
+    "Description": "Sometimes it is better to capture foes than to kill them—whether your intention is to punish them for their crimes or to torture them for information."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Justice",
+    "Power1": "Judicious Force",
+    "Power2": "Chains of Justice",
+    "Description": "Some must learn that to submit to one’s fate often means submitting to your form of justice."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Oblivion",
+    "Power1": "Life Anchor",
+    "Power2": "Stare of Oblivion",
+    "Description": "Some inquisitors believe that without faith there is only oblivion. But there are some divine servants who know enough about the darkness that lies beyond faith to use it as a tool… and a weapon."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Order",
+    "Power1": "Mantle against Chaos",
+    "Power2": "Commanding Order",
+    "Description": "Most inquisitors fight insane aberrations and demonic creatures as well as the chaos of heresy. They use the dictum and the mantles of law in order to aid their struggle."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Persistence",
+    "Power1": "Relentless Footing",
+    "Power2": "Inner Strength",
+    "Description": "Your deity chose you for your persistence. You have vowed to pursue the enemies of the faith to the world’s end if necessary."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Vengeance",
+    "Power1": "Divine Retribution",
+    "Power2": "Final Vengeance",
+    "Description": "Vengeance is justice naked of pretense. On your oath, you will deliver justice so unbounded."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Zeal",
+    "Power1": "Zealous Surge",
+    "Power2": "Scourge of the Enemy",
+    "Description": "An inquisitor needs unyielding zeal in order to make sure her deity’s work is done."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Valor",
+    "Power1": "Touch of Resolve",
+    "Power2": "Fearless",
+    "Description": "It takes courage to confront the enemies of your faith."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Truth",
+    "Power1": "Justice’s True Path",
+    "Power2": "Grasp of Honesty",
+    "Description": "To find truth, one has to wring honesty from others—whether in a friendly or hostile manner."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "True Death",
+    "Power1": "Back to the Grave",
+    "Power2": "Hallowed Rite",
+    "Description": "You see undead as a perversion of the natural order, a misuse of magic, or an unjust enslavement of a departed spirit's body, and are sworn to destroying such beings."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Torture",
+    "Power1": "Torturer’s Presence",
+    "Power2": "Torturer’s Touch",
+    "Power3": "Critical Precision",
+    "Description": "Only through pain can truth and justice come to the surface. And if that doesn’t work, at least you’ve enacted divine vengeance."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Tactics Inquisition",
+    "Power1": "Inquisitor’s Direction",
+    "Power2": "Grant the Initiative",
+    "Description": "It is the cold and tactical mind that often wins the day. A proper, carefully considered sacrifice can inspire one’s allies to serve your cause."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Revelation",
+    "Power1": "Burn Shroud",
+    "Power2": "Reveal Form",
+    "Description": "Evil often hides itself behind a mask of good. You are an expert at ferreting out those who are not what they seem, and use your powers to reveal the true forms of the unworthy."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Recovery",
+    "Power1": "Focused Search",
+    "Power2": "Locate Focus",
+    "Description": "Some hunt down secrets, but you focus on the search for more tangible items."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Redemption",
+    "Power1": "Patient Sensibility",
+    "Power2": "Redeemer's Mercy",
+    "Power3": "Second Chance",
+    "Description": "You reach out to your misguided fellows and give them every chance to turn back from conflict with the true faith, even if your differences come to violence."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Possession",
+    "Power1": "Self-Control",
+    "Power2": "Beast Ride",
+    "Power3": "Body Snatch",
+    "Description": "You can invade the bodies of lesser beings and command them to bend to your will."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Reformation",
+    "Power1": "Inspired Rhetoric",
+    "Power2": "Blessed Correction",
+    "Power3": "Awaken Discontent",
+    "Description": "You can speak with divine persuasiveness."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Sin",
+    "Power1": "Sin Sense",
+    "Power2": "Indulge",
+    "Description": "You know how to stoke the seven sins in others (envy, gluttony, greed, lust, pride, sloth, and wrath), and twist their dark desires to suit your own purposes."
+  },
+  {
+    "Type": "Inquisition",
+    "Name": "Conversion Inquisition",
+    "Power1": "Charm of Wisdom",
+    "Power2": "Swaying Word",
+    "Description": "You are a powerful persuader. A honeyed tongue empowered by divine argumentation sways the indifferent and adversarial to your side."
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Ancestor",
+    "Skill": "Linguistics#Knowledges",
+    "Spells": "Unseen Servant#Spiritual Weapon#Heroism#Spiritual Ally#Telekinesis#Greater Heroism#Ethereal Jaunt#Vision#Astral Projection"
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Battle",
+    "Skill": "Intimidate#Engineering#Perception#Ride",
+    "Spells": "Enlarge Person#Fog Cloud#Magic Vestment#Wall Of Fire#Righteous Might#Mass Bull's Strength#Control Weather#Earthquake#Storm Of Vengeance"
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Life",
+    "Skill": "Handle Animal#Nature#Survival",
+    "Spells": "Detect Undead#Lesser Restoration#Neutralize Poison#Restoration#Breath Of Life#Heal#Greater Restoration#Mass Heal#True Resurrection"
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Heavens",
+    "Skill": "Fly#Arcana#Perception#Survival",
+    "Spells": "Color Spray#Hypnotic Pattern#Daylight#Rainbow Pattern#Overland Flight#Chain Lightning#Prismatic Spray#Sunburst#Meteor Swarm"
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Nature",
+    "Skill": "Climb#Fly#Nature#Ride#Survival#Swim",
+    "Spells": "Charm Animal#Barkskin#Speak With Plants#Grove Of Respite#Awaken#Stone Tell#Creeping Doom#Animal Shapes#World Wave"
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Bones",
+    "Skill": "Bluff#Disguise#Intimidate#Stealth",
+    "Spells": "Cause Fear#False Life#Animate Dead#Fear#Slay Living#Circle Of Death#Control Undead#Horrid Wilting#Wail Of The Banshee"
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Lore",
+    "Skill": "Appraise#Knowledges",
+    "Spells": "Identify#Tongues#Locate Object#Legend Lore#Contact Other Plane#Mass Owl's Wisdom#Vision#Moment Of Prescience#Time Stop"
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Stone",
+    "Skill": "Appraise#Climb#Intimidate#Survival",
+    "Spells": "Magic Stone#Stone Call#Meld Into Stone#Wall Of Stone#Stoneskin#Stone Tell#Statue#Repel Metal Or Stone#Clashing Rocks"
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Waves",
+    "Skill": "Acrobatics#Escape Artist#Nature#Swim",
+    "Spells": "Touch Of The Sea#Slipstream#Water Breathing#Wall Of Ice#Geyser#Fluid Form#Vortex#Seamantle#Tsunami"
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Wind",
+    "Skill": "Acrobatics#Escape Artist#Fly#Stealth",
+    "Spells": "Alter Winds#Gust Of Wind#Cloak Of Winds#River Of Wind#Control Winds#Sirocco#Control Weather#Whirlwind#Winds Of Vengeance"
+  },
+  {
+    "Type": "Mystery",
+    "Name": "Flame",
+    "Skill": "Acrobatics#Climb#Intimidate#Perform",
+    "Spells": "Burning Hands#Resist Energy#Fireball#Wall Of Fire#Summon Monster V#Fire Seeds#Fire Storm#Incendiary Cloud#Fiery Body"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Agility",
+    "Spells": "Jump#Cat’s Grace#Haste#Freedom Of Movement#Polymorph#Mass Cat’s Grace#ethereal Jaunt#Animal Shapes#Shapechange"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Ancestors",
+    "Spells": "Bless#Aid#Prayer#Blessing Of Fervor#Commune#Greater Heroism#Refuge#Euphoric Tranquility#Weird"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Animals",
+    "Spells": "Charm Animals#Speak With Animals#Dominate Animal#Summon Nature’s Ally IV#Animal Growth#Antilife Shell#beast Shape IV#Animal Shapes#Summon Nature’s Ally IX"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Boundaries",
+    "Spells": "Protection From Evil#See Invisibility#Magic Circle Against Evil#Dimensional Anchor#Control Summoned Creature#Banishment#ethereal Jaunt#Dimensional Lock#Gate Source"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Death",
+    "Spells": "Deathwatch#Blessing Of Courage And Life#Speak With Dead#Rest Eternal#Suffocation#Circle Of Death#finger Of Death#Symbol Of Death#Power Word Kill"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Deception",
+    "Spells": "Ventriloquism#Invisibility# Blink#Confusion#Passwall#Programmed Image#mass Invisibility#Scintillating Pattern#Time Stop"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Devotion",
+    "Spells": "Divine Favor#Martyr's Bargain#Magic Vestment#Greater Magic Weapon#Flame Strike#Mass Bull's Strength#bestow Grace Of The Champion#Holy Aura#Mass Heal Source"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Elements",
+    "Spells": "Shocking Grasp#Flaming Sphere#Fireball#Wall Of Ice#Flame Strike# Freezing Sphere#vortex#Fire Storm#Meteor Swarm"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Enchantment",
+    "Spells": "Unnatural Lust#Calm Emotions#Unadulterated Loathing#Overwhelming Grief#Dominate Person#Geas#euphoric Tranquility#Demand#Dominate Monster"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Endurance",
+    "Spells": "Endure Elements#Bear’s Endurance#Protection From Energy#Spell Immunity#Spell Resistance#Mass Bear’s Endurance#greater Restoration#Iron Body#Miracle"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Healing",
+    "Spells": "Remove Fear#Lesser Restoration#Remove Disease#Restoration#Cleanse#Pillar Of Life#greater Restoration#Mass Cure Critical Wounds#True Resurrection"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Insanity",
+    "Spells": "Memory Lapse#Hideous Laughter#Distracting Cacophony#Confusion#Mind Fog#Envious Urge#insanity#Symbol Of Insanity#Overwhelming Presence"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Light",
+    "Spells": "Dancing Lantern#Continual Flame#Daylight#Rainbow Pattern#Fire Snake#Sirocco#sunbeam#Sunburst#Fiery Body"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Moon",
+    "Spells": "Darkness#Darkvision#Owl’s Wisdom#Moonstruck#Aspect Of The Wolf#Control Water#lunar Veil#Horrid Wilting#Meteor Swarm"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Occult",
+    "Spells": "Detect Undead#Command Undead#Twilight Knife#Black Tentacles#Snake Staff#Create Undead#waves Of Exhaustion#Trap The Soul#Gate"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Peace",
+    "Spells": "Sanctuary#Calm Emotions#Wind Wall#Dismissal#Serenity#Word Of Recall#Forcecage#Euphoric Tranquility#Antipathy Source"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Plague",
+    "Spells": "Detect Undead#Command Undead#Contagion#Animate Dead#Giant Vermin#Create Undead#control Undead#Create Greater Undead#Energy Drain"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Portents",
+    "Spells": "Ill-omen#Locate Object#Blood Biography#Divination#Contact Other Plane#Legend Lore#vision#Moment Of Prescience#Foresight"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Shadow",
+    "Spells": "Silent Image#Darkness#Deeper Darkness#Shadow Conjuration#Shadow Evocation#Shadow Walk#shadow Conjuration (greater)#Shadow Evocation (greater)#Shades"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Spirits",
+    "Spells": "Ghostbane Dirge#Invisibility#Speak With Dead#Spiritual Ally#Mass Ghostbane Dirge#Shadow Walk#ethereal Jaunt#Planar Ally#Etherealness"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Stars",
+    "Spells": "Faerie Fire#Dust Of Twilight#Guiding Star#Wandering Star Motes#Dream#Cloak Of Dreams 1circle Of Clarity#Euphoric Tranquility#Astral Projection"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Strength",
+    "Spells": "Divine Favor#Bull’s Strength# Greater Magic Weapon#Divine Power#Righteous Might#Mass Bull’s Strength#giant Form I#Giant Form II#Shapechange"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Time",
+    "Spells": "Ventriloquism#Silence#Haste#Threefold Aspect#Teleport#Disintegrate#expend#Temporal Stasis#Time Stop"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Transformation",
+    "Spells": "Jump#Bear’s Endurance#Beast Shape I#Beast Shape II#Beast Shape III#Form Of The Dragon I#form Of The Dragon II#Form Of The Dragon III#Shapechange"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Trickery",
+    "Spells": "Animate Rope#Mirror Image#Major Image#Hallucinatory Terrain#Mirage Arcana#Mislead 1reverse Gravity#Screen#Time Stop"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Vengeance",
+    "Spells": "Burning Hands#Burning Gaze#Pain Strike#Shout#Symbol Of Pain#Mass Pain Strike#phantasmal Revenge Incendiary Cloud#Winds Of Vengeance"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Water",
+    "Spells": "Bless Water/curse Water#Slipstream#Water Breathing#Control Water#Geyser#Elemental Body III (water Only)#elemental Body IV (water Only)#Seamantle#Tsunami"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Winter",
+    "Spells": "Unshakable Chill#Resist Energy (cold Only)#Ice Storm#Wall Of Ice#Cone Of Cold#Freezing Sphere 1control Weather#Polar Ray#Polar Midnight"
+  },
+  {
+    "Type": "Patron",
+    "Name": "Wisdom",
+    "Spells": "Shield Of Faith#Owl’s Wisdom# Magic Vestment#Lesser Globe Of Invulnerability#Dream#Greater Globe Of Invulnerability#spell Turning#Protection From Spells#Mage’s Disjunction"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Earth Blessing",
+    "Power1": "Acid Strike",
+    "Power2": "Armor of Earth",
+    "Subtype": "Gorum, Nethys"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Fire Blessing",
+    "Power1": "Fire Strike",
+    "Power2": "Armor of Flame",
+    "Subtype": "Asmodeus, Sarenrae"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Water Blessing",
+    "Power1": "Ice Strike",
+    "Power2": "Armor of Ice",
+    "Subtype": "Gozreh, Pharasma"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Community Blessing",
+    "Power1": "Communal Aid",
+    "Power2": "Arrow Def lection",
+    "Subtype": "Erastil"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Protection Blessing",
+    "Power1": "Increased Defense",
+    "Power2": "Aura of Protection",
+    "Subtype": "Abadar, Nethys, Shelyn, Torag"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Repose Blessing",
+    "Power1": "Gentle Rest",
+    "Power2": "Back to the Grave",
+    "Subtype": "Pharasma"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Sun Blessing",
+    "Power1": "Blinding Strike",
+    "Power2": "Bane of Undead",
+    "Subtype": "Iomedae, Sarenrae"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Animal Blessing",
+    "Power1": "Animal Fury",
+    "Power2": "Battle Companion",
+    "Subtype": "Erastil, Gozreh"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Chaos Blessing",
+    "Power1": "Anarchic Strike",
+    "Power2": "Battle Companion",
+    "Subtype": "Calistria, Cayden Cailean, Desna, Gorum,Lamashtu, Rovagug"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Evil Blessing",
+    "Power1": "Unholy Strike",
+    "Power2": "Battle Companion",
+    "Subtype": "Asmodeus, Lamashtu, Norgorber, Rovagug, Urgathoa, Zon-Kuthon"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Good Blessing",
+    "Power1": "Holy Strike",
+    "Power2": "Battle Companion",
+    "Subtype": "Cayden Cailean, Desna, Erastil, Iomedae,Sarenrae, Shelyn, Torag"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Law Blessing",
+    "Power1": "Axiomatic Strike",
+    "Power2": "Battle Companion",
+    "Subtype": "Abadar, Asmodeus, Erastil, Iomedae, Irori, Torag, Zon-Kuthon"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Plant Blessing",
+    "Power1": "Name",
+    "Power2": "Battle Companion",
+    "Subtype": "Erastil, Gozreh"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "War Blessing",
+    "Power1": "War Mind",
+    "Power2": "Battle Lust",
+    "Subtype": "Gorum, Iomedae, Rovagug, Urgathoa"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Magic Blessing",
+    "Power1": "Hand of the Acolyte",
+    "Power2": "Blessed Magic",
+    "Subtype": "Asmodeus, Nethys, Urgathoa"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Madness Blessing",
+    "Power1": "Madness Supremacy",
+    "Power2": "Control Madness",
+    "Subtype": "Lamashtu"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Darkness Blessing",
+    "Power1": "Enshrouding Darkness",
+    "Power2": "Darkened Vision",
+    "Subtype": "Zon-Kuthon"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Death Blessing",
+    "Power1": "From the Grave",
+    "Power2": "Death’s Touch",
+    "Subtype": "Norgorber, Pharasma, Urgathoa, Zon-Kuthon"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Glory Blessing",
+    "Power1": "Glorious Presence",
+    "Power2": "Demoralizing Glory",
+    "Subtype": "Gorum, Iomedae, Sarenrae"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Travel Blessing",
+    "Power1": "Agile Feet",
+    "Power2": "Dimensional Hop",
+    "Subtype": "Abadar, Cayden Cailean, Desna"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Charm Blessing",
+    "Power1": "Charming Presence",
+    "Power2": "Dominance Aura",
+    "Subtype": "Calistria, Cayden Cailean, Norgorber, Shelyn"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Healing Blessing",
+    "Power1": "Selfish Healer",
+    "Power2": "Fast Healing",
+    "Subtype": "Irori, Pharasma, Sarenrae"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Liberation Blessing",
+    "Power1": "Liberation",
+    "Power2": "Freedom’s Shout",
+    "Subtype": "Desna"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Trickery Blessing",
+    "Power1": "Copycat",
+    "Power2": "Greater Invisibility",
+    "Subtype": "Asmodeus, Calistria, Lamashtu, Norgorber"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Destruction Blessing",
+    "Power1": "Destructive Attacks",
+    "Power2": "Heart of Carnage",
+    "Subtype": "Gorum, Nethys, Rovagug, Zon-Kuthon"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Nobility Blessing",
+    "Power1": "Inspiring Word",
+    "Power2": "Lead By Example",
+    "Subtype": "Abadar"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Knowledge Blessing",
+    "Power1": "Lore Keeper (Sp)",
+    "Power2": "Monster Lore",
+    "Subtype": "Calistria, Irori, Nethys, Norgorber, Pharasma"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Air Blessing",
+    "Power1": "Zephyr’s Gift",
+    "Power2": "Soaring Assault",
+    "Subtype": "Gozreh, Shelyn"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Rune Blessing",
+    "Power1": "Blast Rune",
+    "Power2": "Spell-Storing Weapon",
+    "Subtype": "Irori, Nethys"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Strength Blessing",
+    "Power1": "Strength Surge",
+    "Power2": "Strength of Will",
+    "Subtype": "Cayden Cailean, Gorum, Irori, Lamashtu,Urgathoa"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Artifice Blessing",
+    "Power1": "Crafter’s Wrath",
+    "Power2": "Transfer Magic",
+    "Subtype": "Torag"
+  },
+  {
+    "Type": "Blessing",
+    "Name": "Luck Blessing",
+    "Power1": "Unlucky Presence",
+    "Power2": "Unlucky Enemy",
+    "Subtype": "Calistria, Desna, Shelyn"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Abjuration",
+    "Power1": "Resistance",
+    "Power2": "Protective Ward",
+    "Power3": "Energy Absorption",
+    "Subtype": "Abjuration",
+    "Description": "The abjurer uses magic against itself, and masters the art of defensive and warding magics."
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Conjuration",
+    "Power1": "Summoner's Charm",
+    "Power2": "Acid Dart",
+    "Power3": "Dimensional Steps",
+    "Subtype": "Conjuration",
+    "Description": "The conjurer focuses on the study of summoning monsters and magic alike to bend to his will."
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Divination",
+    "Power1": "Forewarned",
+    "Power2": "Diviner's Fortune",
+    "Power3": "Scrying Adept",
+    "Subtype": "Divination",
+    "Description": "Diviners are masters of remote viewing, prophecies, and using magic to explore the world."
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Enchantment",
+    "Power1": "Enchanting Smile",
+    "Power2": "Dazing Touch",
+    "Power3": "Aura of Despair",
+    "Subtype": "Enchantment",
+    "Description": "The enchanter uses magic to control and manipulate the minds of his victims."
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Evocation",
+    "Power1": "Intense Spells",
+    "Power2": "Force Missile",
+    "Power3": "Elemental Wall",
+    "Subtype": "Evocation",
+    "Description": "Evokers revel in the raw power of magic, and can use it to create and destroy with shocking ease."
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Illusion",
+    "Power1": "Extended Illusions",
+    "Power2": "Blinding Ray",
+    "Power3": "Invisibility Field",
+    "Subtype": "Illusion",
+    "Description": "Illusionists use magic to weave confounding images, figments, and phantoms to baffle and vex their foes."
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Necromancy",
+    "Power1": "Power over Undead",
+    "Power2": "Grave Touch",
+    "Power3": "Life Sight",
+    "Subtype": "Necromancy",
+    "Description": "The dread and feared necromancer commands undead and uses the foul power of unlife against his enemies."
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Transmutation",
+    "Power1": "Physical Enhancement",
+    "Power2": "Telekinetic Fist",
+    "Power3": "Change Shape",
+    "Subtype": "Transmutation",
+    "Description": "Transmuters use magic to change the world around them."
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Universalist",
+    "Power1": "Hand of the Apprentice",
+    "Power2": "Metamagic Mastery",
+    "Subtype": "Universalist",
+    "Description": "Wizards who do not specialize (known as as universalists) have the most diversity of all arcane spellcasters."
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Banishment",
+    "Power1": "Resistance",
+    "Power2": "Unstable Bonds",
+    "Power3": "Aura of Banishment",
+    "Subtype": "Abjuration"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Counterspell",
+    "Power1": "Resistance",
+    "Power2": "Disruption",
+    "Power3": "Counterspell Mastery",
+    "Subtype": "Abjuration"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Creation",
+    "Power1": "Summoner's Charm",
+    "Power2": "Create Gear",
+    "Power3": "Creator’s Will",
+    "Subtype": "Conjuration"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Infernal Binder",
+    "Power1": "Planar Knowledge",
+    "Power2": "Assume Control",
+    "Power3": "Imp Familiar",
+    "Subtype": "Conjuration"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Teleportation",
+    "Power1": "Summoner's Charm",
+    "Power2": "Shift",
+    "Power3": "Dimensional Steps",
+    "Subtype": "Conjuration"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Foresight",
+    "Power1": "Forewarned",
+    "Power2": "Prescience",
+    "Power3": "Foretell",
+    "Subtype": "Divination"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Scryer",
+    "Power1": "Forewarned",
+    "Power2": "Send Senses",
+    "Power3": "Scrying Adept",
+    "Subtype": "Divination"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Controller",
+    "Power1": "Force of Will",
+    "Power2": "Irresistible Demand",
+    "Power3": "Aura of Despair",
+    "Subtype": "Enchantment"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Manipulator",
+    "Power1": "Enchanting Smile",
+    "Power2": "Beguiling Touch",
+    "Power3": "Shape Emotions",
+    "Subtype": "Enchantment"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Admixture",
+    "Power1": "Intense Spells",
+    "Power2": "Versatile Evocation",
+    "Power3": "Elemental Manipulation",
+    "Subtype": "Evocation"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Generation",
+    "Power1": "Intense Spells",
+    "Power2": "Lingering Evocations",
+    "Power3": "Wind Servant",
+    "Subtype": "Evocation"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Mage of the Veil",
+    "Power1": "Extended Illusions",
+    "Power2": "Face In The Crowd",
+    "Power3": "Master Of The Veil",
+    "Subtype": "Illusion"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Phantasm",
+    "Power1": "Extended Illusions",
+    "Power2": "Terror",
+    "Power3": "Bedeviling Aura",
+    "Subtype": "Illusion"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Shadow",
+    "Power1": "Extended Illusions",
+    "Power2": "Binding Darkness",
+    "Power3": "Shadow Step",
+    "Subtype": "Illusion"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Life",
+    "Power1": "Healing Grace",
+    "Power2": "Share Essence",
+    "Power3": "Life Sight",
+    "Subtype": "Necromancy"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Undead",
+    "Power1": "Power over Undead",
+    "Power2": "Bolster",
+    "Power3": "Life Sight",
+    "Subtype": "Necromancy"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Enchantment",
+    "Power1": "Physical Enhancement",
+    "Power2": "Augment",
+    "Power3": "Perfection of Self",
+    "Subtype": "Transmutation"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Shapechange",
+    "Power1": "Physical Enhancement",
+    "Power2": "Battleshaping",
+    "Power3": "Change Shape",
+    "Subtype": "Transmutation"
+  },
+  {
+    "Type": "Arcane",
+    "Name": "Arcane Crafter",
+    "Power1": "Metacharge",
+    "Power2": "Metamagic Mastery",
+    "Subtype": "Universalist"
+  },
+  {
+    "Type": "Curse",
+    "Name": "Blackened",
+    "Power1": "Blackened 1",
+    "Power2": "Blackened 2",
+    "Power3": "Blackened 3",
+    "Power4": "Blackened 4",
+    "Description": "Your hands and forearms are shriveled and blackened, as if you had plunged your arms into a blazing fire, and your thin, papery skin is sensitive to the touch."
+  },
+  {
+    "Type": "Curse",
+    "Name": "Clouded Vision",
+    "Power1": "Clouded Vision 1",
+    "Power2": "Clouded Vision 2",
+    "Power3": "Clouded Vision 3",
+    "Power4": "Clouded Vision 4",
+    "Description": "Your eyes are obscured, making it difficult for you to see."
+  },
+  {
+    "Type": "Curse",
+    "Name": "Consumed",
+    "Power1": "Consumed 1",
+    "Power2": "Consumed 2",
+    "Power3": "Consumed 3",
+    "Power4": "Consumed 4",
+    "Description": "Your connection to Abaddon and the daemons that call it home has left you diminished but still able to scorn many mortal frailties."
+  },
+  {
+    "Type": "Curse",
+    "Name": "Deaf",
+    "Power1": "Deaf 1",
+    "Power2": "Deaf 2",
+    "Power3": "Deaf 3",
+    "Power4": "Deaf 4",
+    "Description": "You cannot hear and suffer all of the usual penalties for being deafened."
+  },
+  {
+    "Type": "Curse",
+    "Name": "Haunted",
+    "Power1": "Haunted 1",
+    "Power2": "Haunted 2",
+    "Power3": "Haunted 3",
+    "Power4": "Haunted 4",
+    "Description": "Malevolent spirits follow you wherever you go, causing minor mishaps and strange occurrences (such as unexpected breezes, small objects moving on their own, and faint noises)."
+  },
+  {
+    "Type": "Curse",
+    "Name": "Lame",
+    "Power1": "Lame 1",
+    "Power2": "Lame 2",
+    "Power3": "Lame 3",
+    "Power4": "Lame 4",
+    "Description": "One of your legs is permanently wounded."
+  },
+  {
+    "Type": "Curse",
+    "Name": "Legalistic",
+    "Power1": "Legalistic 1",
+    "Power2": "Legalistic 2",
+    "Power3": "Legalistic 3",
+    "Power4": "Legalistic 4",
+    "Description": "The shackles of Hell impose savage consequences should you violate a covenant, but also imbue you with remarkable guile."
+  },
+  {
+    "Type": "Curse",
+    "Name": "Tongues",
+    "Power1": "Tongues 1",
+    "Power2": "Tongues 2",
+    "Power3": "Tongues 3",
+    "Power4": "Tongues 4",
+    "Description": "In times of stress or unease, you speak in tongues."
+  },
+  {
+    "Type": "Curse",
+    "Name": "Wasting",
+    "Power1": "Wasting 1",
+    "Power2": "Wasting 2",
+    "Power3": "Wasting 3",
+    "Power4": "Wasting 4",
+    "Description": "Your body is slowly rotting away."
+  },
+  {
+    "Type": "Curse",
+    "Name": "Wolfscarred Face",
+    "Power1": "Wolfscarred Face 1",
+    "Power2": "Wolfscarred Face 2",
+    "Power3": "Wolfscarred Face 3",
+    "Power4": "Wolfscarred Face 4",
+    "Description": "Your face is deformed, as though you were born with a wolf's muzzle instead of an ordinary nose and jaw. Many mistake you for a werewolf, and in areas plagued by lycanthropes, you must take pains to hide your face."
+  },
+  {
+    "Type": "Curse",
+    "Name": "Wrecker",
+    "Power1": "Wrecker 1",
+    "Power2": "Wrecker 2",
+    "Power3": "Wrecker 3",
+    "Power4": "Wrecker 4",
+    "Description": "The destructive power of the Abyss and its teeming hordes of demons seeps from your very pores and into your belongings and surroundings."
+  }
+]

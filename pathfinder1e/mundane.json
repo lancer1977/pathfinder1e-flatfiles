@@ -1,0 +1,1941 @@
+[
+  {
+    "Name": "Fishhook",
+    "Cost": 10,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Hunting"
+  },
+  {
+    "Name": "Net, bell",
+    "Cost": 200,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Hunting"
+  },
+  {
+    "Name": "Net, butterfly",
+    "Cost": 500,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Hunting"
+  },
+  {
+    "Name": "Netting, camouflage",
+    "Cost": 2000,
+    "Weight": 80,
+    "Source": "UE",
+    "Subtype": "Hunting"
+  },
+  {
+    "Name": "Net, fishing",
+    "Cost": 400,
+    "Weight": 80,
+    "Source": "UE",
+    "Subtype": "Hunting"
+  },
+  {
+    "Name": "Scent cloak",
+    "Cost": 2000,
+    "Weight": 32,
+    "Source": "AA",
+    "Subtype": "Hunting"
+  },
+  {
+    "Name": "Trap, bear",
+    "Cost": 200,
+    "Weight": 160,
+    "Source": "AA",
+    "Subtype": "Hunting"
+  },
+  {
+    "Name": "Bathtub, collapsible",
+    "Cost": 1500,
+    "Weight": 320,
+    "Source": "UE",
+    "Subtype": "Comfort"
+  },
+  {
+    "Name": "Bedroll",
+    "Cost": 10,
+    "Weight": 80,
+    "Source": "UE",
+    "Subtype": "Comfort"
+  },
+  {
+    "Name": "Blanket",
+    "Cost": 50,
+    "Weight": 48,
+    "Source": "UE",
+    "Subtype": "Comfort"
+  },
+  {
+    "Name": "Chair, folding",
+    "Cost": 200,
+    "Weight": 160,
+    "Source": "UE",
+    "Subtype": "Comfort"
+  },
+  {
+    "Name": "Cot",
+    "Cost": 100,
+    "Weight": 480,
+    "Source": "UE",
+    "Subtype": "Comfort"
+  },
+  {
+    "Name": "Hammock",
+    "Cost": 10,
+    "Weight": 48,
+    "Source": "UE",
+    "Subtype": "Comfort"
+  },
+  {
+    "Name": "Soap",
+    "Cost": 1,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Comfort"
+  },
+  {
+    "Name": "Tent, small",
+    "Cost": 1000,
+    "Weight": 320,
+    "Source": "UE",
+    "Subtype": "Shelter"
+  },
+  {
+    "Name": "Tent, medium",
+    "Cost": 1500,
+    "Weight": 480,
+    "Source": "UE",
+    "Subtype": "Shelter"
+  },
+  {
+    "Name": "Tent, large",
+    "Cost": 3000,
+    "Weight": 640,
+    "Source": "UE",
+    "Subtype": "Shelter"
+  },
+  {
+    "Name": "Tent, pavilion",
+    "Cost": 10000,
+    "Weight": 800,
+    "Source": "UE",
+    "Subtype": "Shelter"
+  },
+  {
+    "Name": "Tent, hanging",
+    "Cost": 2000,
+    "Weight": 240,
+    "Source": "ARG",
+    "Subtype": "Shelter"
+  },
+  {
+    "Name": "Air bladder",
+    "Cost": 10,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Animal glue",
+    "Cost": 50,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Bell",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "CRB",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Buoy, common",
+    "Cost": 50,
+    "Weight": 256,
+    "Source": "CRB",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Buoy, superior",
+    "Cost": 1000,
+    "Weight": 480,
+    "Source": "CRB",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Compass",
+    "Cost": 1000,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Heatstone",
+    "Cost": 2000,
+    "Weight": 0,
+    "Source": "ISWG",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Map",
+    "Cost": 5000,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Mirror, small steel",
+    "Cost": 1000,
+    "Weight": 8,
+    "Source": "CRB",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Rope, hemp (50 ft.)",
+    "Cost": 100,
+    "Weight": 160,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Rope, silk (50 ft.)",
+    "Cost": 1000,
+    "Weight": 80,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Rope, spider's silk (50 ft.)",
+    "Cost": 10000,
+    "Weight": 64,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Star Charts",
+    "Cost": 20000,
+    "Weight": 8,
+    "Source": "ARG",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "String or twine (50 ft.)",
+    "Cost": 1,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Horn, powder",
+    "Cost": 300,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Horn, signal",
+    "Cost": 100,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Whistle, signal",
+    "Cost": 80,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Whistle, silent",
+    "Cost": 90,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Outdoors Gear"
+  },
+  {
+    "Name": "Candle",
+    "Cost": 1,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Candle, helmet",
+    "Cost": 200,
+    "Weight": 64,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Candle, insectbane",
+    "Cost": 0,
+    "Weight": 0,
+    "Source": "??",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Candle lamp",
+    "Cost": 500,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Candlestick",
+    "Cost": 1,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Darkflare",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "Faction Guide",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Firewood (per day)",
+    "Cost": 1,
+    "Weight": 320,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Lamp",
+    "Cost": 10,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Lamp, celestial",
+    "Cost": 30000,
+    "Weight": 32,
+    "Source": "ARG",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Lantern, bullseye",
+    "Cost": 1200,
+    "Weight": 48,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Lantern, darklight",
+    "Cost": 2000,
+    "Weight": 48,
+    "Source": "ARG",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Lantern, hooded",
+    "Cost": 700,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Lantern, miner's",
+    "Cost": 1500,
+    "Weight": 32,
+    "Source": "PSFG",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Lantern, waterproof",
+    "Cost": 500,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Moonrod",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "ARG",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Sunrod",
+    "Cost": 200,
+    "Weight": 0,
+    "Source": "CRB",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Thurible",
+    "Cost": 5000,
+    "Weight": 48,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Torch",
+    "Cost": 1,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Torch, everburning",
+    "Cost": 11000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Illumination"
+  },
+  {
+    "Name": "Absinthe",
+    "Cost": 0,
+    "Weight": 16,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Ale",
+    "Cost": 20,
+    "Weight": 128,
+    "Source": "CRB",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Ale",
+    "Cost": 4,
+    "Weight": 0,
+    "Source": "CRB",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Ale, Dwarven Stout",
+    "Cost": 4,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Ale, Luglurch",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "HoG",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Ale, Luglurch",
+    "Cost": 40,
+    "Weight": 0,
+    "Source": "HoG",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Applejack",
+    "Cost": 40,
+    "Weight": 128,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Applejack",
+    "Cost": 8,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Baijiu",
+    "Cost": 1000,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Bufo",
+    "Cost": 100,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Cauim",
+    "Cost": 100,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Godsbrew",
+    "Cost": 5,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Grog",
+    "Cost": 2,
+    "Weight": 8,
+    "Source": "AA/PoIS",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Kumis",
+    "Cost": 50,
+    "Weight": 16,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Mead",
+    "Cost": 5,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Mead",
+    "Cost": 200,
+    "Weight": 128,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Mead, linnorm",
+    "Cost": 5,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Pulque",
+    "Cost": 10,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Rumboozle",
+    "Cost": 10,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Tepache",
+    "Cost": 5,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Whiskey, Dragon Punch",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "HoG",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Whiskey, Oldlaw",
+    "Cost": 0,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Wine common",
+    "Cost": 20,
+    "Weight": 96,
+    "Source": "CRB",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Wine fine",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "CRB",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Wine, sealord",
+    "Cost": 1500,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Coffee, common",
+    "Cost": 1,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Coffee, exotic",
+    "Cost": 3,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Kahve",
+    "Cost": 2,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Milk",
+    "Cost": 5,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Milk, powdered",
+    "Cost": 10,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Tea",
+    "Cost": 2,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Tea, ceremonial",
+    "Cost": 4,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Tonic, medicinal",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "HoG",
+    "Subtype": "Beverage"
+  },
+  {
+    "Name": "Bread",
+    "Cost": 2,
+    "Weight": 8,
+    "Source": "CRB",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Caviar",
+    "Cost": 5000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Cheese",
+    "Cost": 10,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Chocolate",
+    "Cost": 500,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Fortune cookie",
+    "Cost": 1,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Haggis",
+    "Cost": 10,
+    "Weight": 16,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Honey",
+    "Cost": 100,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Ice cream",
+    "Cost": 10,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Maple syrup",
+    "Cost": 100,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Meal, banquet",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "CRB",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Meal, good",
+    "Cost": 50,
+    "Weight": 0,
+    "Source": "CRB",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Meal, common",
+    "Cost": 30,
+    "Weight": 0,
+    "Source": "CRB",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Meal, poor",
+    "Cost": 10,
+    "Weight": 0,
+    "Source": "CRB",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Meat",
+    "Cost": 30,
+    "Weight": 8,
+    "Source": "CRB",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Meat, street",
+    "Cost": 1,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Rations, trail",
+    "Cost": 50,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Rations, Dwarven trail",
+    "Cost": 200,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Rations, Elven trail",
+    "Cost": 200,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Rations, Gnome trail",
+    "Cost": 200,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Rations, Halfling trail",
+    "Cost": 200,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Rations, Orc trail",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Rations, Wandermeal (per serving)",
+    "Cost": 1,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Travel cake mix",
+    "Cost": 10,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Yogurt",
+    "Cost": 10,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Food"
+  },
+  {
+    "Name": "Outfit, Artisan's",
+    "Cost": 100,
+    "Weight": 64,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Cold-Weather",
+    "Cost": 800,
+    "Weight": 112,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Courtier's",
+    "Cost": 3000,
+    "Weight": 96,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Dilettante's",
+    "Cost": 2000,
+    "Weight": 128,
+    "Source": "ARG",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Doctor's",
+    "Cost": 15000,
+    "Weight": 96,
+    "Source": "AA",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Entertainer's",
+    "Cost": 300,
+    "Weight": 64,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Explorer's",
+    "Cost": 1000,
+    "Weight": 128,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Hot Weather",
+    "Cost": 800,
+    "Weight": 64,
+    "Source": "APG",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Monk's",
+    "Cost": 500,
+    "Weight": 32,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Noble's",
+    "Cost": 7500,
+    "Weight": 160,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Peasant's",
+    "Cost": 10,
+    "Weight": 32,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Pickpocket's",
+    "Cost": 500,
+    "Weight": 48,
+    "Source": "AA",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Royal",
+    "Cost": 20000,
+    "Weight": 240,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Scholar's",
+    "Cost": 500,
+    "Weight": 96,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Soldier's uniform",
+    "Cost": 100,
+    "Weight": 80,
+    "Source": "UE",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Suit, diving",
+    "Cost": 1000,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Swarmsuit",
+    "Cost": 2000,
+    "Weight": 160,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Tear-Away Clothing",
+    "Cost": 500,
+    "Weight": 16,
+    "Source": "AA",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Outfit, Traveler's",
+    "Cost": 100,
+    "Weight": 80,
+    "Source": "CRB",
+    "Subtype": "Outfit"
+  },
+  {
+    "Name": "Cleats",
+    "Cost": 500,
+    "Weight": 32,
+    "Source": "APG",
+    "Subtype": "Footwear"
+  },
+  {
+    "Name": "Boots, fire-resistant",
+    "Cost": 2000,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Footwear"
+  },
+  {
+    "Name": "Boots, softpaw",
+    "Cost": 2500,
+    "Weight": 0,
+    "Source": "ARG",
+    "Subtype": "Footwear"
+  },
+  {
+    "Name": "Skates, ice",
+    "Cost": 100,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Footwear"
+  },
+  {
+    "Name": "Skis",
+    "Cost": 500,
+    "Weight": 320,
+    "Source": "UE",
+    "Subtype": "Footwear"
+  },
+  {
+    "Name": "Snowshoes",
+    "Cost": 500,
+    "Weight": 64,
+    "Source": "APG",
+    "Subtype": "Footwear"
+  },
+  {
+    "Name": "Cape, Billow",
+    "Cost": 10000,
+    "Weight": 64,
+    "Source": "ARG",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Eyeglasses",
+    "Cost": 500,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Face"
+  },
+  {
+    "Name": "Eye patch",
+    "Cost": 10,
+    "Weight": 0,
+    "Source": "PoIS",
+    "Subtype": "Face"
+  },
+  {
+    "Name": "Goggles, Gloom Sight",
+    "Cost": 20000,
+    "Weight": 0,
+    "Source": "ARG",
+    "Subtype": "Face"
+  },
+  {
+    "Name": "Goggles, Smoked",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "APG",
+    "Subtype": "Face"
+  },
+  {
+    "Name": "Hat",
+    "Cost": 1500,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Head"
+  },
+  {
+    "Name": "Mask",
+    "Cost": 1500,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Face"
+  },
+  {
+    "Name": "Mask, Battle",
+    "Cost": 5000,
+    "Weight": 32,
+    "Source": "ARG",
+    "Subtype": "Face"
+  },
+  {
+    "Name": "Mask, Doctor's",
+    "Cost": 5000,
+    "Weight": 32,
+    "Source": "AA",
+    "Subtype": "Face"
+  },
+  {
+    "Name": "Mask, Monster",
+    "Cost": 51000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Face"
+  },
+  {
+    "Name": "Neck Guard",
+    "Cost": 1000,
+    "Weight": 4,
+    "Source": "ARG",
+    "Subtype": "Neck"
+  },
+  {
+    "Name": "Scarf",
+    "Cost": 150,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Neck"
+  },
+  {
+    "Name": "Scarf, pocketed",
+    "Cost": 800,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Neck"
+  },
+  {
+    "Name": "Scarf, reinforced",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Neck"
+  },
+  {
+    "Name": "Wig",
+    "Cost": 550000,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Head"
+  },
+  {
+    "Name": "Cloak, Patchwork",
+    "Cost": 500,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Cloak, Reversible",
+    "Cost": 21000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Cloak, Wing",
+    "Cost": 120000,
+    "Weight": 0,
+    "Source": "ARG",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Furs",
+    "Cost": 1200,
+    "Weight": 80,
+    "Source": "APG",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Kilt",
+    "Cost": 20,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Poncho",
+    "Cost": 50,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Sash, Adventurer's",
+    "Cost": 2000,
+    "Weight": 48,
+    "Source": "SOS",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Tabard",
+    "Cost": 500,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Vest",
+    "Cost": 1500,
+    "Weight": 8,
+    "Source": "AA",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Vest, barbed",
+    "Cost": 1000,
+    "Weight": 64,
+    "Source": "CRB",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Vestments, Cleric's",
+    "Cost": 500,
+    "Weight": 96,
+    "Source": "CRB",
+    "Subtype": "Bodywear"
+  },
+  {
+    "Name": "Brooch",
+    "Cost": 0,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Jewelry"
+  },
+  {
+    "Name": "Caul",
+    "Cost": 1010000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Jewelry"
+  },
+  {
+    "Name": "Decorative trim",
+    "Cost": 1500,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Jewelry"
+  },
+  {
+    "Name": "Jewelry",
+    "Cost": 0,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Jewelry"
+  },
+  {
+    "Name": "Jewelry, false",
+    "Cost": 2000,
+    "Weight": 0,
+    "Source": "RotRLPG",
+    "Subtype": "Jewelry"
+  },
+  {
+    "Name": "Hennin",
+    "Cost": 1010000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Jewelry"
+  },
+  {
+    "Name": "Perfume/Cologne, common",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "ISWG",
+    "Subtype": "Perfume"
+  },
+  {
+    "Name": "Perfume/Cologne, exotic",
+    "Cost": 10000,
+    "Weight": 0,
+    "Source": "ISWG",
+    "Subtype": "Perfume"
+  },
+  {
+    "Name": "Perfume/Cologne, common (1 dose)",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "PCS",
+    "Subtype": "Perfume"
+  },
+  {
+    "Name": "Perfume/Cologne, rare (1 dose)",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "PCS",
+    "Subtype": "Perfume"
+  },
+  {
+    "Name": "Perfume/Cologne, exotic (1 dose)",
+    "Cost": 10000,
+    "Weight": 0,
+    "Source": "PCS",
+    "Subtype": "Perfume"
+  },
+  {
+    "Name": "Ring, poison pill",
+    "Cost": 2000,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Ring"
+  },
+  {
+    "Name": "Ring, signet",
+    "Cost": 500,
+    "Weight": 0,
+    "Source": "CRB",
+    "Subtype": "Ring"
+  },
+  {
+    "Name": "Watch, pocket",
+    "Cost": 25000,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Watch"
+  },
+  {
+    "Name": "Tattoo",
+    "Cost": 0,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Tatoo"
+  },
+  {
+    "Name": "Backpack, common",
+    "Cost": 200,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Bag"
+  },
+  {
+    "Name": "Backpack, masterwork",
+    "Cost": 5000,
+    "Weight": 64,
+    "Source": "UE",
+    "Subtype": "Bag"
+  },
+  {
+    "Name": "Bag, waterproof",
+    "Cost": 50,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Bag"
+  },
+  {
+    "Name": "Bandolier",
+    "Cost": 50,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Pouch"
+  },
+  {
+    "Name": "Pouch, belt",
+    "Cost": 100,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Pouch"
+  },
+  {
+    "Name": "Pouch, spell components",
+    "Cost": 500,
+    "Weight": 32,
+    "Source": "CRB",
+    "Subtype": "Pouch"
+  },
+  {
+    "Name": "Pouch, war spirit",
+    "Cost": 5000,
+    "Weight": 0,
+    "Source": "ARG",
+    "Subtype": "Pouch"
+  },
+  {
+    "Name": "Sack",
+    "Cost": 10,
+    "Weight": 8,
+    "Source": "CRB",
+    "Subtype": "Bag"
+  },
+  {
+    "Name": "Satchel, familiar",
+    "Cost": 2500,
+    "Weight": 96,
+    "Source": "UE",
+    "Subtype": "Bag"
+  },
+  {
+    "Name": "Waterskin",
+    "Cost": 100,
+    "Weight": 64,
+    "Source": "CRB",
+    "Subtype": "Pouch"
+  },
+  {
+    "Name": "Barrel",
+    "Cost": 200,
+    "Weight": 480,
+    "Source": "UE",
+    "Subtype": "Barrel"
+  },
+  {
+    "Name": "Basket",
+    "Cost": 40,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Barrel"
+  },
+  {
+    "Name": "Bottle",
+    "Cost": 200,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Bottle"
+  },
+  {
+    "Name": "Box, scroll",
+    "Cost": 500,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Box"
+  },
+  {
+    "Name": "Bucket",
+    "Cost": 50,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Barrel"
+  },
+  {
+    "Name": "Canteen",
+    "Cost": 200,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Pouch"
+  },
+  {
+    "Name": "Case, scroll",
+    "Cost": 100,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Box"
+  },
+  {
+    "Name": "Cauldron",
+    "Cost": 100,
+    "Weight": 80,
+    "Source": "UE",
+    "Subtype": "Barrel"
+  },
+  {
+    "Name": "Cauldron, mithral",
+    "Cost": 125100,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Barrel"
+  },
+  {
+    "Name": "Chest, Small / Small treasure chest",
+    "Cost": 2300,
+    "Weight": 400,
+    "Source": "AA/PoIS",
+    "Subtype": "Chest"
+  },
+  {
+    "Name": "Chest, Medium / Medium treasure chest",
+    "Cost": 5700,
+    "Weight": 800,
+    "Source": "CRB/PoIS",
+    "Subtype": "Chest"
+  },
+  {
+    "Name": "Chest, Large / Large treasure chest",
+    "Cost": 101500,
+    "Weight": 1600,
+    "Source": "CRB/PoIS",
+    "Subtype": "Chest"
+  },
+  {
+    "Name": "Chest, Huge / Huge treasure chest",
+    "Cost": 253700,
+    "Weight": 4000,
+    "Source": "CRB/PoIS",
+    "Subtype": "Chest"
+  },
+  {
+    "Name": "Chest, false bottomed",
+    "Cost": 5200,
+    "Weight": 400,
+    "Source": "AA",
+    "Subtype": "Chest"
+  },
+  {
+    "Name": "Coffee pot",
+    "Cost": 300,
+    "Weight": 64,
+    "Source": "UE",
+    "Subtype": "Pot"
+  },
+  {
+    "Name": "Coffin, common",
+    "Cost": 1000,
+    "Weight": 480,
+    "Source": "UE",
+    "Subtype": "Box"
+  },
+  {
+    "Name": "Coffin, ornate",
+    "Cost": 10000,
+    "Weight": 800,
+    "Source": "UE",
+    "Subtype": "Box"
+  },
+  {
+    "Name": "Cup",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Cup"
+  },
+  {
+    "Name": "Cup, false bottomed",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Cup"
+  },
+  {
+    "Name": "Flask",
+    "Cost": 3,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Flask"
+  },
+  {
+    "Name": "Flask, hip",
+    "Cost": 100,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Flask"
+  },
+  {
+    "Name": "Jug",
+    "Cost": 3,
+    "Weight": 144,
+    "Source": "UE",
+    "Subtype": "Bottle"
+  },
+  {
+    "Name": "Mug/Tankard, clay",
+    "Cost": 2,
+    "Weight": 16,
+    "Source": "CRB",
+    "Subtype": "Cup"
+  },
+  {
+    "Name": "Pitcher",
+    "Cost": 2,
+    "Weight": 80,
+    "Source": "UE",
+    "Subtype": "Cup"
+  },
+  {
+    "Name": "Pot, iron",
+    "Cost": 80,
+    "Weight": 64,
+    "Source": "CRB",
+    "Subtype": "Barrel"
+  },
+  {
+    "Name": "Potion Sponge",
+    "Cost": 200,
+    "Weight": 0,
+    "Source": "ARG",
+    "Subtype": "Sponge"
+  },
+  {
+    "Name": "Vial (for ink or potions)",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Bottle"
+  },
+  {
+    "Name": "Vial, iron",
+    "Cost": 10,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Bottle"
+  },
+  {
+    "Name": "Altar, Portable",
+    "Cost": 25000,
+    "Weight": 640,
+    "Source": "AA",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Holy symbol, wooden",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Holy symbol, iron",
+    "Cost": 500,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Holy symbol, silver",
+    "Cost": 2500,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Holy symbol, gold",
+    "Cost": 10000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Holy symbol, platinum",
+    "Cost": 50000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Holy symbol, compartment",
+    "Cost": 500,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Holy symbol, flask",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Holy symbol, tattoo",
+    "Cost": 10000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Holy text",
+    "Cost": 110000,
+    "Weight": 1920,
+    "Source": "UE",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Holy/Unholy Water (1 flask)",
+    "Cost": 2500,
+    "Weight": 0,
+    "Source": "CRB",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Samsaran Life Wheel",
+    "Cost": 2500,
+    "Weight": 8,
+    "Source": "ARG",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Talisman, Necrotic",
+    "Cost": 50000,
+    "Weight": 0,
+    "Source": "PCS",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Summoner's Idol",
+    "Cost": 5000,
+    "Weight": 0,
+    "Source": "CoCTPG",
+    "Subtype": "Religious"
+  },
+  {
+    "Name": "Authoritative vestments",
+    "Cost": 45000,
+    "Weight": 240,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Bronze gong",
+    "Cost": 10000,
+    "Weight": 80,
+    "Source": "FoB",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Chains of contrition",
+    "Cost": 20000,
+    "Weight": 32,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Consecrated weapon",
+    "Cost": 15000,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Driftwood Icon",
+    "Cost": 2500,
+    "Weight": 0,
+    "Source": "FoB",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Hallowed chalice",
+    "Cost": 20000,
+    "Weight": 32,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Instrument of the divine",
+    "Cost": 20000,
+    "Weight": 48,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Iron eye",
+    "Cost": 5000,
+    "Weight": 0,
+    "Source": "FoB",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Just scale",
+    "Cost": 5000,
+    "Weight": 0,
+    "Source": "FoB",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Lock of the saved",
+    "Cost": 5000,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Meditation crystal",
+    "Cost": 10000,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Sanctified rings (pair)",
+    "Cost": 500,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Sanctified shield",
+    "Cost": 10000,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Spiked focus ward",
+    "Cost": 10000,
+    "Weight": 32,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Stinging whip",
+    "Cost": 5000,
+    "Weight": 80,
+    "Source": "FoB",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Sundered mask",
+    "Cost": 25000,
+    "Weight": 0,
+    "Source": "FoB",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Teaching staff",
+    "Cost": 7500,
+    "Weight": 80,
+    "Source": "AA",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Winged fetish",
+    "Cost": 5000,
+    "Weight": 0,
+    "Source": "FoB",
+    "Subtype": "Foci"
+  },
+  {
+    "Name": "Ball (2 in.)",
+    "Cost": 8,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Toy"
+  },
+  {
+    "Name": "Ball (5 in.)",
+    "Cost": 20,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Toy"
+  },
+  {
+    "Name": "Ball (10 in.)",
+    "Cost": 600,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Toy"
+  },
+  {
+    "Name": "Billiards gear",
+    "Cost": 50,
+    "Weight": 128,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Board game",
+    "Cost": 1100,
+    "Weight": 32,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Bowling set",
+    "Cost": 5100,
+    "Weight": 240,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Cards",
+    "Cost": 11000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Card"
+  },
+  {
+    "Name": "Cards, marked",
+    "Cost": 100,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Card"
+  },
+  {
+    "Name": "Cards, fortune-teller's, common",
+    "Cost": 100,
+    "Weight": 8,
+    "Source": "APG",
+    "Subtype": "Card"
+  },
+  {
+    "Name": "Cards, fortune-teller's, quality",
+    "Cost": 2500,
+    "Weight": 0,
+    "Source": "APG",
+    "Subtype": "Card"
+  },
+  {
+    "Name": "Cards, fortune-teller's, masterwork",
+    "Cost": 5000,
+    "Weight": 0,
+    "Source": "APG",
+    "Subtype": "Card"
+  },
+  {
+    "Name": "Cards, harrow deck",
+    "Cost": 10000,
+    "Weight": 0,
+    "Source": "AA",
+    "Subtype": "Card"
+  },
+  {
+    "Name": "Croquet set",
+    "Cost": 50,
+    "Weight": 160,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Crossword",
+    "Cost": 11,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Dartboard set",
+    "Cost": 50,
+    "Weight": 160,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Dice",
+    "Cost": 10,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Dice, loaded, average",
+    "Cost": 1000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Dice, loaded, superior",
+    "Cost": 5000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Dominos",
+    "Cost": 1250,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Halfling jugglesticks",
+    "Cost": 2500,
+    "Weight": 0,
+    "Source": "ARG",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Horseshoes game",
+    "Cost": 50,
+    "Weight": 48,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Kite",
+    "Cost": 120000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Toy"
+  },
+  {
+    "Name": "Marbles",
+    "Cost": 0,
+    "Weight": 0,
+    "Source": "APG",
+    "Subtype": "Toy"
+  },
+  {
+    "Name": "Polo gear",
+    "Cost": 50,
+    "Weight": 80,
+    "Source": "UE",
+    "Subtype": "Toy"
+  },
+  {
+    "Name": "Puzzle box",
+    "Cost": 1100000,
+    "Weight": 0,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Rounders gear",
+    "Cost": 10,
+    "Weight": 8,
+    "Source": "UE",
+    "Subtype": "Game"
+  },
+  {
+    "Name": "Shadow stencils",
+    "Cost": 0,
+    "Weight": 0,
+    "Source": "ARG",
+    "Subtype": "Toy"
+  },
+  {
+    "Name": "Tennis gear",
+    "Cost": 30,
+    "Weight": 48,
+    "Source": "UE",
+    "Subtype": "Game"
+  }
+]

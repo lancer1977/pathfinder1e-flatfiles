@@ -1,0 +1,821 @@
+[
+  {
+    "ID": 1,
+    "Name": "Adaptive",
+    "Aura": "Aura faint transmutation",
+    "CL": "CL 1st",
+    "Craft": "Craft Magic Arms and Armor, warp wood",
+    "Price": "Price +1,000 gp",
+    "Description": "This ability can only be placed on composite bows. An adaptive bow responds to the strength of its wielder, acting as a bow with a strength rating equal to its wielder's Strength bonus. The wielder can fire it with a lesser Strength bonus (and cause less damage) if desired."
+  },
+  {
+    "ID": 2,
+    "Name": "Advancing",
+    "Aura": "Aura faint transmutation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, feather step",
+    "Price": "Price +2 bonus",
+    "Description": "This ability can only be placed on melee weapons. Once per round, when the wielder damages a creature in melee with an advancing weapon, she can take a 5-foot step as a swift action after the attack but before the end of her turn. This movement does not count against her ability to move or take a 5-foot step earlier or later in the round, though using this ability imposes a –2 penalty on all attack rolls until the start of her next turn. This ability may not be used in conjunction with any other ability or effect that allows moving as part of an attack."
+  },
+  {
+    "ID": 3,
+    "Name": "Allying",
+    "Aura": "Aura faint transmutation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, magic weapon",
+    "Price": "Price +1 bonus",
+    "Description": "An allying weapon allows the wielder to transfer some or all of the weapon's enhancement bonus to one weapon being used by an ally of the wielder. The wielder must have line of sight to the intended ally. As a free action, at the start of her turn before using her weapon, the wielder chooses how to allocate her weapon's enhancement bonus. The bonus to the ally's weapon lasts until the allying weapon's wielder's next turn. The enhancement bonus from the allying weapon does not stack with the enhancement bonus on the ally's weapon (if any)."
+  },
+  {
+    "ID": 4,
+    "Name": "Anarchic",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, chaos hammer, creator must be chaotic",
+    "Price": "Price +2 bonus",
+    "Description": "An anarchic weapon is infused with the power of chaos. It makes the weapon chaotically aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of lawful alignment. It bestows one permanent negative level (Core Rulebook 562) on any lawful creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including restoration spells) while the weapon is wielded."
+  },
+  {
+    "ID": 5,
+    "Name": "Anchoring",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, levitate",
+    "Price": "Price +2 bonus",
+    "Description": "This special ability can only be added to a melee weapon or a thrown weapon. An anchoring weapon pins a target in place and prevents it from moving. As a swift action, the weapon can be fixed in place in a point in space, functioning as an immovable rod. This ability can also be used when the wielder hits a creature with a melee attack using an anchoring weapon. This anchors the target to the weapon, preventing it from moving away from the weapon. The target is not entangled or paralyzed; it simply cannot move from its location without first destroying the weapon or making a successful DC 30 Strength check as a full-round action to move with the weapon up to 10 feet. An anchoring weapon remains motionless and cannot be used to attack while it is anchoring a creature. An anchoring weapon has no effect on amorphous creatures, including elementals, oozes, and creatures in gaseous or liquid form. It also cannot anchor incorporeal creatures unless the weapon also has the ghost touch special ability."
+  },
+  {
+    "ID": 6,
+    "Name": "Axiomatic",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, order's wrath, creator must be lawful",
+    "Price": "Price +2 bonus",
+    "Description": "An axiomatic weapon is infused with lawful power. It makes the weapon law-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against chaotic creatures. It bestows one permanent negative level (Core Rulebook 562) on any chaotic creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including restoration spells) while the weapon is wielded."
+  },
+  {
+    "ID": 7,
+    "Name": "Bane",
+    "Aura": "Aura moderate conjuration",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, summon monster I",
+    "Price": "Price +1 bonus",
+    "Description": "A bane weapon excels against certain foes. Against a designated foe, the weapon's enhancement bonus is +2 better than its actual bonus. It also deals an extra 2d6 points of damage against such foes."
+  },
+  {
+    "ID": 8,
+    "Name": "Benevolent",
+    "Aura": "Aura faint enchantment",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, aid",
+    "Price": "Price +1 bonus",
+    "Description": "This ability can only be placed on a melee weapon. When the wielder of a benevolent weapon uses the aid another action to grant an ally a bonus on attack rolls, he increases the aid another bonus by the enhancement bonus of the weapon."
+  },
+  {
+    "ID": 9,
+    "Name": "Brilliant Energy",
+    "Aura": "Aura strong transmutation",
+    "CL": "CL 16th",
+    "Craft": "Craft Magic Arms and Armor, gaseous form, continual flame",
+    "Price": "Price +4 bonus",
+    "Description": "A brilliant energy weapon has its significant portion transformed into light, although this does not modify the item's weight. It always gives off light as a torch (20-foot radius). A brilliant energy weapon ignores nonliving matter. Armor and shield bonuses to AC (including any enhancement bonuses to that armor) do not count against it because the weapon passes through armor. (Dexterity, deflection, dodge, natural armor, and other such bonuses still apply.) A brilliant energy weapon cannot harm undead, constructs, or objects."
+  },
+  {
+    "ID": 10,
+    "Name": "Called",
+    "Aura": "Aura moderate conjuration",
+    "CL": "CL 9th",
+    "Craft": "Craft Magic Arms and Armor, teleport",
+    "Price": "Price +1 bonus",
+    "Description": "A called weapon can be teleported to the wielder's hand as a swift action that does not provoke attacks of opportunity, even if the weapon is in the possession of another creature. This ability has a maximum range of 100 feet, and effects that block teleportation prevent the return of a called weapon. A called weapon must be in a creature's possession for at least 24 hours for this ability to function."
+  },
+  {
+    "ID": 11,
+    "Name": "Conductive",
+    "Aura": "Aura moderate necromancy",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, spectral hand",
+    "Price": "Price +1 bonus",
+    "Description": "A conductive weapon is able to channel the energy of a spell-like or supernatural ability that relies on a melee or ranged touch attack to hit its target (such as from a cleric's domain granted power, sorcerer's bloodline power, oracle's mystery revelation, or wizard's arcane school power). When the wielder makes a successful attack of the appropriate type, he may choose to expend two uses of his magical ability to channel it through the weapon to the struck opponent, which suffers the effects of both the weapon attack and the special ability. (If the wielder has unlimited uses of a special ability, she may channel through the weapon every round.) For example, a paladin who strikes an undead opponent with her conductive greatsword can expend two uses of her lay on hands ability (a supernatural melee touch attack) to deal both greatsword damage and damage from one use of lay on hands. This weapon special ability can only be used once per round, and only works with magical abilities of the same type as the weapon (melee or ranged)."
+  },
+  {
+    "ID": 12,
+    "Name": "Conserving",
+    "Aura": "Aura moderate conjuration",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, abundant ammunition (Ultimate Combat), dimension door",
+    "Price": "Price +1 bonus",
+    "Description": "This ability cannot be placed on firearms. Only projectile weapons can be made conserving. When the wielder misses with a ranged attack, the fired ammunition teleports unharmed to its quiver, case, or pouch. If the ammunition in question would be destroyed for other reasons than merely being launched, such as an arrow that breaks apart in flight, this special ability does not function and the ammunition is destroyed as normal. Effects that block teleportation prevent this special ability from working."
+  },
+  {
+    "ID": 13,
+    "Name": "Corrosive",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, acid arrow",
+    "Price": "Price +1 bonus",
+    "Description": "Upon command, a corrosive weapon becomes slick with acid that deals an extra 1d6 points of acid damage on a successful hit. The acid does not harm the wielder. The effect remains until another command is given."
+  },
+  {
+    "ID": 14,
+    "Name": "Corrosive Burst",
+    "Aura": "Aura moderate evocation",
+    "CL": "12th",
+    "Craft": "Craft Magic Arms and Armor, acid arrow",
+    "Price": "Price +2 bonus",
+    "Description": "A Corrosive burst weapon functions as a corrosive weapon that explodes with searing acid upon striking a successful critical hit. The acid does not harm the wielder. In addition to the extra acid damage from the corrosive special ability, a Corrosive burst weapon deals an extra 1d10 points of acid damage on a successful critical hit. If the weapon's critical modifier is ×3, add an extra 2d10 points of acid damage instead, and if the modifier is ×4, add an extra 3d10 points."
+  },
+  {
+    "ID": 15,
+    "Name": "Courageous",
+    "Aura": "Aura faint enchantment",
+    "CL": "CL 3rd",
+    "Craft": "Craft Magic Arms and Armor, heroism, remove fear",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be added to a melee weapon. A courageous weapon fortifies the wielder's courage and morale in battle. The wielder gains a morale bonus on saving throws against fear equal to the weapon's enhancement bonus. In addition, any morale bonus the wielder gains from any other source is increased by half the weapon's enhancement bonus (minimum 1)."
+  },
+  {
+    "ID": 16,
+    "Name": "Cruel",
+    "Aura": "Aura faint necromancy",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, cause fear, death knell",
+    "Price": "Price +1 bonus",
+    "Description": "When the wielder strikes a creature that is frightened, shaken, or panicked with a cruel weapon, that creature becomes sickened for 1 round. When the wielder uses the weapon to knock unconscious or kill a creature, he gains 5 temporary hit points that last for 10 minutes."
+  },
+  {
+    "ID": 17,
+    "Name": "Cunning",
+    "Aura": "Aura moderate divination",
+    "CL": "CL 6th",
+    "Craft": "Craft Magic Arms and Armor, true strike",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability allows a weapon to find chinks in a foe's defenses using the wielder's knowledge of the target. Whenever the weapon's attack is a critical threat, the wielder gains a +2 bonus on the confirmation roll if she has 5 or more ranks in a Knowledge skill that is related to the target's creature type (such as Knowledge [planes] for an outsider opponent)."
+  },
+  {
+    "ID": 18,
+    "Name": "Dancing",
+    "Aura": "Aura strong transmutation",
+    "CL": "CL 15th",
+    "Craft": "Craft Magic Arms and Armor, animate objects",
+    "Price": "Price +4 bonus",
+    "Description": "As a standard action, a dancing weapon can be loosed to attack on its own. It fights for 4 rounds using the base attack bonus of the one who loosed it and then drops. While dancing, it cannot make attacks of opportunity, and the activating character it is not considered armed with the weapon. The weapon is considered wielded or attended by the activating character for all maneuvers and effects that target items. While dancing, the weapon shares the same space as the activating character and can attack adjacent foes (weapons with reach can attack opponents up to 10 feet away). The dancing weapon accompanies the activating character everywhere, whether she moves by physical or magical means. If the activating character has an unoccupied hand, she can grasp it while it is attacking on its own as a free action; when so retrieved, the weapon can't dance (attack on its own) again for 4 rounds. This special ability can only be placed on melee weapons."
+  },
+  {
+    "ID": 19,
+    "Name": "Deadly",
+    "Aura": "Aura faint necromancy",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, inflict light wounds",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons that normally deal nonlethal damage, such as whips and saps. All damage a deadly weapon deals is normal (lethal) damage. A whip (or similar weapon that is not normally able to damage creatures with armor or natural armor bonuses) with this special ability deals damage even to creatures with armor or natural armor. On command, the weapon suppresses this ability until the wielder commands it to resume."
+  },
+  {
+    "ID": 20,
+    "Name": "Defending",
+    "Aura": "Aura moderate abjuration",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, shield or shield of faith",
+    "Price": "Price +1 bonus",
+    "Description": "A defending weapon allows the wielder to transfer some or all of the weapon's enhancement bonus to his AC as a bonus that stacks with all others. As a free action, the wielder chooses how to allocate the weapon's enhancement bonus at the start of his turn before using the weapon, and the bonus to AC lasts until his next turn. This ability can only be placed on melee weapons."
+  },
+  {
+    "ID": 21,
+    "Name": "Defiant",
+    "Aura": "Aura strong abjuration",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, Heroic Defiance, break enchantment, stabilize",
+    "Price": "Price +2 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A defiant weapon helps its wielder stay alive in desperate conditions. It stays in its wielder's hand even if she is panicked, stunned, or unconscious. She adds the weapon's enhancement bonus as a bonus on checks to stabilize when dying and on saving throws to end ongoing conditions such as disease, poison, and hold person. If the wielder possesses Heroic Defiance, Heroic Recovery, Improved Great Fortitude, Improved Iron Will, or Improved Lightning Reflexes, she gains a number of additional daily uses equal to the weapon's enhancement bonus that can be used on any of these feats."
+  },
+  {
+    "ID": 22,
+    "Name": "Designating, Greater",
+    "Aura": "Aura moderate enchantment",
+    "CL": "CL 12th",
+    "Craft": "Craft Magic Arms and Armor, instant enemy (Advanced Player's Guide)",
+    "Price": "Price +4 Bonus",
+    "Description": "This special ability can only be placed on ranged weapons or ammunition. Each time a ranged weapon or ammunition with this ability hits a creature, its magic designates the target. Allies gain a +4 morale bonus on melee attack rolls and a +6 morale bonus on melee damage rolls against the designated target for 1 round. Multiple successful shots fired at the same target do not increase the bonuses or their duration."
+  },
+  {
+    "ID": 23,
+    "Name": "Designating, Lesser",
+    "Aura": "Aura moderate enchantment",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, instant enemy (Advanced Player's Guide)",
+    "Price": "Price +2 bonus",
+    "Description": "This special ability can only be placed on ranged weapons or ammunition. Each time a ranged weapon or ammunition with this ability hits a creature, its magic designates the target. Allies gain a +2 morale bonus on melee attack and melee damage rolls against the designated target for 1 round. Multiple successful shots fired at the same target do not increase the bonuses or their duration."
+  },
+  {
+    "ID": 24,
+    "Name": "Dispelling",
+    "Aura": "Aura strong abjuration",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, dispel magic, creator must be a caster of at least 10th level",
+    "Price": "Price +1 bonus",
+    "Description": "A dispelling weapon functions like a spell storing weapon, but it may only store dispel magic; however, the caster level check to dispel gains an additional bonus equal to the weapon's enhancement bonus. This bonus also applies to a magus's dispelling strike arcana or a barbarian's spell sunder or sunder enchantment combat maneuver check."
+  },
+  {
+    "ID": 25,
+    "Name": "Dispelling Burst",
+    "Aura": "Aura strong abjuration",
+    "CL": "CL 12th",
+    "Craft": "Craft Magic Arms and Armor, greater dispel magic, creator must be a caster of at least 12th level",
+    "Price": "Price +2 bonus",
+    "Description": "A dispelling burst weapon functions like a dispelling weapon but may store dispel magic or greater dispel magic. In addition, these spells can be discharged as a free action when the wielder of a dispelling burst weapon confirms a critical hit. When the wielder does so, the bonus to the check made to dispel (including from dispelling strike, spell sunder, or sunder enchantment) increases by an amount equal to the weapon's enhancement bonus or the weapon's critical multiplier (whichever is higher). If a dispelling burst weapon confirms a critical hit while it is not currently storing a dispel magic or greater dispel magic spell, yet if the wielder has either spell prepared (or is a spontaneous caster able to cast either spell), she may cast either spell into the weapon as a swift action and then immediately discharge it into the target as a free action."
+  },
+  {
+    "ID": 26,
+    "Name": "Disruption",
+    "Aura": "Aura strong conjuration",
+    "CL": "CL 14th",
+    "Craft": "Craft Magic Arms and Armor, heal",
+    "Price": "Price +2 bonus",
+    "Description": "A disruption weapon is the bane of all undead. Any undead creature struck in combat must succeed at a DC 14 Will save or be destroyed. A disruption weapon must be a bludgeoning melee weapon."
+  },
+  {
+    "ID": 27,
+    "Name": "Distance",
+    "Aura": "Aura moderate divination",
+    "CL": "CL 6th",
+    "Craft": "Craft Magic Arms and Armor, clairaudience/clairvoyance",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on a ranged weapon. A distance weapon has double the range increment of other weapons of its kind."
+  },
+  {
+    "ID": 28,
+    "Name": "Dry Load",
+    "Aura": "Aura faint abjuration",
+    "CL": "CL 3rd",
+    "Craft": "Craft Magic Arms and Armor, air bubble (Ultimate Combat)",
+    "Price": "Price +1,500 gp",
+    "Description": "This weapon special ability can only be applied to alchemical or metal firearm cartridges. Dry load cartridges can be used to load guns underwater or in other airless environments, such as a vacuum. This special ability protects the cartridge's contents as it is being loaded into a firearm and creates a residual bubble of air that surrounds that firearm, further protecting the ammunition and allowing the firearm with this ammunition loaded in it to be fired in an airless environment. After the cartridge is loaded, the bubble of air lasts for 3 minutes or until the firearm is fired, whichever occurs first. A firearm loaded with this ammunition still takes the –2 penalty on attack rolls when fired underwater for every 5 feet of water the bullet passes through, in addition to the normal penalties to range. When firing a dry load cartridge underwater or in an airless environment, a misfire that results in a firearm explosion occurs normally. The listed price is for 50 dry load cartridges."
+  },
+  {
+    "ID": 29,
+    "Name": "Dueling",
+    "Aura": "Aura faint transmutation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, cat's grace",
+    "Price": "Price +14,000 gp",
+    "Description": "This special ability can only be placed on melee weapons. A dueling weapon (which must be a weapon that can be used with the Weapon Finesse feat) gives the wielder a +4 enhancement bonus on initiative checks, provided the weapon is drawn and in hand when the Initiative check is made. It provides a +2 bonus on disarm checks and feint checks, a +2 bonus to CMD to resist disarm attempts, and a +2 to the DC to perform a feint against the wielder."
+  },
+  {
+    "ID": 30,
+    "Name": "endless ammunition",
+    "Aura": "Aura moderate conjuration",
+    "CL": "CL 9th",
+    "Craft": "Craft Magic Arms and Armor, minor creation",
+    "Price": "Price +2 bonus",
+    "Description": "Only bows and crossbows can be made into endless ammunition weapons—firearms and other projectile weapons cannot. Each time an endless ammunition weapon is nocked, a single nonmagical arrow or bolt is spontaneously created by the magic, so the weapon's wielder never needs to load the weapon with ammunition. If the wielder attempts to load the weapon with other ammunition, the created arrow or bolt immediately vanishes and the wielder can load the weapon as normal. This ability does not reduce the amount of time required to load or fire the weapon. The created arrow or bolt vanishes if removed from the weapon; it persists only if fired. Unlike normal bow and crossbow ammunition, these arrows and bolts are always destroyed when fired."
+  },
+  {
+    "ID": 31,
+    "Name": "Flaming",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor and fireball, flame blade, or flame strike",
+    "Price": "Price +1 bonus",
+    "Description": "Upon command, a flaming weapon is sheathed in fire that deals an extra 1d6 points of fire damage on a successful hit. The fire does not harm the wielder. The effect remains until another command is given."
+  },
+  {
+    "ID": 32,
+    "Name": "Flaming Burst",
+    "Aura": "Aura strong evocation",
+    "CL": "CL 12th",
+    "Craft": "Craft Magic Arms and Armor and fireball, flame blade, or flame strike",
+    "Price": "Price +2 bonus",
+    "Description": "A flaming burst weapon functions as a flaming weapon that also explodes with flame upon striking a successful critical hit. The fire does not harm the wielder. In addition to the extra fire damage from the flaming ability (see above), a flaming burst weapon deals an extra 1d10 points of fire damage on a successful critical hit. If the weapon's critical multiplier is ×3, add an extra 2d10 points of fire damage instead, and if the multiplier is ×4, add an extra 3d10 points of fire damage. Even if the flaming ability is not active, the weapon still deals its extra fire damage on a successful critical hit."
+  },
+  {
+    "ID": 33,
+    "Name": "Frost",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, chill metal or ice storm",
+    "Price": "Price +1 bonus",
+    "Description": "Upon command, a frost weapon is sheathed in a terrible, icy cold that deals an extra 1d6 points of cold damage on a successful hit. The cold does not harm the wielder. The effect remains until another command is given."
+  },
+  {
+    "ID": 34,
+    "Name": "Furious",
+    "Aura": "Aura moderate enchantment",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, rage",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A furious weapon serves as a focus for its wielder's anger. When the wielder is raging or under the effect of a rage spell, the weapon's enhancement bonus is +2 better than normal. If the wielder has a rage power that gives a skill bonus while raging (such as raging climber, raging leaper, or raging swimmer), the wielder gains an enhancement bonus to that skill whenever the weapon is wielded or held in her hand, even when she is not raging. This bonus is equal to the enhancement bonus of the weapon (and also includes the +2 if the wielder is raging)."
+  },
+  {
+    "ID": 35,
+    "Name": "Furyborn",
+    "Aura": "Aura moderate enchantment",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, rage",
+    "Price": "Price +2 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A furyborn weapon draws power from the anger and frustration the wielder feels when battling foes that refuse to die. Each time the wielder damages an opponent with the weapon, its enhancement bonus increases by +1 when making attacks against that opponent (to a maximum total enhancement bonus of +5). This extra enhancement bonus goes away if the opponent dies, the wielder uses the weapon to attack a different creature, or 1 hour passes."
+  },
+  {
+    "ID": 36,
+    "Name": "Ghost Touch",
+    "Aura": "Aura moderate conjuration",
+    "CL": "CL 9th",
+    "Craft": "Craft Magic Arms and Armor, plane shift",
+    "Price": "Price +1 bonus",
+    "Description": "A ghost touch weapon deals damage normally against incorporeal creatures, regardless of its bonus. An incorporeal creature's 50% reduction in damage from corporeal sources does not apply to attacks made against it with ghost touch weapons. The weapon can be picked up and moved by an incorporeal creature at any time. A manifesting ghost can wield the weapon against corporeal foes. Essentially, a ghost touch weapon counts as both corporeal or incorporeal. This special ability can only be placed on melee weapons and ammunition."
+  },
+  {
+    "ID": 37,
+    "Name": "Glamered",
+    "Aura": "Aura moderate illusion",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, disguise self, magic aura",
+    "Price": "Price +4,000 gp",
+    "Description": "A glamered weapon can be commanded to change its shape and appearance to assume the form of another object of similar size. The weapon retains all its properties (including weight) when so disguised but does not radiate magic. Only true seeing or similar magic reveals the true nature of a glamered weapon while it is disguised. After a glamered weapon is used to attack, this special ability is suppressed for 1 minute."
+  },
+  {
+    "ID": 38,
+    "Name": "Glorious",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, blindness/deafness, daylight, flare",
+    "Price": "Price +2 bonus",
+    "Description": "A glorious weapon glows with a dazzling light equal to a daylight spell when drawn. The wielder cannot suppress this light, though it can be temporarily suppressed by any effect that can suppress daylight. A glorious weapon flashes with light, and any creature the wielder attacks in melee is automatically dazzled until the beginning of the wielder's next turn. When a glorious weapon confirms a critical hit, the target is blinded until the beginning of the wielder's next turn (DC 14 Will negates); if the weapon's critical multiplier is greater than ×2, this blindness lasts 1 additional round per multiple over ×2. Only a melee weapon can have the glorious ability."
+  },
+  {
+    "ID": 39,
+    "Name": "Grayflame",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 6th",
+    "Craft": "Craft Magic Arms and Armor, Channel Smite, align weapon",
+    "Price": "Price +1 bonus",
+    "Description": "This weapon responds to channeled positive and negative energy. When the wielder spends a swift action to channel energy through the weapon, it ignites with a strange gray flame that sheds light as a torch, increases the weapon's enhancement bonus by +1, and deals +1d6 damage (as the divine power from flame strike) to creatures struck by the weapon. This flame lasts for 1 round for every d6 of damage or healing the channeling normally provides. When charged with positive energy, the flame is a silvery gray, good creatures are immune to the weapon's extra damage, and the weapon counts as a good and silver weapon for the purpose of bypassing damage reduction. When charged with negative energy, the flame is an ashen gray, evil creatures are immune to the weapon's extra damage, and the weapon counts as an evil and cold iron weapon for the purpose of bypassing damage reduction. This special ability can only be placed on melee weapons."
+  },
+  {
+    "ID": 40,
+    "Name": "Grounding",
+    "Aura": "Aura faint transmutation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, shocking grasp",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A grounding weapon can safely touch electrically charged surfaces without harm to its wielder. When used against a creature of the air subtype, it deals an extra 1d6 points of damage. The wielder of a grounding weapon receives a +2 competence bonus on saving throws against air- and electricity-based effects, and the weapon itself is immune to electricity damage."
+  },
+  {
+    "ID": 41,
+    "Name": "Guardian",
+    "Aura": "Aura moderate abjuration",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, resistance",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A guardian weapon allows the wielder to transfer some or all of the weapon's enhancement bonus to his saving throws as a bonus that stacks with all others. As a free action, the wielder chooses how to allocate the weapon's enhancement bonus at the start of his turn before using the weapon. The bonus on saving throws lasts until his next turn. Only the weapon's own enhancement bonus can be sacrificed, not any enhancement bonus provided by other effects such as a greater magic weapon spell. However, the total of such effects is still diminished by the amount allocated to improving saving throws. If a weapon has both the defending and guardian abilities, allocating a single point of enhancement bonus increases either AC or saving throws, but not both."
+  },
+  {
+    "ID": 42,
+    "Name": "Heartseeker",
+    "Aura": "Aura moderate necromancy",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, death knell",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A heartseeker weapon is drawn unerringly toward beating hearts. A heartseeker weapon ignores the miss chance for concealment against most living targets, though the attack must still target the proper square. This special ability does not apply against aberrations, oozes, plants, outsiders with the elemental subtype, or any creature specifically noted to lack a heart."
+  },
+  {
+    "ID": 43,
+    "Name": "Holy",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, holy smite, creator must be good",
+    "Price": "Price +2 bonus",
+    "Description": "A holy weapon is imbued with holy power. This power makes the weapon good-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of evil alignment. It bestows one permanent negative level on any evil creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including by restoration spells) while the weapon is wielded."
+  },
+  {
+    "ID": 44,
+    "Name": "Huntsman",
+    "Aura": "Aura moderate divination",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, detect animals or plants",
+    "Price": "Price +1 bonus",
+    "Description": "A huntsman weapon helps its wielder locate and capture quarry. When the weapon is held in hand, the wielder gains an enhancement bonus on Survival checks made to track any creature the weapon has damaged in the past day. It also deals +1d6 points of damage to creatures the wielder has tracked with Survival in the past day."
+  },
+  {
+    "ID": 45,
+    "Name": "Icy Burst",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, chill metal or ice storm",
+    "Price": "Price +2 bonus",
+    "Description": "An icy burst weapon functions as a frost weapon that also explodes with frost upon striking a successful critical hit. The frost does not harm the wielder. In addition to the extra damage from the frost ability, an icy burst weapon deals an extra 1d10 points of cold damage on a successful critical hit. If the weapon's critical multiplier is ×3, add an extra 2d10 points of cold damage instead, and if the multiplier is ×4, add an extra 3d10 points. Even if the frost ability is not active, the weapon still deals its extra cold damage on a successful critical hit."
+  },
+  {
+    "ID": 46,
+    "Name": "Igniting",
+    "Aura": "Aura strong evocation",
+    "CL": "CL 12th",
+    "Craft": "Craft Magic Arms and Armor, flame blade, flame strike, or fireball",
+    "Price": "Price +2 bonus",
+    "Description": "An igniting weapon functions as a flaming weapon that also causes the target to catch fire (Core Rulebook 444) upon striking it with a successful critical hit. The target does not get a saving throw to avoid catching fire, but can make a save each round on its turn to put out the fire. The flaming ability must be active for the weapon to set enemies on fire."
+  },
+  {
+    "ID": 47,
+    "Name": "Impact",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 9th",
+    "Craft": "Craft Magic Arms and Armor, bull's strength, lead blades (Advanced Player's Guide), righteous might or giant form I",
+    "Price": "Price +2 bonus",
+    "Description": "This special ability can only be placed on melee weapons that are not light weapons. An impact weapon delivers a potent kinetic jolt when it strikes, dealing damage as if the weapon were one size category larger. In addition, any bull rush combat maneuver the wielder attempts while wielding the weapon gains a bonus equal to the weapon's enhancement bonus; this includes all bull rush attempts, not only those in which a weapon is used, such as Bull Rush Strike, Shield Slam, or Unseat."
+  },
+  {
+    "ID": 48,
+    "Name": "Impervious",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, fabricate, make whole",
+    "Price": "Price +3,000 gp",
+    "Description": "An impervious weapon is warded from damage and decay. A metallic weapon cannot rust and a wooden weapon cannot rot or warp, even by magical or supernatural means. An impervious weapon gains double the normal bonus to its hardness and hit points for each point of its enhancement bonus. The break DC for an impervious weapon and the wielder's combat maneuver defense against sunder maneuvers against the impervious weapon each gain a bonus equal to twice the weapon's enhancement bonus."
+  },
+  {
+    "ID": 49,
+    "Name": "Invigorating",
+    "Aura": "Aura faint enchantment",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, good hope",
+    "Price": "Price +2 bonus",
+    "Description": "This special ability can only be placed on melee weapons. After an attack with this weapon drops a living foe (kills it or drops it to negative hit points), the weapon infuses its wielder with vigor. If its wielder is fatigued, the weapon removes the fatigue. If exhausted, the wielder becomes fatigued instead. If neither exhausted nor fatigued, the wielder gains a +2 morale bonus on attack rolls and a +10 foot enhancement bonus to all modes of movement possessed until the end of the wielder's next turn."
+  },
+  {
+    "ID": 50,
+    "Name": "Jurist",
+    "Aura": "Aura faint transmutation",
+    "CL": "CL 4th",
+    "Craft": "Craft Magic Arms and Armor, owl's wisdom",
+    "Price": "Price +1 bonus",
+    "Description": "When an inquisitor wielder uses her judgment class ability while wielding a jurist weapon, it grants her an enhancement bonus on her Perception checks and to CMD. The bonus is +1 on the first round of her judgment, and increases by +1 each round, to a maximum of +3 on the third and following rounds."
+  },
+  {
+    "ID": 51,
+    "Name": "Keen",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, keen edge",
+    "Price": "Price +1 bonus",
+    "Description": "This ability doubles the threat range of a weapon. Only piercing or slashing melee weapons can be keen. If you roll this special ability randomly for an inappropriate weapon, reroll. This benefit doesn't stack with any other effects that expand the threat range of a weapon (such as the keen edge spell or the Improved Critical feat)."
+  },
+  {
+    "ID": 52,
+    "Name": "Ki Focus",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, creator must be a monk",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can be placed only on melee weapons. The magic weapon serves as a channel for the wielder's ki, allowing her to use her special ki attacks through the weapon as if they were unarmed attacks. These attacks include the monk's ki strike, quivering palm, and the Stunning Fist feat (including any condition that the monk can apply using this feat)."
+  },
+  {
+    "ID": 53,
+    "Name": "Ki Intensifying",
+    "Aura": "Aura strong transmutation",
+    "CL": "CL 12th",
+    "Craft": "Craft Magic Arms and Armor, creator must be a monk",
+    "Price": "Price +2 bonus",
+    "Description": "The weapon channels and amplifies the wielder's ki, allowing her to use her special ki attacks through the weapon as though they were unarmed attacks. These attacks include the monk's ki strike, quivering palm, and the Stunning Fist feat. The save DC for ki abilities used through the weapon increases by half the enhancement bonus of the weapon (minimum 1). After a successful strike with a ki intensifying weapon, the wielder can spend 1 ki point as a swift action to perform a combat maneuver to bull rush, disarm, reposition, or trip as a free action without provoking attacks of opportunity. Any bonuses or penalties applicable to the weapon attack also apply to this combat maneuver check. The wielder cannot move from her space as a part of the chosen maneuver. Only melee weapons can have the ki intensifying ability. It cannot be placed on an amulet of mighty fist or similar non-weapon item. Weapons with the ki focus ability can be upgraded to be ki intensifying."
+  },
+  {
+    "ID": 54,
+    "Name": "Lifesurge",
+    "Aura": "Aura moderate conjuration",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, Channel Smite, cure serious wounds, death ward, disrupt undead",
+    "Price": "Price +2 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A lifesurge weapon boosts and sustains the wielder's life energy while he is in the throes of combat. The wielder gains a bonus on saving throws against necromantic effects—including the ability damage, ability drain, and energy drain powers of the undead—equal to the weapon's enhancement bonus. In addition, whenever the wielder receives temporary hit points from any source, he adds the weapon's enhancement bonus to these temporary hit points; this does not stack for temporary hit points from multiple sources, and these points are lost if the lifesurge weapon is not being wielded. In combat, the weapon's critical threat range is doubled against undead; this does not stack with the keen special ability or Improved Critical. Whenever a lifesurge weapon confirms a critical hit against an undead creature, it erupts with 1d8 points of positive energy (2d8 for weapons with a critical multiplier of ×3, 3d8 if it is ×4); the wielder may choose to deal this as damage to an undead target or to absorb half this amount as healing, with the remaining positive energy dissipating."
+  },
+  {
+    "ID": 55,
+    "Name": "Limning",
+    "Aura": "Aura faint evocation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, faerie fire",
+    "Price": "Price +1 bonus",
+    "Description": "When a liming weapon is wielded, a pale glow outlines it. On a successful strike against a creature affected by a means of magical concealment, the weapon outlines the creature in faerie fire (as the spell) for 1 round. Magical means of concealment include blur, displacement, invisibility, and similar effects, whether from a spell, spell-like ability, or supernatural means, but not those provided by extraordinary abilities. A liming weapon has no special effect against creatures merely hiding or concealed by nonmagical means, or those hidden by environmental conditions (even magical) such as darkness or fog."
+  },
+  {
+    "ID": 56,
+    "Name": "Lucky",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, heroism, creator must be a grit user",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on one-handed or two-handed firearms. A lucky firearm has its own magical reservoir of grit (see Ultimate Combat). Usually this grit is stored within the marks of an engraving or in a trinket that hangs from the firearm. Often these marks take the form of holy symbols or fetishes, but such a reservoir can take just about any form. This reservoir holds 1 grit point, which is refreshed at the start of each day. Whether or not the wielder of a lucky firearm has any deeds (see Ultimate Combat), she can always spend 1 grit point from the lucky firearm to reroll an attack from it that would result in a misfire. When the wielder does so, she must take the second result, even if that attack roll also results in a misfire."
+  },
+  {
+    "ID": 57,
+    "Name": "Lucky, Greater",
+    "Aura": "Aura strong enchantment",
+    "CL": "CL 12th",
+    "Craft": "Craft Magic Arms and Armor, greater heroism, creator must be a grit user",
+    "Price": "Price +3 bonus",
+    "Description": "This special ability can only be placed on one-handed or two-handed firearms. A greater lucky firearm is nearly identical to a lucky firearm, but its reservoir holds 3 grit points instead of 1. A firearm cannot have both this special ability and the lucky special ability."
+  },
+  {
+    "ID": 58,
+    "Name": "Menacing",
+    "Aura": "Aura moderate illusion",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, phantasmal killer",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A menacing weapon helps allies deal with flanked foes. When the wielder is adjacent to a creature that is being flanked by an ally, the flanking bonus on attack rolls for all flanking allies increases by +2. This ability works even if the wielder is not one of the characters flanking the creature."
+  },
+  {
+    "ID": 59,
+    "Name": "Merciful",
+    "Aura": "Aura faint conjuration",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, cure light wounds",
+    "Price": "Price +1 bonus",
+    "Description": "A merciful weapon deals an extra 1d6 points of damage, but all damage it deals is nonlethal damage. On command, the weapon suppresses this ability until told to resume it (allowing it to deal lethal damage, but without any bonus damage from this ability)."
+  },
+  {
+    "ID": 60,
+    "Name": "Mighty Cleaving",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, divine power",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A mighty cleaving weapon allows a wielder using the Cleave feat to make one additional attack if the first attack hits, as long as the next foe is adjacent to the first and also within reach. This additional attack cannot be against the first foe."
+  },
+  {
+    "ID": 61,
+    "Name": "Mimetic",
+    "Aura": "Aura faint abjuration",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, resist energy",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. Each time the wielder damages a creature using a mimetic weapon, he gains resistance 10 to one energy type that the creature is resistant or immune to for 1 round (if the creature damaged has multiple types of resistance, the wielder chooses one of those resistances to take). This resistance stacks with itself, to a maximum of 30 points of resistance against a given energy type, but not with other sources of energy resistance. The creature's own resistances and immunities are unaffected."
+  },
+  {
+    "ID": 62,
+    "Name": "Negating",
+    "Aura": "Aura moderate abjuration",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, dispel chaos, evil, good, or law",
+    "Price": "Price +2 bonus",
+    "Description": "A negating weapon briefly nullifies some forms of damage reduction when it damages a creature. Whenever a negating weapon damages a foe with DR/chaotic, DR/evil, DR/good, DR/lawful, or DR/magic, it reduces the value of that damage reduction by 5 points for 1 round. For example, a +1 negating lance hitting a creature with DR 10/good and lawful reduces the creature's DR to 5/good and lawful. If the creature has a component to its damage reduction other than the alignment types listed above, that component is unaffected. Thus, if the +1 negating lance above hits a demon with DR 10/good and cold iron, it would leave the demon with DR 10/cold iron and 5/good for 1 round. The effects of multiple negating weapons (or multiple hits from the same weapon) do not stack. This ability can only be placed on melee weapons."
+  },
+  {
+    "ID": 63,
+    "Name": "Neutralizing",
+    "Aura": "Aura faint transmutation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, purify food and drink",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A neutralizing weapon thrust into up to 1 gallon of nonmagical corrosive liquid transforms it into harmless water. When used against a creature of the earth subtype, it deals an extra 1d6 points of damage. The wielder of a neutralizing weapon receives a +2 competence bonus on saving throws against acid- and earth-based effects, and the weapon itself is immune to acid damage."
+  },
+  {
+    "ID": 64,
+    "Name": "Nimble Shot",
+    "Aura": "Aura moderate abjuration",
+    "CL": "CL 11th",
+    "Craft": "Craft Magic Arms and Armor, bow spirit (Advanced Player's Guide)",
+    "Price": "Price +4 bonus",
+    "Description": "This special ability can only be placed on ranged weapons. A nimble shot weapon doesn't provoke attacks of opportunity when fired."
+  },
+  {
+    "ID": 65,
+    "Name": "Nullifying",
+    "Aura": "Aura strong abjuration",
+    "CL": "CL 12th",
+    "Craft": "Craft Magic Arms and Armor, antimagic field",
+    "Price": "Price +3 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A nullifying weapon suppresses a creature's spell resistance for a short amount of time. Anytime the weapon strikes a creature with spell resistance and the creature takes damage from the weapon, the target's spell resistance is reduced by 1 for 1 minute. On a confirmed critical hit, its spell resistance is instead reduced by an amount equal to the weapon's critical multiplier. Multiple hits from a nullification weapon stack."
+  },
+  {
+    "ID": 66,
+    "Name": "Ominous",
+    "Aura": "Aura faint evocation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, doom or scare",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. An ominous weapon trails a shadowy haze behind every stroke, and moans a menacing dirge in battle. An ominous weapon adds its enhancement bonus on Intimidate checks made by the wielder. In addition, when an ominous weapon confirms a critical hit, the target is shaken for 1 minute (DC 13 Will negates); if the weapon's critical multiplier is greater than ×2, this condition lasts 1 additional minute per multiple over ×2. A creature that gains the shaken condition from an ominous weapon cannot gain that condition again from the same weapon for 24 hours."
+  },
+  {
+    "ID": 67,
+    "Name": "Phase Locking",
+    "Aura": "Aura moderate abjuration",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, dimensional anchor",
+    "Price": "Price +2 bonus",
+    "Description": "A phase locking weapon interferes with dimensional travel. A creature damaged by a phase locking weapon is affected as though by the dimensional anchor spell for 1 round."
+  },
+  {
+    "ID": 68,
+    "Name": "Planar",
+    "Aura": "Aura moderate conjuration",
+    "CL": "CL 9th",
+    "Craft": "Craft Magic Arms and Armor, plane shift",
+    "Price": "Price +1 bonus",
+    "Description": "A planar weapon is effective against all types of extradimensional beings, able to pierce their resistance to physical harm. When used to attack outsiders, a planar weapon ignores 5 points of their damage reduction."
+  },
+  {
+    "ID": 69,
+    "Name": "Quenching",
+    "Aura": "Aura faint transmutation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, chill metal",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A quenching weapon thrust into a nonmagical fire of Medium size or smaller extinguishes it. When used against a creature of the fire subtype, it deals an extra 1d6 points of damage. The wielder of a quenching weapon receives a +2 competence bonus on saving throws against fire-based effects, and the weapon itself is immune to fire damage."
+  },
+  {
+    "ID": 70,
+    "Name": "Reliable",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, mending",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on firearms. A reliable firearm is enchanted so that it is less likely to jam than other firearms. This enchantment reduces the misfire value of the affected firearm by 1 (minimum 0). This reduction occurs after any increases are calculated for firing with the broken condition, or for any other effect that might increase the misfire value of a firearm."
+  },
+  {
+    "ID": 71,
+    "Name": "Reliable, Greater",
+    "Aura": "Aura strong enchantment",
+    "CL": "CL 12th",
+    "Craft": "Craft Magic Arms and Armor, make whole",
+    "Price": "Price +3 bonus",
+    "Description": "This special ability can only be placed on firearms. A greater reliable firearm is enchanted so as to be less likely to jam than other firearms. The greater reliable special ability reduces the misfire value of the affected firearm by 4 (minimum 0). This reduction occurs after any increases are calculated for firing with the broken condition, or for any other effect that might increase the misfire value of a firearm. A firearm with the greater reliable special ability cannot have the reliable special ability."
+  },
+  {
+    "ID": 72,
+    "Name": "Repositioning",
+    "Aura": "Aura moderate enchantment",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, telekinesis",
+    "Price": "Price +3 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A repositioning weapon grants the wielder a +2 enhancement bonus on combat maneuver checks to reposition a foe (Advanced Player's Guide 322). If the wielder confirms a critical hit with the weapon, he can attempt to reposition his opponent as a free action. These reposition attempts still provoke attacks of opportunity as normal. A weapon cannot have both the anchoring and repositioning special abilities."
+  },
+  {
+    "ID": 73,
+    "Name": "Returning",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, telekinesis",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on a weapon that can be thrown. A returning weapon flies through the air back to the creature that threw it. It returns to the thrower just before the creature's next turn (and is therefore ready to use again in that turn). Catching a returning weapon when it comes back is a free action. If the character can't catch it, or if the character has moved since throwing it, the weapon drops to the ground in the square from which it was thrown."
+  },
+  {
+    "ID": 74,
+    "Name": "Seaborne",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, freedom of movement, touch of the sea (Advanced Player's Guide)",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A seaborne weapon functions easily in watery environments. With the weapon in hand, the wielder gains a bonus on Swim checks equal to twice the weapon's enhancement bonus. In addition, the wielder does not take the normal penalties to attack and damage rolls imposed by being underwater, as if he were subject to the spell freedom of movement."
+  },
+  {
+    "ID": 75,
+    "Name": "Second Chance",
+    "Aura": "Aura moderate abjuration",
+    "CL": "CL 11th",
+    "Craft": "Craft Magic Arms and Armor, ricochet shot (Ultimate Combat)",
+    "Price": "Price +4 bonus",
+    "Description": "This special ability can only be placed on bows. Once per round, when a shot made with this weapon misses its target, as a free action the weapon's wielder can cause that shot to swerve and try to hit the target again. The arrow fired gets a second attack at the same attack bonus as the first attack it made."
+  },
+  {
+    "ID": 76,
+    "Name": "Seeking",
+    "Aura": "Aura strong divination",
+    "CL": "CL 12th",
+    "Craft": "Craft Magic Arms and Armor, true seeing",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on ranged weapons. A seeking weapon veers toward its target, negating any miss chances that would otherwise apply, such as from concealment. The wielder still has to aim the weapon at the right square. Arrows mistakenly shot into an empty space, for example, do not veer and hit invisible enemies, even if they are nearby."
+  },
+  {
+    "ID": 77,
+    "Name": "Shock",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 8th",
+    "Craft": "Craft Magic Arms and Armor, call lightning or lightning bolt",
+    "Price": "Price +1 bonus",
+    "Description": "Upon command, a shock weapon is sheathed in crackling electricity that deals an extra 1d6 points of electricity damage on a successful hit. The electricity does not harm the wielder. The effect remains until another command is given."
+  },
+  {
+    "ID": 78,
+    "Name": "Shocking Burst",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, call lightning or lightning bolt",
+    "Price": "Price +2 bonus",
+    "Description": "A shocking burst weapon functions as a shock weapon that explodes with electricity upon striking a successful critical hit. The electricity does not harm the wielder. In addition to the extra electricity damage from the shock ability, a shocking burst weapon deals an extra 1d10 points of electricity damage on a successful critical hit. If the weapon's critical multiplier is ×3, add an extra 2d10 points of electricity damage instead, and if the multiplier is ×4, add an extra 3d10 points. Even if the shock ability is not active, the weapon still deals its extra electricity damage on a successful critical hit."
+  },
+  {
+    "ID": 79,
+    "Name": "Speed",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, haste",
+    "Price": "Price +3 bonus",
+    "Description": "When making a full-attack action, the wielder of a speed weapon may make one extra attack with it. The attack uses the wielder's full base attack bonus, plus any modifiers appropriate to the situation. (This benefit is not cumulative with similar effects, such as a haste spell.)"
+  },
+  {
+    "ID": 80,
+    "Name": "Spell Storing",
+    "Aura": "Aura strong evocation and varies",
+    "CL": "CL 12th",
+    "Craft": "Craft Magic Arms and Armor, creator must be a caster of at least 12th level",
+    "Price": "Price +1 bonus",
+    "Description": "A spell storing weapon allows a spellcaster to store a single targeted spell of up to 3rd level in the weapon. (The spell must have a casting time of 1 standard action.) Anytime the weapon strikes a creature and the creature takes damage from it, the weapon can immediately cast the spell on that creature as a free action if the wielder desires. (This special ability is an exception to the general rule that casting a spell from an item takes at least as long as casting that spell normally.) Once the spell has been cast from the weapon, a spellcaster can cast any other targeted spell of up to 3rd level into it. The weapon magically imparts to the wielder the name of the spell currently stored within it. A randomly rolled spell storing weapon has a 50% chance of having a spell stored in it already. This special ability can only be placed on melee weapons. A spell storing weapon emits a strong aura of the evocation school, plus the aura of the spell currently stored."
+  },
+  {
+    "ID": 81,
+    "Name": "Spellstealing",
+    "Aura": "Aura strong divination",
+    "CL": "CL 13th",
+    "Craft": "Craft Magic Arms and Armor, greater arcane sight, limited wish",
+    "Price": "Price +3 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A spellstealing weapon allows its wielder to siphon protective magic from a target and transfer it to herself. When the wielder rolls a critical threat against a target, she can forgo confirming the critical hit and instead automatically learn which spells or magical effects are active upon the target. The wielder may then make a caster level check to steal her choice of one of those effects, using the spellstealing weapon's caster level plus its enhancement bonus, against a DC of 11 + the caster level of the effect. If the check succeeds, the target immediately loses the benefits of that effect and the wielder gains the effect for 1 minute (or until the effect expires, whichever comes first). If the spellstealing weapon has a critical multiplier greater than ×2, the wielder may attempt to steal one additional spell effect per additional multiple beyond ×2 (two effects for ×3, and so on)."
+  },
+  {
+    "ID": 82,
+    "Name": "Stalking",
+    "Aura": "Aura moderate divination",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, hunter's eye, true strike",
+    "Price": "Price +2 bonus",
+    "Description": "The longer the wielder of a stalking weapon studies a target, the more effective her strike. As a standard action, a character wielding a stalking weapon can command it to study a creature within 60 feet. The wielder must have line of effect and line of sight to that target. When the wielder attacks the studied creature, on a successful hit the stalking weapon deals +1d6 points of bonus damage per consecutive round spent studying a target, up to a number of bonus dice equal to the stalking weapon's enhancement bonus. This bonus damage is precision damage and only applies to the first successful hit against that creature. If the wielder attacks a creature other than the studied creature, commands the weapon to study a different creature, or ends her turn more than 60 feet from the studied creature, the weapon loses all bonus damage dice against the previously studied creature."
+  },
+  {
+    "ID": 83,
+    "Name": "Thawing",
+    "Aura": "Aura faint transmutation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, heat metal",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A thawing weapon thrust into a nonmagical frozen object of Medium size or smaller melts the ice from it. When used against a creature with the cold subtype, it deals an extra 1d6 points of damage. The wielder of a thawing weapon receives a +2 competence bonus on saving throws against ice-based effects, and the weapon itself is immune to cold damage."
+  },
+  {
+    "ID": 84,
+    "Name": "Throwing",
+    "Aura": "Aura faint transmutation",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, magic stone",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A melee weapon crafted with this ability gains a range increment of 10 feet and can be thrown by a wielder proficient in its normal use."
+  },
+  {
+    "ID": 85,
+    "Name": "Thundering",
+    "Aura": "Aura faint necromancy",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, blindness/deafness",
+    "Price": "Price +1 bonus",
+    "Description": "A thundering weapon creates a cacophonous roar like thunder whenever it strikes a target with a successful critical hit. The sonic energy does not harm the wielder. A thundering weapon deals an extra 1d8 points of sonic damage on a successful critical hit. If the weapon's critical multiplier is ×3, add an extra 2d8 points of sonic damage instead, and if the multiplier is ×4, add an extra 3d8 points of sonic damage. Subjects dealt critical hits by a thundering weapon must make a successful DC 14 Fortitude save or be deafened permanently."
+  },
+  {
+    "ID": 86,
+    "Name": "Transformative",
+    "Aura": "Aura moderate transmutation",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, major creation",
+    "Price": "Price +10,000 gp",
+    "Description": "This special ability can only be placed on melee weapons. A transformative weapon alters its shape at its wielder's command, becoming any other melee weapon of the same general shape and handedness; the weapon's categorization as simple, martial, or exotic is irrelevant. For example, a Medium transformative longsword can take the shape of any other Medium one-handed melee weapon, such as a scimitar, flail, or trident, but not a Medium light or two-handed melee weapon (such as a Medium short sword or a Medium greatsword). It can even take the shape of comparable weapons of different size categories. For example, a Small greatsword is a two-handed slashing weapon for a Small character, but is a one-handed slashing weapon for a Medium character, which is very similar to a Medium longsword; a Small transformative greatsword can thus become an actual Medium longsword, usable by a Medium creature without the –2 penalty for using a weapon of the wrong size. The weapon retains all of its abilities, including enhancement bonuses and weapon special abilities, except those prohibited by its current shape. For example, a keen transformative weapon functions normally in the form of a piercing or slashing weapon, but cannot use the keen special ability when in the shape of a bludgeoning weapon. When unattended, the weapon reverts to its true shape."
+  },
+  {
+    "ID": 87,
+    "Name": "Unholy",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 7th",
+    "Craft": "Craft Magic Arms and Armor, unholy blight, creator must be evil",
+    "Price": "Price +2 bonus",
+    "Description": "An unholy weapon is imbued with unholy power. This power makes the weapon evil-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of good alignment. It bestows one permanent negative level on any good creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including restoration spells) while the weapon is wielded."
+  },
+  {
+    "ID": 88,
+    "Name": "Valiant",
+    "Aura": "Aura faint divination",
+    "CL": "CL 5th",
+    "Craft": "Craft Magic Arms and Armor, true strike",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. When a cavalier wielding a valiant weapon targets a foe with his challenge ability, the valiant weapon deals an additional 1d6 points of damage against that foe. The wielder receives a +2 bonus on combat maneuver checks made to disarm or sunder a challenged foe's weapon as well as a +4 bonus to his CMD against disarm and sunder attacks from that foe."
+  },
+  {
+    "ID": 89,
+    "Name": "Vicious",
+    "Aura": "Aura moderate necromancy",
+    "CL": "CL 9th",
+    "Craft": "Craft Magic Arms and Armor, enervation",
+    "Price": "Price +1 bonus",
+    "Description": "This special ability can only be placed on melee weapons. When a vicious weapon strikes an opponent, it creates a flash of disruptive energy that resonates between the opponent and the wielder. This energy deals an extra 2d6 points of damage to the opponent and 1d6 points of damage to the wielder."
+  },
+  {
+    "ID": 90,
+    "Name": "Vorpal",
+    "Aura": "Aura strong necromancy and transmutation",
+    "CL": "CL 18th",
+    "Craft": "Craft Magic Arms and Armor, circle of death, keen edge",
+    "Price": "Price +5 bonus",
+    "Description": "This potent and feared ability allows the weapon to sever the heads of those it strikes. Upon a roll of natural 20 (followed by a successful roll to confirm the critical hit), the weapon severs the opponent's head (if it has one) from its body. Some creatures, such as many aberrations and all oozes, have no heads. Others, such as golems and undead creatures other than vampires, are not affected by the loss of their heads. Most other creatures, however, die when their heads are cut off. A vorpal weapon must be a slashing melee weapon. If you roll this special ability randomly for an inappropriate weapon, reroll."
+  },
+  {
+    "ID": 91,
+    "Name": "Wounding",
+    "Aura": "Aura moderate evocation",
+    "CL": "CL 10th",
+    "Craft": "Craft Magic Arms and Armor, bleed",
+    "Price": "Price +2 bonus",
+    "Description": "This special ability can only be placed on melee weapons. A wounding weapon deals 1 point of bleed damage when it hits a creature. Multiple hits from a wounding weapon increase the bleed damage. Bleeding creatures take the bleed damage at the start of their turns. Bleeding can be stopped by a successful DC 15 Heal check or through the application of any spell that cures hit point damage. A critical hit does not multiply the bleed damage. Creatures immune to critical hits are immune to the bleed damage dealt by this weapon."
+  }
+]
