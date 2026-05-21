@@ -22,8 +22,8 @@
 - [x] Inventory class markdown sections
 - [x] Inventory skill markdown sections
 - [x] Inventory spell markdown sections
-- [ ] Determine normalization rules for shared labels and aliases
-- [ ] Prioritize next enrichment families for equipment, feats, class abilities, and races
+- [x] Determine normalization rules for shared labels and aliases
+- [x] Prioritize next enrichment families for equipment, feats, class abilities, and races
 
 ## Scripts
 
