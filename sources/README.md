@@ -14,4 +14,5 @@ Do not store application code here.
 - `pf1-ammo-source-index.json`, `pf1-armor-feature-source-index.json`, `pf1-specific-armor-source-index.json`, `pf1-specific-weapon-source-index.json`, and `pf1-weapon-feature-source-index.json` track the extended source-doc anchored families.
 - `pf1-class-ability-source-index.json` and `pf1-class-ability-unchained-monk-source-index.json` track the class-ability source-doc anchored families.
 - `pf1-monster-source-index.json` tracks the exact-match monster source-doc coverage.
+- `pf1-encounter-source-index.json` and `pf1-encounter-title-source-index.json` track the encounter-table source-doc coverage.
 - `pf1-srd-markdown-source-index.json` records the upstream SRD markdown commit and overlay coverage for supported families.

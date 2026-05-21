@@ -1,0 +1,315 @@
+{
+  "generatedAt": "2026-05-21T03:22:34.201Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/encountertitles.json",
+  "markdownCoverage": 51,
+  "totalRecords": 51,
+  "records": [
+    {
+      "name": "Dungeon (Low)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": null
+    },
+    {
+      "name": "Dungeon (Medium)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": null
+    },
+    {
+      "name": "Dungeon (Hard)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": null
+    },
+    {
+      "name": "Underground",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": null
+    },
+    {
+      "name": "Ruined City",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": null
+    },
+    {
+      "name": "Urban/Dangerous City",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": null
+    },
+    {
+      "name": "Coastal",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": null
+    },
+    {
+      "name": "Shallows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": null
+    },
+    {
+      "name": "Deep Sea",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": null
+    },
+    {
+      "name": "Islands",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": null
+    },
+    {
+      "name": "Level Ocean Encounters",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": null
+    },
+    {
+      "name": "Ocean",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": null
+    },
+    {
+      "name": "Swamp",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": null
+    },
+    {
+      "name": "Desert",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": null
+    },
+    {
+      "name": "Forest (Temperate)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": null
+    },
+    {
+      "name": "Jungle (Warm) ",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": null
+    },
+    {
+      "name": "Hill/Mountain",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": null
+    },
+    {
+      "name": "Plains/Savannah (Warm) ",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": null
+    },
+    {
+      "name": "Cold Mountains (Low)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": null
+    },
+    {
+      "name": "Cold Mountains (Medium)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": null
+    },
+    {
+      "name": "Cold Mountains (High)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": null
+    },
+    {
+      "name": "High Mountains",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": null
+    },
+    {
+      "name": "Underground City (Low)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": null
+    },
+    {
+      "name": "Underground City (Medium)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": null
+    },
+    {
+      "name": "Underground City (High)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": null
+    },
+    {
+      "name": "Ruined City Low Level",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": null
+    },
+    {
+      "name": "Ruined City (Medium)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": null
+    },
+    {
+      "name": "Ruined City (High)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 28,
+      "cr": null
+    },
+    {
+      "name": "City Streets",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": null
+    },
+    {
+      "name": "City Slums",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": null
+    },
+    {
+      "name": "City Sewers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": null
+    },
+    {
+      "name": "Overgrown Fallen City (Low)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": null
+    },
+    {
+      "name": "Overgrown Fallen City (Medium)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": null
+    },
+    {
+      "name": "Overgrown Fallen City (High)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 34,
+      "cr": null
+    },
+    {
+      "name": "Ruined City Risen From The Sea (Low)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 35,
+      "cr": null
+    },
+    {
+      "name": "Ruined City Risen From The Sea (Medium)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 36,
+      "cr": null
+    },
+    {
+      "name": "Ruined City Risen From The Sea(High)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 37,
+      "cr": null
+    },
+    {
+      "name": "Ruined City In The Desert (Low)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": null
+    },
+    {
+      "name": "Ruined City In The Desert (Medium)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": null
+    },
+    {
+      "name": "Ruined City In The Desert (High)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 40,
+      "cr": null
+    },
+    {
+      "name": "Jungle",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": null
+    },
+    {
+      "name": "Plains",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": null
+    },
+    {
+      "name": "Jungle City",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": null
+    },
+    {
+      "name": "Ruined Underground City",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": null
+    },
+    {
+      "name": "Ruined Desert Village",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": null
+    },
+    {
+      "name": "Lawless Port City",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": null
+    },
+    {
+      "name": "Dark And Twisted Swamp",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": null
+    },
+    {
+      "name": "Sewers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": null
+    },
+    {
+      "name": "Crypt",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": null
+    },
+    {
+      "name": "Scorched Land",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": null
+    },
+    {
+      "name": "Dark Bog",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": null
+    }
+  ]
+}

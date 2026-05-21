@@ -49,6 +49,8 @@
 - [x] Add source-doc validation helper for class abilities
 - [x] Add source-doc enrichment helper for monsters
 - [x] Add source-doc validation helper for monsters
+- [x] Add source-doc enrichment helper for encounters and encounter titles
+- [x] Add source-doc validation helper for encounters and encounter titles
 - [x] Add upstream SRD markdown validation helper
 - [x] Add enriched family validation helpers
 
@@ -68,6 +70,7 @@
 - [x] Generate source-linked flatfiles for armor features, ammunition, specific armor, specific weapons, and weapon features
 - [x] Generate source-linked flatfiles for class abilities
 - [x] Generate source-linked flatfiles for monsters
+- [x] Generate source-linked flatfiles for encounters and encounter titles
 - [x] Generate SRD markdown source index with upstream commit and match counts
 
 ## Validation

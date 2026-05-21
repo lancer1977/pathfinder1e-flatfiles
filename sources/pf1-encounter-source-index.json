@@ -1,0 +1,5679 @@
+{
+  "generatedAt": "2026-05-21T03:22:34.197Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/encounters.json",
+  "markdownCoverage": 945,
+  "totalRecords": 945,
+  "records": [
+    {
+      "name": "1d6 Dire Rats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 1
+    },
+    {
+      "name": "1d6 Fire Beetles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 1
+    },
+    {
+      "name": "1d6 Human Skeletons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 1
+    },
+    {
+      "name": "1d4 Giant Centipedes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 1
+    },
+    {
+      "name": "1 Spider Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 1
+    },
+    {
+      "name": "1d6 Human Zombies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 2
+    },
+    {
+      "name": "1 Choker",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 2
+    },
+    {
+      "name": "1 Skeletal Champion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 2
+    },
+    {
+      "name": "2d6 Goblins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Ghouls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Giant Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 3
+    },
+    {
+      "name": "1 Cockatrice",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 3
+    },
+    {
+      "name": "1 Gelatinous Cube",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 3
+    },
+    {
+      "name": "1 Rust Monster",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 3
+    },
+    {
+      "name": "1 Shadow",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 3
+    },
+    {
+      "name": "1 Wight",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 3
+    },
+    {
+      "name": "2d4 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Darkmantles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Troglodytes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Bugbears",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Vargouilles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 4
+    },
+    {
+      "name": "1 Gray Ooze",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 4
+    },
+    {
+      "name": "1 Mimic",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 4
+    },
+    {
+      "name": "1 Ogre",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 1,
+      "cr": 4
+    },
+    {
+      "name": "1 Gelatinous Cube",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 3
+    },
+    {
+      "name": "1 Rust Monster",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 3
+    },
+    {
+      "name": "2d4 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 3
+    },
+    {
+      "name": "1 Gray Ooze",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 4
+    },
+    {
+      "name": "1 Mimic",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 4
+    },
+    {
+      "name": "1 Basilisk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 5
+    },
+    {
+      "name": "1 Cloaker",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 5
+    },
+    {
+      "name": "1 Gibbering Mouther",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 5
+    },
+    {
+      "name": "1 Ochre Jelly",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 5
+    },
+    {
+      "name": "1 Wraith",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 5
+    },
+    {
+      "name": "1 Bearded Devil",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Shadows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Wights",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 5
+    },
+    {
+      "name": "1d8 Skeletal Champions",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 6
+    },
+    {
+      "name": "2d4 Ghouls + 1 Ghast",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 6
+    },
+    {
+      "name": "1 Ettin",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 6
+    },
+    {
+      "name": "1 Minotaur",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Ogres",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Trolls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 7
+    },
+    {
+      "name": "1 Babau",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 7
+    },
+    {
+      "name": "1 Black Pudding",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 7
+    },
+    {
+      "name": "1 Medusa",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 7
+    },
+    {
+      "name": "1 Shadow Demon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 7
+    },
+    {
+      "name": "1d4 Xills",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 2,
+      "cr": 8
+    },
+    {
+      "name": "1 Black Pudding",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 7
+    },
+    {
+      "name": "1 Dark Naga",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 8
+    },
+    {
+      "name": "1 Mohrg",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 8
+    },
+    {
+      "name": "1 Nabasu",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 8
+    },
+    {
+      "name": "1d6 Cloakers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 8
+    },
+    {
+      "name": "1d6 Wraiths",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Ettins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 8
+    },
+    {
+      "name": "1 Bone Devil",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 9
+    },
+    {
+      "name": "1 Night Hag",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 9
+    },
+    {
+      "name": "1 Spirit Naga",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 9
+    },
+    {
+      "name": "1 Vampire",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 9
+    },
+    {
+      "name": "1 Vrock",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Minotaurs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 9
+    },
+    {
+      "name": "2d4 Trolls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 9
+    },
+    {
+      "name": "1d4 Greater Shadows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 10
+    },
+    {
+      "name": "1 Bebilith",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 10
+    },
+    {
+      "name": "1 Barbed Devil",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 11
+    },
+    {
+      "name": "1 Devourer",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 11
+    },
+    {
+      "name": "1 Hezrou",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 11
+    },
+    {
+      "name": "1d4 Rakshasas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 12
+    },
+    {
+      "name": "1 Lich",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 12
+    },
+    {
+      "name": "1 Glabrezu",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 13
+    },
+    {
+      "name": "1 Ice Devil",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 13
+    },
+    {
+      "name": "1 Nalfeshnee",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 3,
+      "cr": 14
+    },
+    {
+      "name": "2d6 Duergar",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 3
+    },
+    {
+      "name": "1d6 Cave Fishers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 6
+    },
+    {
+      "name": "1 Basidirond",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 5
+    },
+    {
+      "name": "2d6 Drow And 1 Drow Noble",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 5
+    },
+    {
+      "name": "2d6 Giant Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Violet Fungi",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 7
+    },
+    {
+      "name": "1d8 Derros",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Morlocks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 7
+    },
+    {
+      "name": "1 Black Pudding",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 7
+    },
+    {
+      "name": "1 Giant Slug",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 8
+    },
+    {
+      "name": "1d6 Cloakers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 9
+    },
+    {
+      "name": "2d6 Dark CReepers 1 Dark Stalker",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Driders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 11
+    },
+    {
+      "name": "1d6 Intellect Devourers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 12
+    },
+    {
+      "name": "1 Purple Worm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 12
+    },
+    {
+      "name": "1d4 Ropers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 15
+    },
+    {
+      "name": "1 Neothelid",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 15
+    },
+    {
+      "name": "1 Shoggoth",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 4,
+      "cr": 19
+    },
+    {
+      "name": "1 Spider Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 1
+    },
+    {
+      "name": "1 Rat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 2
+    },
+    {
+      "name": "2d6 Human Skeletons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 3
+    },
+    {
+      "name": "1d6 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 3
+    },
+    {
+      "name": "1 Assassin Vine",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 3
+    },
+    {
+      "name": "1d6 Ghouls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 5
+    },
+    {
+      "name": "1 Barghest",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Skeletal Champions",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Yeth Hounds",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Ogres",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Shadows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Wights",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 7
+    },
+    {
+      "name": "1 Lamia",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Harpies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 8
+    },
+    {
+      "name": "1 Medusa",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 7
+    },
+    {
+      "name": "1 Nabasu",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 8
+    },
+    {
+      "name": "1 Dark Naga",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 8
+    },
+    {
+      "name": "1d8 Gargoyles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 8
+    },
+    {
+      "name": "1d6 Cyclopes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Wraiths",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 9
+    },
+    {
+      "name": "1 Behir",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 8
+    },
+    {
+      "name": "1 Sphinx",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 5
+    },
+    {
+      "name": "1 Spirit Naga",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 9
+    },
+    {
+      "name": "1d4 Spectres",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 5,
+      "cr": 10
+    },
+    {
+      "name": "1d6 Dogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 2
+    },
+    {
+      "name": "1 Rat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 2
+    },
+    {
+      "name": "1d6 Riding Dogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 5
+    },
+    {
+      "name": "1 Werewolf",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 2
+    },
+    {
+      "name": "3d6 Dire Rats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 5
+    },
+    {
+      "name": "2d6 Tengus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 5
+    },
+    {
+      "name": "2d6 Tieflings",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Ghouls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Doppelgangers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Wererats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 8
+    },
+    {
+      "name": "1 Succubus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Jann",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 8
+    },
+    {
+      "name": "1d8 Gargoyles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 8
+    },
+    {
+      "name": "1 Mohrg",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 8
+    },
+    {
+      "name": "1 Intellect Devourer (Body Theft)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 8
+    },
+    {
+      "name": "1 Vampire",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 9
+    },
+    {
+      "name": "1 Night Hag",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 9
+    },
+    {
+      "name": "1 Rakshasa",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 6,
+      "cr": 10
+    },
+    {
+      "name": "1 Giant CRab",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 2
+    },
+    {
+      "name": "1 Bunyip",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 3
+    },
+    {
+      "name": "1 Draugr Captain",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 3
+    },
+    {
+      "name": "1 Kelpie",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Reefclaws",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Draugr",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 5
+    },
+    {
+      "name": "1 Globster",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Tidepool Dragons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 5
+    },
+    {
+      "name": "1 Saltwater Merrow",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 6
+    },
+    {
+      "name": "2d4 Jinx Eaters",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Pteranodons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 6
+    },
+    {
+      "name": "1 Shark-Eating CRab",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 7
+    },
+    {
+      "name": "1d4 Sea Drakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 8
+    },
+    {
+      "name": "1 Coral Golem",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Duppies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 10
+    },
+    {
+      "name": "1d4 Giant Snapping Turtles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 7,
+      "cr": 11
+    },
+    {
+      "name": "1d4 Dolphins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 1
+    },
+    {
+      "name": "1 Incutilis",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Hippocampi",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 3
+    },
+    {
+      "name": "2d6 Merfolk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 3
+    },
+    {
+      "name": "2d6 Grindylows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 4
+    },
+    {
+      "name": "2d4 Stingrays",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 4
+    },
+    {
+      "name": "1d8 Manta Rays",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 5
+    },
+    {
+      "name": "2d4 Sea Snakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 5
+    },
+    {
+      "name": "1 Grodair",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Adaros",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Cecaelias",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 7
+    },
+    {
+      "name": "1 Tylosaurus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 8
+    },
+    {
+      "name": "1d6 Giant Moray Eels",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Giant Sea Snakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 9
+    },
+    {
+      "name": "1 Dire Shark",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 9
+    },
+    {
+      "name": "1 Nereid",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 8,
+      "cr": 10
+    },
+    {
+      "name": "1 Giant Sea Anemone",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Deaths Head Jellyfish",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Sharks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 4
+    },
+    {
+      "name": "1d8 Tritons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Ceratioidi",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Weresharks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Devilfish",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 6
+    },
+    {
+      "name": "1 Sea Scourge",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Jellyfish Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Giant Jellyfish",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 10
+    },
+    {
+      "name": "1 Charybdis",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 13
+    },
+    {
+      "name": "1 Shipwrecker CRab",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 13
+    },
+    {
+      "name": "1 Great White Whale",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 14
+    },
+    {
+      "name": "1 Lusca",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 17
+    },
+    {
+      "name": "1 Kraken",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 18
+    },
+    {
+      "name": "1 Deep Sea Serpent",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 9,
+      "cr": 19
+    },
+    {
+      "name": "1 Monkey Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 2
+    },
+    {
+      "name": "2d4 Baboons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Garden Oozes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 4
+    },
+    {
+      "name": "2d6 Kuru",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Chickcharneys",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Giant Chameleons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 6
+    },
+    {
+      "name": "1 Elder Nirento",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Archelons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Cyclopes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Soucouyants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 10
+    },
+    {
+      "name": "1 Larabay",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 11
+    },
+    {
+      "name": "1d4 Jungle Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 12
+    },
+    {
+      "name": "1d4 Gholdakos",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 12
+    },
+    {
+      "name": "1 Storm Giant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 13
+    },
+    {
+      "name": "1 Jubjub Bird",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 15
+    },
+    {
+      "name": "1d4 Kongamatos",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 10,
+      "cr": 17
+    },
+    {
+      "name": "1d4 Merfolk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 2
+    },
+    {
+      "name": "1 Fuath",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 1
+    },
+    {
+      "name": "1d4 Grindylows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 1
+    },
+    {
+      "name": "1 Squid",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 1
+    },
+    {
+      "name": "1d6 Dolphins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 2
+    },
+    {
+      "name": "1d6 Locathahs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 2
+    },
+    {
+      "name": "1 Adaro",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 3
+    },
+    {
+      "name": "1 Bunyip",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 3
+    },
+    {
+      "name": "1 Wereshark",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 3
+    },
+    {
+      "name": "1d8 Stingrays",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Reefclaws",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 3
+    },
+    {
+      "name": "2d6 Grindylows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 4
+    },
+    {
+      "name": "1 Sea Hag",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 4
+    },
+    {
+      "name": "1 Cecaelia",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Draugr Pirates",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 5
+    },
+    {
+      "name": "1 Giant Moray Eel",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 5
+    },
+    {
+      "name": "1 Globster",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Sahuagin",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 5
+    },
+    {
+      "name": "1 Jellyfish Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 6
+    },
+    {
+      "name": "1d8 Sharks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 11,
+      "cr": 6
+    },
+    {
+      "name": "1 Octopus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 1
+    },
+    {
+      "name": "2d6 Dolphins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 4
+    },
+    {
+      "name": "2d6 Merfolk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 4
+    },
+    {
+      "name": "1 Sea Hag",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Squid",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Water Mephits",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 6
+    },
+    {
+      "name": "1 Aboleth",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 7
+    },
+    {
+      "name": "1 Giant Octopus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 8
+    },
+    {
+      "name": "2d6 Sahuagin",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 8
+    },
+    {
+      "name": "2d6 Sharks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 8
+    },
+    {
+      "name": "2d6 Skum",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 8
+    },
+    {
+      "name": "1d6 Giant Moray Eels",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 8
+    },
+    {
+      "name": "1d6 Large Water Elementals",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 8
+    },
+    {
+      "name": "1 Dire Shark",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 9
+    },
+    {
+      "name": "1 Dragon Turtle",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 9
+    },
+    {
+      "name": "1 Giant Squid",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 9
+    },
+    {
+      "name": "1d4 Elasmosauruses",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 9
+    },
+    {
+      "name": "2d4 Orcas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 9
+    },
+    {
+      "name": "1 Young Bronze Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 9
+    },
+    {
+      "name": "1 Marid",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 9
+    },
+    {
+      "name": "1 Elder Water Elemental",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 11
+    },
+    {
+      "name": "1 Sea Serpent",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 12
+    },
+    {
+      "name": "1 Kraken",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 18
+    },
+    {
+      "name": "1 Shoggoth",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 12,
+      "cr": 19
+    },
+    {
+      "name": "1 Constrictor Snake",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 2
+    },
+    {
+      "name": "1 Hydra",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 4
+    },
+    {
+      "name": "1 Leech Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 4
+    },
+    {
+      "name": "1 Gray Ooze",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 4
+    },
+    {
+      "name": "1 Green Hag",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 5
+    },
+    {
+      "name": "1 Ochre Jelly",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 5
+    },
+    {
+      "name": "2d6 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 5
+    },
+    {
+      "name": "1d6 CRocodiles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 5
+    },
+    {
+      "name": "2d6 Giant Frogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Goblin Dogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 7
+    },
+    {
+      "name": "1d4 Harpies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Lizardfolk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Boggards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 8
+    },
+    {
+      "name": "1 Chuul",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 7
+    },
+    {
+      "name": "1 Dracolisk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Giant Leeches",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 8
+    },
+    {
+      "name": "1 Young Black Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 7
+    },
+    {
+      "name": "1 Giant Slug",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 8
+    },
+    {
+      "name": "1d6 Shambling Mounds",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 10
+    },
+    {
+      "name": "1 Spirit Naga",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Will-O-Wisps",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 10
+    },
+    {
+      "name": "1 Dire CRocodile",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 9
+    },
+    {
+      "name": "1 Giant Flytrap",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 10
+    },
+    {
+      "name": "1 Froghemoth",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 13,
+      "cr": 13
+    },
+    {
+      "name": "1 Giant Spider",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 1
+    },
+    {
+      "name": "1 Skeletal Champion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 2
+    },
+    {
+      "name": "1d8 Skeletons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 2
+    },
+    {
+      "name": "1 Bat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 2
+    },
+    {
+      "name": "1 Giant Scorpion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 3
+    },
+    {
+      "name": "1d3 Dire Bats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Venomous Snakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 5
+    },
+    {
+      "name": "1 Basilisk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 5
+    },
+    {
+      "name": "1 Mummy",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Jann",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 7
+    },
+    {
+      "name": "1 Lamia",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 6
+    },
+    {
+      "name": "2d6 Giant Ants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 8
+    },
+    {
+      "name": "1 Young Brass Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Gnolls And 1d4 Hyenas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 7
+    },
+    {
+      "name": "1 Remorhaz (Cold Desert Only)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 7
+    },
+    {
+      "name": "1 Behir",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 8
+    },
+    {
+      "name": "1 Sphinx",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 8
+    },
+    {
+      "name": "1 Young Blue Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 9
+    },
+    {
+      "name": "1 Adult Brass Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 11
+    },
+    {
+      "name": "1 Adult Blue Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 14,
+      "cr": 13
+    },
+    {
+      "name": "1 Bat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 2
+    },
+    {
+      "name": "1 Yellow Musk CReeper",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Giant Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 4
+    },
+    {
+      "name": "1 Assassin Vine",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 3
+    },
+    {
+      "name": "1 Giant Mantis",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 3
+    },
+    {
+      "name": "1 Unicorn",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Dire Bats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Boars",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 4
+    },
+    {
+      "name": "1 Dire Boar",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 4
+    },
+    {
+      "name": "1 Giant Stag Beetle",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 4
+    },
+    {
+      "name": "1 Owlbear",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 4
+    },
+    {
+      "name": "1 Tiger",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Werewolves",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Dire Wolves",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 6
+    },
+    {
+      "name": "1 Ettercap And 1d6 Giant Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 6
+    },
+    {
+      "name": "2d6 Goblins And 1d4 Goblin Dogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 6
+    },
+    {
+      "name": "1 Barghest And 2d6 Goblins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Centaurs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Wolves",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 7
+    },
+    {
+      "name": "1 Nymph",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 7
+    },
+    {
+      "name": "1 Dire Tiger",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 8
+    },
+    {
+      "name": "1 Young Green Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Shambling Mounds",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 9
+    },
+    {
+      "name": "1 Treant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 15,
+      "cr": 8
+    },
+    {
+      "name": "1 Bat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 2
+    },
+    {
+      "name": "1 Yellow Musk CReeper",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 2
+    },
+    {
+      "name": "1 Constrictor Snake",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 2
+    },
+    {
+      "name": "1d6 Giant Centipedes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 3
+    },
+    {
+      "name": "1 Leopard",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Giant Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Venomous Snakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Boars",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 4
+    },
+    {
+      "name": "1 Dire Boar",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 4
+    },
+    {
+      "name": "1 Tiger",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 4
+    },
+    {
+      "name": "1 Giant Frilled Lizard",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Monitor Lizards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 6
+    },
+    {
+      "name": "1 Army Ant Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 5
+    },
+    {
+      "name": "1 Ankylosaurus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Dire Apes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 7
+    },
+    {
+      "name": "2d4 Gorillas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 7
+    },
+    {
+      "name": "2d4 Deinonychuses",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 8
+    },
+    {
+      "name": "1 Nymph",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 7
+    },
+    {
+      "name": "1d4 Girallons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 9
+    },
+    {
+      "name": "1 Dire Tiger",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Shambling Mounds",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 9
+    },
+    {
+      "name": "1 Treant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 8
+    },
+    {
+      "name": "1 Tyrannosaurus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 9
+    },
+    {
+      "name": "1 Brachiosaurus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 16,
+      "cr": 10
+    },
+    {
+      "name": "1d6 Eagles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 3
+    },
+    {
+      "name": "2d6 Orcs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 3
+    },
+    {
+      "name": "2d6 Tengus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 5
+    },
+    {
+      "name": "2d6 Hobgoblins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Giant Eagles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Ogres",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 7
+    },
+    {
+      "name": "1 Young White Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 6
+    },
+    {
+      "name": "1 Bulette",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 7
+    },
+    {
+      "name": "1 Chimera",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Griffons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 8
+    },
+    {
+      "name": "2d4 Bugbears",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Cyclopes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 9
+    },
+    {
+      "name": "1 Gorgon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Wyverns",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Trolls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 9
+    },
+    {
+      "name": "1 Ogre Mage",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 8
+    },
+    {
+      "name": "1 Roc",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Hill Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 11
+    },
+    {
+      "name": "1 Young Silver Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 10
+    },
+    {
+      "name": "1 Young Red Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 10
+    },
+    {
+      "name": "1d4 Frost Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 12
+    },
+    {
+      "name": "1d6 Stone Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 12
+    },
+    {
+      "name": "1 Cloud Giant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 11
+    },
+    {
+      "name": "1d4 Fire Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 17,
+      "cr": 13
+    },
+    {
+      "name": "1 Cheetah",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 2
+    },
+    {
+      "name": "1 Cockatrice",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 3
+    },
+    {
+      "name": "1 Giant Scorpion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 3
+    },
+    {
+      "name": "1 Dire Lion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 5
+    },
+    {
+      "name": "1 Giant Frilled Lizard",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Ankhegs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Pteranodons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 6
+    },
+    {
+      "name": "1d8 Monitor Lizards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Dire Hyenas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 6
+    },
+    {
+      "name": "2d6 Hyenas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Gnolls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Lions",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Giant Ants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 7
+    },
+    {
+      "name": "2d4 Pegasi",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 8
+    },
+    {
+      "name": "2d6 Centaurs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 8
+    },
+    {
+      "name": "1 Dire Tiger",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 8
+    },
+    {
+      "name": "1d6 Ankylosauruses",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Stegosauruses",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 9
+    },
+    {
+      "name": "2d4 Rhinoceroses",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 10
+    },
+    {
+      "name": "1 Young Gold Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 11
+    },
+    {
+      "name": "2d4 Elephants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 11
+    },
+    {
+      "name": "1d6 Tyrannosauruses",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 12
+    },
+    {
+      "name": "1d8 Triceratops",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 12
+    },
+    {
+      "name": "1d6 Brachiosauruses",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 18,
+      "cr": 12
+    },
+    {
+      "name": "1 Ghoul",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 1
+    },
+    {
+      "name": "1 Skulk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 1
+    },
+    {
+      "name": "1 Cave Fisher",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 2
+    },
+    {
+      "name": "1 Rat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Yellow Musk Zombies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 2
+    },
+    {
+      "name": "2d3 Dire Rats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 3
+    },
+    {
+      "name": "1 Ice Mephit",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 3
+    },
+    {
+      "name": "2d4 Raiders (Human Rogue 2)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 3
+    },
+    {
+      "name": "2d3 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 3
+    },
+    {
+      "name": "1 Yeth Hound",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 3
+    },
+    {
+      "name": "1 Decapus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Giant Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 4
+    },
+    {
+      "name": "1 Ogre",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 4
+    },
+    {
+      "name": "1 Yeti",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 4
+    },
+    {
+      "name": "1 Huge Plague Zombie",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 5
+    },
+    {
+      "name": "Miners",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 5
+    },
+    {
+      "name": "Colonists Or Pilgrims",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 5
+    },
+    {
+      "name": "1 Polar Bear",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 19,
+      "cr": 5
+    },
+    {
+      "name": "1 Dire Polar Bear",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 7
+    },
+    {
+      "name": "1 Hill Giant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 7
+    },
+    {
+      "name": "1 Remorhaz",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 7
+    },
+    {
+      "name": "1 CRag Spider",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 8
+    },
+    {
+      "name": "1 Denizen Of Leng",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 8
+    },
+    {
+      "name": "2d3 Harpies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 8
+    },
+    {
+      "name": "2d4 Raiders (Cn Human Rogues 4)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 8
+    },
+    {
+      "name": "2 Shambling Mounds",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 8
+    },
+    {
+      "name": "Colonists Or Pilgrims",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 9
+    },
+    {
+      "name": "3 Xorn",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 9
+    },
+    {
+      "name": "2d4 Lamias",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 9
+    },
+    {
+      "name": "1 Roc",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 9
+    },
+    {
+      "name": "3d4 Ogres",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 10
+    },
+    {
+      "name": "2 Stone Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 10
+    },
+    {
+      "name": "2d4 Winter Wolves",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 10
+    },
+    {
+      "name": "3 Frost Drakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 11
+    },
+    {
+      "name": "Skulk Natives (N Skulk Cleric 5 And 2d6 Skulks)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 11
+    },
+    {
+      "name": "Yeti Tribe ( Barbarian Yet 8 And 2d4 Yetis)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 20,
+      "cr": 11
+    },
+    {
+      "name": "2d3 Frost Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 12
+    },
+    {
+      "name": "2d3 CRag Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 12
+    },
+    {
+      "name": "2d4 Denizen Of Leng",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 12
+    },
+    {
+      "name": "2 Cloud Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 13
+    },
+    {
+      "name": "2d6 Hill Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 13
+    },
+    {
+      "name": "1 Storm Giant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 13
+    },
+    {
+      "name": "2d4 Stone Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 13
+    },
+    {
+      "name": "1 Lamia Matriarch Sorcerer 5",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 13
+    },
+    {
+      "name": "1 Mountain Roper (Advanced Roper)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 14
+    },
+    {
+      "name": "1 Advanced Ice Devil",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 14
+    },
+    {
+      "name": "3d4 Advanced Frost Drakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 14
+    },
+    {
+      "name": "1 Ancient White Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 15
+    },
+    {
+      "name": "1d4 Taiga Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 15
+    },
+    {
+      "name": "1 Rune Giant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 17
+    },
+    {
+      "name": "1 Ice Linnorm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 17
+    },
+    {
+      "name": "1 Wendigo",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 17
+    },
+    {
+      "name": "Ce Human Transmuter 19",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 21,
+      "cr": 18
+    },
+    {
+      "name": "Denizen Of Leng",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 7
+    },
+    {
+      "name": "Avalanche",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 7
+    },
+    {
+      "name": "1d4 Remorhazes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 9
+    },
+    {
+      "name": "2d6 Kuchrima",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 10
+    },
+    {
+      "name": "1d6 CRag Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 11
+    },
+    {
+      "name": "1d4 Rocs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 11
+    },
+    {
+      "name": "Mature Adult White Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 12
+    },
+    {
+      "name": "1d4+1 Frost Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 12
+    },
+    {
+      "name": "Frost Worm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 12
+    },
+    {
+      "name": "Abominable Snowman",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 13
+    },
+    {
+      "name": "1d4 Cloud Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 13
+    },
+    {
+      "name": "12-Headed CRyohydra",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 13
+    },
+    {
+      "name": "Ice Devil",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 13
+    },
+    {
+      "name": "Rune Giant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 14
+    },
+    {
+      "name": "Adult Blue Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 14
+    },
+    {
+      "name": "Wendigo",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 22,
+      "cr": 17
+    },
+    {
+      "name": "2d4 Duergar",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 2
+    },
+    {
+      "name": "1 Cockroach Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 2
+    },
+    {
+      "name": "2d6 Drow",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 3
+    },
+    {
+      "name": "1 Gelatinous Cube",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Svirfneblin Scouts",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 3
+    },
+    {
+      "name": "1d6 Vegepygmy",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 3
+    },
+    {
+      "name": "1d3 Morlock Scavengers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Jinkins Or Vexgits",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Derro Scouts",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 5
+    },
+    {
+      "name": "2d4 Ghouls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 5
+    },
+    {
+      "name": "1 Ochre Jelly",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 5
+    },
+    {
+      "name": "2d4 Troglodyte Raiders Plus D3 1 Monitor Lizards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 6
+    },
+    {
+      "name": "1d2  Basidironds",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Id Oozes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 6
+    },
+    {
+      "name": "1 Lurker Above",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 23,
+      "cr": 7
+    },
+    {
+      "name": "1 Black Pudding",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 7
+    },
+    {
+      "name": "2d4 Drow Warrior 1 And 1d3 Drow Noble Cleric 3",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 7
+    },
+    {
+      "name": "2d4 Morlocks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 7
+    },
+    {
+      "name": "3d4 Derros  Including 1 Derro Sorcerer 4)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 8
+    },
+    {
+      "name": "1 Giant Slug",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 8
+    },
+    {
+      "name": "1 Intellect Devourer (In A Host Body)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 8
+    },
+    {
+      "name": "4d3 Skum",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 8
+    },
+    {
+      "name": "1 Titan Centipede",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 9
+    },
+    {
+      "name": "1d4+1 Urdefhans On Skavelings",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Fungal Mounds (Shambling Mounds With Fungal CReature Template)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 10
+    },
+    {
+      "name": "3d4 Gargoyles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 10
+    },
+    {
+      "name": "1 Young Roper",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 11
+    },
+    {
+      "name": "2d4 Seugathi",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 11
+    },
+    {
+      "name": "1 Purple Worm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 24,
+      "cr": 12
+    },
+    {
+      "name": "1 Purple Worm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": 12
+    },
+    {
+      "name": "1d4 Elder Earth Elementals",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": 13
+    },
+    {
+      "name": "2d4 Vrocks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": 13
+    },
+    {
+      "name": "1 Adult Umbral Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": 14
+    },
+    {
+      "name": "2d6 Intellect Devourers (In Host Bodies Of CR 2 8 25% Chance Leader Is An 8th-Level Sorcerer)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": 14
+    },
+    {
+      "name": "1 Worm That Walks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": 14
+    },
+    {
+      "name": "1d10 Gugs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": 15
+    },
+    {
+      "name": "1d6 Ropers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": 15
+    },
+    {
+      "name": "4d3 Advanced Seugathi Led By 1 Neothelid",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": 16
+    },
+    {
+      "name": "1 Shoggoth",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 25,
+      "cr": 19
+    },
+    {
+      "name": "1 Venomous Snake",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 1
+    },
+    {
+      "name": "1d4 Hadi*",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 1
+    },
+    {
+      "name": "1 Bat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 2
+    },
+    {
+      "name": "1 Constrictor Snake",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 2
+    },
+    {
+      "name": "1 Small Animated Object",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 2
+    },
+    {
+      "name": "1 Hadi Tafen*",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 2
+    },
+    {
+      "name": "1 Shadow",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Boars",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 4
+    },
+    {
+      "name": "1 Army Ant Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 5
+    },
+    {
+      "name": "1 Derhii",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Dire Apes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 5
+    },
+    {
+      "name": "1 Frothing Ooze",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Water Mephits",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 5
+    },
+    {
+      "name": "1 Girallon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 6
+    },
+    {
+      "name": "1 Wyvern",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 26,
+      "cr": 6
+    },
+    {
+      "name": "1 Hadi Tafen* And 1d6 Rat Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 6
+    },
+    {
+      "name": "1 Umber Jelly (Use Some Sort Of CR 6 Jelly)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Monitor Lizards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Morlocks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Shadows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 6
+    },
+    {
+      "name": "2d6 Hadi Rajwans*",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 7
+    },
+    {
+      "name": "1 CRystal Xorn (Xorn With CRystal CReature Template)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 7
+    },
+    {
+      "name": "1d4 Manticores",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 7
+    },
+    {
+      "name": "1d4 Large Animated Objects",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 7
+    },
+    {
+      "name": "1d8 Centipede Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 8
+    },
+    {
+      "name": "1 Deadfall Scorpion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 8
+    },
+    {
+      "name": "3-12 Medium Animated Objects",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 8
+    },
+    {
+      "name": "1 Leukodaemon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 9
+    },
+    {
+      "name": "1 Marid And 1d6 Water Mephits",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 10
+    },
+    {
+      "name": "1 Marid And 2 Derhii",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 10
+    },
+    {
+      "name": "1 Greater Shadow And 3d6 Shadows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 27,
+      "cr": 11
+    },
+    {
+      "name": "2 Leukodaemons And 2d6 Hadi Rajwans",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 28,
+      "cr": 12
+    },
+    {
+      "name": "1 Giant Stone Golem",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 28,
+      "cr": 12
+    },
+    {
+      "name": "1 CRystal Elder Xorn And 1d8 CRystal",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 28,
+      "cr": 12
+    },
+    {
+      "name": "3d6 Army Ant Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 28,
+      "cr": 12
+    },
+    {
+      "name": "1,Morlock,War Party (1,Morlock,Cleric,8, 1d4 Morlock,Barbarians,5, And 3d6 Morlocks)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 28,
+      "cr": 13
+    },
+    {
+      "name": "2 Marids And 2 Elder Water Elementals",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 28,
+      "cr": 14
+    },
+    {
+      "name": "1,Marid,Hunting Party (1 Noble,Marid, 1d4 Marids, And 3d4 Derhii,Guards)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 28,
+      "cr": 14
+    },
+    {
+      "name": "1 Astradaemon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 28,
+      "cr": 16
+    },
+    {
+      "name": "Important Person (Noble Or Royal)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": 0
+    },
+    {
+      "name": "Important Person (Arbiter Or Magistrate)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": 0
+    },
+    {
+      "name": "Peasants Blocking Path",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": 0
+    },
+    {
+      "name": "Pushy Vendor",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": 0
+    },
+    {
+      "name": "Pickpocket (Rogue 1; Slieght Of Hand +7)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": 1
+    },
+    {
+      "name": "Bar Brawl Spreads To Street (2d6 Commoner 1)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": 4
+    },
+    {
+      "name": "1d3 Thugs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": 4
+    },
+    {
+      "name": "1d3 Knights (Fighter 4)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": 6
+    },
+    {
+      "name": "2d4 Heavy Cavalry",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": 7
+    },
+    {
+      "name": "1d3 Elite Marines",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 29,
+      "cr": 7
+    },
+    {
+      "name": "Beggar",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": 0
+    },
+    {
+      "name": "Peasants Blocking Path",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": 0
+    },
+    {
+      "name": "Robbery In Progress (1d4 Thugs)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": 5
+    },
+    {
+      "name": "Pickpocket (Rogue",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": 1
+    },
+    {
+      "name": "1d3 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": 1
+    },
+    {
+      "name": "1 Rat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": 2
+    },
+    {
+      "name": "2d4 Small Monstrous Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Thugs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": 5
+    },
+    {
+      "name": "2d4 Guards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": 7
+    },
+    {
+      "name": "1d4 Knights (Fighter 4)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 30,
+      "cr": 7
+    },
+    {
+      "name": "Dead Body",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": 0
+    },
+    {
+      "name": "Interesting Flotsam",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": 0
+    },
+    {
+      "name": "1d4 Wererats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": 0
+    },
+    {
+      "name": "1d3 Violet Fungi",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": 2
+    },
+    {
+      "name": "2d6 Goblins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": 3
+    },
+    {
+      "name": "1d3 Will-O-Wisp",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": 6
+    },
+    {
+      "name": "1d3 Otyughs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": 6
+    },
+    {
+      "name": "2d4 Guards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": 7
+    },
+    {
+      "name": "1d3 Elite Marines",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": 7
+    },
+    {
+      "name": "2d4 Thugs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 31,
+      "cr": 8
+    },
+    {
+      "name": "1 Lacedon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 1
+    },
+    {
+      "name": "1d3 Mining Beetles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 1
+    },
+    {
+      "name": "1 Plague Steed (War Horse With Plague Template)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 1
+    },
+    {
+      "name": "1d3 Yellow Musk Zombies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 1
+    },
+    {
+      "name": "1 Abyssal Tick Swam",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 1
+    },
+    {
+      "name": "1d6 Grindylows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 2
+    },
+    {
+      "name": "1 Dretch",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 2
+    },
+    {
+      "name": "2d3 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 2
+    },
+    {
+      "name": "1 Fiendish Werewolf",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 3
+    },
+    {
+      "name": "1 Lacedon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 3
+    },
+    {
+      "name": "1 Cairn Wight",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 4
+    },
+    {
+      "name": "1 Centipede Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 4
+    },
+    {
+      "name": "1 Advanced Freshwater Merrow",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 4
+    },
+    {
+      "name": "1 Fiendish Dryad",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 4
+    },
+    {
+      "name": "1 Leech Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 4
+    },
+    {
+      "name": "1d3 Assassin Vines",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 5
+    },
+    {
+      "name": "1 Giant Moray Eel",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 5
+    },
+    {
+      "name": "1 Green Hag",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 5
+    },
+    {
+      "name": "1 SCRag",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 32,
+      "cr": 5
+    },
+    {
+      "name": "1 Swamp Skulker",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 6
+    },
+    {
+      "name": "2d3 Fiendish Giant Frogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 6
+    },
+    {
+      "name": "1 Shambling Mound",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 6
+    },
+    {
+      "name": "1 Wood Golem",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 6
+    },
+    {
+      "name": "2 Half-Fiend Dryad",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 7
+    },
+    {
+      "name": "1 Chuul",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 7
+    },
+    {
+      "name": "2 Fiendish Dire Wolverines",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 7
+    },
+    {
+      "name": "1 Freshwater Merrow Rogue 4",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 7
+    },
+    {
+      "name": "2d3 Frost Wights",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 8
+    },
+    {
+      "name": "1 Giant Slug",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 8
+    },
+    {
+      "name": "2d3 Giant Stag Beetles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 8
+    },
+    {
+      "name": "2d3 Plague Aurochs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 8
+    },
+    {
+      "name": "1 Fiendish Treant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 9
+    },
+    {
+      "name": "1d4+1 Will-O-Wisp",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 9
+    },
+    {
+      "name": "2 Fiendish",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 33,
+      "cr": 10
+    },
+    {
+      "name": "1 Hezrou",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 34,
+      "cr": 11
+    },
+    {
+      "name": "1 Fiendish Giant Flytrap",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 34,
+      "cr": 11
+    },
+    {
+      "name": "1 Hezrou And 1d6 SCRags",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 34,
+      "cr": 12
+    },
+    {
+      "name": "1 Fiendish Elder Water Elemental",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 34,
+      "cr": 12
+    },
+    {
+      "name": "2d3 Chuuls  1 Advanced Giant Chuul",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 34,
+      "cr": 13
+    },
+    {
+      "name": "1d3+1 Giant Fiendish Treants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 34,
+      "cr": 13
+    },
+    {
+      "name": "1 Green Hag Witch",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 34,
+      "cr": 11
+    },
+    {
+      "name": "1 Ancient Black Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 34,
+      "cr": 16
+    },
+    {
+      "name": "Advanced Dretch Ranger 2 On Yeth Hound",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 34,
+      "cr": 18
+    },
+    {
+      "name": "1 Reefclaw",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 35,
+      "cr": 1
+    },
+    {
+      "name": "2d4 Fire Beetles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 35,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Small Fire Elementals",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 35,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Giant CRabs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 35,
+      "cr": 4
+    },
+    {
+      "name": "2d4 Burning Skeletons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 35,
+      "cr": 4
+    },
+    {
+      "name": "1 Cult Raiding Party (1d6 Ooze-Possessed Human Adepts)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 35,
+      "cr": 5
+    },
+    {
+      "name": "1 Phase Spider",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 35,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Medium Fire Elementals",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 35,
+      "cr": 6
+    },
+    {
+      "name": "1 Tear Of Nuruu'Gal",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 35,
+      "cr": 6
+    },
+    {
+      "name": "1 Ghost",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 36,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Ooze-Possessed Human Adepts 3 With 1 Tear Of Nuruu'Gal",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 36,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Black Puddings (Gibbering Hosts)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 36,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Chuuls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 36,
+      "cr": 9
+    },
+    {
+      "name": "1d4 Black Puddings Fire",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 36,
+      "cr": 9
+    },
+    {
+      "name": "1d4 Greater Fire Elementals",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 36,
+      "cr": 11
+    },
+    {
+      "name": "1 Shining Child",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 36,
+      "cr": 12
+    },
+    {
+      "name": "3d6 Will-O-Wisp",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 36,
+      "cr": 13
+    },
+    {
+      "name": "2d6 Vrocks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 37,
+      "cr": 14
+    },
+    {
+      "name": "1d4 Shining Children",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 37,
+      "cr": 14
+    },
+    {
+      "name": "1d4 Ooze-Possessed Clerics",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 37,
+      "cr": 14
+    },
+    {
+      "name": "2d6 Salamanders And 1d6 Elder Fire Elementals",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 37,
+      "cr": 15
+    },
+    {
+      "name": "1d4 Nalfeshnees",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 37,
+      "cr": 16
+    },
+    {
+      "name": "Nuruu'Gal",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 37,
+      "cr": 21
+    },
+    {
+      "name": "1d6 Fire Beetles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 1
+    },
+    {
+      "name": "1 Venomous Snake",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 1
+    },
+    {
+      "name": "1 Skeletal Champion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 2
+    },
+    {
+      "name": "1 Vargouille",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 2
+    },
+    {
+      "name": "1 Giant Mantis",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 3
+    },
+    {
+      "name": "1 Shadow",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 3
+    },
+    {
+      "name": "1 An-Hetkoshu*",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 3
+    },
+    {
+      "name": "1 Mithral Cobra",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 3
+    },
+    {
+      "name": "1d6 Gnoll Raiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 4
+    },
+    {
+      "name": "1 Fast Zombie Bulette",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 5
+    },
+    {
+      "name": "1 Mummy",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Morlocks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 5
+    },
+    {
+      "name": "1 Basilisk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Human Cultists",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 5
+    },
+    {
+      "name": "1 Will-O-Wisp",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 6
+    },
+    {
+      "name": "1 Wyvern",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 38,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Army Ant Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 7
+    },
+    {
+      "name": "1 Chimera",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Fast Zombie Bulettes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 8
+    },
+    {
+      "name": "Dark Stalker Ranger 4",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 8
+    },
+    {
+      "name": "1 Behir",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 8
+    },
+    {
+      "name": "2d8 Le Human Clerics 3 8",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 9
+    },
+    {
+      "name": "1d4 Medusas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 9
+    },
+    {
+      "name": "1 Couatl",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 10
+    },
+    {
+      "name": "2 Dark Nagas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 10
+    },
+    {
+      "name": "1 Elder Air Elemental",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 11
+    },
+    {
+      "name": "1 Elder Earth Elemental",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 39,
+      "cr": 11
+    },
+    {
+      "name": "1d6 Panthereons (What Is A Panthereon?)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 40,
+      "cr": 11
+    },
+    {
+      "name": "The Enumerator*",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 40,
+      "cr": 13
+    },
+    {
+      "name": "1 Phoenix",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 40,
+      "cr": 15
+    },
+    {
+      "name": "1 Xacarba",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 40,
+      "cr": 15
+    },
+    {
+      "name": "2 Black Scorpions",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 40,
+      "cr": 17
+    },
+    {
+      "name": "1 Ancient Blue Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 40,
+      "cr": 18
+    },
+    {
+      "name": "2d6 Monkeys",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 2
+    },
+    {
+      "name": "1 Leopard",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Giant Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 3
+    },
+    {
+      "name": "2d6 Biloko",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 4
+    },
+    {
+      "name": "1 Botfly Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 4
+    },
+    {
+      "name": "1 Chemosit",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Gorillas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Rangers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Venomous Snakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 4
+    },
+    {
+      "name": "1 Army Ant Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Charau-Ka",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Deinonychuses",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 5
+    },
+    {
+      "name": "1 Giant Frilled Lizard",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 5
+    },
+    {
+      "name": "1 Hippopotamus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 5
+    },
+    {
+      "name": "1d8 Tribesfolk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Rival Adventurers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 5
+    },
+    {
+      "name": "1 Ankylosaurus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 6
+    },
+    {
+      "name": "1 Bloodhaze Mosquito",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Eloko",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 6
+    },
+    {
+      "name": "1 Girallon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 6
+    },
+    {
+      "name": "1 Dire Tiger",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 8
+    },
+    {
+      "name": "1 Tyrannosaurus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 41,
+      "cr": 9
+    },
+    {
+      "name": "1 Cheetah Or Other Cat",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 2
+    },
+    {
+      "name": "1 Cockatrice",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 3
+    },
+    {
+      "name": "1 Giant Scorpion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Bat Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 4
+    },
+    {
+      "name": "1 Botfly Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Monitor Lizards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 4
+    },
+    {
+      "name": "1 Rhinoceros",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Venomous Snakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Ankhegs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 5
+    },
+    {
+      "name": "1 Dire Lion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 5
+    },
+    {
+      "name": "1d8 Hyenas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 5
+    },
+    {
+      "name": "1d8 Tribesfolk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Lions",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Pteranodons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Rival Adventurers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Vultures",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 6
+    },
+    {
+      "name": "2d4 Ankhegs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 7
+    },
+    {
+      "name": "1 Elephant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 7
+    },
+    {
+      "name": "2d6 Giant Ants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 7
+    },
+    {
+      "name": "1 Stegosaurus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 7
+    },
+    {
+      "name": "1 Dire Tiger",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 8
+    },
+    {
+      "name": "1 Triceratops",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 42,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Dire Bats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Leopards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 4
+    },
+    {
+      "name": "1 Tiger",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 4
+    },
+    {
+      "name": "1 Basilisk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Boars",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 5
+    },
+    {
+      "name": "1d6 CRocodiles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Dire Apes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 5
+    },
+    {
+      "name": "1 Gibbering Mouther",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 5
+    },
+    {
+      "name": "1 Mummy",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 5
+    },
+    {
+      "name": "Rival Adventurers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 0
+    },
+    {
+      "name": "2d4 Boggards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Keches",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Pteranodons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Shadows",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 6
+    },
+    {
+      "name": "2d6 Troglodytes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Wights",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 6
+    },
+    {
+      "name": "1 Chimera",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 7
+    },
+    {
+      "name": "Guard Patrol Varies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Venomous Snake Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 7
+    },
+    {
+      "name": "2d4 Charau-Ka Thugs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 8
+    },
+    {
+      "name": "1d8 Degenerate Serpentfolk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 8
+    },
+    {
+      "name": "1d8 Deinonychus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Girallons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Jungle Mantises",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Camulatz",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 9
+    },
+    {
+      "name": "Mokele-Mbembe (Unique CReature)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 9
+    },
+    {
+      "name": "Sarcosuchus (Unique CReature)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 9
+    },
+    {
+      "name": "1d8 Megapiranha Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 10
+    },
+    {
+      "name": "Yog'Oltha (Unique CReature)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 11
+    },
+    {
+      "name": "Green God (Unique CReature)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 43,
+      "cr": 13
+    },
+    {
+      "name": "1 Cloaker",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 9
+    },
+    {
+      "name": "4d6 Morlocks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 9
+    },
+    {
+      "name": "1 Bebilith",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 10
+    },
+    {
+      "name": "6d6 Morlocks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 10
+    },
+    {
+      "name": "2d6 Skavelings",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 10
+    },
+    {
+      "name": "1d4 Urdefhan Guards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 10
+    },
+    {
+      "name": "1d4 Black Puddings",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 11
+    },
+    {
+      "name": "1 Vagabond Spider",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 11
+    },
+    {
+      "name": "2 Morlock Vessels",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 12
+    },
+    {
+      "name": "1 Roper",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 12
+    },
+    {
+      "name": "1 Iron Golem",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 13
+    },
+    {
+      "name": "Urdefhan Air Patrol (4 Members)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 13
+    },
+    {
+      "name": "1d8 Gugs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 14
+    },
+    {
+      "name": "1d8 Giant Morlocks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 14
+    },
+    {
+      "name": "Urdefhan Air Patrol (6 Members)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 14
+    },
+    {
+      "name": "6 Serpentfolk Guards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 14
+    },
+    {
+      "name": "1 Vemerak",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 14
+    },
+    {
+      "name": "1 Neothelid",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 15
+    },
+    {
+      "name": "8 Serpentfolk Guards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 44,
+      "cr": 15
+    },
+    {
+      "name": "1 Giant Fire Beetle",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 3
+    },
+    {
+      "name": "1 Human Skeleton",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 3
+    },
+    {
+      "name": "1 Pugwampi",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Baboons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 1
+    },
+    {
+      "name": "1 Camel",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 1
+    },
+    {
+      "name": "1d2  Eagles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 1
+    },
+    {
+      "name": "1 Medium Viper",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 1
+    },
+    {
+      "name": "1 Choker",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 1
+    },
+    {
+      "name": "1 Dire Bat",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 2
+    },
+    {
+      "name": "1 Doru",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 2
+    },
+    {
+      "name": "2d4 Goblins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 2
+    },
+    {
+      "name": "1 Jackalwere",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Krenshar",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 2
+    },
+    {
+      "name": "1 Ankheg",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Blink Dogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 3
+    },
+    {
+      "name": "1 Chupacabra",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 3
+    },
+    {
+      "name": "1 Giant Eagle",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 3
+    },
+    {
+      "name": "1d2  Hippogriffs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 3
+    },
+    {
+      "name": "1 Giant Scorpion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 3
+    },
+    {
+      "name": "1d2  Lions",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Large Vipers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 3
+    },
+    {
+      "name": "1 Centipede Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 4
+    },
+    {
+      "name": "2d6 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 4
+    },
+    {
+      "name": "1d2  Griffons",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Giant Eagles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 5
+    },
+    {
+      "name": "1 Dire Lion",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 5
+    },
+    {
+      "name": "2d6 Gnolls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Harpies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 6
+    },
+    {
+      "name": "2d8 Hyenas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 6
+    },
+    {
+      "name": "1 Lamia",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 6
+    },
+    {
+      "name": "1 Dragonne",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Gargoyles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 7
+    },
+    {
+      "name": "1 Shedu",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 7
+    },
+    {
+      "name": "1 Juvenile Blue Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 45,
+      "cr": 8
+    },
+    {
+      "name": "1 Monkey",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 6
+    },
+    {
+      "name": "1 Con Artist",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1 Leper",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1 Pickpocket",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1 Prostitute",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1 Zealous Merchant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Drunkards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 1
+    },
+    {
+      "name": "1 Goblin Snake",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 1
+    },
+    {
+      "name": "1 Reefclaw",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 1
+    },
+    {
+      "name": "1 Small Viper",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 1
+    },
+    {
+      "name": "1d4 Small Monstrous ???",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 1
+    },
+    {
+      "name": "1d4 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 1
+    },
+    {
+      "name": "1d6 Stray Dogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 1
+    },
+    {
+      "name": "1d4 Thugs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 1
+    },
+    {
+      "name": "1d4 Goblin Dogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1d6 Giant Cockroaches",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1d8 Pirates",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1d8 Press Gangers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1 Rat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1 Barracuda",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1 Wererat",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Cockroach Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 46,
+      "cr": 3
+    },
+    {
+      "name": "1 Shambling Mound",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 6
+    },
+    {
+      "name": "1 Tendriculos",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 6
+    },
+    {
+      "name": "Hungry Fungus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 7
+    },
+    {
+      "name": "1 Black Pudding",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 7
+    },
+    {
+      "name": "1 Yellow Musk CReeper And 2d4 Yellow Musk Zombies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 7
+    },
+    {
+      "name": "Fiendish Vermin",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 8
+    },
+    {
+      "name": "1d6+6 Dretches",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 8
+    },
+    {
+      "name": "2d4 Ettercaps",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 8
+    },
+    {
+      "name": "2d6 Boggards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 8
+    },
+    {
+      "name": "1 Witchfire",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Babaus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Will-O-Wisps",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 9
+    },
+    {
+      "name": "1 Bebilith",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 10
+    },
+    {
+      "name": "1d12 LeuCRottas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 10
+    },
+    {
+      "name": "2d4 Trolls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 10
+    },
+    {
+      "name": "2d6 Mandragoras",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 10
+    },
+    {
+      "name": "Green Hag Covey",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 10
+    },
+    {
+      "name": "2d6 Satyrs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 11
+    },
+    {
+      "name": "2d6 Soldiers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 11
+    },
+    {
+      "name": "1d4 Mobogos",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 12
+    },
+    {
+      "name": "1d6 Vrocks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 12
+    },
+    {
+      "name": "1 Banshee",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 13
+    },
+    {
+      "name": "1 Froghemoth",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 13
+    },
+    {
+      "name": "1 Glabrezu",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 13
+    },
+    {
+      "name": "1d4 Hezrous",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 13
+    },
+    {
+      "name": "2d4 Marsh Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 13
+    },
+    {
+      "name": "1 Adult Green Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 13
+    },
+    {
+      "name": "Demonic Host",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 15
+    },
+    {
+      "name": "Treerazer",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 47,
+      "cr": 25
+    },
+    {
+      "name": "1d8 Drain Spiders",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 1
+    },
+    {
+      "name": "1d6 Dire Rats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 1
+    },
+    {
+      "name": "2d8 Rats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 1
+    },
+    {
+      "name": "1 Reefclaw",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 1
+    },
+    {
+      "name": "1d6 Stray Dogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 1
+    },
+    {
+      "name": "1d4 Sewer Dwellers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 1
+    },
+    {
+      "name": "1 Bat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Goblin Snakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 2
+    },
+    {
+      "name": "1 Tunnel Terror",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Shriekers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 2
+    },
+    {
+      "name": "1d6 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 2
+    },
+    {
+      "name": "1d6 Thugs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 2
+    },
+    {
+      "name": "1d6 Goblins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Rat Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 3
+    },
+    {
+      "name": "1 Violet Fungus",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Alligators",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 4
+    },
+    {
+      "name": "1 Otyugh",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Wererats",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Derro",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 5
+    },
+    {
+      "name": "1 Ochre Jelly",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 5
+    },
+    {
+      "name": "1 Will-O-Wisp",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 48,
+      "cr": 6
+    },
+    {
+      "name": "1 Caryatid Column",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 3
+    },
+    {
+      "name": "1d6 Spider Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 3
+    },
+    {
+      "name": "1d10 Giant Maggots",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 4
+    },
+    {
+      "name": "Rot Grubs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 4
+    },
+    {
+      "name": "1d12 Zombies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 4
+    },
+    {
+      "name": "1 CRypt Thing",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 5
+    },
+    {
+      "name": "Ghouls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Imps",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Derro",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 6
+    },
+    {
+      "name": "1 Revenant",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 6
+    },
+    {
+      "name": "1d6 Wights",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 6
+    },
+    {
+      "name": "Yellow Mold",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 6
+    },
+    {
+      "name": "1 Spectre",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 7
+    },
+    {
+      "name": "1d4 Wraiths",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Vampire Spawn",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 8
+    },
+    {
+      "name": "1 Mohrg",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 8
+    },
+    {
+      "name": "Haunting",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 0
+    },
+    {
+      "name": "Priests",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 49,
+      "cr": 0
+    },
+    {
+      "name": "1 Fire Snake",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Horned Spirestalkers (?)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 2
+    },
+    {
+      "name": "1 Ember Scorpion (Fire Scorpion?)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 3
+    },
+    {
+      "name": "Emberstorm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Rattlesnakes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Hippogriffs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 5
+    },
+    {
+      "name": "1 Basilisk",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 5
+    },
+    {
+      "name": "1d6 Bush Tigers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 5
+    },
+    {
+      "name": "1 Bulette",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 7
+    },
+    {
+      "name": "1d12 Cinderwolves",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 7
+    },
+    {
+      "name": "1d12 Ankhegs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 8
+    },
+    {
+      "name": "2d12 Aurochs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 9
+    },
+    {
+      "name": "1d4 Chimeras",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 9
+    },
+    {
+      "name": "1d6 Wyverns",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 9
+    },
+    {
+      "name": "2d6 Gargoyles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 10
+    },
+    {
+      "name": "1d4 Stone Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 10
+    },
+    {
+      "name": "1 Bonestorm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 11
+    },
+    {
+      "name": "1d4 Storm Roc",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 11
+    },
+    {
+      "name": "1 Purple Worm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 12
+    },
+    {
+      "name": "1d6 Dragonnes",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 12
+    },
+    {
+      "name": "1 Red Render",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 13
+    },
+    {
+      "name": "Orcs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 0
+    },
+    {
+      "name": "Primitive Warriors",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 0
+    },
+    {
+      "name": "Dangerous Lands",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 0
+    },
+    {
+      "name": "1 Adult Red Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 50,
+      "cr": 15
+    },
+    {
+      "name": "1 Bat Swarm",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 2
+    },
+    {
+      "name": "2d6 Goblins",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Land Lampreys",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 2
+    },
+    {
+      "name": "1 Large Monstrous Spider",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 2
+    },
+    {
+      "name": "1d4 Bonesnappers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 3
+    },
+    {
+      "name": "1d6 Giant Geckos",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 3
+    },
+    {
+      "name": "1d4 Assassin Vines",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 4
+    },
+    {
+      "name": "1 Bunyip",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 4
+    },
+    {
+      "name": "1 Devilfish",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 4
+    },
+    {
+      "name": "1d12 Giant Flies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 4
+    },
+    {
+      "name": "1d12 Human Zombies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 4
+    },
+    {
+      "name": "1d4 Wild Pigs (Use Boar)",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 4
+    },
+    {
+      "name": "1 Kelpie",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 4
+    },
+    {
+      "name": "1d6 Giant Leeches",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 5
+    },
+    {
+      "name": "2d6 Goblin Dogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 5
+    },
+    {
+      "name": "1 Forester Bane",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Mosquito Swarms",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 5
+    },
+    {
+      "name": "1 Giant Constructin",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 5
+    },
+    {
+      "name": "2d12 Stirges",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 5
+    },
+    {
+      "name": "1d4 Amphisbaenas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Otyughs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 6
+    },
+    {
+      "name": "1 Shambling Mound",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 6
+    },
+    {
+      "name": "1d4 Tentamorts",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 6
+    },
+    {
+      "name": "1d12 Alligators Or CRocodiles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 7
+    },
+    {
+      "name": "1 Black Pudding",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 7
+    },
+    {
+      "name": "1d6 Faceless Stalkers",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 7
+    },
+    {
+      "name": "1d4 SCRags",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 7
+    },
+    {
+      "name": "1d12 Shocker Lizards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 7
+    },
+    {
+      "name": "1 Giant Slug",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 8
+    },
+    {
+      "name": "3 Green Hags",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Tendriculoses",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 8
+    },
+    {
+      "name": "1d6 Trolls",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 8
+    },
+    {
+      "name": "1d4 Will-O-Wisp",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 8
+    },
+    {
+      "name": "1 Wolf-In-Sheep",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 8
+    },
+    {
+      "name": "1d12 Giant Alligators Or CRocodiles",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 9
+    },
+    {
+      "name": "1d12 Giant Dire Frogs",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 9
+    },
+    {
+      "name": "1d12 Harpies",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 9
+    },
+    {
+      "name": "1d4 Dark Nagas",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 10
+    },
+    {
+      "name": "1d6 Dracolisks",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 10
+    },
+    {
+      "name": "1 Mobogo",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 10
+    },
+    {
+      "name": "1d6 Marsh Giants",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 11
+    },
+    {
+      "name": "1 Elder Black Pudding",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 12
+    },
+    {
+      "name": "1 Froghemoth",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 13
+    },
+    {
+      "name": "1d4 Ten-Headed Hydras",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 13
+    },
+    {
+      "name": "Quicksand",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 0
+    },
+    {
+      "name": "Boggards",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 0
+    },
+    {
+      "name": "Dragon",
+      "markdownPath": "monsters/encounterTables.md",
+      "tableId": 51,
+      "cr": 0
+    }
+  ]
+}

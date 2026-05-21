@@ -86,5 +86,7 @@ Current scope:
 - [x] Enrich `race.json`
 - [x] Enrich `racialtrait.json`
 - [x] Enrich `traits.json`
-- [ ] Enrich `monster.json`, `encounters.json`, `encountertitles.json`
+- [ ] Enrich `monster.json`
+- [x] Enrich `encounters.json`
+- [x] Enrich `encountertitles.json`
 - [x] Decide whether `archtype.json` should be renamed after downstream importer compatibility is verified

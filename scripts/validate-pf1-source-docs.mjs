@@ -41,6 +41,14 @@ const familyConfigs = [
     minimumCoverage: 100,
   },
   {
+    family: 'encounters',
+    file: path.join(repoRoot, 'pathfinder1e', 'encounters.json'),
+  },
+  {
+    family: 'encountertitles',
+    file: path.join(repoRoot, 'pathfinder1e', 'encountertitles.json'),
+  },
+  {
     family: 'mundane',
     file: path.join(repoRoot, 'pathfinder1e', 'mundane.json'),
   },
