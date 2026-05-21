@@ -19,6 +19,7 @@
 - [x] Generate a payload source index with family counts
 - [x] Validate every DataSeeds payload has a flatfile output
 - [x] Validate raw backup hashes against the source payloads
+- [x] Preserve source metadata needed for provenance and future diffing
 
 ## Phase 3: Classes
 

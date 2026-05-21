@@ -61,9 +61,14 @@ function main() {
     writeJson(groupedPath, payload);
     recordsByGroup.get(group).push({
       family: record.family,
+      sourceFile: record.sourceFile,
+      outputFile: record.outputFile,
       source: path.relative(repoRoot, flatfilePath).replaceAll(path.sep, '/'),
       output: path.relative(repoRoot, groupedPath).replaceAll(path.sep, '/'),
+      shape: record.shape,
       count: Array.isArray(payload) ? payload.length : null,
+      managedBy: record.managedBy ?? null,
+      copiedFromDataSeeds: record.copiedFromDataSeeds ?? null,
     });
   }
 

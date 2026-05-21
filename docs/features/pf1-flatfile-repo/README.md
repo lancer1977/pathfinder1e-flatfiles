@@ -51,6 +51,7 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 ## Family Export Command
 
 - `npm run export:families` writes grouped family snapshots under `exports/pf1-family-snapshots/` with a manifest for review and downstream packaging.
+- The export manifest preserves source-file metadata, output-file metadata, shapes, counts, and managed-family markers for diffing and provenance.
 
 ## Smoke Refresh Command
 
