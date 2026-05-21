@@ -58,3 +58,4 @@
 - [x] Validate mirrored payload counts match source counts
 - [x] Validate raw backup hashes match source payloads
 - [x] Validate SRD overlay match counts against generated flatfiles
+- [x] Validate the full refresh smoke path and grouped family export manifest
