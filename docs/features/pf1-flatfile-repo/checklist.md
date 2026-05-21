@@ -60,6 +60,7 @@
 - [x] Generate raw backup manifest with counts and SHA-256 hashes
 - [x] Generate raw backup files under family group folders
 - [x] Generate JSON flatfiles for all 28 root DataSeeds PF1 payloads
+- [x] Generate a canonical family-shape manifest for the generated PF1 flatfiles
 - [x] Generate merged class flatfile from vault and legacy seeds
 - [x] Generate merged race flatfile from vault and legacy seeds
 - [x] Generate merged racial trait flatfile from vault and legacy seeds

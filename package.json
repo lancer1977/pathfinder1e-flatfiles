@@ -9,8 +9,8 @@
     "smoke:refresh": "bash scripts/smoke-refresh.sh",
     "update:srd": "node scripts/update-from-srd-markdown.mjs",
     "assign:ids": "node scripts/assign-flatfile-ids.mjs",
-    "refresh:all": "npm run sync:dataseeds && npm run refresh:classes && npm run refresh:races && npm run refresh:racial-traits && npm run refresh:skills && npm run refresh:spells && npm run refresh:traits && npm run refresh:source-docs && npm run refresh:monsters && npm run refresh:encounters && npm run update:srd && npm run assign:ids",
-    "validate:all": "npm run validate:backup && npm run validate:payloads && npm run validate:classes && npm run validate:skills && npm run validate:spells && npm run validate:races && npm run validate:racial-traits && npm run validate:traits && npm run validate:source-docs && npm run validate:srd",
+    "refresh:all": "npm run sync:dataseeds && npm run refresh:classes && npm run refresh:races && npm run refresh:racial-traits && npm run refresh:skills && npm run refresh:spells && npm run refresh:traits && npm run refresh:source-docs && npm run refresh:family-shapes && npm run refresh:monsters && npm run refresh:encounters && npm run update:srd && npm run assign:ids",
+    "validate:all": "npm run validate:backup && npm run validate:payloads && npm run validate:classes && npm run validate:skills && npm run validate:spells && npm run validate:races && npm run validate:racial-traits && npm run validate:traits && npm run validate:family-shapes && npm run validate:source-docs && npm run validate:srd",
     "validate:backup": "node scripts/validate-pf1-api-backup.mjs",
     "validate:payloads": "node scripts/validate-pf1-payloads.mjs",
     "validate:srd": "node scripts/validate-pf1-srd-markdown.mjs",
@@ -27,7 +27,9 @@
     "refresh:traits": "node scripts/refresh-pf1-traits.mjs",
     "validate:traits": "node scripts/validate-pf1-traits.mjs",
     "refresh:source-docs": "node scripts/refresh-pf1-source-docs.mjs",
+    "refresh:family-shapes": "node scripts/refresh-pf1-family-shapes.mjs",
     "validate:source-docs": "node scripts/validate-pf1-source-docs.mjs",
+    "validate:family-shapes": "node scripts/validate-pf1-family-shapes.mjs",
     "refresh:monsters": "node scripts/refresh-pf1-monsters.mjs",
     "refresh:encounters": "node scripts/refresh-pf1-encounters.mjs"
   }

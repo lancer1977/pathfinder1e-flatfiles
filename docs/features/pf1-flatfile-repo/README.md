@@ -34,6 +34,7 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - `pathfinder1e/*.json` is the generated flatfile surface consumed by downstream importers.
 - `Pathfinder-1E-SRD-Markdown` is pulled into `.cache/` and used as an upstream markdown overlay source.
 - PF1 markdown is the correction and enrichment source for fields missing from DataSeeds.
+- `sources/pf1-family-shape-index.json` records the canonical PF1 flatfile JSON array shapes.
 - Family-specific refresh scripts may add fields, but they should preserve record identity and counts unless a deliberate source correction is documented.
 
 ## Normalization Rules
@@ -89,6 +90,7 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - [x] Define shared label and alias normalization rules
 - [x] Add family-oriented export helper for grouped family snapshots
 - [x] Add source-repo refresh smoke tests for the flatfile repo itself
+- [x] Add canonical family-shape manifest and validation
 - [x] Add markdown enrichment for weapons
 - [x] Add markdown enrichment for armor
 - [x] Add markdown enrichment for weapon features

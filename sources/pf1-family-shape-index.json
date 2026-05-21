@@ -1,0 +1,528 @@
+{
+  "generatedAt": "2026-05-21T03:24:26.934Z",
+  "flatfileRoot": "pathfinder1e",
+  "format": "json-array",
+  "families": [
+    {
+      "family": "ammo",
+      "file": "pathfinder1e/ammo.json",
+      "shape": "array",
+      "count": 32,
+      "fields": [
+        "Name",
+        "Cost",
+        "Weight",
+        "DamageType",
+        "Source",
+        "AmmoType",
+        "Quantity",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "archtype",
+      "file": "pathfinder1e/archtype.json",
+      "shape": "array",
+      "count": 246,
+      "fields": [
+        "Name",
+        "ClassName"
+      ]
+    },
+    {
+      "family": "armor",
+      "file": "pathfinder1e/armor.json",
+      "shape": "array",
+      "count": 54,
+      "fields": [
+        "Name",
+        "Cost",
+        "BaseAC",
+        "MaxDex",
+        "ArmorCheckPenalty",
+        "ArcaneSpellFailure",
+        "Move30",
+        "Move20",
+        "Weight",
+        "Category",
+        "ItemType",
+        "Source",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "armorFeatures",
+      "file": "pathfinder1e/armorFeatures.json",
+      "shape": "array",
+      "count": 67,
+      "fields": [
+        "Name",
+        "Aura",
+        "CL",
+        "Craft",
+        "Price",
+        "Description",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "characterClass",
+      "file": "pathfinder1e/characterClass.json",
+      "shape": "array",
+      "count": 66,
+      "fields": [
+        "Name",
+        "Hitdie",
+        "Fortitude",
+        "Reflex",
+        "Will",
+        "Skillsperlevel",
+        "ClassSkills",
+        "System",
+        "Source",
+        "License",
+        "Type",
+        "Bab"
+      ]
+    },
+    {
+      "family": "classAbility",
+      "file": "pathfinder1e/classAbility.json",
+      "shape": "array",
+      "count": 927,
+      "fields": [
+        "Name",
+        "Archtype",
+        "Level",
+        "Sacrifice",
+        "Description",
+        "ClassName",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "classAbility.UnchainedMonk",
+      "file": "pathfinder1e/classAbility.UnchainedMonk.json",
+      "shape": "array",
+      "count": 19,
+      "fields": [
+        "Name",
+        "SpellLike",
+        "Archtype",
+        "Level",
+        "Sacrifice",
+        "Description",
+        "ClassName",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "conditions",
+      "file": "pathfinder1e/conditions.json",
+      "shape": "array",
+      "count": 33,
+      "fields": [
+        "Name",
+        "Description"
+      ]
+    },
+    {
+      "family": "deed",
+      "file": "pathfinder1e/deed.json",
+      "shape": "array",
+      "count": 37,
+      "fields": [
+        "Name",
+        "Class",
+        "Level",
+        "Implemented",
+        "Description",
+        "Cost",
+        "Passive"
+      ]
+    },
+    {
+      "family": "encounters",
+      "file": "pathfinder1e/encounters.json",
+      "shape": "array",
+      "count": 945,
+      "fields": [
+        "Roll",
+        "Encounter",
+        "CR",
+        "TableID"
+      ]
+    },
+    {
+      "family": "encountertitles",
+      "file": "pathfinder1e/encountertitles.json",
+      "shape": "array",
+      "count": 51,
+      "fields": [
+        "Name",
+        "Id"
+      ]
+    },
+    {
+      "family": "feats",
+      "file": "pathfinder1e/feats.json",
+      "shape": "array",
+      "count": 1145,
+      "fields": [
+        "Name",
+        "Type",
+        "Implemented",
+        "Description",
+        "Benefits",
+        "Prerequistites",
+        "Source",
+        "System",
+        "Multiple",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "language",
+      "file": "pathfinder1e/language.json",
+      "shape": "array",
+      "count": 33,
+      "fields": [
+        "Name",
+        "Spoken",
+        "Description"
+      ]
+    },
+    {
+      "family": "magicItems",
+      "file": "pathfinder1e/magicItems.json",
+      "shape": "array",
+      "count": 1125,
+      "fields": [
+        "Name",
+        "Aura",
+        "CL",
+        "ItemType",
+        "Weight",
+        "Description",
+        "Requirements",
+        "ItemCategory",
+        "Source",
+        "Cost",
+        "AuraStrength",
+        "Transmutation",
+        "Implemented",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "monster",
+      "file": "pathfinder1e/monster.json",
+      "shape": "array",
+      "count": 2009,
+      "fields": [
+        "Name",
+        "CR",
+        "Alignment",
+        "Size",
+        "Type",
+        "Init",
+        "Senses",
+        "Aura",
+        "ACMods",
+        "HP",
+        "HD",
+        "Fort",
+        "Ref",
+        "Will",
+        "Speed",
+        "Speed_Mod",
+        "Melee",
+        "Reach",
+        "SpecialAttacks",
+        "AbilityScores",
+        "BaseAtk",
+        "Feats",
+        "Skills",
+        "SQ",
+        "Environment",
+        "Organization",
+        "Treasure",
+        "Description_Visual",
+        "Source",
+        "SpecialAbilities",
+        "Description",
+        "Fly",
+        "Climb",
+        "Burrow",
+        "Swim",
+        "Land",
+        "DirtySkills"
+      ]
+    },
+    {
+      "family": "mundane",
+      "file": "pathfinder1e/mundane.json",
+      "shape": "array",
+      "count": 277,
+      "fields": [
+        "Name",
+        "Cost",
+        "Weight",
+        "Source",
+        "Subtype",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "powers",
+      "file": "pathfinder1e/powers.json",
+      "shape": "array",
+      "count": 1062,
+      "fields": [
+        "Name",
+        "Type",
+        "SpellLike",
+        "Description"
+      ]
+    },
+    {
+      "family": "race",
+      "file": "pathfinder1e/race.json",
+      "shape": "array",
+      "count": 42,
+      "fields": [
+        "Name",
+        "Str",
+        "Dex",
+        "Con",
+        "Wis",
+        "Int",
+        "Cha",
+        "Move",
+        "Advanced",
+        "Subtype",
+        "Languages",
+        "MarkdownPath",
+        "MarkdownTitle",
+        "MarkdownIntro",
+        "MarkdownPhysicalDescription",
+        "MarkdownSociety",
+        "MarkdownRelations",
+        "MarkdownAlignmentandReligion",
+        "MarkdownAdventurers",
+        "MarkdownMalesNames",
+        "MarkdownFemaleNames",
+        "MarkdownAlternateRacialTraits",
+        "MarkdownRacialSubtypes",
+        "MarkdownFavoredClassOptions"
+      ]
+    },
+    {
+      "family": "racialtrait",
+      "file": "pathfinder1e/racialtrait.json",
+      "shape": "array",
+      "count": 629,
+      "fields": [
+        "Name",
+        "Alternate",
+        "Race",
+        "Implemented",
+        "Replaces",
+        "BenefitType",
+        "Description"
+      ]
+    },
+    {
+      "family": "skills",
+      "file": "pathfinder1e/skills.json",
+      "shape": "array",
+      "count": 96,
+      "fields": [
+        "CategoryId",
+        "Game",
+        "Name",
+        "Stat",
+        "Trained"
+      ]
+    },
+    {
+      "family": "specialization",
+      "file": "pathfinder1e/specialization.json",
+      "shape": "array",
+      "count": 279,
+      "fields": [
+        "Type",
+        "Name",
+        "Skill",
+        "Spells",
+        "Power",
+        "Power1",
+        "Power2",
+        "Power3",
+        "Power4",
+        "Power5",
+        "Feat",
+        "Description"
+      ]
+    },
+    {
+      "family": "specificArmor",
+      "file": "pathfinder1e/specificArmor.json",
+      "shape": "array",
+      "count": 58,
+      "fields": [
+        "ID",
+        "Name",
+        "Aura",
+        "CL",
+        "Craft",
+        "Price",
+        "Description",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "specificWeapon",
+      "file": "pathfinder1e/specificWeapon.json",
+      "shape": "array",
+      "count": 81,
+      "fields": [
+        "Name",
+        "Aura",
+        "CL",
+        "Craft",
+        "Price",
+        "Field6",
+        "Description",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "spells",
+      "file": "pathfinder1e/spells.json",
+      "shape": "array",
+      "count": 1553,
+      "fields": [
+        "Name",
+        "Duration",
+        "School",
+        "Subschool",
+        "Effect",
+        "SpellType",
+        "CastingTime",
+        "Components",
+        "Range",
+        "SavingThrow",
+        "Resistance",
+        "Source",
+        "CostlyComponents",
+        "Verbal",
+        "Somatic",
+        "Sorcerer",
+        "Wizard",
+        "Summoner",
+        "Cleric",
+        "Bard",
+        "Witch",
+        "SlaLevel",
+        "DivineFocus",
+        "Description"
+      ]
+    },
+    {
+      "family": "traits",
+      "file": "pathfinder1e/traits.json",
+      "shape": "array",
+      "count": 523,
+      "fields": [
+        "Name",
+        "Imp",
+        "Category",
+        "Source",
+        "Benefit"
+      ]
+    },
+    {
+      "family": "weapon",
+      "file": "pathfinder1e/weapon.json",
+      "shape": "array",
+      "count": 218,
+      "fields": [
+        "Name",
+        "Cost",
+        "WeaponGroup",
+        "DmgS",
+        "MediumDamage",
+        "Threshhold",
+        "Multiplier",
+        "Range",
+        "Weight",
+        "DamageType",
+        "Source",
+        "Category",
+        "ItemType",
+        "Action",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "weaponfeature",
+      "file": "pathfinder1e/weaponfeature.json",
+      "shape": "array",
+      "count": 91,
+      "fields": [
+        "ID",
+        "Name",
+        "Aura",
+        "CL",
+        "Craft",
+        "Price",
+        "Description",
+        "MarkdownPath",
+        "MarkdownTitle"
+      ]
+    },
+    {
+      "family": "words",
+      "file": "pathfinder1e/words.json",
+      "shape": "array",
+      "count": 152,
+      "fields": [
+        "ID",
+        "Name",
+        "WordType",
+        "WordSubtype",
+        "School",
+        "Subschool",
+        "Duration",
+        "Save",
+        "SR",
+        "Harmless",
+        "Target",
+        "Alchemist",
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Inquisitor",
+        "Magus",
+        "Paladin",
+        "Ranger",
+        "SorWiz",
+        "Summoner",
+        "Witch",
+        "Description"
+      ]
+    }
+  ]
+}
