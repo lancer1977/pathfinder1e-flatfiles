@@ -88,7 +88,14 @@
     "Alternate": 0,
     "Race": "Gillman",
     "Implemented": 0,
-    "Description": "Gillmen have the aquatic subtype, but can breathe both water and air."
+    "Description": "Gillmen have the aquatic subtype, but can breathe both water and air.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Amphibious",
+    "MarkdownSection": "Other Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Swim racial trait;",
+    "MarkdownBenefit": "Members of this race are amphibious and can breathe both air and water.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Amphibious",
@@ -96,7 +103,14 @@
     "Race": "Merfolk",
     "Implemented": 0,
     "Description": "Merfolk are amphibious, but prefer not to spend long periods out of the water.",
-    "FlatfileId": "racialtrait:amphibious:2"
+    "FlatfileId": "racialtrait:amphibious:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Amphibious",
+    "MarkdownSection": "Other Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Swim racial trait;",
+    "MarkdownBenefit": "Members of this race are amphibious and can breathe both air and water.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Amphibious",
@@ -105,7 +119,14 @@
     "Implemented": 0,
     "Replaces": "Spell-Like Ability",
     "Description": "Some undines are born with a permanent bond to water. Undines with this racial trait gain the aquatic subtype and amphibious special quality. This racial trait replaces the spell-like ability racial trait.",
-    "FlatfileId": "racialtrait:amphibious:3"
+    "FlatfileId": "racialtrait:amphibious:3",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Amphibious",
+    "MarkdownSection": "Other Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Swim racial trait;",
+    "MarkdownBenefit": "Members of this race are amphibious and can breathe both air and water.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Ancestral Arms",
@@ -156,7 +177,14 @@
     "Race": "Elf",
     "Implemented": 0,
     "Replaces": "Weapon Familiarity",
-    "Description": "Some elven families have such long traditions of producing wizards (and other arcane spellcasters) that they raise their children with the assumption each is destined to be a powerful magic-user, with little need for mundane concerns such as skill with we"
+    "Description": "Some elven families have such long traditions of producing wizards (and other arcane spellcasters) that they raise their children with the assumption each is destined to be a powerful magic-user, with little need for mundane concerns such as skill with we",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Arcane Focus",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on concentration checks made to cast arcane spells defensively.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Arcane Training",
@@ -212,7 +240,14 @@
     "Replaces": "Sneaky",
     "BenefitType": "CMD",
     "BenefitValue": "General:1",
-    "Description": "Incessant drills make defense second nature to some hobgoblins. Hobgoblins with this racial trait gain a +1 bonus to CMD. This racial trait replaces sneaky."
+    "Description": "Incessant drills make defense second nature to some hobgoblins. Hobgoblins with this racial trait gain a +1 bonus to CMD. This racial trait replaces sneaky.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Battle-Hardened",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +1 bonus to CMD.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Beast Bond",
@@ -240,7 +275,14 @@
     "Race": "Tiefling",
     "Implemented": 0,
     "Replaces": "Skilled",
-    "Description": "Many tieflings find that the best way to get along in the world is to tell others what they want to hear. These tieflings' practice of telling habitual falsehoods grants them a +4 racial bonus on Bluff checks to convince an opponent that what they are say"
+    "Description": "Many tieflings find that the best way to get along in the world is to tell others what they want to hear. These tieflings' practice of telling habitual falsehoods grants them a +4 racial bonus on Bluff checks to convince an opponent that what they are say",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Beguiling Liar",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +4 racial bonus on Bluff checks to convince an opponent that what they are saying is true when they tell a lie.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Bestial",
@@ -280,7 +322,14 @@
     "Race": "Gnome",
     "Implemented": 0,
     "Replaces": "Hatred#Defensive Training",
-    "Description": "Some gnomes have strong ties to specific kinds of terrain, as a holdover from their fey origins. These gnomes gain a +2 dodge bonus to AC when in a specific terrain type selected from the ranger list of favored terrains. This choice is made at character c"
+    "Description": "Some gnomes have strong ties to specific kinds of terrain, as a holdover from their fey origins. These gnomes gain a +2 dodge bonus to AC when in a specific terrain type selected from the ranger list of favored terrains. This choice is made at character c",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Bond to the Land",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 dodge bonus to AC when in a specific terrain type selected from the ranger's list of favored terrains. This choice is made at character creation, and cannot be changed.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Bonus Feat",
@@ -297,14 +346,28 @@
     "Race": "Slyph",
     "Implemented": 0,
     "Replaces": "Air Affinity",
-    "Description": "Breezes seem to follow most sylphs wherever they go, but some sylphs are better able to control these winds than others. A sylph with this racial trait surrounds herself with swirling winds, gaining a +2 racial bonus to AC against nonmagical ranged attack"
+    "Description": "Breezes seem to follow most sylphs wherever they go, but some sylphs are better able to control these winds than others. A sylph with this racial trait surrounds herself with swirling winds, gaining a +2 racial bonus to AC against nonmagical ranged attack",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Breeze-Kissed",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Air or fey type;",
+    "MarkdownBenefit": "Members of this race are surrounded by swirling winds, gaining a +2 racial bonus to AC against nonmagical ranged attacks. They can calm or renew these winds as a swift action. Once per day, a member of this race can channel this wind into a single gust, making a bull rush or trip combat maneuver attempt against one creature within 30 feet. Doing so exhausts the user's breeze-kissed ability for 24 hours. This is a supernatural ability.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Camouflage",
     "Alternate": 0,
     "Race": "Grippli",
     "Implemented": 0,
-    "Description": "Gripplis receive a +4 racial bonus on Stealth checks in marshes and forested areas."
+    "Description": "Gripplis receive a +4 racial bonus on Stealth checks in marshes and forested areas.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Camouflage",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose a ranger favored terrain type. Members of this race gain a +4 racial bonus on Stealth checks while within that terrain type.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Carrion Sense",
@@ -312,7 +375,14 @@
     "Race": "Tengu",
     "Implemented": 0,
     "Replaces": "Gifted Linguist",
-    "Description": "Many tengus have a natural ability to sniff out carrion. While their sense of smell isn't as keen as that of other species, it is particularly attuned to the scent of injuries or death. Tengus with this racial trait have a limited scent ability, which onl"
+    "Description": "Many tengus have a natural ability to sniff out carrion. While their sense of smell isn't as keen as that of other species, it is particularly attuned to the scent of injuries or death. Tengus with this racial trait have a limited scent ability, which onl",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Carrion Sense",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race have a natural ability to sniff out carrion. This functions like the scent ability, but only for corpses and badly wounded creatures (creatures with 25% or fewer hit points).",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Catfolk",
@@ -336,7 +406,14 @@
     "Alternate": 0,
     "Race": "Catfolk",
     "Implemented": 0,
-    "Description": "Once per day when a catfolk makes a Reflex saving throw, he can roll the saving throw twice and take the better result. He must decide to use this ability before the saving throw is attempted."
+    "Description": "Once per day when a catfolk makes a Reflex saving throw, he can roll the saving throw twice and take the better result. He must decide to use this ability before the saving throw is attempted.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Cat's Luck",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "The race has at least a +2 racial bonus to Dexterity;",
+    "MarkdownBenefit": "Members of this race gain the following extraordinary ability: Once per day, when a member of this race makes a Reflex saving throw, it can roll the saving throw twice and take the better result. It must decide to use this ability before attempting the saving throw.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Cave Crawler",
@@ -360,7 +437,14 @@
     "Race": "Aasimar",
     "Implemented": 0,
     "Replaces": "Skilled#Celestial Resistance",
-    "Description": "Some aasimars follow their destiny to war against the powers of ultimate evil. These individuals gain a +1 insight bonus on attack rolls and to AC against evil outsiders and a +2 racial bonus on Knowledge (planes) and Spellcraft checks to identify evil ou"
+    "Description": "Some aasimars follow their destiny to war against the powers of ultimate evil. These individuals gain a +1 insight bonus on attack rolls and to AC against evil outsiders and a +2 racial bonus on Knowledge (planes) and Spellcraft checks to identify evil ou",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Celestial Crusader",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to Elysium, Heaven, or Nirvana;",
+    "MarkdownBenefit": "Members of this race gain a +1 insight bonus on attack rolls and to AC against evil outsiders and a +2 racial bonus to identify evil outsiders or items or effects evil outsiders create with Knowledge (planes) or Spellcraft; they may use these skills untrained for this purpose.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Celestial Resistance",
@@ -369,7 +453,14 @@
     "Implemented": 1,
     "BenefitType": "Resistance",
     "BenefitValue": "Acid:5#Cold:5#Electricity:5",
-    "Description": "Aasimars have acid resistance 5, cold resistance 5, and electricity resistance 5."
+    "Description": "Aasimars have acid resistance 5, cold resistance 5, and electricity resistance 5.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Celestial Resistance",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to Elysium, Heaven, or Nirvana;",
+    "MarkdownBenefit": "Members of this race gain acid resistance 5, cold resistance 5, and electricity resistance 5.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Chain Fighter",
@@ -428,7 +519,14 @@
     "Alternate": 0,
     "Race": "Changeling",
     "Implemented": 0,
-    "Description": "Changelings' fingernails are hard and sharp, granting them two claw attacks (1d4 points of damage each)."
+    "Description": "Changelings' fingernails are hard and sharp, granting them two claw attacks (1d4 points of damage each).",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Claws",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Advanced Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race receive two claw attacks. These are primary natural attacks. The damage is based on the creature's size .",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Clever Cat",
@@ -470,7 +568,14 @@
     "Race": "Ratfolk",
     "Implemented": 0,
     "Replaces": "Swarming",
-    "Description": "Ratfolk can fight viciously when cut off from friends and allies. Whenever a ratfolk with this racial trait is reduced to half or fewer of his hit points, and has no conscious ally within 30 feet, he gains a +2 racial bonus on melee attack rolls and to Ar"
+    "Description": "Ratfolk can fight viciously when cut off from friends and allies. Whenever a ratfolk with this racial trait is reduced to half or fewer of his hit points, and has no conscious ally within 30 feet, he gains a +2 racial bonus on melee attack rolls and to Ar",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Cornered Fury",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Whenever a member of this race is reduced to half its hit points or fewer and has no conscious ally within 30 feet, it gains a +2 racial bonus on melee attack rolls and to Armor Class.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Craftsman",
@@ -478,7 +583,14 @@
     "Race": "Dwarf",
     "Implemented": 0,
     "Replaces": "Greed",
-    "Description": "Dwarves are known for their superior craftsmanship when it comes to metallurgy and stonework. Dwarves with this racial trait receive a +2 racial bonus on all Craft or Profession checks related to metal or stone. This racial trait replaces greed."
+    "Description": "Dwarves are known for their superior craftsmanship when it comes to metallurgy and stonework. Dwarves with this racial trait receive a +2 racial bonus on all Craft or Profession checks related to metal or stone. This racial trait replaces greed.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Craftsman",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Member of this race gain a +2 racial bonus on all Craft or Profession checks to create objects from metal or stone.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Crafty",
@@ -503,7 +615,14 @@
     "Race": "Oread",
     "Implemented": 0,
     "Replaces": "Earth Affinity",
-    "Description": "Oreads with this trait gain a +2 racial bonus to AC against rays thanks to their reflective crystalline skin. In addition, once per day, they can deflect a single ray attack targeted at them as if they were using the Deflect Arrows feat. This racial trait"
+    "Description": "Oreads with this trait gain a +2 racial bonus to AC against rays thanks to their reflective crystalline skin. In addition, once per day, they can deflect a single ray attack targeted at them as if they were using the Deflect Arrows feat. This racial trait",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Crystalline Form",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Earth, construct type, or half-construct subtype;",
+    "MarkdownBenefit": "Members of this race have reflective, crystalline skin that grants them a +2 racial bonus to AC against rays. Once per day, they can deflect a single ray attack targeted at them as if they were using the Deflect Arrows feat.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Curiosity",
@@ -511,7 +630,14 @@
     "Race": "Catfolk",
     "Implemented": 0,
     "Replaces": "Natural Hunter",
-    "Description": "Catfolk are naturally inquisitive about the world around them, though some are more curious than others. Such catfolk gain a +4 bonus on Diplomacy checks to gather information, and Knowledge (history) and Knowledge (local) are always class skills for them"
+    "Description": "Catfolk are naturally inquisitive about the world around them, though some are more curious than others. Such catfolk gain a +4 bonus on Diplomacy checks to gather information, and Knowledge (history) and Knowledge (local) are always class skills for them",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Curiosity",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race are naturally inquisitive about the world around them. They gain a +4 bonus on Diplomacy checks to gather information, and Knowledge (history) and Knowledge (local) become class skills for them. If they choose a class that has either of these Knowledge skills as class skills, they gain a +2 racial bonus on those skills instead.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Darklands Stalker",
@@ -519,7 +645,14 @@
     "Race": "Drow",
     "Implemented": 0,
     "Replaces": "Spell-Like Ability",
-    "Description": "The lands outside of drow cities, from rough-hewn tunnels to rocky caverns, are treacherous to navigate. Drow with this racial trait may move through difficult terrain without penalty while underground. In addition, drow with a Dexterity of 13 or higher g"
+    "Description": "The lands outside of drow cities, from rough-hewn tunnels to rocky caverns, are treacherous to navigate. Drow with this racial trait may move through difficult terrain without penalty while underground. In addition, drow with a Dexterity of 13 or higher g",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Darklands Stalker",
+    "MarkdownSection": "Movement Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Native to the Darklands;",
+    "MarkdownBenefit": "Members of this race can move unhindered through difficult terrain while underground. In addition, members of this race with a Dexterity score of 13 or higher gain Nimble Moves as a bonus feat.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Darkvision",
@@ -776,7 +909,14 @@
     "Implemented": 1,
     "Replaces": "Celestial Resistance",
     "BenefitType": "Custom",
-    "Description": "Particularly strong-willed aasimars possess celestial spirits capable of resisting the powers of death. They gain resistance 5 against negative energy damage. They do not lose hit points when they gain a negative level, and they gain a +2 racial bonus on "
+    "Description": "Particularly strong-willed aasimars possess celestial spirits capable of resisting the powers of death. They gain resistance 5 against negative energy damage. They do not lose hit points when they gain a negative level, and they gain a +2 racial bonus on ",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Deathless Spirit",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain resistance 5 against negative energy damage. They do not lose hit points when they gain a negative level, and they gain a +2 racial bonus on saving throws against death effects, energy drain, negative energy, and spells or spell-like abilities of the necromancy school.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Deep Magic",
@@ -784,7 +924,14 @@
     "Race": "Duergar",
     "Implemented": 0,
     "Replaces": "Enlarge Person#Spell-Like Ability",
-    "Description": "Duergar spellcasters labor long to overcome the inborn spell resistance held by so many of their underground foes. Duergar with this racial trait receive a +2 racial bonus on caster level checks made to overcome spell resistance and a +2 racial bonus on d"
+    "Description": "Duergar spellcasters labor long to overcome the inborn spell resistance held by so many of their underground foes. Duergar with this racial trait receive a +2 racial bonus on caster level checks made to overcome spell resistance and a +2 racial bonus on d",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Deep Magic",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Native of the Darklands;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on caster level checks made to overcome spell resistance and a +2 racial bonus on dispel checks.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Deep Warrior",
@@ -800,7 +947,14 @@
     "Race": "Undine",
     "Implemented": 0,
     "Replaces": "Darkvision",
-    "Description": "The eyes of some undines are especially adapted to the lightless depths of the oceans, but not to air-filled environments. An undine with this racial trait has darkvision 120 feet when underwater, but otherwise has no darkvision at all. This racial trait"
+    "Description": "The eyes of some undines are especially adapted to the lightless depths of the oceans, but not to air-filled environments. An undine with this racial trait has darkvision 120 feet when underwater, but otherwise has no darkvision at all. This racial trait",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Deepsight",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Amphibious racial trait;",
+    "MarkdownBenefit": "Members of this race are specially adapted to the lightless depths of the oceans, but not to air-filled environments. They can see in the dark up to 120 feet while underwater, but do not gain this benefit out of water.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Defensive Giant Training",
@@ -840,7 +994,14 @@
     "Race": "Elf",
     "Implemented": 0,
     "Replaces": "Elven Magic",
-    "Description": "Some elves thrive in the deepest deserts, forever roaming across burned and parched lands. Elves with this racial trait receive a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, exhaustion, or ill effects from running, forced"
+    "Description": "Some elves thrive in the deepest deserts, forever roaming across burned and parched lands. Elves with this racial trait receive a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, exhaustion, or ill effects from running, forced",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Desert Runner",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race receive a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue and exhaustion, as well as any other ill effects from running, forced marches, starvation, thirst, and hot or cold environments.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Dhampir",
@@ -857,7 +1018,14 @@
     "Race": "Wayang",
     "Implemented": 0,
     "Replaces": "Shadow Magic",
-    "Description": "Once per day, you may change your appearance to look as if you were little more than a 4-foot-tall area of shadow. Your physical form still exists and you are not incorporeal—only your appearance changes. This works like invisibility, except it only lasts"
+    "Description": "Once per day, you may change your appearance to look as if you were little more than a 4-foot-tall area of shadow. Your physical form still exists and you are not incorporeal—only your appearance changes. This works like invisibility, except it only lasts",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Dissolution's Child",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Shadow Plane, fey type, undead type, or half-undead subtype;",
+    "MarkdownBenefit": "Members of this race gain the following supernatural ability: Once per day, a member of this race can change its appearance to look as if it were little more than a 4-foot-tall area of shadow. Its physical form still exists and it is not incorporeal—only its appearance changes. This racial trait works like _ invisibility_, except the effect only lasts 1 round per level (maximum 5 rounds).",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Dragon-Scaled",
@@ -873,7 +1041,14 @@
     "Race": "Elf",
     "Implemented": 0,
     "Replaces": "Elven Immunities",
-    "Description": "A few elves have the ability to tap into the power of sleep, dreams, and prescient reverie. Elves with this racial trait add +1 to the saving throw DCs of spells of the divination school and sleep effects they cast. In addition, elves with Charisma scores"
+    "Description": "A few elves have the ability to tap into the power of sleep, dreams, and prescient reverie. Elves with this racial trait add +1 to the saving throw DCs of spells of the divination school and sleep effects they cast. In addition, elves with Charisma scores",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Dreamspeaker",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +1 bonus to the saving throw DCs of spells of the divination school and spells that produce sleep effects that they cast. In addition, members of this race with a Charisma score of 15 or higher may use _ dream _once per day as a spell-like ability (caster level is equal to the user's character level).",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Drow Immunities",
@@ -916,7 +1091,14 @@
     "Replaces": "Adaptability",
     "BenefitType": "Save",
     "BenefitValue": "Will",
-    "Description": "The mixed ancestry of some half-elves makes them resistant to mental attacks. Half-elves with this racial trait gain a +2 bonus on all Will saving throws. This racial trait replaces the adaptability racial trait."
+    "Description": "The mixed ancestry of some half-elves makes them resistant to mental attacks. Half-elves with this racial trait gain a +2 bonus on all Will saving throws. This racial trait replaces the adaptability racial trait.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Dual-Minded",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Humanoid with two subtypes or race with half-construct or half-undead subtype;",
+    "MarkdownBenefit": "Members of this race gain a +2 bonus on all Will saving throws.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Dual Talent",
@@ -935,7 +1117,14 @@
     "Implemented": 1,
     "BenefitType": "Save",
     "BenefitValue": "Spell:2#SpellLike:2",
-    "Description": "Duergar are immune to paralysis, phantasms, and poison. They gain a +2 racial bonus on saves against spells and spell-like abilities."
+    "Description": "Duergar are immune to paralysis, phantasms, and poison. They gain a +2 racial bonus on saves against spells and spell-like abilities.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Duergar Immunities",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Dwarf subtype, at least a +2 racial bonus to Constitution;",
+    "MarkdownBenefit": "Members of this race are immune to paralysis, phantasms, and poison. They also gain a +2 racial bonus on saving throws against spells and spell-like abilities.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Dwarf",
@@ -997,7 +1186,14 @@
     "Alternate": 0,
     "Race": "Suli",
     "Implemented": 0,
-    "Description": "Once per day as a swift action, a suli can shroud her arms in acid, cold, electricity, or fire. This lasts for one round per level, and can be dismissed as a free action. Unarmed strikes with her arms or hands (or attacks with weapons held in those hands)"
+    "Description": "Once per day as a swift action, a suli can shroud her arms in acid, cold, electricity, or fire. This lasts for one round per level, and can be dismissed as a free action. Unarmed strikes with her arms or hands (or attacks with weapons held in those hands)",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Elemental Assault",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Dragon type or outsider (native) with ties to an elemental plane;",
+    "MarkdownBenefit": "Pick one of the following energy types that corresponds to the plane the race has ties to: acid (earth), cold (water), electricity (air), or fire (fire). Members of this race gain the following supernatural ability: Once per day as a swift action, a member of this race can call on the elemental power lurking in its veins to shroud its arms in the energy type that corresponds to the elemental plane its race has ties to. Unarmed strikes with its elbows or hands (or attacks with weapons held in those hands) deal +1d6 points of damage of the appropriate energy type. This lasts for 1 round per character level. The creature may end the effects of its elemental assault early as a free action.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Elemental Resistance",
@@ -1041,7 +1237,14 @@
     "Race": "Elf",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Elves are immune to magic sleep effects and get a +2 racial saving throw bonus against enchantment spells and effects."
+    "Description": "Elves are immune to magic sleep effects and get a +2 racial saving throw bonus against enchantment spells and effects.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Elven Immunities",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Elf subtype;",
+    "MarkdownBenefit": "Members of this race are immune to magic sleep effects and gain a +2 racial bonus on saving throws made against enchantment spells and effects.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Elven Immunities",
@@ -1050,7 +1253,14 @@
     "Implemented": 1,
     "BenefitType": "Custom",
     "Description": "Half-elves are immune to magic sleep effects and get a +2 racial saving throw bonus against enchantment spells and effects.",
-    "FlatfileId": "racialtrait:elven-immunities:2"
+    "FlatfileId": "racialtrait:elven-immunities:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Elven Immunities",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Elf subtype;",
+    "MarkdownBenefit": "Members of this race are immune to magic sleep effects and gain a +2 racial bonus on saving throws made against enchantment spells and effects.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Elven Magic",
@@ -1058,7 +1268,14 @@
     "Race": "Elf",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Elves receive a +2 racial bonus on caster level checks made to overcome spell resistance. In addition, elves receive a +2 racial bonus on Spellcraft skill checks made to identify the properties of magic items."
+    "Description": "Elves receive a +2 racial bonus on caster level checks made to overcome spell resistance. In addition, elves receive a +2 racial bonus on Spellcraft skill checks made to identify the properties of magic items.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Elven Magic",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Elf subtype;",
+    "MarkdownBenefit": "Members of this race gain a +2 bonus on caster level checks made to overcome spell resistance. In addition, they also receive a +2 racial bonus on Spellcraft checks made to identify the properties of magic items.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Emissary",
@@ -1066,7 +1283,14 @@
     "Race": "Fetchling",
     "Implemented": 0,
     "Replaces": "Shadow Blending",
-    "Description": "Rare fetchlings excel in the role of emissary between the Shadow Plane and the Material Plane. Once per day, such a fetchling can roll twice when making a Bluff or Diplomacy check and take the better roll. This racial trait replaces shadow blending."
+    "Description": "Rare fetchlings excel in the role of emissary between the Shadow Plane and the Material Plane. Once per day, such a fetchling can roll twice when making a Bluff or Diplomacy check and take the better roll. This racial trait replaces shadow blending.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Emissary",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Once per day, members of this race can roll twice when making a Bluff or Diplomacy check and take the better roll.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Enchantment Resistance",
@@ -1143,7 +1367,14 @@
     "Race": "Elf",
     "Implemented": 0,
     "Replaces": "unknown",
-    "Description": "Elves often have trouble relating to neighbors of other races, especially those with much shorter lifespans. As a result, some are trained in minor magics that are particularly useful when dealing with non-elves. Elves with this racial trait and an Intell"
+    "Description": "Elves often have trouble relating to neighbors of other races, especially those with much shorter lifespans. As a result, some are trained in minor magics that are particularly useful when dealing with non-elves. Elves with this racial trait and an Intell",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Envoy",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race with an Intelligence score of 11 or higher gain the following spell-like abilities: 1/day—_ comprehend languages_,_ detect magic_,_ detect poison_, _ read magic_. The caster level for these effects is equal to the user's character level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Eternal Grudge",
@@ -1161,7 +1392,14 @@
     "Replaces": "Defensive Training#Hope",
     "BenefitType": "Save",
     "BenefitValue": "Fear#Despair",
-    "Description": "Gnomes rarely lose hope and are always confident that even hopeless situations will work out. Gnomes with this racial trait receive a +2 racial bonus on saving throws against fear and despair effects. Once per day, after rolling a 1 on a d20, the gnome ma"
+    "Description": "Gnomes rarely lose hope and are always confident that even hopeless situations will work out. Gnomes with this racial trait receive a +2 racial bonus on saving throws against fear and despair effects. Once per day, after rolling a 1 on a d20, the gnome ma",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Eternal Hope",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on saving throws against fear and despair effects. Also, once per day, after a natural roll of 1 on a d20 roll, members of this race may reroll and use the second result.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Evasion",
@@ -1178,7 +1416,14 @@
     "Race": "Aasimar",
     "Implemented": 0,
     "Replaces": "Celestial Resistance",
-    "Description": "An aasimar with this racial trait gains spell resistance equal to 5 + her level against spells and spell-like abilities with the evil descriptor, as well as any spells and spell-like abilities cast by evil outsiders. This racial trait replaces celestial r"
+    "Description": "An aasimar with this racial trait gains spell resistance equal to 5 + her level against spells and spell-like abilities with the evil descriptor, as well as any spells and spell-like abilities cast by evil outsiders. This racial trait replaces celestial r",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Exalted Resistance",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to Elysium, Heaven, or Nirvana;",
+    "MarkdownBenefit": "Members of this race gain spell resistance equal to 6 + their character level against spells and spell-like abilities with the evil descriptor, as well as any spells and spell-like abilities cast by evil outsiders.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Exotic Weapon Training",
@@ -1223,7 +1468,14 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Goblins are fast for their size, and have a base speed of 30 feet."
+    "Description": "Goblins are fast for their size, and have a base speed of 30 feet.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Fast",
+    "MarkdownSection": "Movement Racial Traits",
+    "MarkdownCategory": "Advanced Traits",
+    "MarkdownPrerequisites": "Normal speed;",
+    "MarkdownBenefit": "Members of this race gain a +10 foot bonus to their base speed.",
+    "MarkdownSpecial": "This trait can be taken more than once, but each time it is, the cost increases by 1 RP. Its effects stack."
   },
   {
     "Name": "Fast Shifter",
@@ -1240,7 +1492,14 @@
     "Implemented": 1,
     "BenefitType": "Save",
     "BenefitValue": "Fear:2",
-    "Description": "Halflings receive a +2 racial bonus on all saving throws against fear. This bonus stacks with the bonus granted by halfling luck."
+    "Description": "Halflings receive a +2 racial bonus on all saving throws against fear. This bonus stacks with the bonus granted by halfling luck.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Fearless",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on all saving throws against fear effects.",
+    "MarkdownSpecial": "This bonus stacks with the bonus granted by the lucky (greater or lesser) racial trait."
   },
   {
     "Name": "Fearless",
@@ -1250,7 +1509,14 @@
     "BenefitType": "Save",
     "BenefitValue": "Fear:2",
     "Description": "Halflings receive a +2 racial bonus on all saving throws against fear. This bonus stacks with the bonus granted by halfling luck.",
-    "FlatfileId": "racialtrait:fearless:2"
+    "FlatfileId": "racialtrait:fearless:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Fearless",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on all saving throws against fear effects.",
+    "MarkdownSpecial": "This bonus stacks with the bonus granted by the lucky (greater or lesser) racial trait."
   },
   {
     "Name": "Fearsome",
@@ -1268,7 +1534,14 @@
     "Race": "Gnome",
     "Implemented": 0,
     "Replaces": "unknon",
-    "Description": "Gnomes add +1 to the DC of any saving throws against necromancy spells that they cast. Gnomes with Wisdom scores of 11 or higher also gain the following spell-like abilities"
+    "Description": "Gnomes add +1 to the DC of any saving throws against necromancy spells that they cast. Gnomes with Wisdom scores of 11 or higher also gain the following spell-like abilities",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Fell Magic",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain +1 to the DC of any saving throws against necromancy spells that they cast. Members of this race with a Wisdom score of 11 or higher also gain the following spell-like abilities: 1/day—_ bleed_,_ chill touch_,_ detect poison_, _ touch of fatigue. _The caster level for these effects is equal to the user's character level. The DC for these spell-like abilities is equal to 10 + the spell's level + the user's Wisdom modifier.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Feral",
@@ -1293,7 +1566,14 @@
     "Alternate": 0,
     "Race": "Orc",
     "Implemented": 0,
-    "Description": "Orcs can remain conscious and continue fighting even if their hit point totals fall below 0. Orcs are still staggered at 0 hit points or lower and lose 1 hit point each round as normal."
+    "Description": "Orcs can remain conscious and continue fighting even if their hit point totals fall below 0. Orcs are still staggered at 0 hit points or lower and lose 1 hit point each round as normal.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Ferocity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain the following extraordinary ability: If the hit points of a member of this race fall below 0 but it is not yet dead, it can continue to fight. If it does, it is staggered, and loses 1 hit point each round. It still dies when its hit points reach a negative amount equal to its Constitution score.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Ferrous Growth",
@@ -1301,7 +1581,14 @@
     "Race": "Oread",
     "Implemented": 0,
     "Replaces": "Spell-Like Ability",
-    "Description": "Oreads with this racial trait learn how to mimic the magic of their shaitan ancestors. Once per day, such an oread can cause a touched piece of nonmagical iron or steel to grow into an object up to 10 pounds in weight, such as a sword, crowbar, or light s"
+    "Description": "Oreads with this racial trait learn how to mimic the magic of their shaitan ancestors. Once per day, such an oread can cause a touched piece of nonmagical iron or steel to grow into an object up to 10 pounds in weight, such as a sword, crowbar, or light s",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Ferrous Growth",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Earth;",
+    "MarkdownBenefit": "Once per day, a member of this race can cause a touched piece of iron or steel to grow into an object weighing up to 10 pounds, such as a sword, crowbar, or light steel shield. This object remains in this form for 10 minutes or until broken or destroyed, at which point it shrinks back to its original size and shape.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Fertile Soil",
@@ -1309,7 +1596,14 @@
     "Race": "Oread",
     "Implemented": 0,
     "Replaces": "Earth Affinity",
-    "Description": "Oread sorcerers with the verdant bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the Plant domain use their domain powers and spells at +1 caster level. This racial trait replaces ear"
+    "Description": "Oread sorcerers with the verdant bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the Plant domain use their domain powers and spells at +1 caster level. This racial trait replaces ear",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Fertile Soil",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Earth, fey type, or plant type;",
+    "MarkdownBenefit": "Sorcerer members of this race with the verdant bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Clerics who are members of this race with the Plant domain use their domain powers and spells at +1 caster level. This trait does not give members of this race early access to level-based powers; it only affects powers that they could already use without this trait.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Fey",
@@ -1327,14 +1621,28 @@
     "Implemented": 1,
     "BenefitType": "Resistance",
     "BenefitValue": "Cold:5#Electricity:5#Fire:5",
-    "Description": "Tieflings have cold resistance 5, electricity resistance 5, and fire resistance 5."
+    "Description": "Tieflings have cold resistance 5, electricity resistance 5, and fire resistance 5.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Fiendish Resistance",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to Abaddon, the Abyss, or Hell;",
+    "MarkdownBenefit": "Members of this race gain cold resistance 5, electricity resistance 5, and fire resistance 5.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Fiendish Sorcery",
     "Alternate": 0,
     "Race": "Tiefling",
     "Implemented": 0,
-    "Description": "Tiefling sorcerers with the Abyssal or Infernal bloodlines treat their Charisma score as 2 points higher for all sorcerer class abilities."
+    "Description": "Tiefling sorcerers with the Abyssal or Infernal bloodlines treat their Charisma score as 2 points higher for all sorcerer class abilities.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Fiendish Sorcery",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to Abaddon, the Abyss, or Hell;",
+    "MarkdownBenefit": "If a member of this race is a sorcerer with the Abyssal or Infernal bloodline, it treats its caster level as 1 higher when casting bonus spells and bloodline powers. This trait does not give members of this race early access to level-based powers; it only affects powers that they could already use without this trait.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Fiendish Sprinter",
@@ -1357,7 +1665,14 @@
     "Race": "Ifrit",
     "Implemented": 0,
     "Replaces": "Fire Affinity",
-    "Description": "Ifrits with this racial trait mimic the healing abilities of the mephits, gaining fast healing 2 for 1 round anytime they take fire damage (whether or not this fire damage gets through their fire resistance). The ifrits can heal up to 2 hit points per lev"
+    "Description": "Ifrits with this racial trait mimic the healing abilities of the mephits, gaining fast healing 2 for 1 round anytime they take fire damage (whether or not this fire damage gets through their fire resistance). The ifrits can heal up to 2 hit points per lev",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Fire in the Blood",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Fire or dragon type;",
+    "MarkdownBenefit": "Members of this race gain fast healing 2 for 1 round anytime they take fire damage (whether or not this fire damage overcomes their fire resistance, if any). Members of this race can heal up to 2 hit points per level per day with this ability, after which it ceases to function.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Fire Insight",
@@ -1400,7 +1715,14 @@
     "Replaces": "Weapon Familiarity#Keen Senses",
     "BenefitType": "Custom",
     "BenefitValue": "FleetFooted",
-    "Description": "While all elves are naturally lithe and agile, some also are naturally speedy and have a strong desire to rush into situations rather than worrying about looking ahead. Elves with this racial trait receive Run as a bonus feat and a +2 racial bonus on init"
+    "Description": "While all elves are naturally lithe and agile, some also are naturally speedy and have a strong desire to rush into situations rather than worrying about looking ahead. Elves with this racial trait receive Run as a bonus feat and a +2 racial bonus on init",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Fleet-Footed",
+    "MarkdownSection": "Movement Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "The race has at least a +2 racial bonus to Dexterity;",
+    "MarkdownBenefit": "Members of this race receive Run as a bonus feat and a +2 racial bonus on initiative checks.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Flesh Chameleon",
@@ -1417,7 +1739,14 @@
     "Implemented": 0,
     "Replaces": "Bonus Feat",
     "BenefitType": "Custom",
-    "Description": "All humans are skillful, but some, rather than being generalists, tend to specialize in a handful of skills. At 1st, 8th, and 16th level, such humans gain Skill Focus in a skill of their choice as a bonus feat. This racial trait replaces the bonus feat tr"
+    "Description": "All humans are skillful, but some, rather than being generalists, tend to specialize in a handful of skills. At 1st, 8th, and 16th level, such humans gain Skill Focus in a skill of their choice as a bonus feat. This racial trait replaces the bonus feat tr",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Focused Study",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "At 1st, 8th, and 16th level, members of this race gain Skill Focus in a skill of their choice as a bonus feat.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Forest Walker",
@@ -1462,7 +1791,14 @@
     "Race": "Half-Orc",
     "Implemented": 0,
     "Replaces": "Orc Ferocity",
-    "Description": "Many half-orcs revel in acts of wanton destruction. Half-orcs with this racial trait gain a +2 racial bonus on Strength checks to break objects and on sunder combat maneuver checks. This racial trait replaces orc ferocity."
+    "Description": "Many half-orcs revel in acts of wanton destruction. Half-orcs with this racial trait gain a +2 racial bonus on Strength checks to break objects and on sunder combat maneuver checks. This racial trait replaces orc ferocity.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Gatecrasher",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on Strength checks to break objects and a +2 racial bonus on combat maneuver checks to sunder.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Giant Hunter",
@@ -1480,7 +1816,14 @@
     "Replaces": "Defensive Training#Hatred",
     "BenefitType": "Skill",
     "BenefitValue": "Bluff:1#Diplomacy:1",
-    "Description": "Gnomes love languages and learning about those they meet. Gnomes with this racial trait gain a +1 bonus on Bluff and Diplomacy checks, and they learn one additional language every time they put a rank in the Linguistics skill. This racial trait replaces d"
+    "Description": "Gnomes love languages and learning about those they meet. Gnomes with this racial trait gain a +1 bonus on Bluff and Diplomacy checks, and they learn one additional language every time they put a rank in the Linguistics skill. This racial trait replaces d",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Gift of Tongues",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Standard or linguist language quality;",
+    "MarkdownBenefit": "Members of this race gain a +1 racial bonus on Bluff and Diplomacy checks, and they learn one additional language every time they put a rank in the Linguistics skill.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Gifted Linguist",
@@ -1489,7 +1832,14 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Linguistics:4",
-    "Description": "Tengus gain a +4 racial bonus on Linguistics checks, and learn 2 languages each time they gain a rank in Linguistics rather than 1 language."
+    "Description": "Tengus gain a +4 racial bonus on Linguistics checks, and learn 2 languages each time they gain a rank in Linguistics rather than 1 language.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Gifted Linguist",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Standard or linguist language quality;",
+    "MarkdownBenefit": "Members of this race gain a +4 racial bonus on Linguistics checks, and they learn one additional language every time they put a rank in the Linguistics skill.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Glide",
@@ -1513,7 +1863,14 @@
     "Race": "Kobold",
     "Implemented": 0,
     "Replaces": "Crafty",
-    "Description": "Some kobolds are born with wings that, while too weak for actual flying, do allow them to fall at a very slow and safe pace. A kobold with wings can use them to glide. It can make a DC 15 Fly check to fall safely from any height without taking falling dam"
+    "Description": "Some kobolds are born with wings that, while too weak for actual flying, do allow them to fall at a very slow and safe pace. A kobold with wings can use them to glide. It can make a DC 15 Fly check to fall safely from any height without taking falling dam",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Gliding Wings",
+    "MarkdownSection": "Movement Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race take no damage from falling (as if subject to a constant nonmagical _ feather fall _spell). While in midair, members of this race can move up to 5 feet in any horizontal direction for every 1 foot they fall, at a speed of 60 feet per round. A member of a race with gliding wings cannot gain height with these wings alone; it merely coasts in other directions as it falls. If subjected to a strong wind or any other effect that causes a creature with gliding wings to rise, it can take advantage of the updraft to increase the distance it can glide.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Gloom Shimmer",
@@ -1537,7 +1894,14 @@
     "Alternate": 0,
     "Race": "Gnome",
     "Implemented": 0,
-    "Description": "Gnomes add +1 to the DC of any saving throws against illusion spells that they cast. Gnomes with a Charisma of 11 or higher also gain the following spell-like abilities"
+    "Description": "Gnomes add +1 to the DC of any saving throws against illusion spells that they cast. Gnomes with a Charisma of 11 or higher also gain the following spell-like abilities",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Gnome Magic",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Gnome subtype;",
+    "MarkdownBenefit": "Members of this race gain a +1 bonus to the DC of any saving throws against illusion spells that they cast. Members of this race with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—_ dancing lights_, _ghost sounds_, _ prestidigitation_, _ speak with animals_. The caster level for these effects is equal to the user's level. The DC for the spell-like abilities is equal to 10 + the spell's level + the user's Charisma modifier.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Goblinoid",
@@ -1582,7 +1946,14 @@
     "Alternate": 0,
     "Race": "Dwarf",
     "Implemented": 0,
-    "Description": "Dwarves receive a +2 racial bonus on Appraise skill checks made to determine the price of nonmagical goods that contain precious metals or gemstones."
+    "Description": "Dwarves receive a +2 racial bonus on Appraise skill checks made to determine the price of nonmagical goods that contain precious metals or gemstones.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Greed",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 bonus on Appraise checks to determine the price of nonmagical goods that contain precious metals or gemstones.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Green Widow",
@@ -1597,7 +1968,14 @@
     "Race": "Kitsune",
     "Implemented": 0,
     "Replaces": "Agile",
-    "Description": "Even among your own kind, your gift for making friends stands out. Whenever you successfully use Diplomacy to win over an individual, that creature takes a –2 penalty to resist any of your Charisma-based skill checks for the next 24 hours. This racial tra"
+    "Description": "Even among your own kind, your gift for making friends stands out. Whenever you successfully use Diplomacy to win over an individual, that creature takes a –2 penalty to resist any of your Charisma-based skill checks for the next 24 hours. This racial tra",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Gregarious",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "The race has at least a +2 racial bonus to Charisma;",
+    "MarkdownBenefit": "When members of this race successfully use Diplomacy to win over an individual, that creature takes a –2 penalty on attempts to resist any of the member's Charisma-based skills for the next 24 hours.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Grippli",
@@ -1640,7 +2018,14 @@
     "Race": "Aasimar",
     "Implemented": 0,
     "Replaces": "Darkvision",
-    "Description": "Some aasimars possess the ability to manifest halos. An aasimar with this racial trait can create light centered on her head at will as a spell-like ability. When using her halo, she gains a +2 circumstance bonus on Intimidate checks against evil creature"
+    "Description": "Some aasimars possess the ability to manifest halos. An aasimar with this racial trait can create light centered on her head at will as a spell-like ability. When using her halo, she gains a +2 circumstance bonus on Intimidate checks against evil creature",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Halo",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to Elysium, Heaven, or Nirvana;",
+    "MarkdownBenefit": "Members of this race can create _ light _centered on their head at will as a spell-like ability. When using the halo, a member of this race gains a +2 circumstance bonus on Intimidate checks against evil creatures and on saving throws against becoming blinded or dazzled.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Hard Head, Big Teeth",
@@ -1657,14 +2042,28 @@
     "Implemented": 1,
     "BenefitType": "Save",
     "BenefitValue": "Poison#Spell#SpellLike",
-    "Description": "Dwarves receive a +2 racial bonus on saving throws against poison, spells, and spell-like abilities."
+    "Description": "Dwarves receive a +2 racial bonus on saving throws against poison, spells, and spell-like abilities.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Hardy",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "The race has at least a +2 racial bonus to Constitution;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on saving throws against poison, spells, and spell-like abilities.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Hatred",
     "Alternate": 0,
     "Race": "Dwarf",
     "Implemented": 0,
-    "Description": "Dwarves receive a +1 bonus on attack rolls against humanoid creatures of the orc and goblinoid subtypes due to special training against these hated foes."
+    "Description": "Dwarves receive a +1 bonus on attack rolls against humanoid creatures of the orc and goblinoid subtypes due to special training against these hated foes.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Hatred",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose two subtypes of humanoids or outsiders or one creature type other than humanoid or outsider. Members of this race gain a +1 racial bonus on attack rolls against creatures of these subtypes or this type.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Hatred",
@@ -1672,7 +2071,14 @@
     "Race": "Gnome",
     "Implemented": 0,
     "Description": "Gnomes receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and goblinoid subtypes due to special training against these hated foes.",
-    "FlatfileId": "racialtrait:hatred:2"
+    "FlatfileId": "racialtrait:hatred:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Hatred",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose two subtypes of humanoids or outsiders or one creature type other than humanoid or outsider. Members of this race gain a +1 racial bonus on attack rolls against creatures of these subtypes or this type.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Hatred",
@@ -1680,7 +2086,14 @@
     "Race": "Strix",
     "Implemented": 0,
     "Description": "Strix receive a +1 racial bonus on attack rolls against humanoid creatures with the human subtype because of their special training against these hated foes.",
-    "FlatfileId": "racialtrait:hatred:3"
+    "FlatfileId": "racialtrait:hatred:3",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Hatred",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose two subtypes of humanoids or outsiders or one creature type other than humanoid or outsider. Members of this race gain a +1 racial bonus on attack rolls against creatures of these subtypes or this type.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Hatred",
@@ -1688,7 +2101,14 @@
     "Race": "Svirfneblin",
     "Implemented": 0,
     "Description": "Svirfneblin receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and dwarven subtypes due to training against these hated foes.",
-    "FlatfileId": "racialtrait:hatred:4"
+    "FlatfileId": "racialtrait:hatred:4",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Hatred",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose two subtypes of humanoids or outsiders or one creature type other than humanoid or outsider. Members of this race gain a +1 racial bonus on attack rolls against creatures of these subtypes or this type.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Healthy",
@@ -1698,7 +2118,14 @@
     "Replaces": "Fortunate",
     "BenefitType": "Save",
     "BenefitValue": "Disease:4#Poison:4",
-    "Description": "Svirfneblin gain a +4 bonus on Fortitude saves against disease and poison, including magical diseases. This racial trait replaces fortunate."
+    "Description": "Svirfneblin gain a +4 bonus on Fortitude saves against disease and poison, including magical diseases. This racial trait replaces fortunate.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Healthy",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "The race has at least a +2 racial bonus to Constitution;",
+    "MarkdownBenefit": "Members of this race gain a +4 bonus on Fortitude saves against disease and poison, including magical diseases.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Heart of the Fields",
@@ -1774,7 +2201,14 @@
     "Replaces": "Skilled#Spell-Like Ability",
     "BenefitType": "Custom",
     "BenefitValue": "Planes",
-    "Description": "Born in the celestial realms, aasimars with this racial trait gain a +2 bonus on Knowledge (planes) checks and they cast spells with the good or light descriptor at +1 caster level. This racial trait replaces the skilled and spell-like ability racial trai"
+    "Description": "Born in the celestial realms, aasimars with this racial trait gain a +2 bonus on Knowledge (planes) checks and they cast spells with the good or light descriptor at +1 caster level. This racial trait replaces the skilled and spell-like ability racial trai",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Heavenborn",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to Elysium, Heaven, or Nirvana;",
+    "MarkdownBenefit": "Members of this race gain a +2 bonus on Knowledge (planes) checks, and they cast spells with the good or light descriptor at +1 caster level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Heroic",
@@ -1782,7 +2216,14 @@
     "Race": "Human",
     "Implemented": 0,
     "Replaces": "Bonus Feat",
-    "Description": "Some humans are born heroes. In campaigns that use the optional hero point system, each time these humans gain a level, they gain 2 hero points instead of 1. If they take the Blood of Heroes feat, they gain 3 hero points each level instead of 2. This raci"
+    "Description": "Some humans are born heroes. In campaigns that use the optional hero point system, each time these humans gain a level, they gain 2 hero points instead of 1. If they take the Blood of Heroes feat, they gain 3 hero points each level instead of 2. This raci",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Heroic",
+    "MarkdownSection": "Other Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "In campaigns that use the optional hero point system , each time a member of this race gains a level, it gains 2 hero points instead of 1. If it takes the Blood of Heroes feat, it gains 3 hero points each level instead of 2.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Hulking Changeling",
@@ -1799,7 +2240,14 @@
     "Race": "Undine",
     "Implemented": 0,
     "Replaces": "Water Affinity",
-    "Description": "An undine with this racial trait gains fast healing 2 for 1 round anytime she submerges completely within a body of natural salt water, fresh water, or brackish water. Stagnant, poisoned, or trapped water (such as an artificial pit or a bag of holding) do"
+    "Description": "An undine with this racial trait gains fast healing 2 for 1 round anytime she submerges completely within a body of natural salt water, fresh water, or brackish water. Stagnant, poisoned, or trapped water (such as an artificial pit or a bag of holding) do",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Hydrated Vitality",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Water, fey type, or plant type;",
+    "MarkdownBenefit": "Members of this race gain fast healing 2 for 1 round anytime they submerge completely within a body of natural salt water, fresh water, or brackish water. Stagnant, poisoned, or trapped water (such as water within an artificial pit or a _ bag of holding_) does not activate this ability. Members of this race can heal up to 2 hit points per level per day with this ability, after which it ceases to function.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Hypnotic",
@@ -1807,14 +2255,28 @@
     "Race": "Ifrit",
     "Implemented": 0,
     "Replaces": "Fire Affinity",
-    "Description": "Ifrits with this racial trait evoke the entrancing nature of flame, adding +1 to the DC for all saving throws against spells or effects they cast that inflict the fascinated condition. Once per day, when a creature rolls a saving throw against such an eff"
+    "Description": "Ifrits with this racial trait evoke the entrancing nature of flame, adding +1 to the DC for all saving throws against spells or effects they cast that inflict the fascinated condition. Once per day, when a creature rolls a saving throw against such an eff",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Hypnotic",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race add +1 to the DC for all saving throws against spells or effects they cast that inflict the fascinated condition. Once per day, when a creature rolls a saving throw against such an effect from a member of this race, the member of the race can force that creature to reroll the saving throw and use the second result, even if it is worse.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Hypnotic Gaze",
     "Alternate": 1,
     "Race": "Nagaji",
     "Implemented": 0,
-    "Description": "."
+    "Description": ".",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Hypnotic Gaze",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain the following supernatural ability: Once per day, a member of this race can attempt to hypnotize a single target as per the spell _ hypnotism _(caster level equal to its character level). The effects of the hypnotic gaze last only 1 round.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Icewalk",
@@ -1830,7 +2292,14 @@
     "Implemented": 1,
     "BenefitType": "Save",
     "BenefitValue": "Illusion",
-    "Description": "Gnomes get a +2 racial saving throw bonus against illusion spells or effects."
+    "Description": "Gnomes get a +2 racial saving throw bonus against illusion spells or effects.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Illusion Resistance",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on saving throws against illusion spells or effects.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Immortal Spark",
@@ -1839,7 +2308,14 @@
     "Implemented": 1,
     "Replaces": "Skilled#Spell-Like Ability",
     "BenefitType": "Custom",
-    "Description": "Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use lesser age resistance once per day as a spell-like ability. This racial trait replaces the ski"
+    "Description": "Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use lesser age resistance once per day as a spell-like ability. This racial trait replaces the ski",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Immortal Spark",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to Elysium, Heaven, or Nirvana;",
+    "MarkdownBenefit": "Members of this race gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use _ lesser age resistance_ once per day as a spell-like ability.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Incorruptible",
@@ -1865,7 +2341,14 @@
     "Replaces": "Adaptability",
     "BenefitType": "Skill",
     "BenefitValue": "Bluff:1#Disguise:1#Local:1",
-    "Description": "Many half-elves are skilled in the art of ingratiating themselves into a community as if they were natives. Half-elves with this racial trait gain a +1 bonus on Bluff, Disguise, and Knowledge (local) checks. This racial trait replaces the adaptability rac"
+    "Description": "Many half-elves are skilled in the art of ingratiating themselves into a community as if they were natives. Half-elves with this racial trait gain a +1 bonus on Bluff, Disguise, and Knowledge (local) checks. This racial trait replaces the adaptability rac",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Integrated",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +1 bonus on Bluff, Disguise, and Knowledge (local) checks.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Intimidating",
@@ -1892,7 +2375,14 @@
     "Race": "Grippli",
     "Implemented": 0,
     "Replaces": "Camouflage",
-    "Description": "Gripplis with this trait are always considered to have a running start when making Acrobatics checks to jump. This racial trait replaces camouflage."
+    "Description": "Gripplis with this trait are always considered to have a running start when making Acrobatics checks to jump. This racial trait replaces camouflage.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Jumper",
+    "MarkdownSection": "Movement Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "The race has at least a +2 racial bonus to Dexterity;",
+    "MarkdownBenefit": "Members of this race are always considered to have a running start when making Acrobatics checks to jump.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Keen Senses",
@@ -2400,14 +2890,28 @@
     "Alternate": 0,
     "Race": "Samsaran",
     "Implemented": 0,
-    "Description": "Samsarans gain a +2 racial bonus on all saving throws made to resist death effects, saving throws against negative energy effects, Fortitude saves made to remove negative levels, and Constitution checks made to stabilize if reduced to negative hit points."
+    "Description": "Samsarans gain a +2 racial bonus on all saving throws made to resist death effects, saving throws against negative energy effects, Fortitude saves made to remove negative levels, and Constitution checks made to stabilize if reduced to negative hit points.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Lifebound",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "A Constitution score;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on all saving throws made to resist death effects, saving throws against negative energy effects, Fortitude saves made to remove negative levels, and Constitution checks made to stabilize if reduced to negative hit points.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Light and Dark",
     "Alternate": 0,
     "Race": "Wayang",
     "Implemented": 0,
-    "Description": "Once per day as an immediate action, a wayang can treat positive and negative energy effects as if she were an undead creature, taking damage from positive energy and healing damage from negative energy. This ability lasts for 1 minute once activated."
+    "Description": "Once per day as an immediate action, a wayang can treat positive and negative energy effects as if she were an undead creature, taking damage from positive energy and healing damage from negative energy. This ability lasts for 1 minute once activated.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Light and Dark",
+    "MarkdownSection": "Other Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain the following supernatural ability: Once per day as an immediate action, a member of this race can treat positive and negative energies as if it were an undead creature, taking damage from positive energy and healing damage from negative energy. This ability lasts for 1 minute once activated.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Light Blindness",
@@ -2453,7 +2957,14 @@
     "Race": "Elf",
     "Implemented": 0,
     "Replaces": "Elven Magic#Elven Immunities",
-    "Description": "Many elves revere the sun, moon, and stars, but some are literally infused with the radiant power of the heavens. Elves with this racial trait are immune to light-based blindness and dazzle effects, and are treated as one level higher when determining the"
+    "Description": "Many elves revere the sun, moon, and stars, but some are literally infused with the radiant power of the heavens. Elves with this racial trait are immune to light-based blindness and dazzle effects, and are treated as one level higher when determining the",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Lightbringer",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race are immune to light-based blindness and dazzle effects, and are treated as one level higher when determining the effects of any light-based spells or effects they cast (including spell-like and supernatural abilities). If a member of this race has an Intelligence of 10 or higher, it may use _ light_ at will as a spell-like ability.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Like the Wind",
@@ -2497,7 +3008,14 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "In dim light, catfolk can see twice as far as humans."
+    "Description": "In dim light, catfolk can see twice as far as humans.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2507,7 +3025,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Elves can see twice as far as humans in conditions of dim light. See Additional Rules.",
-    "FlatfileId": "racialtrait:low-light-vision:2"
+    "FlatfileId": "racialtrait:low-light-vision:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2517,7 +3042,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Fetchlings can see twice as far as humans in conditions of dim light.",
-    "FlatfileId": "racialtrait:low-light-vision:3"
+    "FlatfileId": "racialtrait:low-light-vision:3",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2527,7 +3059,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Gnomes can see twice as far as humans in conditions of dim light. See Additional Rules.",
-    "FlatfileId": "racialtrait:low-light-vision:4"
+    "FlatfileId": "racialtrait:low-light-vision:4",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2537,7 +3076,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Half-elves can see twice as far as humans in conditions of dim light. See Additional Rules.",
-    "FlatfileId": "racialtrait:low-light-vision:5"
+    "FlatfileId": "racialtrait:low-light-vision:5",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2547,7 +3093,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Kitsune can see twice as far as humans in conditions of dim light.",
-    "FlatfileId": "racialtrait:low-light-vision:6"
+    "FlatfileId": "racialtrait:low-light-vision:6",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2557,7 +3110,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Merfolk have low-light vision.",
-    "FlatfileId": "racialtrait:low-light-vision:7"
+    "FlatfileId": "racialtrait:low-light-vision:7",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2567,7 +3127,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Nagaji can see twice as far as humans in conditions of dim light.",
-    "FlatfileId": "racialtrait:low-light-vision:8"
+    "FlatfileId": "racialtrait:low-light-vision:8",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2577,7 +3144,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Quicklings can see in the dark up to 60 feet.",
-    "FlatfileId": "racialtrait:low-light-vision:9"
+    "FlatfileId": "racialtrait:low-light-vision:9",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2587,7 +3161,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Samsarans can see twice as far as humans in conditions of dim light.",
-    "FlatfileId": "racialtrait:low-light-vision:10"
+    "FlatfileId": "racialtrait:low-light-vision:10",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2597,7 +3178,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Strix can see twice as far as humans in conditions of dim light.",
-    "FlatfileId": "racialtrait:low-light-vision:11"
+    "FlatfileId": "racialtrait:low-light-vision:11",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2607,7 +3195,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Sulis can see twice as far as humans in dim light.",
-    "FlatfileId": "racialtrait:low-light-vision:12"
+    "FlatfileId": "racialtrait:low-light-vision:12",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2617,7 +3212,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Tengus have low-light vision.",
-    "FlatfileId": "racialtrait:low-light-vision:13"
+    "FlatfileId": "racialtrait:low-light-vision:13",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2627,7 +3229,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "A vanara can see twice as far as a human in dim light.",
-    "FlatfileId": "racialtrait:low-light-vision:14"
+    "FlatfileId": "racialtrait:low-light-vision:14",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Low-Light Vision",
@@ -2637,7 +3246,14 @@
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
     "Description": "Vishkanyas can see twice as far as humans in conditions of dim light.",
-    "FlatfileId": "racialtrait:low-light-vision:15"
+    "FlatfileId": "racialtrait:low-light-vision:15",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Low-Light Vision",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race can see twice as far as a race with normal vision in conditions of dim light.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Lurker",
@@ -2656,7 +3272,14 @@
     "Replaces": "Sneaky",
     "BenefitType": "Custom",
     "BenefitValue": "Spellcraft",
-    "Description": "Hobgoblins hate and fear arcane casters. A magehunter gains a +2 racial bonus on Spellcraft checks made to identify a spell being cast and a +1 racial bonus on attack rolls against arcane spellcasters. He only gains this bonus against creatures that use s"
+    "Description": "Hobgoblins hate and fear arcane casters. A magehunter gains a +2 racial bonus on Spellcraft checks made to identify a spell being cast and a +1 racial bonus on attack rolls against arcane spellcasters. He only gains this bonus against creatures that use s",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Magehunter",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on Spellcraft checks made to identify a spell being cast and a +1 racial bonus on attack rolls against arcane spellcasters. Members of this race only gain this bonus against creatures that use spells, not against those that only use spell-like abilities.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Magic Haters",
@@ -2683,7 +3306,14 @@
     "Race": "Gnome",
     "Implemented": 0,
     "Replaces": "unknown",
-    "Description": "Gnomes study languages in both their mundane and supernatural manifestations. Gnomes with this racial trait add +1 to the DC of spells they cast with the language-dependent descriptor or those that create glyphs, symbols, or other magical writings. They g"
+    "Description": "Gnomes study languages in both their mundane and supernatural manifestations. Gnomes with this racial trait add +1 to the DC of spells they cast with the language-dependent descriptor or those that create glyphs, symbols, or other magical writings. They g",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Magical Linguist",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +1 bonus to the DC of spells they cast that have the language-dependent descriptor or that create glyphs, symbols, or other magical writings. They also gain a +2 racial bonus on saving throws against such spells. Members of this race with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—_ arcane mark_, _ comprehend languages_, _ message_, _ read magic_. The caster level for these spell-like abilities is equal to the user's character level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Manipulative",
@@ -2702,7 +3332,14 @@
     "Replaces": "Defensive Training#Hatred",
     "BenefitType": "Skill",
     "BenefitValue": "Disable Device:1#Engineering:1",
-    "Description": "Gnomes experiment with all manner of mechanical devices. Gnomes with this racial trait gain a +1 bonus on Disable Device and Knowledge (engineering) checks. They are treated as proficient with any weapon they have personally crafted. This racial trait rep"
+    "Description": "Gnomes experiment with all manner of mechanical devices. Gnomes with this racial trait gain a +1 bonus on Disable Device and Knowledge (engineering) checks. They are treated as proficient with any weapon they have personally crafted. This racial trait rep",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Master Tinker",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +1 bonus on Disable Device and Knowledge (engineering) checks. Members of this race are also treated as proficient with any weapon they have personally crafted.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Maw or Claw",
@@ -2988,7 +3625,14 @@
     "Replaces": "Darkvision",
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:90",
-    "Description": "Dwarves with this racial trait increase the range of their darkvision to 90 feet; however, they are automatically dazzled in bright light and take a –2 penalty on saving throws against effects with the light descriptor. This racial trait replaces darkvisi"
+    "Description": "Dwarves with this racial trait increase the range of their darkvision to 90 feet; however, they are automatically dazzled in bright light and take a –2 penalty on saving throws against effects with the light descriptor. This racial trait replaces darkvisi",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Minesight",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race have darkvision 90 feet; however, they are automatically dazzled in bright light and take a –2 penalty on saving throws against effects with the light descriptor.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Mist Child",
@@ -2996,7 +3640,14 @@
     "Race": "Changeling",
     "Implemented": 0,
     "Replaces": "Hulking Changeling",
-    "Description": "When the changeling has concealment or total concealment, the miss chance of attacks against her increases by 5%. This racial trait replaces hulking changeling."
+    "Description": "When the changeling has concealment or total concealment, the miss chance of attacks against her increases by 5%. This racial trait replaces hulking changeling.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Mist Child",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Whenever a member of this race has concealment or total concealment, the miss chance of attacks against her increases by 5%.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Mixed Heritage",
@@ -3021,7 +3672,14 @@
     "Race": "Oread",
     "Implemented": 0,
     "Replaces": "Spell-Like Ability",
-    "Description": "Oreads are drawn to mountains and other high places, and after many generations they've grown well suited to their environment. Oreads with this racial trait gain a +2 racial bonus on Acrobatics checks made to cross narrow ledges and on saves against alti"
+    "Description": "Oreads are drawn to mountains and other high places, and after many generations they've grown well suited to their environment. Oreads with this racial trait gain a +2 racial bonus on Acrobatics checks made to cross narrow ledges and on saves against alti",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Mountain-Born",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on Acrobatics checks made to cross narrow ledges and on saving throws against altitude fatigue and sickness.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Mountaineer",
@@ -3029,14 +3687,28 @@
     "Race": "Dwarf",
     "Implemented": 0,
     "Replaces": "Stability",
-    "Description": "Mountain dwarves are skilled at climbing and navigating narrow ledges. Dwarves with this racial trait are immune to altitude sickness and do not lose their Dexterity bonus to AC when making Climb or Acrobatics checks to cross narrow or slippery surfaces."
+    "Description": "Mountain dwarves are skilled at climbing and navigating narrow ledges. Dwarves with this racial trait are immune to altitude sickness and do not lose their Dexterity bonus to AC when making Climb or Acrobatics checks to cross narrow or slippery surfaces.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Mountaineer",
+    "MarkdownSection": "Movement Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race are immune to altitude sickness and do not lose their Dexterity bonus to AC when making Climb checks or Acrobatics checks to cross narrow or slippery surfaces.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Multitalented",
     "Alternate": 0,
     "Race": "Half-Elf",
     "Implemented": 0,
-    "Description": "Half-elves choose two favored classes at first level and gain +1 hit point or +1 skill point whenever they take a level in either one of those classes. See Classes for more information about favored classes."
+    "Description": "Half-elves choose two favored classes at first level and gain +1 hit point or +1 skill point whenever they take a level in either one of those classes. See Classes for more information about favored classes.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Multitalented",
+    "MarkdownSection": "Other Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race choose two favored classes at 1st level and gain +1 hit points or +1 skill rank whenever they take a level in either of those classes.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Mystic Past Life",
@@ -3132,7 +3804,14 @@
     "Implemented": 1,
     "BenefitType": "AC",
     "BenefitValue": "Natural:1",
-    "Description": "Changelings have a +1 natural armor bonus."
+    "Description": "Changelings have a +1 natural armor bonus.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Natural Armor",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +1 natural armor bonus to their Armor Class.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Natural Hunter",
@@ -3186,7 +3865,14 @@
     "Race": "Undine",
     "Implemented": 0,
     "Replaces": "Spell-Like Ability",
-    "Description": "Some undines can trace their ancestry to nereids as well as to outsiders. Once per day as a standard action, such an undine can create a 20-foot-radius aura that causes humanoids within the aura's range to become fascinated with her for a number of rounds"
+    "Description": "Some undines can trace their ancestry to nereids as well as to outsiders. Once per day as a standard action, such an undine can create a 20-foot-radius aura that causes humanoids within the aura's range to become fascinated with her for a number of rounds",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Nereid Fascination",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Water or fey type;",
+    "MarkdownBenefit": "Members of this race gain the following supernatural ability: Once per day, a member of this race can create a 20-foot-radius burst that causes humanoids within the aura's range to become fascinated with the user (as the bard's fascinate bardic performance). Affected humanoids may resist this effect by making a successful Will saving throw (DC 10 + 1/2 the user's character level + the user's Charisma modifier).",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Nimble",
@@ -3212,7 +3898,14 @@
     "Race": "Catfolk",
     "Implemented": 0,
     "Replaces": "Sprinter",
-    "Description": "Some catfolk have an amazing sense of balance and keen knowledge of their own center of gravity. Catfolk with this trait land on their feet even when they take lethal damage from a fall. Furthermore, catfolk with this trait gain a +1 bonus to their CMD ag"
+    "Description": "Some catfolk have an amazing sense of balance and keen knowledge of their own center of gravity. Catfolk with this trait land on their feet even when they take lethal damage from a fall. Furthermore, catfolk with this trait gain a +1 bonus to their CMD ag",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Nimble Faller",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "The race has at least a +2 racial bonus to Dexterity;",
+    "MarkdownBenefit": "Members of this race land on their feet even when they take lethal damage from a fall. Furthermore, they gain a +1 bonus to their CMD against trip attempts.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "NimbleStrix",
@@ -3516,7 +4209,14 @@
     "Race": "Changeling",
     "Implemented": 0,
     "Replaces": "Green Widow",
-    "Description": "The changeling adds +1 to her caster level when casting charm person and charm monster. This replaces green widow."
+    "Description": "The changeling adds +1 to her caster level when casting charm person and charm monster. This replaces green widow.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Object of Desire",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race add +1 to their caster level when casting _ charm person_ and _ charm monster_.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Obsessive",
@@ -3566,7 +4266,14 @@
     "Alternate": 0,
     "Race": "Half-Orc",
     "Implemented": 0,
-    "Description": "Once per day, when a half-orc is brought below 0 hit points but not killed, he can fight on for one more round as if disabled. At the end of his next turn, unless brought to above 0 hit points, he immediately falls unconscious and begins dying."
+    "Description": "Once per day, when a half-orc is brought below 0 hit points but not killed, he can fight on for one more round as if disabled. At the end of his next turn, unless brought to above 0 hit points, he immediately falls unconscious and begins dying.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Orc Ferocity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Orc subtype;",
+    "MarkdownBenefit": "Once per day, when a member of this race is reduced to fewer than 0 hit points but is not killed, it can fight on for 1 more round as if disabled. At the end of its next turn, unless brought to above 0 hit points, it immediately falls unconscious and begins to die.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Outrider",
@@ -3601,14 +4308,28 @@
     "Alternate": 0,
     "Race": "Vishkanyas",
     "Implemented": 0,
-    "Description": "A vishkanya has a racial bonus on saving throws against poison equal to its Hit Dice."
+    "Description": "A vishkanya has a racial bonus on saving throws against poison equal to its Hit Dice.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Poison Resistance",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a racial bonus on saving throws against poison effects equal to their Hit Dice.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Poison Use",
     "Alternate": 0,
     "Race": "Drow",
     "Implemented": 0,
-    "Description": "Drow are skilled in the use of poison and never risk accidentally poisoning themselves."
+    "Description": "Drow are skilled in the use of poison and never risk accidentally poisoning themselves.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Poison Use",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race are skilled with poison and never risk accidentally poisoning themselves when applying it to weapons.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Poison Use",
@@ -3616,7 +4337,14 @@
     "Race": "Drow Noble",
     "Implemented": 0,
     "Description": "Drow are skilled in the use of poison and never risk accidentally poisoning themselves.",
-    "FlatfileId": "racialtrait:poison-use:2"
+    "FlatfileId": "racialtrait:poison-use:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Poison Use",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race are skilled with poison and never risk accidentally poisoning themselves when applying it to weapons.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Poison Use",
@@ -3624,7 +4352,14 @@
     "Race": "Feral Halfling",
     "Implemented": 0,
     "Description": "Halflings are skilled with poison and never risk accidentally poisoning themselves when applying it to weapons.",
-    "FlatfileId": "racialtrait:poison-use:3"
+    "FlatfileId": "racialtrait:poison-use:3",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Poison Use",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race are skilled with poison and never risk accidentally poisoning themselves when applying it to weapons.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Poison Use",
@@ -3632,7 +4367,14 @@
     "Race": "Vishkanyas",
     "Implemented": 0,
     "Description": "Vishkanyas are skilled in the use of poison and never accidentally poison themselves when using or applying poison.",
-    "FlatfileId": "racialtrait:poison-use:4"
+    "FlatfileId": "racialtrait:poison-use:4",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Poison Use",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race are skilled with poison and never risk accidentally poisoning themselves when applying it to weapons.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Polyglot",
@@ -3658,7 +4400,14 @@
     "Race": "Tiefling",
     "Implemented": 0,
     "Replaces": "Fiendish Sorcery",
-    "Description": "Many tieflings have tails, but some have long, flexible tails that can be used to carry items. While they cannot wield weapons with their tails, they can use them to retrieve small, stowed objects carried on their persons as a swift action. This racial tr"
+    "Description": "Many tieflings have tails, but some have long, flexible tails that can be used to carry items. While they cannot wield weapons with their tails, they can use them to retrieve small, stowed objects carried on their persons as a swift action. This racial tr",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Prehensile Tail",
+    "MarkdownSection": "Other Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race have a long, flexible tail that can be used to carry objects. They cannot wield weapons with their tails, but they can retrieve small, stowed objects carried on their persons as a swift action.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Prehensile Tail",
@@ -3666,7 +4415,14 @@
     "Race": "Vanara",
     "Implemented": 0,
     "Description": "A vanara has a long, flexible tail that she can use to carry objects. She cannot wield weapons with her tail, but the tail allows her to retrieve a small, stowed object carried on her person as a swift action.",
-    "FlatfileId": "racialtrait:prehensile-tail:2"
+    "FlatfileId": "racialtrait:prehensile-tail:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Prehensile Tail",
+    "MarkdownSection": "Other Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race have a long, flexible tail that can be used to carry objects. They cannot wield weapons with their tails, but they can retrieve small, stowed objects carried on their persons as a swift action.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Princely",
@@ -3684,7 +4440,14 @@
     "Race": "Gnome",
     "Implemented": 0,
     "Replaces": "unknown",
-    "Description": "Gnomes with this racial trait are treated as one level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using the bloodline powers of the fire elemental bloodline or the revelations of the oracle's flame myster"
+    "Description": "Gnomes with this racial trait are treated as one level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using the bloodline powers of the fire elemental bloodline or the revelations of the oracle's flame myster",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Pyromaniac",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race are treated as +1 level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using bloodline powers of the fire elemental bloodline, using the revelations of the oracle's flame mystery, and determining the damage of alchemist bombs that deal fire damage. This trait does not give members of this race early access to level-based powers; it only affects powers that they could already use without this trait. If a member of this race has a Charisma score of 11 or higher, it also gains the following spell-like abilities: 1/day—_ dancing lights_, _ flare_, _ prestidigitation_, _ produce flame_. The caster level for these spell-like abilities is equal to the user's character level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Ratfolk",
@@ -3703,7 +4466,14 @@
     "Replaces": "Stability",
     "BenefitType": "CMB",
     "BenefitValue": "Bull Rush:2#Overrun:2",
-    "Description": "Dwarves are skilled at pushing their way through a battlefield, tossing aside lesser foes with ease. Dwarves with this racial trait receive a +2 bonus on combat maneuver checks made to bull rush or overrun an opponent. This bonus only applies while both t"
+    "Description": "Dwarves are skilled at pushing their way through a battlefield, tossing aside lesser foes with ease. Dwarves with this racial trait receive a +2 bonus on combat maneuver checks made to bull rush or overrun an opponent. This bonus only applies while both t",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Relentless",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 bonus on combat maneuver checks made to bull rush or overrun an opponent. This bonus only applies while both the member of this race and its opponent are standing on the ground.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Reptilian",
@@ -3729,7 +4499,14 @@
     "Alternate": 0,
     "Race": "Dhampir",
     "Implemented": 0,
-    "Description": "A dhampir takes no penalties from energy drain effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw."
+    "Description": "A dhampir takes no penalties from energy drain effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Resist Level Drain",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Negative energy affinity racial trait;",
+    "MarkdownBenefit": "Members of this race take no penalty from energy-draining effects, though a member of this race can still be killed if it accrues more negative levels than it has Hit Dice. After 24 hours, any negative levels a member of this race has accrued are removed without the need for any additional saving throws.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Resistant",
@@ -3738,7 +4515,14 @@
     "Implemented": 1,
     "BenefitType": "Save",
     "BenefitValue": "MindAffecting#Poison",
-    "Description": "Nagaji receive a +2 racial saving throw bonus against mind-affecting effects and poison."
+    "Description": "Nagaji receive a +2 racial saving throw bonus against mind-affecting effects and poison.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Resistant",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on saving throws against mind-affecting effects and poison.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Riverfolk",
@@ -3771,7 +4555,14 @@
     "Alternate": 0,
     "Race": "Ratfolk",
     "Implemented": 0,
-    "Description": "Ratfolk gain a +4 racial bonus on Handle Animal checks made to influence rodents."
+    "Description": "Ratfolk gain a +4 racial bonus on Handle Animal checks made to influence rodents.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Rodent Empathy",
+    "MarkdownSection": "Other Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Ratfolk subtype;",
+    "MarkdownBenefit": "Members of this race gain a +4 bonus on Handle Animal checks made to influence rodents.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Sacred Tattoo",
@@ -3796,7 +4587,14 @@
     "Alternate": 0,
     "Race": "Samsaran",
     "Implemented": 0,
-    "Description": "Samsarans with a Charisma score of 11 or higher gain the following spell-like abilities"
+    "Description": "Samsarans with a Charisma score of 11 or higher gain the following spell-like abilities",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Samsaran Magic",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Samsaran subtype;",
+    "MarkdownBenefit": "Members of this race with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day—_ comprehend languages_, _ deathwatch_, _ stabilize_. The caster level for these effects is equal to the user's character level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Scaled Skin",
@@ -3824,7 +4622,14 @@
     "Replaces": "Intimidating",
     "BenefitType": "Skill",
     "BenefitValue": "Appraise",
-    "Description": "Some half-orcs eke out a leaving picking over the garbage heaps of society, and must learn to separate rare finds from the inevitable dross. Half-orcs with this racial trait receive a +2 racial bonus on Appraise checks and on Perception checks to find hid"
+    "Description": "Some half-orcs eke out a leaving picking over the garbage heaps of society, and must learn to separate rare finds from the inevitable dross. Half-orcs with this racial trait receive a +2 racial bonus on Appraise checks and on Perception checks to find hid",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Scavenger",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on Appraise and Perception checks to find hidden objects (including traps and secret doors), determine whether food is spoiled, or identify a potion by taste.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Scent",
@@ -3834,7 +4639,14 @@
     "Replaces": "Low-Light Vision",
     "BenefitType": "Feat",
     "BenefitValue": "Scent",
-    "Description": "Some catfolk favor a keen sense of smell over sensitive sight. Catfolk with this racial trait gain the scent ability. This racial trait replaces the low-light vision racial trait."
+    "Description": "Some catfolk favor a keen sense of smell over sensitive sight. Catfolk with this racial trait gain the scent ability. This racial trait replaces the low-light vision racial trait.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Scent",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Advanced Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain the scent ability .",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Scent",
@@ -3843,7 +4655,14 @@
     "Implemented": 0,
     "Replaces": "Tinker",
     "Description": "Some ratfolk have much more strongly developed senses of smell, instead of keen eyes and ears. These ratfolk have the scent ability, but take a –2 penalty on all Perception checks based primarily on sight or hearing. This racial trait replaces tinker.",
-    "FlatfileId": "racialtrait:scent:2"
+    "FlatfileId": "racialtrait:scent:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Scent",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Advanced Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain the scent ability .",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Scion of Humanity",
@@ -3876,7 +4695,14 @@
     "Race": "Drow",
     "Implemented": 0,
     "Replaces": "Drow Immunities",
-    "Description": "Certain drow possess an innate understanding of the darkest desires that lurk in every heart. Drow with this racial trait add +1 to the saving throw DCs for spells and spell-like abilities of the enchantment school. In addition, drow with a Wisdom score o"
+    "Description": "Certain drow possess an innate understanding of the darkest desires that lurk in every heart. Drow with this racial trait add +1 to the saving throw DCs for spells and spell-like abilities of the enchantment school. In addition, drow with a Wisdom score o",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Seducer",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "The race has at least a +2 racial bonus to Charisma;",
+    "MarkdownBenefit": "Members of this race add +1 to the saving throw DCs for their spells and spell-like abilities of the enchantment school. In addition, members of this race with a Wisdom score of 15 or higher may use _ charm person_ once per day as a spell-like ability (caster level is equal to the user's character level).",
+    "MarkdownSpecial": null
   },
   {
     "Name": "SensesDhampir",
@@ -3918,7 +4744,14 @@
     "Alternate": 0,
     "Race": "Fetchling",
     "Implemented": 0,
-    "Description": "Attacks against a fetchling in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance."
+    "Description": "Attacks against a fetchling in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Shadow Blending",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Shadow resistance racial trait;",
+    "MarkdownBenefit": "Attacks made against members of this race while they are within areas of dim light have a 50% miss chance instead of the normal 20% miss chance. This trait does not grant total concealment; it just increases the miss chance. This is a supernatural ability.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Shadow Magic",
@@ -3926,7 +4759,14 @@
     "Race": "Fetchling",
     "Implemented": 0,
     "Replaces": "Skilled",
-    "Description": "Fetchlings who spend their time studying the subtle magic of their adopted plane gain arcane insights on the use of shadow spells. These fetchlings gain a +1 racial bonus to the DC of any illusion (shadow) spells they cast. This racial trait replaces the"
+    "Description": "Fetchlings who spend their time studying the subtle magic of their adopted plane gain arcane insights on the use of shadow spells. These fetchlings gain a +1 racial bonus to the DC of any illusion (shadow) spells they cast. This racial trait replaces the",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Shadow Magic",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Members of this race with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—_ ghost sound_, _ pass without trace_, _ ventriloquism_. The caster level for these spell-like abilities is equal to the user's character level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Shadow Magic",
@@ -3934,7 +4774,14 @@
     "Race": "Wayang",
     "Implemented": 0,
     "Description": "Wayangs add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Wayangs with a Charisma score of 11 or higher also gain the following spell-like abilities",
-    "FlatfileId": "racialtrait:shadow-magic:2"
+    "FlatfileId": "racialtrait:shadow-magic:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Shadow Magic",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Members of this race with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—_ ghost sound_, _ pass without trace_, _ ventriloquism_. The caster level for these spell-like abilities is equal to the user's character level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Shadow Resistance",
@@ -3943,7 +4790,14 @@
     "Implemented": 0,
     "BenefitType": "Save",
     "BenefitValue": "Shadow:2",
-    "Description": "Wayangs get a +2 racial bonus on saving throws against spells of the shadow subschool."
+    "Description": "Wayangs get a +2 racial bonus on saving throws against spells of the shadow subschool.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Shadow Resistance",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain cold resistance 5 and electricity resistance 5.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Shadowy Resistance",
@@ -3969,7 +4823,14 @@
     "Alternate": 0,
     "Race": "Samsaran",
     "Implemented": 0,
-    "Description": "A samsaran's past lives grant her bonuses on two particular skills. A samsaran chooses two skills—she gains a +2 racial bonus on both of these skills, and they are treated as class skills regardless of what class she actually takes."
+    "Description": "A samsaran's past lives grant her bonuses on two particular skills. A samsaran chooses two skills—she gains a +2 racial bonus on both of these skills, and they are treated as class skills regardless of what class she actually takes.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Shards of the Past",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race have past lives that grant them two particular Knowledge skills. Each member of this race picks two Knowledge skills. The member of this race gains a +2 racial bonus on both of these skills, and those skills are treated as class skills regardless of what class the member of this race actually takes.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Shiftless",
@@ -4004,7 +4865,14 @@
     "Replaces": "Skilled",
     "BenefitType": "Skill",
     "BenefitValue": "Diplomacy#Bluff",
-    "Description": "Human are often adept at subtle manipulation and putting even sworn foes at ease. Humans with this trait gain a +2 bonus on Diplomacy and Bluff checks. In addition, when they use Diplomacy to shift a creature's attitude, they can shift up to three steps u"
+    "Description": "Human are often adept at subtle manipulation and putting even sworn foes at ease. Humans with this trait gain a +2 bonus on Diplomacy and Bluff checks. In addition, when they use Diplomacy to shift a creature's attitude, they can shift up to three steps u",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Silver Tongued",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 bonus on Diplomacy and Bluff checks. In addition, when they use Diplomacy to shift a creature's attitude, they can do so up to three steps up rather than just two.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Skilled",
@@ -4013,7 +4881,14 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Diplomacy#Perception",
-    "Description": "Aasimars have a +2 racial bonus on Diplomacy and Perception checks."
+    "Description": "Aasimars have a +2 racial bonus on Diplomacy and Perception checks.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Skilled",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain an additional skill rank at 1st level and one additional skill rank whenever they gain a level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Skilled",
@@ -4023,7 +4898,14 @@
     "BenefitType": "Skill",
     "BenefitValue": "Planes#Stealth",
     "Description": "Fetchlings have a +2 racial bonus on Knowledge (planes) and Stealth checks.",
-    "FlatfileId": "racialtrait:skilled:2"
+    "FlatfileId": "racialtrait:skilled:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Skilled",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain an additional skill rank at 1st level and one additional skill rank whenever they gain a level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Skilled",
@@ -4033,7 +4915,14 @@
     "BenefitType": "Skill",
     "BenefitValue": "Ride:4#Stealth:4",
     "Description": "+4 racial bonus on Ride and Stealth checks.",
-    "FlatfileId": "racialtrait:skilled:3"
+    "FlatfileId": "racialtrait:skilled:3",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Skilled",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain an additional skill rank at 1st level and one additional skill rank whenever they gain a level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Skilled",
@@ -4044,7 +4933,14 @@
     "BenefitType": "ExtraSkillRank",
     "BenefitValue": 1,
     "Description": "Second- and third-generation half-orcs often favor their human heritage more than their orc heritage. Half-orcs with this trait gain 1 additional skill rank per level. This racial trait replaces darkvision.",
-    "FlatfileId": "racialtrait:skilled:4"
+    "FlatfileId": "racialtrait:skilled:4",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Skilled",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain an additional skill rank at 1st level and one additional skill rank whenever they gain a level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Skilled",
@@ -4054,7 +4950,14 @@
     "BenefitType": "ExtraSkillRank",
     "BenefitValue": 1,
     "Description": "Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.",
-    "FlatfileId": "racialtrait:skilled:5"
+    "FlatfileId": "racialtrait:skilled:5",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Skilled",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain an additional skill rank at 1st level and one additional skill rank whenever they gain a level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Skilled",
@@ -4064,7 +4967,14 @@
     "BenefitType": "Skill",
     "BenefitValue": "Bluff:Stealth",
     "Description": "Tieflings gain a +2 racial bonus on Bluff and Stealth checks.",
-    "FlatfileId": "racialtrait:skilled:6"
+    "FlatfileId": "racialtrait:skilled:6",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Skilled",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain an additional skill rank at 1st level and one additional skill rank whenever they gain a level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "SkilledSvirfneblin",
@@ -4091,7 +5001,14 @@
     "Race": "Dwarf",
     "Implemented": 0,
     "Replaces": "Defensive Training#Hatred#Stonecunning",
-    "Description": "As creatures with a deep affinity for the ground, dwarves are wary of attacks from above. Enemies on higher ground gain no attack roll bonus against dwarves with this racial trait, and they gain a +1 racial bonus on attack rolls, a +2 dodge bonus to AC, a"
+    "Description": "As creatures with a deep affinity for the ground, dwarves are wary of attacks from above. Enemies on higher ground gain no attack roll bonus against dwarves with this racial trait, and they gain a +1 racial bonus on attack rolls, a +2 dodge bonus to AC, a",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Sky Sentinel",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +1 racial bonus on attack rolls, a +2 dodge bonus to AC, and a +2 bonus on Perception checks against flying creatures. In addition, enemies on higher ground gain no attack roll bonus against members of this race.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Sky Speaker",
@@ -4325,7 +5242,14 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Stealth:4",
-    "Description": "Hobgoblins receive a +4 racial bonus on Stealth checks."
+    "Description": "Hobgoblins receive a +4 racial bonus on Stealth checks.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Sneaky",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +4 racial bonus on Stealth checks.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Sneaky",
@@ -4335,7 +5259,14 @@
     "BenefitType": "Skill",
     "BenefitValue": "Perception#Stealth",
     "Description": "Tengus gain a +2 racial bonus on Perception and Stealth checks.",
-    "FlatfileId": "racialtrait:sneaky:2"
+    "FlatfileId": "racialtrait:sneaky:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Sneaky",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +4 racial bonus on Stealth checks.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Sociable",
@@ -4343,7 +5274,14 @@
     "Race": "Half-Elf",
     "Implemented": 0,
     "Replaces": "Adaptability",
-    "Description": "Half-elves are skilled at charming others and recovering from faux pas. If half-elves with this racial trait attempt to change a creature's attitude with a Diplomacy check and fail by 5 or more, they can try to influence the creature a second time even if"
+    "Description": "Half-elves are skilled at charming others and recovering from faux pas. If half-elves with this racial trait attempt to change a creature's attitude with a Diplomacy check and fail by 5 or more, they can try to influence the creature a second time even if",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Sociable",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "When members of this race attempt to change a creature's attitude with a Diplomacy check and fail by 5 or more, they can try to influence the creature a second time even if 24 hours have not passed.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Soul Seer",
@@ -4351,7 +5289,14 @@
     "Race": "Tiefling",
     "Implemented": 0,
     "Replaces": "Fiendish Sorcery#Spell-Like Ability",
-    "Description": "Rare tieflings have a peculiar sight that allows them to see the state of a creature's soul. They can use deathwatch at will as spell-like ability. This racial trait replaces the spell-like ability and fiendish sorcery racial traits."
+    "Description": "Rare tieflings have a peculiar sight that allows them to see the state of a creature's soul. They can use deathwatch at will as spell-like ability. This racial trait replaces the spell-like ability and fiendish sorcery racial traits.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Soul Seer",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native);",
+    "MarkdownBenefit": "Members of this race gain the use of _ deathwatch_ as a constant spell-like ability.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Spell Resistance",
@@ -4482,7 +5427,14 @@
     "Alternate": 0,
     "Race": "Catfolk",
     "Implemented": 0,
-    "Description": "Catfolk gain a 10-foot racial bonus to their speed when using the charge, run, or withdraw actions."
+    "Description": "Catfolk gain a 10-foot racial bonus to their speed when using the charge, run, or withdraw actions.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Sprinter",
+    "MarkdownSection": "Movement Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Normal speed;",
+    "MarkdownBenefit": "Members of this race gain a +10 foot racial bonus to their speed when using the charge, run, or withdraw actions.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Squalid",
@@ -4497,7 +5449,14 @@
     "Alternate": 0,
     "Race": "Duergar",
     "Implemented": 0,
-    "Description": "Duergar receive a +4 racial bonus to their CMD against bull rush or trip attempts while on solid ground."
+    "Description": "Duergar receive a +4 racial bonus to their CMD against bull rush or trip attempts while on solid ground.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Stability",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race receive a +4 racial bonus to their CMD when resisting bull rush or trip attempts while standing on the ground.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Stability",
@@ -4505,7 +5464,14 @@
     "Race": "Dwarf",
     "Implemented": 0,
     "Description": "Dwarves receive a +4 racial bonus to their Combat Maneuver Defense when resisting a bull rush or trip attempt while standing on the ground.",
-    "FlatfileId": "racialtrait:stability:2"
+    "FlatfileId": "racialtrait:stability:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Stability",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race receive a +4 racial bonus to their CMD when resisting bull rush or trip attempts while standing on the ground.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Stalker",
@@ -4514,7 +5480,14 @@
     "Implemented": 1,
     "BenefitType": "ClassSkill",
     "BenefitValue": "Perception#Stealth",
-    "Description": "Halflings always treat Perception and Stealh as class skills."
+    "Description": "Halflings always treat Perception and Stealh as class skills.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Stalker",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Perception and Stealth are always class skills for members of this race.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Stat Choice",
@@ -4848,14 +5821,28 @@
     "Race": "Oread",
     "Implemented": 0,
     "Replaces": "Earth Affinity",
-    "Description": "Oreads with this racial trait mimic the healing abilities of the mephits, gaining fast healing 2 for 1 round anytime they are subject to acid damage (the acid damage does not need to overcome the oread's resistances or immunities to activate this ability)"
+    "Description": "Oreads with this racial trait mimic the healing abilities of the mephits, gaining fast healing 2 for 1 round anytime they are subject to acid damage (the acid damage does not need to overcome the oread's resistances or immunities to activate this ability)",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Stone in the Blood",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Earth, construct type, dragon type, or half-construct subtype;",
+    "MarkdownBenefit": "Members of this race gaining fast healing 2 for 1 round anytime they take acid damage (whether or not this acid damage overcomes their acid resistance, if any). A member of this race can heal up to 2 hit points per level per day with this ability, after which it ceases to function.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Stonecunning",
     "Alternate": 0,
     "Race": "Dwarf",
     "Implemented": 0,
-    "Description": "Dwarves receive a +2 bonus on Perception checks to potentially notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or no"
+    "Description": "Dwarves receive a +2 bonus on Perception checks to potentially notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or no",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Stonecunning",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race receive a +2 bonus on Perception checks to notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Stonecunning",
@@ -4863,14 +5850,28 @@
     "Race": "Svirfneblin",
     "Implemented": 0,
     "Description": "Svirfneblin gain stonecunning as dwarves.",
-    "FlatfileId": "racialtrait:stonecunning:2"
+    "FlatfileId": "racialtrait:stonecunning:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Stonecunning",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race receive a +2 bonus on Perception checks to notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Stoneseer",
     "Alternate": 1,
     "Race": "Svirfneblin",
     "Implemented": 0,
-    "Description": "Svirfneblin add +1 to the caster level of any spells with the earth descriptor they cast. Svirfneblin also gain the following spell-like abilities"
+    "Description": "Svirfneblin add +1 to the caster level of any spells with the earth descriptor they cast. Svirfneblin also gain the following spell-like abilities",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Stoneseer",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race add +1 to the caster level of any spells with the earth descriptor they cast. Members of this race also gain the following spell-like abilities: constant—_ nondetection_; 1/day—_ magic stone_, _ stone shape_, _ stone tell_. The caster level for these spell-like abilities is equal to the user's character level.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Stonesinger",
@@ -4878,7 +5879,14 @@
     "Race": "Dwarf",
     "Implemented": 0,
     "Replaces": "Stonecunning",
-    "Description": "Some dwarves' affinity for the earth grants them greater powers. Dwarves with this racial trait are treated as one level higher when casting spells with the earth descriptor or using granted powers of the Earth domain, the bloodline powers of the earth el"
+    "Description": "Some dwarves' affinity for the earth grants them greater powers. Dwarves with this racial trait are treated as one level higher when casting spells with the earth descriptor or using granted powers of the Earth domain, the bloodline powers of the earth el",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Stonesinger",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race are treated as 1 level higher when casting spells with the earth descriptor or using powers of the Earth domain, bloodline powers of the earth elemental bloodline, and revelations of the oracle's stone mystery. This trait does not give members of this race early access to level-based powers; it only affects powers they could already use without this trait.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Storm in the Blood",
@@ -4886,7 +5894,14 @@
     "Race": "Slyph",
     "Implemented": 0,
     "Replaces": "Air Affinity",
-    "Description": "A sylph with this racial trait gains fast healing 2 for 1 round anytime she takes electricity damage (whether or not this electricity damage gets through her electricity resistance). The sylph can heal up to 2 hit points per level per day with this abilit"
+    "Description": "A sylph with this racial trait gains fast healing 2 for 1 round anytime she takes electricity damage (whether or not this electricity damage gets through her electricity resistance). The sylph can heal up to 2 hit points per level per day with this abilit",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Storm in the Blood",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Air, dragon type, fey type, or plant type;",
+    "MarkdownBenefit": "Members of this race gain fast healing 2 for 1 round anytime they take electricity damage (whether or not this electricity damage overcomes their electricity resistance, if any). A member of this race can heal up to 2 hit points per level per day with this ability, after which it ceases to function.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Strix",
@@ -4910,7 +5925,14 @@
     "Race": "Dwarf",
     "Implemented": 0,
     "Replaces": "Hardy",
-    "Description": "Dwarves are renowned for their stubbornness. Dwarves with this racial trait receive a +2 racial bonus on Will saves to resist spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) schools. In addition, if they fail such a"
+    "Description": "Dwarves are renowned for their stubbornness. Dwarves with this racial trait receive a +2 racial bonus on Will saves to resist spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) schools. In addition, if they fail such a",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Stubborn",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on Will saving throws to resist spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) subschools. In addition, if a member of this race fails such a save, it receives another save 1 round later to prematurely end the effect (assuming the spell or spell-like ability has a duration greater than 1 round). This second save is made at the same DC as the first. If the member of the race has a similar ability from another source (such as a rogue's slippery mind class feature), it can only use one of these abilities per round, but can try the other on the second round if the first reroll ability fails.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Subtle Appearance",
@@ -5015,7 +6037,14 @@
     "Alternate": 0,
     "Race": "Svirfneblin",
     "Implemented": 0,
-    "Description": "Svirfneblin add +1 to the DC of any illusion spells they cast. Svirfneblin also gain the following spell-like abilities"
+    "Description": "Svirfneblin add +1 to the DC of any illusion spells they cast. Svirfneblin also gain the following spell-like abilities",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Svirfneblin Magic",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Gnome subtype;",
+    "MarkdownBenefit": "Members of this race add +1 to the DC of any illusion spells they cast. They also gain the following spell-like abilities: constant—_ nondetection_; 1/day—_ blindness/deafness_, _ blur_, _ disguise self_. The DC for the spells is equal to 10 + the spell's level + the caster's Charisma modifier.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Swamp Stride",
@@ -5036,7 +6065,14 @@
     "Alternate": 0,
     "Race": "Feral Halfling",
     "Implemented": 0,
-    "Description": "Halflings reduce the penalty for using Steal while moving at full speed by 5, and reduce the Stealh check penalty for sniping by 10"
+    "Description": "Halflings reduce the penalty for using Steal while moving at full speed by 5, and reduce the Stealh check penalty for sniping by 10",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Swift as Shadows",
+    "MarkdownSection": "Movement Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "The race has at least a +2 racial bonus to Dexterity;",
+    "MarkdownBenefit": "Members of this race reduce the penalty for using Stealth while moving at full speed by 5, and reduce the Stealth check penalty for sniping by 10.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Swift as Shadows",
@@ -5045,14 +6081,28 @@
     "Implemented": 0,
     "Replaces": "Sure Footed",
     "Description": "Halflings possess incredible stealth even while moving through obstructed areas. Halflings with this racial trait reduce the penalty for using Stealth while moving by 5, and reduce the Stealth check penalty for sniping by 10. This racial trait replaces su",
-    "FlatfileId": "racialtrait:swift-as-shadows:2"
+    "FlatfileId": "racialtrait:swift-as-shadows:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Swift as Shadows",
+    "MarkdownSection": "Movement Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "The race has at least a +2 racial bonus to Dexterity;",
+    "MarkdownBenefit": "Members of this race reduce the penalty for using Stealth while moving at full speed by 5, and reduce the Stealth check penalty for sniping by 10.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Swordtrained",
     "Alternate": 0,
     "Race": "Tengu",
     "Implemented": 0,
-    "Description": "Tengus are trained from birth in swordplay, and as a result are automatically proficient with swordlike weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short"
+    "Description": "Tengus are trained from birth in swordplay, and as a result are automatically proficient with swordlike weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Swordtrained",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Advanced Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race are trained from birth in swordplay, and as a result are automatically proficient with swordlike weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords).",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Tengu",
@@ -5121,7 +6171,14 @@
     "Alternate": 0,
     "Race": "Vishkanyas",
     "Implemented": 0,
-    "Description": "A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in th"
+    "Description": "A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in th",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Toxic",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Aberration, dragon, plant, or undead type, or grippli, half-undead, reptilian, or vishkanya subtype;",
+    "MarkdownBenefit": "Members of this race gain the following extraordinary ability: A number of times per day equal to its Constitution modifier (minimum 1/day), a member of this race can envenom a weapon that it wields with its toxic saliva or blood (using blood requires the creature to be injured when it uses this ability). Applying venom in this way is a swift action. When you take this trait, choose one of the following venoms.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Toxic Skin",
@@ -5137,7 +6194,14 @@
     "Race": "Oread",
     "Implemented": 0,
     "Replaces": "Spell-Like Ability",
-    "Description": "Once per day, an oread with this racial trait can will the earth to rumble and shift, transforming a 10-foot-radius patch of earth, unworked stone, or sand into an area of difficult terrain, centered on an area the oread touches. This lasts for a number o"
+    "Description": "Once per day, an oread with this racial trait can will the earth to rumble and shift, transforming a 10-foot-radius patch of earth, unworked stone, or sand into an area of difficult terrain, centered on an area the oread touches. This lasts for a number o",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Treacherous Earth",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Earth or fey type;",
+    "MarkdownBenefit": "Members of this race gain the following supernatural ability: Once per day, a member of this race can will the earth to rumble and shift, transforming a 10-foot-radius patch of earth, unworked stone, or sand into an area of difficult terrain centered on a square it can touch. This lasts for a number of minutes equal to the user's level, after which the ground returns to normal.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Tree Runner",
@@ -5181,7 +6245,14 @@
     "Implemented": 1,
     "BenefitType": "Save",
     "BenefitValue": "Disease:2#Mind Affecting:2",
-    "Description": "Dhampirs gain a +2 racial bonus on saving throws against disease and mind-affecting effects."
+    "Description": "Dhampirs gain a +2 racial bonus on saving throws against disease and mind-affecting effects.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Undead Resistance",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on saving throws against disease and mind-affecting effects.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Underfoot",
@@ -5207,7 +6278,14 @@
     "Race": "Ratfolk",
     "Implemented": 0,
     "Replaces": "Rodent Empathy",
-    "Description": "Some ratfolk unnerve normal animals, and train to defend themselves against the inevitable attacks from such creatures. These ratfolk take a –4 penalty on all Charisma-based skill checks to affect creatures of the animal type, and receive a +2 dodge bonus"
+    "Description": "Some ratfolk unnerve normal animals, and train to defend themselves against the inevitable attacks from such creatures. These ratfolk take a –4 penalty on all Charisma-based skill checks to affect creatures of the animal type, and receive a +2 dodge bonus",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Unnatural",
+    "MarkdownSection": "Defense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race unnerve normal animals, and train to defend themselves against the inevitable attacks from such creatures. Members of this race take a –4 penalty on all Charisma-based skill checks to affect creatures of the animal type, and receive a +4 dodge bonus to AC against animals. Animals' starting attitude toward members of this race is one step worse than normal.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Urbanite",
@@ -5215,7 +6293,14 @@
     "Race": "Elf",
     "Implemented": 0,
     "Replaces": "Keen Senses",
-    "Description": "Elves who live in cities for more than a century can grow to know the ebb and flow of social situations just as their forest-dwelling cousins know the rules of the wild. Elves with this racial trait gain a +2 racial bonus on Diplomacy checks made to gathe"
+    "Description": "Elves who live in cities for more than a century can grow to know the ebb and flow of social situations just as their forest-dwelling cousins know the rules of the wild. Elves with this racial trait gain a +2 racial bonus on Diplomacy checks made to gathe",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Urbanite",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +2 racial bonus on Diplomacy checks made to gather information and Sense Motive checks made to get a hunch about a social situation.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Vampiric Empathy",
@@ -5240,7 +6325,14 @@
     "Race": "Tiefling",
     "Implemented": 0,
     "Replaces": "Skilled",
-    "Description": "Some tieflings possess a pair of undersized, withered, or stunted wings like a mockery of those of their fiendish forbearer. Sometimes these wings are leathery, like those of a bat. Other times they are covered with a scattering of black, red, or violet f"
+    "Description": "Some tieflings possess a pair of undersized, withered, or stunted wings like a mockery of those of their fiendish forbearer. Sometimes these wings are leathery, like those of a bat. Other times they are covered with a scattering of black, red, or violet f",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Vestigial Wings",
+    "MarkdownSection": "Movement Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race have wings that do not provide the lift required for actual flight, but do have enough power to aid flight attained by some other method, and grant a +4 racial bonus on Fly checks.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Vishkanya",
@@ -5302,7 +6394,14 @@
     "Replaces": "Adaptability#Multitalented",
     "BenefitType": "Skill",
     "BenefitValue": "Swim:4",
-    "Description": "Some half-elves are born of elves adapted to life on or near the water. These half-elves gain a +4 racial bonus on Swim checks, can always take 10 while swimming, and may choose Aquan as a bonus language. This racial trait replaces the adaptability and mu"
+    "Description": "Some half-elves are born of elves adapted to life on or near the water. These half-elves gain a +4 racial bonus on Swim checks, can always take 10 while swimming, and may choose Aquan as a bonus language. This racial trait replaces the adaptability and mu",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Water Child",
+    "MarkdownSection": "Feat and Skill Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +4 racial bonus on Swim checks, can always take 10 while swimming, and may choose Aquan as a bonus language.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Water Dependent",
@@ -5317,7 +6416,14 @@
     "Race": "Undine",
     "Implemented": 0,
     "Replaces": "Energy Resistance",
-    "Description": "Undines with this racial trait can sense vibrations in water, granting them blindsense 30 feet against creatures in contact with the same body of water. This racial trait replaces energy resistance."
+    "Description": "Undines with this racial trait can sense vibrations in water, granting them blindsense 30 feet against creatures in contact with the same body of water. This racial trait replaces energy resistance.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Water Sense",
+    "MarkdownSection": "Senses Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Water or amphibious racial trait;",
+    "MarkdownBenefit": "Members of this race can sense vibrations in water, granting them blindsense 30 feet against creatures that are touching the same body of water.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Wayang",
@@ -5341,7 +6447,14 @@
     "Alternate": 0,
     "Race": "Drow",
     "Implemented": 0,
-    "Description": "Drow are proficient with the hand crossbow, rapier, and short sword."
+    "Description": "Drow are proficient with the hand crossbow, rapier, and short sword.",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5349,7 +6462,14 @@
     "Race": "Drow Noble",
     "Implemented": 0,
     "Description": "Drow are proficient with the hand crossbow, rapier, and short sword.",
-    "FlatfileId": "racialtrait:weapon-familiarity:2"
+    "FlatfileId": "racialtrait:weapon-familiarity:2",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5357,7 +6477,14 @@
     "Race": "Dwarf",
     "Implemented": 0,
     "Description": "Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.",
-    "FlatfileId": "racialtrait:weapon-familiarity:3"
+    "FlatfileId": "racialtrait:weapon-familiarity:3",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5365,7 +6492,14 @@
     "Race": "Elf",
     "Implemented": 0,
     "Description": "Elves are proficient with longbows (including composite longbows), longswords, rapiers, and shortbows (including composite shortbows), and treat any weapon with the word “elven” in its name as a martial weapon.",
-    "FlatfileId": "racialtrait:weapon-familiarity:4"
+    "FlatfileId": "racialtrait:weapon-familiarity:4",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5373,7 +6507,14 @@
     "Race": "Feral Halfling",
     "Implemented": 0,
     "Description": "Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon.",
-    "FlatfileId": "racialtrait:weapon-familiarity:5"
+    "FlatfileId": "racialtrait:weapon-familiarity:5",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5381,7 +6522,14 @@
     "Race": "Gnome",
     "Implemented": 0,
     "Description": "Gnomes treat any weapon with the word “gnome” in its name as a martial weapon.",
-    "FlatfileId": "racialtrait:weapon-familiarity:6"
+    "FlatfileId": "racialtrait:weapon-familiarity:6",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5390,7 +6538,14 @@
     "Implemented": 0,
     "Replaces": "Skilled",
     "Description": "Goblins' traditional weapons are the dogslicer and the horsechopper, weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the dogslicer and the horsechopper, and treat any weapon with the word gobl",
-    "FlatfileId": "racialtrait:weapon-familiarity:7"
+    "FlatfileId": "racialtrait:weapon-familiarity:7",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5398,7 +6553,14 @@
     "Race": "Grippli",
     "Implemented": 0,
     "Description": "Gripplis are proficient with nets.",
-    "FlatfileId": "racialtrait:weapon-familiarity:8"
+    "FlatfileId": "racialtrait:weapon-familiarity:8",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5406,7 +6568,14 @@
     "Race": "Halfling",
     "Implemented": 0,
     "Description": "Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon.",
-    "FlatfileId": "racialtrait:weapon-familiarity:9"
+    "FlatfileId": "racialtrait:weapon-familiarity:9",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5414,7 +6583,14 @@
     "Race": "Half-Orc",
     "Implemented": 0,
     "Description": "Half-orcs are proficient with greataxes and falchions and treat any weapon with the word “orc” in its name as a martial weapon.",
-    "FlatfileId": "racialtrait:weapon-familiarity:10"
+    "FlatfileId": "racialtrait:weapon-familiarity:10",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5422,7 +6598,14 @@
     "Race": "Orc",
     "Implemented": 0,
     "Description": "Orcs are always proficient with greataxes and falchions, and treat any weapon with the word orc in its name as a martial weapon.",
-    "FlatfileId": "racialtrait:weapon-familiarity:11"
+    "FlatfileId": "racialtrait:weapon-familiarity:11",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weapon Familiarity",
@@ -5430,7 +6613,14 @@
     "Race": "Vishkanyas",
     "Implemented": 0,
     "Description": "Vishkanyas are always proficient with blowguns, kukri, and shuriken.",
-    "FlatfileId": "racialtrait:weapon-familiarity:12"
+    "FlatfileId": "racialtrait:weapon-familiarity:12",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weapon Familiarity",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Choose up to two weapons, or one weapon and a racial weapon group. When choosing a racial weapon group, you must choose a group that includes the same name as one of your subtypes. Members of this race are proficient with those weapons. For the purposes of weapon familiarity, all bows are considered one weapon.",
+    "MarkdownSpecial": "This trait can be taken up to two times. The second time it is taken, the race becomes proficient with another two weapons or one weapon and a racial weapon group."
   },
   {
     "Name": "Weather Savvy",
@@ -5438,7 +6628,14 @@
     "Race": "Slyph",
     "Implemented": 0,
     "Replaces": "Spell-Like Ability",
-    "Description": "Some sylphs are so in tune with the air and sky that they can sense the slightest change in atmospheric conditions. Sylphs with this trait can spend a full-round action to predict the weather in an area for the next 24 hours. The sylph's prediction is alw"
+    "Description": "Some sylphs are so in tune with the air and sky that they can sense the slightest change in atmospheric conditions. Sylphs with this trait can spend a full-round action to predict the weather in an area for the next 24 hours. The sylph's prediction is alw",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Weather Savvy",
+    "MarkdownSection": "Magical Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "Outsider (native) with ties to the Plane of Air or fey type;",
+    "MarkdownBenefit": "Members of this race are so in tune with the air and sky they can sense the slightest change in atmospheric conditions. They can spend a full-round action to predict the weather in an area for the next 24 hours. This prediction is always accurate, but cannot account for spells or supernatural effects that might alter the forecast.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Whispering Wind",
@@ -5501,7 +6698,14 @@
     "Race": "Dwarf",
     "Implemented": 0,
     "Replaces": "Defensive Training#Hatred#Stonecunning",
-    "Description": "Dwarves with this racial trait gain a +1 bonus on attack rolls and a +2 dodge bonus to AC and on saving throws against the exceptional, supernatural, and spell-like abilities of dragons. They also gain a +2 racial bonus on Knowledge (arcana) checks to ide"
+    "Description": "Dwarves with this racial trait gain a +1 bonus on attack rolls and a +2 dodge bonus to AC and on saving throws against the exceptional, supernatural, and spell-like abilities of dragons. They also gain a +2 racial bonus on Knowledge (arcana) checks to ide",
+    "MarkdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+    "MarkdownTitle": "Wyrmscourged",
+    "MarkdownSection": "Offense Racial Traits",
+    "MarkdownCategory": "Standard Traits",
+    "MarkdownPrerequisites": "None;",
+    "MarkdownBenefit": "Members of this race gain a +1 bonus on attack rolls and a +2 dodge bonus to AC and on saving throws against the extraordinary, supernatural, and spell-like abilities of dragons. In addition, they gain a +2 racial bonus on Knowledge (arcana) checks to identify dragons and can make such checks untrained.",
+    "MarkdownSpecial": null
   },
   {
     "Name": "Xenophobic",

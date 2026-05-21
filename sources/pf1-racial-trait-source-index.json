@@ -1,0 +1,4412 @@
+{
+  "generatedAt": "2026-05-21T03:09:31.135Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyTraitsFile": "/home/lancer1977/code/pathfinder1e-flatfiles/pathfinder1e/racialtrait.json",
+  "markdownCoverage": 172,
+  "totalRecords": 629,
+  "records": [
+    {
+      "name": "Academician",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Acid Breath",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Acute Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Adaptability",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Adaptable Luck",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Adoptive Parentage",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Agile",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Air Affinity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Air Insight",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Ambitious Schemer",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Amphibious",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Amphibious",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Amphibious",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Ancestral Arms",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Ancestral Grudge",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Ancient Enmity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Aquatic",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Aquatic",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Arcane Focus",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Arcane Training",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Armor",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Armor",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Armored Scales",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Bandy-Legged",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Battle-Hardened",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Beast Bond",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Beastmaster",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Beguiling Liar",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Bestial",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Blasphemous Covenant",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Blood Enmity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Blue Age Magic",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Bond to the Land",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Breeze-Kissed",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Camouflage",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Carrion Sense",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Catfolk",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Cat's Claws",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Cat's Luck",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Cave Crawler",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Cavewight",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Celestial Crusader",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Celestial Resistance",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Chain Fighter",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Change Shape",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Changeling",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "City Scavenger",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "City-Raised",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Claw Attack",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Claws",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Clever Cat",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Climber",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Cold Iron DR5",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Concealment",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Cornered Fury",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Craftsman",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Crafty",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Craven",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Crystalline Form",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Curiosity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darklands Stalker",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dayborn",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dayguard",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dayrunner",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Daysighted",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Deathless Spirit",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Deep Magic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Deep Warrior",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Deepsight",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Defensive Giant Training",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Defensive Giant Training",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Defensive Training",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Desert Mirage",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Desert Runner",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dhampir",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dissolution's Child",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dragon-Scaled",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dreamspeaker",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Drow Immunities",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Drow Immunities",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Drow Magic",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Drow-Blooded",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dual Minded",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dual Talent",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Duergar Immunities",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dwarf",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Dwarf Traits",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Earth Affinity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Earth Insight",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Earthfoot",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Eat Anything",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Efreeti Magic",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Elemental Assault",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Elemental Resistance",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Elf",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Elf",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Elf Blood",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Elven Immunities",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Elven Immunities",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Elven Magic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Emissary",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Enchantment Resistance",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Energy Resistance 5",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Energy Resistance Ifrit",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Energy Resistance Oread",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Energy Resistance Slyph",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Energy Resistance Undine",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Energy Strike",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Engineer",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Envoy",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Eternal Grudge",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Eternal Hope",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Evasion",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Exalted Resistance",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Exotic Weapon Training",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Explorer",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Eye for Talent",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fangs",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fast",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fast Shifter",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fearless",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fearless",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fearsome",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fell Magic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Feral",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Feral",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Ferocity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Ferrous Growth",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fertile Soil",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fey",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fiendish Resistance",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fiendish Sorcery",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fiendish Sprinter",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fire Affinity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fire in the Blood",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fire Insight",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Firehand",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fire-Starter",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fleet of Foot",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fleet-Footed",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Flesh Chameleon",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Focused Study",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Forest Walker",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Forge-Hardened",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Fortunate",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Frightening",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Gatecrasher",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Giant Hunter",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Gift of Tongues",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Gifted Linguist",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Glide",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Glider",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Gliding Wings",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Gloom Shimmer",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Gnome",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Gnome Magic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Goblinoid",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Goblinoid",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Granite Skin",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Greater Spell Resistance",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Greed",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Green Widow",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Gregarious",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Grippli",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hag Racial Trait",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Halfling Luck",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Halfling Luck",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Halo",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hard Head, Big Teeth",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hardy",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hatred",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hatred",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hatred",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hatred",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Healthy",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Heart of the Fields",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Heart of the Mountains",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Heart of the Sea",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Heart of the Slums",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Heart of the Snows",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Heart of the Streets",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Heart of the Sun",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Heart of the Wilderness",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Heavenborn",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Heroic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hulking Changeling",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hydrated Vitality",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hypnotic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Hypnotic Gaze",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Icewalk",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Illusion Resistance",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Immortal Spark",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Incorruptible",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Ingratiating",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Integrated",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Intimidating",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Jester",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Jumper",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Keen Senses",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Keen Senses",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Keen Senses",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Keen Senses",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Keen Senses",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Keen Senses",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Keen Senses",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Keen Senses",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Kitsune",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Kitsune Magic",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Knack with Poison",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Legless",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Lifebound",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Light and Dark",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Light Blindness",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Light Blindness",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Light Sensitivity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Light Sensitivity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Light Sensitivity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Lightbringer",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Like the Wind",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Limber",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Lorekeeper",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low Blow",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Low-Light Vision",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Lurker",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Magehunter",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Magic Haters",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Magic Resistant",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Magical Linguist",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Manipulative",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Master Tinker",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Maw or Claw",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Medium",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Minesight",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Mist Child",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Mixed Heritage",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Mobility",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Mountain-Born",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Mountaineer",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Multitalented",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Mystic Past Life",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Native Outsider",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Native Outsider",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Native Outsider",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Native Outsider",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Native Outsider",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Native Outsider",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Native Outsider",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Native Outsider",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Natural Armor",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Natural Hunter",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Natural Invisibility",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Natural Weapon",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Natural Weapons",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Negative Energy Affinity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Negotiator",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Nereid Fascination",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Nimble",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Nimble Attack",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Nimble Faller",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "NimbleStrix",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Nocturnal",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Normal Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Object of Desire",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Obsessive",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Ocean's Daughter",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Ooze Breath",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Orc",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Orc Blood",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Orc Ferocity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Outrider",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Over-Sized Ears",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Pit Boss",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Poison Resistance",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Poison Use",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Poison Use",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Poison Use",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Poison Use",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Polyglot",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Practicality",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Prehensile Tail",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Prehensile Tail",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Princely",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Pyromaniac",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Ratfolk",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Relentless",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Reptilian",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Reptilian",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Resist Level Drain",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Resistant",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Riverfolk",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Rock Climber",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Rock Stepper",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Rodent Empathy",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sacred Tattoo",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Saltbeard",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Samsaran Magic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Scaled Skin",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Scarred",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Scavenger",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Scent",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Scent",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Scion of Humanity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sea Lungs",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Seasinger",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Seducer",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "SensesDhampir",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "SensesSvirfneblin",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sensual",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Serpent's Sense",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Shadow Blending",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Shadow Magic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Shadow Magic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Shadow Resistance",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Shadowy Resistance",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Shaman's Apprentice",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Shards of the Past",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Shiftless",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Shockshield",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Silent Hunter",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Silver Tongued",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Skilled",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Skilled",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Skilled",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Skilled",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Skilled",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Skilled",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "SkilledSvirfneblin",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Skulk",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sky Sentinel",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sky Speaker",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slave Hunter",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slimehunter",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slow and Steady",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slow and Steady",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slow Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slow Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slow Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slow Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slow Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slow Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slow Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Slow Susceptability",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Small",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Small",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Small",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Small",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Small",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Small",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Small",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Small",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Small",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Small",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Smeller",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sneak Attack",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sneaky",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sneaky",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sociable",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Soul Seer",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell Resistance",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell Resistance Svirfneblin",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Abilities",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Abilities",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Abilities",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Abilities",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Ability",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Ability",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Ability",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Ability",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Ability",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Ability",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spell-Like Ability",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spirit of the Waters",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Spring Attack",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sprinter",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Squalid",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stability",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stability",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stalker",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stat Choice",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stat Choice",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stat Choice",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stats",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stone in the Blood",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stonecunning",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stonecunning",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stoneseer",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stonesinger",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Storm in the Blood",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Strix",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Strongtail",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Stubborn",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Subtle Appearance",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Subtle Manipulator",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Superior Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Superior Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Superior Darkvision",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Supernatural Speed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sure-Footed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Sure-Footed",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Surface Infiltrator",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Surface Survivalist",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Suspicious",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Svirfneblin Magic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Swamp Stride",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Swarming",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Swift As Shadows",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Swift as Shadows",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Swordtrained",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Tengu",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Terrain Chameleon",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Throwback",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Thunderous Resilience",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Tinker",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Toothy",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Tough",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Toxic",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Toxic Skin",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Treacherous Earth",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Tree Runner",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Tree Stranger",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Truespeaker",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Uncanny Dodge",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Undead Resistance",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Underfoot",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Unfit",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Unnatural",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Urbanite",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Vampiric Empathy",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Vanara",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Vestigial Wings",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Vishkanya",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Wanderlust",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Warden of Nature",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Warslinger",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Wary",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Water Affinity",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Water Child",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Water Dependent",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Water Sense",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Wayang",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weakness",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weapon Familiarity",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Weather Savvy",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Whispering Wind",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Whitecape",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Wild Talent",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Wing-Clipped",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Woodcraft",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "World Walker",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Wyrmscourged",
+      "markdownPath": "advancedRaceGuide/raceBuilder/racialTraits.md",
+      "category": null,
+      "type": null,
+      "rp": null
+    },
+    {
+      "name": "Xenophobic",
+      "markdownPath": null,
+      "category": null,
+      "type": null,
+      "rp": null
+    }
+  ]
+}

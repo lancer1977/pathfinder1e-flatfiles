@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-05-21T03:07:21.357Z",
+  "generatedAt": "2026-05-21T03:09:30.824Z",
   "dataSeedsRoot": "/home/lancer1977/code/DataSeeds/pathfinder1e",
   "outputRoot": "pathfinder1e",
   "totalPayloads": 28,
-  "copiedPayloads": 23,
-  "preservedManagedPayloads": 5,
+  "copiedPayloads": 22,
+  "preservedManagedPayloads": 6,
   "enrichedFamilies": {
     "characterClass": "refresh:classes",
     "race": "refresh:races",
+    "racialtrait": "refresh:racial-traits",
     "skills": "refresh:skills",
     "spells": "refresh:spells",
     "traits": "refresh:traits"
@@ -181,8 +182,8 @@
       "outputFile": "pathfinder1e/racialtrait.json",
       "shape": "array",
       "count": 629,
-      "managedBy": null,
-      "copiedFromDataSeeds": true
+      "managedBy": "refresh:racial-traits",
+      "copiedFromDataSeeds": false
     },
     {
       "family": "skills",

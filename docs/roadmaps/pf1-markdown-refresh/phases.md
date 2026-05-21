@@ -76,7 +76,7 @@ Current scope:
 - [ ] Enrich `mundane.json`, `magicItems.json`
 - [ ] Enrich `feats.json`, `classAbility.json`, `classAbility.UnchainedMonk.json`
 - [x] Enrich `race.json`
-- [ ] Enrich `racialtrait.json`
+- [x] Enrich `racialtrait.json`
 - [x] Enrich `traits.json`
 - [ ] Enrich `monster.json`, `encounters.json`, `encountertitles.json`
 - [ ] Decide whether `archtype.json` should be renamed after downstream importer compatibility is verified

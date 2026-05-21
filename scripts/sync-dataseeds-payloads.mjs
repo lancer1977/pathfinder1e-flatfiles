@@ -12,6 +12,7 @@ const sourceIndexFile = path.join(repoRoot, 'sources', 'pf1-dataseeds-payload-in
 const enrichedFamilies = new Map([
     ['characterClass', 'refresh:classes'],
     ['race', 'refresh:races'],
+    ['racialtrait', 'refresh:racial-traits'],
     ['skills', 'refresh:skills'],
     ['spells', 'refresh:spells'],
     ['traits', 'refresh:traits'],

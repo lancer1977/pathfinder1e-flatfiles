@@ -20,6 +20,7 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - upstream SRD markdown overlay for matching spell and monster records
 - class flatfiles
 - race flatfiles
+- racial trait flatfiles
 - spell flatfiles
 - skill flatfiles
 - trait flatfiles
