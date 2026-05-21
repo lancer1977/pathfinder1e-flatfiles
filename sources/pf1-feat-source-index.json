@@ -1,0 +1,6879 @@
+{
+  "generatedAt": "2026-05-21T03:13:52.870Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/feats.json",
+  "markdownCoverage": 1145,
+  "totalRecords": 1145,
+  "records": [
+    {
+      "name": "Extra Channel",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Extra Ki",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Extra Lay On Hands",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Extra Mercy",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Extra Performance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Extra Rage",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Extra Bombs",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Extra Discovery",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Extra Rage Power",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Extra Rogue Talent",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Greater Weapon Focus",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Weapon Specialization",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Boon Companion",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Meta Word Mastery",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "UM"
+    },
+    {
+      "name": "Acrobatic",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Acrobatic Steps",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Agile Maneuvers",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Alertness",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Alignment Channel",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Animal Affinity",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Arcane Armor Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Arcane Armor Training",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Arcane Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Armor Proficiency, Heavy",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Armor Proficiency, Light",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Armor Proficiency, Medium",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Athletic",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Augment Summoning",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Bleeding Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Blind-Fight",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Blinding Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Brew Potion",
+      "markdownPath": "feats.md",
+      "category": "Item Creation",
+      "source": "CRB"
+    },
+    {
+      "name": "Catch Off-Guard",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Channel Smite",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Cleave",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Combat Casting",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Combat Expertise",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Combat Reflexes",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Command Undead",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Craft Magic Arms and Armor",
+      "markdownPath": "feats.md",
+      "category": "Item Creation",
+      "source": "CRB"
+    },
+    {
+      "name": "Craft Rod",
+      "markdownPath": "feats.md",
+      "category": "Item Creation",
+      "source": "CRB"
+    },
+    {
+      "name": "Craft Wand",
+      "markdownPath": "feats.md",
+      "category": "Item Creation",
+      "source": "CRB"
+    },
+    {
+      "name": "Craft Staff",
+      "markdownPath": "feats.md",
+      "category": "Item Creation",
+      "source": "CRB"
+    },
+    {
+      "name": "Craft Wondrous Item",
+      "markdownPath": "feats.md",
+      "category": "Item Creation",
+      "source": "CRB"
+    },
+    {
+      "name": "Critical Focus",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Critical Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Dazzling Display",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Deadly Aim",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Deadly Stroke",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Deafening Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Deceitful",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Defensive Combat Training",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Deflect Arrows",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Deft Hands",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Diehard",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Disruptive",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Dodge",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Double Slice",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Elemental Channel",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Empower Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "CRB"
+    },
+    {
+      "name": "Endurance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Enlarge Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "CRB"
+    },
+    {
+      "name": "Eschew Materials",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Exhausting Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Exotic Weapon Proficiency",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Extend Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "CRB"
+    },
+    {
+      "name": "Extra Hex",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Extra Revelation",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Extra Word",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "UM"
+    },
+    {
+      "name": "Experimental Spellcaster",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "UM"
+    },
+    {
+      "name": "Far Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Fleet",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Forge Ring",
+      "markdownPath": "feats.md",
+      "category": "Item Creation",
+      "source": "CRB"
+    },
+    {
+      "name": "Gorgon's Fist",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Great Cleave",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Great Fortitude",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Bull Rush",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Disarm",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Feint",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Grapple",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Overrun",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Penetrating Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Shield Focus",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Spell Focus",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Spell Penetration",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Sunder",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Trip",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Two-Weapon Fighting",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Greater Vital Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Heighten Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Bull Rush",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Channel",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Counterspell",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Disarm",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Familiar",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Feint",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Grapple",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Great Fortitude",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Initiative",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Iron Will",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Lightning Reflexes",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Overrun",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Precise Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Shield Bash",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Sunder",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Trip",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Two-Weapon Fighting",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Unarmed Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improved Vital Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Improvised Weapon Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Intimidating Prowess",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Iron Will",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Leadership",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Lightning Reflexes",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Lightning Stance",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Lunge",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Magical Aptitude",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Manyshot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Martial Weapon Proficiency",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Master Craftsman",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Maximize Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "CRB"
+    },
+    {
+      "name": "Medusa's Wrath",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Mobility",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Mounted Archery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Mounted Combat",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Natural Spell",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Nimble Moves",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Penetrating Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Persuasive",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Pinpoint Targeting",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Point-Blank Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Power Attack",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Precise Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Quick Draw",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Quicken Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "CRB"
+    },
+    {
+      "name": "Rapid Reload",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Rapid Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Ride-By Attack",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Run",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Scorpion Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Scribe Scroll",
+      "markdownPath": "feats.md",
+      "category": "Item Creation",
+      "source": "CRB"
+    },
+    {
+      "name": "Selective Channeling",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Self-Sufficient",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Shatter Defenses",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Shield Focus",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Shield Proficiency",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Shield Slam",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Shot on the Run",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Sickening Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Silent Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "CRB"
+    },
+    {
+      "name": "Simple Weapon Proficiency",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Skill Focus",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Snatch Arrows",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Spell Focus",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Spell Mastery",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Spell Penetration",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Spellbreaker",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Spirited Charge",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Spring Attack",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Staggering Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Stand Still",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Stealthy",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Step Up",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Still Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "CRB"
+    },
+    {
+      "name": "Strike Back",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Stunning Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Stunning Fist",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Throw Anything",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Tiring Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Toughness",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Tower Shield Proficiency",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Trample",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Turn Undead",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "CRB"
+    },
+    {
+      "name": "Two-Weapon Defense",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Two-Weapon Fighting",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Two-Weapon Rend",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Unseat",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Vital Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Weapon Finesse",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Weapon Focus",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Weapon Specialization",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Whirlwind Attack",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Widen Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "CRB"
+    },
+    {
+      "name": "Wind Stance",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "CRB"
+    },
+    {
+      "name": "Additional Traits",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Ability Focus",
+      "markdownPath": "feats.md",
+      "category": "Monster",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Awesome Blow",
+      "markdownPath": "feats.md",
+      "category": "Monster, Combat",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Craft Construct",
+      "markdownPath": "feats.md",
+      "category": "Item Creation",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Empower Spell-Like Ability",
+      "markdownPath": "feats.md",
+      "category": "Monster",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Flyby Attack",
+      "markdownPath": "feats.md",
+      "category": "Monster",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Hover",
+      "markdownPath": "feats.md",
+      "category": "Monster",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Improved Natural Armor",
+      "markdownPath": "feats.md",
+      "category": "Monster",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Improved Natural Attack",
+      "markdownPath": "feats.md",
+      "category": "Monster",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Multiattack",
+      "markdownPath": "feats.md",
+      "category": "Monster, Combat",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Quicken Spell-Like Ability",
+      "markdownPath": "feats.md",
+      "category": "Monster",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Snatch",
+      "markdownPath": "feats.md",
+      "category": "Monster",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Wingover",
+      "markdownPath": "feats.md",
+      "category": "Monster",
+      "source": "Bestiary"
+    },
+    {
+      "name": "Allied Spellcaster",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Arcane Blast",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Arcane Shield",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Arcane Talent",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Aspect of the Beast",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Bashing Finish",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Bloody Assault",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Bodyguard",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Bouncing Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Breadth of Experience",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Bull Rush Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Charge Through",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Childlike",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Cloud Step",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Cockatrice Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Combat Patrol",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Cooperative Crafting",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Coordinated Defense",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Coordinated Maneuvers",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Cosmopolitan",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Covering Defense",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Crippling Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Crossbow Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Dastardly Finish",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Dazing Assault",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Dazing Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Deep Drinker",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Deepsight",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Disarming Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Disrupting Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Disruptive Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Diviner's Delving",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Dreadful Carnage",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Duck and Cover",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Eagle Eyes",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Eclectic",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Ectoplasmic Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Eldritch Claws",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Elemental Fist",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Elemental Focus",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Elemental Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Elven Accuracy",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Enforcer",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Expanded Arcana",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Fast Drinker",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Fast Healer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Favored Defense",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Fight On",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Focused Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Focused Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Following Step",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Furious Focus",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Gang Up",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Gnome Trickster",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Go Unnoticed",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Greater Blind-Fight",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Greater Dirty Trick",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Greater Drag",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Greater Elemental Focus",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Greater Reposition",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Greater Shield Specialization",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Greater Steal",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Groundling",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Heroic Defiance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Heroic Recovery",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Improved Blind-Fight",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Improved Dirty Trick",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Nightmare Fist",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Nightmare Striker",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Nightmare Weaver",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "No Name",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Opening Volley",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Pack Attack",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Panther Claw",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Panther Parry",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Panther Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Extra Ranger Trap",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Extra Summons",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Eyes of Judgment",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Fast Empathy",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Favored Judgment",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Fearless Aura",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Fire Music",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Flaring Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Focused Eidolon",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Gliding Steps",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Grant Initiative",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Stretched Wings",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Extra Elemental Assault",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Incremental Elemental Assault",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Stoic Pose",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Tree Hanger",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Sleep Venom",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Shadowy Dash",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Belier's Bite",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Cornugon Shield",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Cornugon Smash",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Cornugon Stun",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Cornugon Trip",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Steady Engagement",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faiths Of Balance"
+    },
+    {
+      "name": "Firebrand",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faiths Of Corruption"
+    },
+    {
+      "name": "Ordered Mind",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Corruption"
+    },
+    {
+      "name": "Destroy Identity",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Corruption"
+    },
+    {
+      "name": "Fearsome Finish",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Corruption"
+    },
+    {
+      "name": "Reject Poison",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Corruption"
+    },
+    {
+      "name": "Shadow Dodge",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Corruption"
+    },
+    {
+      "name": "Merciless Rush",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Corruption"
+    },
+    {
+      "name": "Squash Flat",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Corruption"
+    },
+    {
+      "name": "Shatter Resolve",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Corruption"
+    },
+    {
+      "name": "Eagle Knight Candidate",
+      "markdownPath": "feats.md",
+      "category": "Achievement",
+      "source": "Andoran Spirit Of Liberty"
+    },
+    {
+      "name": "Talmandor's Lifting",
+      "markdownPath": "feats.md",
+      "category": "Achievement",
+      "source": "Andoran Spirit Of Liberty"
+    },
+    {
+      "name": "Advanced Defensive Combat Training",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Bloodstone Manhunter",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Calm Disposition",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Death's Suitor",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Disassemble Magic Item",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Divine Deception",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Fast Crawl",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Fearsome Barricade",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Improved Drag",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Improved Ki Throw",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Improved Reposition",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Improved Second Chance",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Improved Share Spells",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Improved Sidestep",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Improved Steal",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Improved Stonecunning",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Intensified Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "In Harm's Way",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Ironguts",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Ironhide",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Keen Scent",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Ki Throw",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Leaf Singer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Light Step",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Lingering Performance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Lingering Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Lookout",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Low Profile",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Lucky Halfling",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Major Spell Expertise",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Master Alchemist",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Merciful Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Minor Spell Expertise",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Missile Shield",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Mounted Shield",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Mounted Skirmisher",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Outflank",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Paired Opportunists",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Parry Spell",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Parting Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Pass For Human",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Perfect Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Persistent Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Point Blank Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Practiced Tactician",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Precise Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Preferred Spell",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Punishing Kick",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Pushing Assault",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Racial Heritage",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Raging Vitality",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Ray Shield",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Razortusk",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Reach Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Rending Claws",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Repositioning Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Saving Shield",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Second Chance",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Selective Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Shadow Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Shared Insight",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Sharp Senses",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Shield of Swings",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Shield Specialization",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Shield Wall",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Shielded Caster",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Sickening Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Sidestep",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Smash",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Smell Fear",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Sociable",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Spell Perfection",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Spider Step",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Stabbing Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Steel Soul",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Step Up and Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Stone-Faced",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Stone Sense",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Stone Singer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Stunning Assault",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Summoner's Call",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Sundering Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Swap Places",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Swift Aid",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Taunt",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Team Up",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Teleport Tactician",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Tenacious Transmutation",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Thundering Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Touch of Serenity",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Trick Riding",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Tripping Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Under and Over",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Underfoot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Vermin Heart",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "War Singer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Well-Prepared",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Adder Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Adept Champion",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Amateur Gunslinger",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Arc Slinger",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Back to Back",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Betrayer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Binding Throw",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Bludgeoner",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Boar Ferocity",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Boar Shred",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Boar Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Body Shield",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Bolstered Resilience",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Bonebreaker",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Branded for Retribution",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Break Guard",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Broken Wing Gambit",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Cartwheel Dodge",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Cavalry Formation",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Channeled Revival",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Channeling Scourge",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Charging Hurler",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Chokehold",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Cleaving Finish",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Close-Quarters Thrower",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Clustered Shots",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Combat Medic",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Combat Style Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Contingent Channeling",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Coordinated Charge",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Crane Riposte",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Crane Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Crane Wing",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Crusader's Fist",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Crusader's Flurry",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Crushing Blow",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Deadly Finish",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Death from Above",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Death or Glory",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Deathless Initiate",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Deathless Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Deathless Zealot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Deceptive Exchange",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Defensive Weapon Training",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Deft Shootist Deed",
+      "markdownPath": "feats.md",
+      "category": "Grit",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Destructive Dispel",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Devastating Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dimensional Agility",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dimensional Assault",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dimensional Dervish",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dimensional Maneuvers",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dimensional Savant",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Discordant Voice",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Disengaging Feint",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Disengaging Flourish",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Disengaging Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Disorienting Maneuver",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dispel Synergy",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dispelling Critical",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dispelling Fist",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Disposable Weapon",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Disruptive Recall",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Distance Thrower",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Djinni Spin",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Djinni Spirit",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Djinni Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Domain Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Double Bane",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Drag Down",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dragon Ferocity",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dragon Roar",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dragon Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Dramatic Display",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Earth Child Binder",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Earth Child Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Earth Child Topple",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Efreeti Stance",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Efreeti Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Efreeti Touch",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Elusive Redirection",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Enfilading Fire",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Escape Route",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Expert Driver",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Extra Bane",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Extra Grit",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "False Opening",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Feint Partner",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Felling Escape",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Felling Smash",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Feral Combat Training",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Field Repair",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Final Embrace",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Final Embrace Horror",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Final Embrace Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Flanking Foil",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Fortified Armor Training",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Furious Finish",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Gory Finish",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Greater Channel Smite",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Greater Rending Fury",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Greater Snap Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Greater Whip Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Guided Hand",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Gunsmithing",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Hammer the Gap",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Harmonic Sage",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Haunted Gnome",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Haunted Gnome Assault",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Haunted Gnome Shroud",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Hero's Display",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Hex Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Horse Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Impact Critical Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Impaling Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Back to Back",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Charging Hurler",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Cleaving Finish",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Devastating Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Feint Partner",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Impaling Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Rending Fury",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Snap Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Stalwart",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Two-Weapon Feint",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Improved Whip Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Instant Judgment",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Intimidating Bane",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Janni Rush",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Janni Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Janni Tempest",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Jawbreaker",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Kirin Path",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Kirin Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Kirin Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Knockout Artist",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Landing Roll",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Leaping Shot Deed",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Mantis Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Mantis Torment",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Mantis Wisdom",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Marid Coldsnap",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Marid Spirit",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Marid Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Master Combat Performer",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Master Siege Engineer",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Masterful Display",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Maximized Spellstrike",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Menacing Bane",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Merciful Bane",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Mocking Dance",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Monastic Legacy",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Monkey Moves",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Monkey Shine",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Monkey Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Moonlight Stalker",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Moonlight Stalker Feint",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Moonlight Stalker Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Murderer's Circle",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Neckbreaker",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Net Adept",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Net and Trident",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Net Maneuvering",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Net Trickery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Passing Trick",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Performance Weapon Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Performing Combatant",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Pin Down",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Pinning Knockout",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Pinning Rend",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Pinpoint Poisoner",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Planar Wild Shape",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Prone Shooter",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Prone Slinger",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Quick Bull Rush",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Quick Dirty Trick",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Quick Drag",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Quick Reposition",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Quick Steal",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Raging Brutality",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Raging Deathblow",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Raging Hurler",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Raging Throw",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Rapid Grappler",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Rapid Reload",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Rebounding Leap",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Rebuffing Reduction",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Rending Fury",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Revelation Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Rhetorical Flourish",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Ricochet Shot Deed",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Righteous Healing",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Sap Adept",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Sap Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Savage Display",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "School Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Sea Legs",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Secret Stash Deed",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Seize the Moment",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Shaitan Earthblast",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Shaitan Skin",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Shaitan Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Shake It Off",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Shapeshifter Foil",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Shapeshifting Hunter",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Shared Judgment",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Siege Commander",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Siege Engineer",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Siege Gunner",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Signature Deed",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Skilled Driver",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Slayer's Knack",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Sling Flail",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Snake Fang",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Snake Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Snap Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Snapping Turtle Clutch",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Snapping Turtle Shell",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Snapping Turtle Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Sneaking Precision",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Sorcerous Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Spell Bane",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Spinning Throw",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Splintering Weapon",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Stage Combatant",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Stalwart",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Stealth Synergy",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Strangler",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Strong Comeback",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Stunning Pin",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Sure Grasp",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Sword and Pistol",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Tandem Trip",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Target of Opportunity",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Team Pickpocketing",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Tiger Claws",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Tiger Pounce",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Tiger Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Trapper's Setup",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Twin Thunders",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Twin Thunders Flurry",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Twin Thunders Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Two-Handed Thrower",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Two-Weapon Feint",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Vicious Stomp",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Wave Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Whip Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Combat"
+    },
+    {
+      "name": "Abundant Revelations",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Accursed Critical",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Accursed Hex",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Advanced Ranger Trap",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Antagonize",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Blighted Critical",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Blighted Critical Mastery",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Burning Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Channeled Shield Wall",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Concussive Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Create Reliquary Arms and Shields",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Create Sanguine Elixir",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Defending Eidolon",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Deny Death",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Detect Expertise",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Die for Your Master",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Divine Interference",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Dragonbane Aura",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Echoing Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Eldritch Heritage",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Ensemble",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Evolved Familiar",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Exploit Lore",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Extra Arcana",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Extra Arcane Pool",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Extended Bane",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Extra Cantrips or Orisons",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Extra Evolution",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Greater Blighted Critical",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Greater Eldritch Heritage",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Greater Mercy",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Greater Spell Specialization",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Greater Wild Empathy",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Implant Bomb",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Improved Eldritch Heritage",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Improved Monster Lore",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Insightful Gaze",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Intimidating Gaze",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Judgment Surge",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Ki Stand",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Learn Ranger Trap",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Life Lure",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Moonlight Summons",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Mystic Stride",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Oracular Intuition",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Painful Anchor",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Piercing Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Planar Preservationist",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Powerful Shape",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Prodigy",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Prophetic Visionary",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Pure Faith",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Quarterstaff Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Quick Channel",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Quick Wild Shape",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Radiant Charge",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Remote Bomb",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Resilient Eidolon",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Reward of Grace",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Reward of Life",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Ricochet Splash Weapon",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Rime Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Sacred Summons",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Sense Link",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Shaping Focus",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Sin Seer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Skeleton Summoner",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Sorcerous Bloodstrike",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Spell Bluff",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Spell Hex",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Spell Specialization",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Spellsong",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Split Hex",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Split Major Hex",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Spontaneous Metafocus",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Starlight Summons",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Sunlight Summons",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Superior Summoning",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Thanatopic Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Theurgy",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Thoughtful Discernment",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Threnodic Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Toppling Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Tripping Staff",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Tripping Twirl",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Ultimate Mercy",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Ultimate Resolve",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Uncanny Alertness",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Uncanny Concentration",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Undead Master",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Unsanctioned Detection",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Unsanctioned Knowledge",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Versatile Channeler",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Vigilant Eidolon",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Voice of the Sibyl",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Warrior Priest",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Wild Speech",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Witch Knife",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Word of Healing",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Ultimate Magic"
+    },
+    {
+      "name": "Brewmaster",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Cleave Through",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Cloven Helm",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Dented Helm",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Giant Killer",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Goblin Cleaver",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Hard-Headed",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Ledge Walker",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Orc Hewer",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Shatterspell",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Toxic Recovery",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Attuned to the Wild",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Elven Battle Training",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Guardian of the Wild",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Mage of the Wild",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Spirit of the Wild",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Casual Illusionist",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Expanded Resistance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Gnome Weapon Focus",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Great Hatred",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Vast Hatred",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Discerning Eye",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Elven Spirit",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Exile's Path",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Half-Drow Paragon",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Human Spirit",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Multitalented Mastery",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Neither Elf nor Human",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Seen and Unseen",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Shared Manipulation",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Beast Rider",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Blood Vengeance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Destroyer's Blessing",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Ferocious Resolve",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Ferocious Summons",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Ferocious Tenacity",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Gore Fiend",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Horde Charge",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Improved Surprise Follow-Through",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Resilient Brute",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Surprise Follow-Through",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Sympathetic Rage",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Tenacious Survivor",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Thrill of the Kill",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Adaptive Fortune",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Blundering Defense",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Cautious Fighter",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Courageous Resolve",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Desperate Swing",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Fortunate One",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Improved Low Blow",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Lucky Healer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Lucky Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Risky Striker",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Sure and Fleet",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Surprise Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Uncanny Defense",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Bestow Luck",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Critical Versatility",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Dauntless Destiny",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Defiant Luck",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Fast Learner",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Fearless Curiosity",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Heroic Will",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Huntmaster",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Improved Improvisation",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Improvisation",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Inexplicable Luck",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Intimidating Confidence",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Martial Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Martial Versatility",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Surge of Success",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Angel Wings",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Angelic Blood",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Angelic Flesh",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Celestial Servant",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Channel Force",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Greater Channel Force",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Heavenly Radiance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Improved Channel Force",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Metallic Wings",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Black Cat",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Catfolk Exemplar",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Claw Pounce",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Feline Grace",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Nimble Striker",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Blood Drinker",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Blood Feaster",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Blood Salvage",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Diverse Palate",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Natural Charmer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Drow Nobility",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Greater Drow Nobility",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Improved Drow Nobility",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Improved Umbral Scion",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Noble Spell Resistance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Shadow Caster",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Spider Step",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Spider Summoner",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Umbral Scion",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Natural Jouster",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "AP 69"
+    },
+    {
+      "name": "Lastwall Phalanx",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Champions Of Purity"
+    },
+    {
+      "name": "LastwallPhalanx",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Champions Of Purity"
+    },
+    {
+      "name": "Legacy of Ozem",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Champions Of Purity"
+    },
+    {
+      "name": "Peacemaker",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Champions Of Purity"
+    },
+    {
+      "name": "Siphon Poison",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Champions Of Purity"
+    },
+    {
+      "name": "Worldwound Walker",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Champions Of Purity"
+    },
+    {
+      "name": "Dark Sight",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Gloom Sight",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Gloom Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Improved Dark Sight",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Shadow Ghost",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Shadow Walker",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Burn! Burn! Burn!",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Fire Hand",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Fire Tamer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Flame Heart",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Goblin Gunslinger",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Tangle Feet",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Deafening Explosion",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Demoralizing Lash",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Focusing Blow",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Hobgoblin Discipline",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Taskmaster",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Terrorizing Display",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Blazing Aura",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Blistering Feint",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Elemental Jaunt",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Firesight",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Inner Flame",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Scorching Weapons",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Draconic Aspect",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Draconic Breath",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Draconic Glide",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Draconic Paragon",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Kobold Ambusher",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Kobold Sniper",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Tail Terror",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Born Alone",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Bullying Blow",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Ferocious Action",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Foment the Blood",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Grudge Fighter",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Orc Weapon Expertise",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Resolute Rager",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Reverse-Feint",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Trap Wrecker",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Dwarf Blooded",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Echoes of Stone",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Murmurs of Earth",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Oread Burrower",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Oread Earth Glider",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Stony Step",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Burrowing Teeth",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Sharpclaw",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Tunnel Rat",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Airy Step",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Cloud Gazer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Inner Breath",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Wings of Air",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Blood Beak",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Carrion Feeder",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Long-Nose Form",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Scavenger's Eye",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Tengu Raven Form",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Tengu Wings",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Armor of the Pit",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Expanded Fiendish Resistance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Fiend Sight",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Grasping Tail",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Aquatic Ancestry",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Hydraulic Maneuver",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Steam Caster",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Triton Portal",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Water Skinned",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Mother's Gift",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Giant Steps",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Lingering Invisibility",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Agile Tongue",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Magical Tail",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Realistic Likeness",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Sea Hunter",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Spit Venom",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Life's Blood",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Fury's Fall",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Fury's Snare",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Hamatula Grasp",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Hamatula Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Hellcat Pounce",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Hellcat Stealth",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Osyluth Guile",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Cheliax Empire Of Devils"
+    },
+    {
+      "name": "Bounding Hammer",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dwarves Of Golarion"
+    },
+    {
+      "name": "Darting Viper",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dwarves Of Golarion"
+    },
+    {
+      "name": "Dorn-Dergar Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dwarves Of Golarion"
+    },
+    {
+      "name": "Sliding Axe Throw",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dwarves Of Golarion"
+    },
+    {
+      "name": "Stance of the Xorn",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dwarves Of Golarion"
+    },
+    {
+      "name": "Arcane School Spirit",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Gnomes Of Golarion"
+    },
+    {
+      "name": "Bewildering Koan",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Gnomes Of Golarion"
+    },
+    {
+      "name": "Blood Ties",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Gnomes Of Golarion"
+    },
+    {
+      "name": "Babble-Peddler",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Gnomes Of Golarion"
+    },
+    {
+      "name": "Caustic Slur",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Gnomes Of Golarion"
+    },
+    {
+      "name": "Helpless Prisoner",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Gnomes Of Golarion"
+    },
+    {
+      "name": "Invoke Primal Instinct",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Gnomes Of Golarion"
+    },
+    {
+      "name": "Tantrum",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Gnomes Of Golarion"
+    },
+    {
+      "name": "Witty Feint",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Gnomes Of Golarion"
+    },
+    {
+      "name": "Mounted Blade",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Qadira"
+    },
+    {
+      "name": "Elephant Stomp",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Sargava"
+    },
+    {
+      "name": "Jaguar Pounce",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Sargava"
+    },
+    {
+      "name": "Monkey Lunge",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Sargava"
+    },
+    {
+      "name": "Piranha Strike",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Sargava"
+    },
+    {
+      "name": "Rhino Charge",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Sargava"
+    },
+    {
+      "name": "Critical Conduit",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Extra Item Slot",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Familiar Focus",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Familiar Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Jumper",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Lithe Attacker",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Master ofYour Kind",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Narrow Frame",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Spell Sponge",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Stable Gallop",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Sure-Footed",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Valiant Steed",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Animal Archive"
+    },
+    {
+      "name": "Archon Diversion",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Blood Of Angels"
+    },
+    {
+      "name": "Archon Justice",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Blood Of Angels"
+    },
+    {
+      "name": "Archon Style",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Blood Of Angels"
+    },
+    {
+      "name": "Banishing Critical",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Blood Of Angels"
+    },
+    {
+      "name": "Blinding Light",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Angels"
+    },
+    {
+      "name": "Consecrate Spell",
+      "markdownPath": "feats.md",
+      "category": "Metamagic",
+      "source": "Blood Of Angels"
+    },
+    {
+      "name": "Inner Light",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Angels"
+    },
+    {
+      "name": "Revered Guidance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Angels"
+    },
+    {
+      "name": "Sunlit Strike",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Angels"
+    },
+    {
+      "name": "Supernal Feast",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Angels"
+    },
+    {
+      "name": "Ancestral Scorn",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Banner of Doom",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Blinding Sneak Attack",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Fiendish Darkness",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Fiendish Facade",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Fiendish Resilience",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Fury of the Tainted",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Improved Fiendish Darkness",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Improved Fiendish Sorcery",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Improved Fury of the Tainted",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Monstrous Mask",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Terrifying Mask",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Wicked Valor",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Reckless Aim",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Blood Of Fiends"
+    },
+    {
+      "name": "Conviction",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of The Night"
+    },
+    {
+      "name": "Hymn Singer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of The Night"
+    },
+    {
+      "name": "Life-Dominant Soul",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of The Night"
+    },
+    {
+      "name": "Potent HolySymbol",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of The Night"
+    },
+    {
+      "name": "SchooledResolve",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of The Night"
+    },
+    {
+      "name": "Aversion Tolerance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of The Night"
+    },
+    {
+      "name": "Famine Tolerance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of The Night"
+    },
+    {
+      "name": "VampiricCompanion",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of The Night"
+    },
+    {
+      "name": "Variant Prayer Scroll",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Blood Of The Night"
+    },
+    {
+      "name": "Blinding Flash",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dragon Empires Primer"
+    },
+    {
+      "name": "Disorienting Blow",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dragon Empires Primer"
+    },
+    {
+      "name": "Enhanced Ki Throw",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dragon Empires Primer"
+    },
+    {
+      "name": "Feinting Flurry",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dragon Empires Primer"
+    },
+    {
+      "name": "Hold the Blade",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dragon Empires Primer"
+    },
+    {
+      "name": "Improved Feinting Flurry",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dragon Empires Primer"
+    },
+    {
+      "name": "Quivering Palm Adept",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dragon Empires Primer"
+    },
+    {
+      "name": "Quivering Palm Versatility",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dragon Empires Primer"
+    },
+    {
+      "name": "Sleeper Hold",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dragon Empires Primer"
+    },
+    {
+      "name": "Stunning Fist Adept",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dragon Empires Primer"
+    },
+    {
+      "name": "Arcane Trap Suppressor",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Dungeoneer's Handbook"
+    },
+    {
+      "name": "Close Call",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Dungeoneer's Handbook"
+    },
+    {
+      "name": "Tactical Reposition",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Dungeoneer's Handbook"
+    },
+    {
+      "name": "Coaxing Spell",
+      "markdownPath": "feats.md",
+      "category": "MetamagicFeat",
+      "source": "Dungeoneer's Handbook"
+    },
+    {
+      "name": "Dampen Presence",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Dungeoneer's Handbook"
+    },
+    {
+      "name": "Cursed Item Detection",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Dungeoneer's Handbook"
+    },
+    {
+      "name": "Ostentatious Display",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Dungeoneer's Handbook"
+    },
+    {
+      "name": "Torch Handling",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Dungeoneer's Handbook"
+    },
+    {
+      "name": "Arcane Insight",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Balance"
+    },
+    {
+      "name": "Bloody Vengeance",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faiths Of Balance"
+    },
+    {
+      "name": "Measured Response",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faiths Of Balance"
+    },
+    {
+      "name": "Riptide Attack",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faiths Of Balance"
+    },
+    {
+      "name": "Spiked Destroyer",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faiths Of Balance"
+    },
+    {
+      "name": "Bloodletting",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Corruption"
+    },
+    {
+      "name": "Aldori Dueling Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Altitude Affinity",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Andoren Falconry",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Arcane Vendetta",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Careful Speaker",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Cypher Magic",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Cypher Script",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Demon Hunter",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Dervish Dance",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Desert Dweller",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Desperate Battler",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Eye of the Arclord",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Fey Foundling",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Flagbearer",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Focused Discipline",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Fortune Teller",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Free Spirit",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Godless Healing",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Green Faith Acolyte",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Hamatulatsu",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Harmonic Spell",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Harrowed",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Hermean Blood",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Necromantic Affinity",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Noble Scion",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Rapid Reload",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Rugged Northerner",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Scholar",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Secret Signs",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Shade of the Uskwood",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Shrewd Tactician",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Stoic",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Storm-Lashed",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Survivor",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Taldan Duelist",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Totem Spirit",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Varisian Tattoo",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Wand Dancer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Inner Sea World Guide"
+    },
+    {
+      "name": "Slaying Sprint",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Rival Guide"
+    },
+    {
+      "name": "Greater Serpent Lash",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Rival Guide"
+    },
+    {
+      "name": "Serpent Lash",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Rival Guide"
+    },
+    {
+      "name": "Circling Offense",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Rival Guide"
+    },
+    {
+      "name": "Footslasher",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Rival Guide"
+    },
+    {
+      "name": "Topple Foe",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Rival Guide"
+    },
+    {
+      "name": "Jackal Heritage",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Rival Guide"
+    },
+    {
+      "name": "Drunken Brawler",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Butterfly's Sting",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Divination Guide",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Bullseye Shot",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Nimble Natural Summons",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Charge of the Righteous",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Protector's Strike",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Bestow Hope",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Glorious Heat",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Spear Dancer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Stone Read",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Undermining Exploit",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faiths Of Purity"
+    },
+    {
+      "name": "Ankle Biter",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Goblins Of Golarion"
+    },
+    {
+      "name": "Battle Singer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Goblins Of Golarion"
+    },
+    {
+      "name": "Dog Killer, Horse Hunter",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Goblins Of Golarion"
+    },
+    {
+      "name": "Lead from the Back",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Goblins Of Golarion"
+    },
+    {
+      "name": "Letter Fury",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Goblins Of Golarion"
+    },
+    {
+      "name": "Roll With It",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Goblins Of Golarion"
+    },
+    {
+      "name": "Saddle Shrieker",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Goblins Of Golarion"
+    },
+    {
+      "name": "Combat Distraction",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Goblins Of Golarion"
+    },
+    {
+      "name": "Vandal",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Goblins Of Golarion"
+    },
+    {
+      "name": "Ammo Drop",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Halflings Of Golarion"
+    },
+    {
+      "name": "Halfling Slinger",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Halflings Of Golarion"
+    },
+    {
+      "name": "Juggle Load",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Halflings Of Golarion"
+    },
+    {
+      "name": "Large Target",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Halflings Of Golarion"
+    },
+    {
+      "name": "Whip-Slinger",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Halflings Of Golarion"
+    },
+    {
+      "name": "Amplified Rage",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Blood Vengeance",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Brutal Grappler",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Destroyer's Blessing",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Ferocious Tenacity",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Ferocious Tenacity",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Fire God's Blessing",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Gore Fiend",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Sympathetic Rage",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Thrill of the Kill",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Warleader's Rage",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Adept Channel",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Orcs Of Golarion"
+    },
+    {
+      "name": "Cold Celerity",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "People Of The North"
+    },
+    {
+      "name": "Tribal Scars",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "People Of The North"
+    },
+    {
+      "name": "Witchbreaker",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "People Of The North"
+    },
+    {
+      "name": "Deadly Dealer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Varisia"
+    },
+    {
+      "name": "Thunder And Fang",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Varisia"
+    },
+    {
+      "name": "Chainbreaker",
+      "markdownPath": "feats.md",
+      "category": "Achievement",
+      "source": "Andoran Spirit Of Liberty"
+    },
+    {
+      "name": "Devil's Foe",
+      "markdownPath": "feats.md",
+      "category": "Achievement",
+      "source": "Andoran Spirit Of Liberty"
+    },
+    {
+      "name": "Grand Master Performer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Ki Diversity",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Let Them Come",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Master Performer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Nameless Servitor",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Old Cults Awakener",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Ominous Mien",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Silent Performer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Touched By Sacred Fire",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Verbose Performer",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Whispered Knowledge",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Blood Of Heroes",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Hero's Fortune",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Luck Of Heroes",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Player's Guide"
+    },
+    {
+      "name": "Huntmaster",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Advanced Race Guide"
+    },
+    {
+      "name": "Ballista Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Polyhedron"
+    },
+    {
+      "name": "Ballista Specialist",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Polyhedron"
+    },
+    {
+      "name": "Born Spacer",
+      "markdownPath": "feats.md",
+      "category": "Background",
+      "source": "Polyhedron"
+    },
+    {
+      "name": "Cannon Master",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Polyhedron"
+    },
+    {
+      "name": "Cannon Specialist",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Polyhedron"
+    },
+    {
+      "name": "Craft Spelljamming Helm",
+      "markdownPath": "feats.md",
+      "category": "Item Creation",
+      "source": "Polyhedron"
+    },
+    {
+      "name": "Spelljammer Specialization",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Polyhedron"
+    },
+    {
+      "name": "Spelljammer Helm Operation",
+      "markdownPath": "feats.md",
+      "category": "General",
+      "source": "Polyhedron"
+    },
+    {
+      "name": "Splash Weapon Mastery",
+      "markdownPath": "feats.md",
+      "category": "Combat",
+      "source": "Adventurer's Armory"
+    }
+  ]
+}

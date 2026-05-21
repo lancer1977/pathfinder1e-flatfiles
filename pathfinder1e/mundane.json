@@ -4,406 +4,522 @@
     "Cost": 10,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Hunting"
+    "Subtype": "Hunting",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Net, bell",
     "Cost": 200,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Hunting"
+    "Subtype": "Hunting",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Net, butterfly",
     "Cost": 500,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Hunting"
+    "Subtype": "Hunting",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Netting, camouflage",
     "Cost": 2000,
     "Weight": 80,
     "Source": "UE",
-    "Subtype": "Hunting"
+    "Subtype": "Hunting",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Net, fishing",
     "Cost": 400,
     "Weight": 80,
     "Source": "UE",
-    "Subtype": "Hunting"
+    "Subtype": "Hunting",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Scent cloak",
     "Cost": 2000,
     "Weight": 32,
     "Source": "AA",
-    "Subtype": "Hunting"
+    "Subtype": "Hunting",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Trap, bear",
     "Cost": 200,
     "Weight": 160,
     "Source": "AA",
-    "Subtype": "Hunting"
+    "Subtype": "Hunting",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Bathtub, collapsible",
     "Cost": 1500,
     "Weight": 320,
     "Source": "UE",
-    "Subtype": "Comfort"
+    "Subtype": "Comfort",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Bedroll",
     "Cost": 10,
     "Weight": 80,
     "Source": "UE",
-    "Subtype": "Comfort"
+    "Subtype": "Comfort",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Blanket",
     "Cost": 50,
     "Weight": 48,
     "Source": "UE",
-    "Subtype": "Comfort"
+    "Subtype": "Comfort",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Chair, folding",
     "Cost": 200,
     "Weight": 160,
     "Source": "UE",
-    "Subtype": "Comfort"
+    "Subtype": "Comfort",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Cot",
     "Cost": 100,
     "Weight": 480,
     "Source": "UE",
-    "Subtype": "Comfort"
+    "Subtype": "Comfort",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Hammock",
     "Cost": 10,
     "Weight": 48,
     "Source": "UE",
-    "Subtype": "Comfort"
+    "Subtype": "Comfort",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Soap",
     "Cost": 1,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Comfort"
+    "Subtype": "Comfort",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Tent, small",
     "Cost": 1000,
     "Weight": 320,
     "Source": "UE",
-    "Subtype": "Shelter"
+    "Subtype": "Shelter",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Tent, medium",
     "Cost": 1500,
     "Weight": 480,
     "Source": "UE",
-    "Subtype": "Shelter"
+    "Subtype": "Shelter",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Tent, large",
     "Cost": 3000,
     "Weight": 640,
     "Source": "UE",
-    "Subtype": "Shelter"
+    "Subtype": "Shelter",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Tent, pavilion",
     "Cost": 10000,
     "Weight": 800,
     "Source": "UE",
-    "Subtype": "Shelter"
+    "Subtype": "Shelter",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Tent, hanging",
     "Cost": 2000,
     "Weight": 240,
     "Source": "ARG",
-    "Subtype": "Shelter"
+    "Subtype": "Shelter",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Air bladder",
     "Cost": 10,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Animal glue",
     "Cost": 50,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Bell",
     "Cost": 100,
     "Weight": 0,
     "Source": "CRB",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Buoy, common",
     "Cost": 50,
     "Weight": 256,
     "Source": "CRB",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Buoy, superior",
     "Cost": 1000,
     "Weight": 480,
     "Source": "CRB",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Compass",
     "Cost": 1000,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Heatstone",
     "Cost": 2000,
     "Weight": 0,
     "Source": "ISWG",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Map",
     "Cost": 5000,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Mirror, small steel",
     "Cost": 1000,
     "Weight": 8,
     "Source": "CRB",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Rope, hemp (50 ft.)",
     "Cost": 100,
     "Weight": 160,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Rope, silk (50 ft.)",
     "Cost": 1000,
     "Weight": 80,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Rope, spider's silk (50 ft.)",
     "Cost": 10000,
     "Weight": 64,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Star Charts",
     "Cost": 20000,
     "Weight": 8,
     "Source": "ARG",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "String or twine (50 ft.)",
     "Cost": 1,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Horn, powder",
     "Cost": 300,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Horn, signal",
     "Cost": 100,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Whistle, signal",
     "Cost": 80,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Whistle, silent",
     "Cost": 90,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Outdoors Gear"
+    "Subtype": "Outdoors Gear",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Candle",
     "Cost": 1,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Candle, helmet",
     "Cost": 200,
     "Weight": 64,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Candle, insectbane",
     "Cost": 0,
     "Weight": 0,
     "Source": "??",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Candle lamp",
     "Cost": 500,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Candlestick",
     "Cost": 1,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Darkflare",
     "Cost": 100,
     "Weight": 0,
     "Source": "Faction Guide",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Firewood (per day)",
     "Cost": 1,
     "Weight": 320,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Lamp",
     "Cost": 10,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Lamp, celestial",
     "Cost": 30000,
     "Weight": 32,
     "Source": "ARG",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Lantern, bullseye",
     "Cost": 1200,
     "Weight": 48,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Lantern, darklight",
     "Cost": 2000,
     "Weight": 48,
     "Source": "ARG",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Lantern, hooded",
     "Cost": 700,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Lantern, miner's",
     "Cost": 1500,
     "Weight": 32,
     "Source": "PSFG",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Lantern, waterproof",
     "Cost": 500,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Moonrod",
     "Cost": 1000,
     "Weight": 0,
     "Source": "ARG",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Sunrod",
     "Cost": 200,
     "Weight": 0,
     "Source": "CRB",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Thurible",
     "Cost": 5000,
     "Weight": 48,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Torch",
     "Cost": 1,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Torch, everburning",
     "Cost": 11000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Illumination"
+    "Subtype": "Illumination",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Absinthe",
     "Cost": 0,
     "Weight": 16,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Ale",
     "Cost": 20,
     "Weight": 128,
     "Source": "CRB",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Ale",
@@ -411,6 +527,8 @@
     "Weight": 0,
     "Source": "CRB",
     "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink",
     "FlatfileId": "mundane:ale:2"
   },
   {
@@ -418,14 +536,18 @@
     "Cost": 4,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Ale, Luglurch",
     "Cost": 100,
     "Weight": 0,
     "Source": "HoG",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Ale, Luglurch",
@@ -433,6 +555,8 @@
     "Weight": 0,
     "Source": "HoG",
     "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink",
     "FlatfileId": "mundane:ale-luglurch:2"
   },
   {
@@ -440,7 +564,9 @@
     "Cost": 40,
     "Weight": 128,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Applejack",
@@ -448,6 +574,8 @@
     "Weight": 0,
     "Source": "UE",
     "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink",
     "FlatfileId": "mundane:applejack:2"
   },
   {
@@ -455,49 +583,63 @@
     "Cost": 1000,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Bufo",
     "Cost": 100,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Cauim",
     "Cost": 100,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Godsbrew",
     "Cost": 5,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Grog",
     "Cost": 2,
     "Weight": 8,
     "Source": "AA/PoIS",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Kumis",
     "Cost": 50,
     "Weight": 16,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Mead",
     "Cost": 5,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Mead",
@@ -505,6 +647,8 @@
     "Weight": 128,
     "Source": "UE",
     "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink",
     "FlatfileId": "mundane:mead:2"
   },
   {
@@ -512,1434 +656,1844 @@
     "Cost": 5,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Pulque",
     "Cost": 10,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Rumboozle",
     "Cost": 10,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Tepache",
     "Cost": 5,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Whiskey, Dragon Punch",
     "Cost": 1000,
     "Weight": 0,
     "Source": "HoG",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Whiskey, Oldlaw",
     "Cost": 0,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Wine common",
     "Cost": 20,
     "Weight": 96,
     "Source": "CRB",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Wine fine",
     "Cost": 1000,
     "Weight": 0,
     "Source": "CRB",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Wine, sealord",
     "Cost": 1500,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Coffee, common",
     "Cost": 1,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Coffee, exotic",
     "Cost": 3,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Kahve",
     "Cost": 2,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Milk",
     "Cost": 5,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Milk, powdered",
     "Cost": 10,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Tea",
     "Cost": 2,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Tea, ceremonial",
     "Cost": 4,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Tonic, medicinal",
     "Cost": 1000,
     "Weight": 0,
     "Source": "HoG",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Bread",
     "Cost": 2,
     "Weight": 8,
     "Source": "CRB",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Caviar",
     "Cost": 5000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Cheese",
     "Cost": 10,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Chocolate",
     "Cost": 500,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Fortune cookie",
     "Cost": 1,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Haggis",
     "Cost": 10,
     "Weight": 16,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Honey",
     "Cost": 100,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Ice cream",
     "Cost": 10,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Maple syrup",
     "Cost": 100,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Meal, banquet",
     "Cost": 1000,
     "Weight": 0,
     "Source": "CRB",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Meal, good",
     "Cost": 50,
     "Weight": 0,
     "Source": "CRB",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Meal, common",
     "Cost": 30,
     "Weight": 0,
     "Source": "CRB",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Meal, poor",
     "Cost": 10,
     "Weight": 0,
     "Source": "CRB",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Meat",
     "Cost": 30,
     "Weight": 8,
     "Source": "CRB",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Meat, street",
     "Cost": 1,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Rations, trail",
     "Cost": 50,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Rations, Dwarven trail",
     "Cost": 200,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Rations, Elven trail",
     "Cost": 200,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Rations, Gnome trail",
     "Cost": 200,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Rations, Halfling trail",
     "Cost": 200,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Rations, Orc trail",
     "Cost": 100,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Rations, Wandermeal (per serving)",
     "Cost": 1,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Travel cake mix",
     "Cost": 10,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Yogurt",
     "Cost": 10,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Food"
+    "Subtype": "Food",
+    "MarkdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+    "MarkdownTitle": "Food and Drink"
   },
   {
     "Name": "Outfit, Artisan's",
     "Cost": 100,
     "Weight": 64,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Cold-Weather",
     "Cost": 800,
     "Weight": 112,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Courtier's",
     "Cost": 3000,
     "Weight": 96,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Dilettante's",
     "Cost": 2000,
     "Weight": 128,
     "Source": "ARG",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Doctor's",
     "Cost": 15000,
     "Weight": 96,
     "Source": "AA",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Entertainer's",
     "Cost": 300,
     "Weight": 64,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Explorer's",
     "Cost": 1000,
     "Weight": 128,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Hot Weather",
     "Cost": 800,
     "Weight": 64,
     "Source": "APG",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Monk's",
     "Cost": 500,
     "Weight": 32,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Noble's",
     "Cost": 7500,
     "Weight": 160,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Peasant's",
     "Cost": 10,
     "Weight": 32,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Pickpocket's",
     "Cost": 500,
     "Weight": 48,
     "Source": "AA",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Royal",
     "Cost": 20000,
     "Weight": 240,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Scholar's",
     "Cost": 500,
     "Weight": 96,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Soldier's uniform",
     "Cost": 100,
     "Weight": 80,
     "Source": "UE",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Suit, diving",
     "Cost": 1000,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Swarmsuit",
     "Cost": 2000,
     "Weight": 160,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Tear-Away Clothing",
     "Cost": 500,
     "Weight": 16,
     "Source": "AA",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Outfit, Traveler's",
     "Cost": 100,
     "Weight": 80,
     "Source": "CRB",
-    "Subtype": "Outfit"
+    "Subtype": "Outfit",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Cleats",
     "Cost": 500,
     "Weight": 32,
     "Source": "APG",
-    "Subtype": "Footwear"
+    "Subtype": "Footwear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Boots, fire-resistant",
     "Cost": 2000,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Footwear"
+    "Subtype": "Footwear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Boots, softpaw",
     "Cost": 2500,
     "Weight": 0,
     "Source": "ARG",
-    "Subtype": "Footwear"
+    "Subtype": "Footwear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Skates, ice",
     "Cost": 100,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Footwear"
+    "Subtype": "Footwear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Skis",
     "Cost": 500,
     "Weight": 320,
     "Source": "UE",
-    "Subtype": "Footwear"
+    "Subtype": "Footwear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Snowshoes",
     "Cost": 500,
     "Weight": 64,
     "Source": "APG",
-    "Subtype": "Footwear"
+    "Subtype": "Footwear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Cape, Billow",
     "Cost": 10000,
     "Weight": 64,
     "Source": "ARG",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Eyeglasses",
     "Cost": 500,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Face"
+    "Subtype": "Face",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Eye patch",
     "Cost": 10,
     "Weight": 0,
     "Source": "PoIS",
-    "Subtype": "Face"
+    "Subtype": "Face",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Goggles, Gloom Sight",
     "Cost": 20000,
     "Weight": 0,
     "Source": "ARG",
-    "Subtype": "Face"
+    "Subtype": "Face",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Goggles, Smoked",
     "Cost": 1000,
     "Weight": 0,
     "Source": "APG",
-    "Subtype": "Face"
+    "Subtype": "Face",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Hat",
     "Cost": 1500,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Head"
+    "Subtype": "Head",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Mask",
     "Cost": 1500,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Face"
+    "Subtype": "Face",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Mask, Battle",
     "Cost": 5000,
     "Weight": 32,
     "Source": "ARG",
-    "Subtype": "Face"
+    "Subtype": "Face",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Mask, Doctor's",
     "Cost": 5000,
     "Weight": 32,
     "Source": "AA",
-    "Subtype": "Face"
+    "Subtype": "Face",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Mask, Monster",
     "Cost": 51000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Face"
+    "Subtype": "Face",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Neck Guard",
     "Cost": 1000,
     "Weight": 4,
     "Source": "ARG",
-    "Subtype": "Neck"
+    "Subtype": "Neck",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Scarf",
     "Cost": 150,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Neck"
+    "Subtype": "Neck",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Scarf, pocketed",
     "Cost": 800,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Neck"
+    "Subtype": "Neck",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Scarf, reinforced",
     "Cost": 1000,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Neck"
+    "Subtype": "Neck",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Wig",
     "Cost": 550000,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Head"
+    "Subtype": "Head",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Cloak, Patchwork",
     "Cost": 500,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Cloak, Reversible",
     "Cost": 21000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Cloak, Wing",
     "Cost": 120000,
     "Weight": 0,
     "Source": "ARG",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Furs",
     "Cost": 1200,
     "Weight": 80,
     "Source": "APG",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Kilt",
     "Cost": 20,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Poncho",
     "Cost": 50,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Sash, Adventurer's",
     "Cost": 2000,
     "Weight": 48,
     "Source": "SOS",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Tabard",
     "Cost": 500,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Vest",
     "Cost": 1500,
     "Weight": 8,
     "Source": "AA",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Vest, barbed",
     "Cost": 1000,
     "Weight": 64,
     "Source": "CRB",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Vestments, Cleric's",
     "Cost": 500,
     "Weight": 96,
     "Source": "CRB",
-    "Subtype": "Bodywear"
+    "Subtype": "Bodywear",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Brooch",
     "Cost": 0,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Jewelry"
+    "Subtype": "Jewelry",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Caul",
     "Cost": 1010000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Jewelry"
+    "Subtype": "Jewelry",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Decorative trim",
     "Cost": 1500,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Jewelry"
+    "Subtype": "Jewelry",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Jewelry",
     "Cost": 0,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Jewelry"
+    "Subtype": "Jewelry",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Jewelry, false",
     "Cost": 2000,
     "Weight": 0,
     "Source": "RotRLPG",
-    "Subtype": "Jewelry"
+    "Subtype": "Jewelry",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Hennin",
     "Cost": 1010000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Jewelry"
+    "Subtype": "Jewelry",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Perfume/Cologne, common",
     "Cost": 100,
     "Weight": 0,
     "Source": "ISWG",
-    "Subtype": "Perfume"
+    "Subtype": "Perfume",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Perfume/Cologne, exotic",
     "Cost": 10000,
     "Weight": 0,
     "Source": "ISWG",
-    "Subtype": "Perfume"
+    "Subtype": "Perfume",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Perfume/Cologne, common (1 dose)",
     "Cost": 100,
     "Weight": 0,
     "Source": "PCS",
-    "Subtype": "Perfume"
+    "Subtype": "Perfume",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Perfume/Cologne, rare (1 dose)",
     "Cost": 1000,
     "Weight": 0,
     "Source": "PCS",
-    "Subtype": "Perfume"
+    "Subtype": "Perfume",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Perfume/Cologne, exotic (1 dose)",
     "Cost": 10000,
     "Weight": 0,
     "Source": "PCS",
-    "Subtype": "Perfume"
+    "Subtype": "Perfume",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Ring, poison pill",
     "Cost": 2000,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Ring"
+    "Subtype": "Ring",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Ring, signet",
     "Cost": 500,
     "Weight": 0,
     "Source": "CRB",
-    "Subtype": "Ring"
+    "Subtype": "Ring",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Watch, pocket",
     "Cost": 25000,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Watch"
+    "Subtype": "Watch",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Tattoo",
     "Cost": 0,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Tatoo"
+    "Subtype": "Tatoo",
+    "MarkdownPath": "ultimateEquipment/gear/clothing.md",
+    "MarkdownTitle": "Clothing"
   },
   {
     "Name": "Backpack, common",
     "Cost": 200,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Bag"
+    "Subtype": "Bag",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Backpack, masterwork",
     "Cost": 5000,
     "Weight": 64,
     "Source": "UE",
-    "Subtype": "Bag"
+    "Subtype": "Bag",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Bag, waterproof",
     "Cost": 50,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Bag"
+    "Subtype": "Bag",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Bandolier",
     "Cost": 50,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Pouch"
+    "Subtype": "Pouch",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Pouch, belt",
     "Cost": 100,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Pouch"
+    "Subtype": "Pouch",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Pouch, spell components",
     "Cost": 500,
     "Weight": 32,
     "Source": "CRB",
-    "Subtype": "Pouch"
+    "Subtype": "Pouch",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Pouch, war spirit",
     "Cost": 5000,
     "Weight": 0,
     "Source": "ARG",
-    "Subtype": "Pouch"
+    "Subtype": "Pouch",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Sack",
     "Cost": 10,
     "Weight": 8,
     "Source": "CRB",
-    "Subtype": "Bag"
+    "Subtype": "Bag",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Satchel, familiar",
     "Cost": 2500,
     "Weight": 96,
     "Source": "UE",
-    "Subtype": "Bag"
+    "Subtype": "Bag",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Waterskin",
     "Cost": 100,
     "Weight": 64,
     "Source": "CRB",
-    "Subtype": "Pouch"
+    "Subtype": "Pouch",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Barrel",
     "Cost": 200,
     "Weight": 480,
     "Source": "UE",
-    "Subtype": "Barrel"
+    "Subtype": "Barrel",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Basket",
     "Cost": 40,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Barrel"
+    "Subtype": "Barrel",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Bottle",
     "Cost": 200,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Bottle"
+    "Subtype": "Bottle",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Box, scroll",
     "Cost": 500,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Box"
+    "Subtype": "Box",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Bucket",
     "Cost": 50,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Barrel"
+    "Subtype": "Barrel",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Canteen",
     "Cost": 200,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Pouch"
+    "Subtype": "Pouch",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Case, scroll",
     "Cost": 100,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Box"
+    "Subtype": "Box",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Cauldron",
     "Cost": 100,
     "Weight": 80,
     "Source": "UE",
-    "Subtype": "Barrel"
+    "Subtype": "Barrel",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Cauldron, mithral",
     "Cost": 125100,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Barrel"
+    "Subtype": "Barrel",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Chest, Small / Small treasure chest",
     "Cost": 2300,
     "Weight": 400,
     "Source": "AA/PoIS",
-    "Subtype": "Chest"
+    "Subtype": "Chest",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Chest, Medium / Medium treasure chest",
     "Cost": 5700,
     "Weight": 800,
     "Source": "CRB/PoIS",
-    "Subtype": "Chest"
+    "Subtype": "Chest",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Chest, Large / Large treasure chest",
     "Cost": 101500,
     "Weight": 1600,
     "Source": "CRB/PoIS",
-    "Subtype": "Chest"
+    "Subtype": "Chest",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Chest, Huge / Huge treasure chest",
     "Cost": 253700,
     "Weight": 4000,
     "Source": "CRB/PoIS",
-    "Subtype": "Chest"
+    "Subtype": "Chest",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Chest, false bottomed",
     "Cost": 5200,
     "Weight": 400,
     "Source": "AA",
-    "Subtype": "Chest"
+    "Subtype": "Chest",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Coffee pot",
     "Cost": 300,
     "Weight": 64,
     "Source": "UE",
-    "Subtype": "Pot"
+    "Subtype": "Pot",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Coffin, common",
     "Cost": 1000,
     "Weight": 480,
     "Source": "UE",
-    "Subtype": "Box"
+    "Subtype": "Box",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Coffin, ornate",
     "Cost": 10000,
     "Weight": 800,
     "Source": "UE",
-    "Subtype": "Box"
+    "Subtype": "Box",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Cup",
     "Cost": 100,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Cup"
+    "Subtype": "Cup",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Cup, false bottomed",
     "Cost": 100,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Cup"
+    "Subtype": "Cup",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Flask",
     "Cost": 3,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Flask"
+    "Subtype": "Flask",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Flask, hip",
     "Cost": 100,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Flask"
+    "Subtype": "Flask",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Jug",
     "Cost": 3,
     "Weight": 144,
     "Source": "UE",
-    "Subtype": "Bottle"
+    "Subtype": "Bottle",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Mug/Tankard, clay",
     "Cost": 2,
     "Weight": 16,
     "Source": "CRB",
-    "Subtype": "Cup"
+    "Subtype": "Cup",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Pitcher",
     "Cost": 2,
     "Weight": 80,
     "Source": "UE",
-    "Subtype": "Cup"
+    "Subtype": "Cup",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Pot, iron",
     "Cost": 80,
     "Weight": 64,
     "Source": "CRB",
-    "Subtype": "Barrel"
+    "Subtype": "Barrel",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Potion Sponge",
     "Cost": 200,
     "Weight": 0,
     "Source": "ARG",
-    "Subtype": "Sponge"
+    "Subtype": "Sponge",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Vial (for ink or potions)",
     "Cost": 100,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Bottle"
+    "Subtype": "Bottle",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Vial, iron",
     "Cost": 10,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Bottle"
+    "Subtype": "Bottle",
+    "MarkdownPath": "ultimateEquipment/gear/adventuringGear.md",
+    "MarkdownTitle": "Adventuring Gear"
   },
   {
     "Name": "Altar, Portable",
     "Cost": 25000,
     "Weight": 640,
     "Source": "AA",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Holy symbol, wooden",
     "Cost": 100,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Holy symbol, iron",
     "Cost": 500,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Holy symbol, silver",
     "Cost": 2500,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Holy symbol, gold",
     "Cost": 10000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Holy symbol, platinum",
     "Cost": 50000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Holy symbol, compartment",
     "Cost": 500,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Holy symbol, flask",
     "Cost": 1000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Holy symbol, tattoo",
     "Cost": 10000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Holy text",
     "Cost": 110000,
     "Weight": 1920,
     "Source": "UE",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Holy/Unholy Water (1 flask)",
     "Cost": 2500,
     "Weight": 0,
     "Source": "CRB",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Samsaran Life Wheel",
     "Cost": 2500,
     "Weight": 8,
     "Source": "ARG",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Talisman, Necrotic",
     "Cost": 50000,
     "Weight": 0,
     "Source": "PCS",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Summoner's Idol",
     "Cost": 5000,
     "Weight": 0,
     "Source": "CoCTPG",
-    "Subtype": "Religious"
+    "Subtype": "Religious",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Authoritative vestments",
     "Cost": 45000,
     "Weight": 240,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Bronze gong",
     "Cost": 10000,
     "Weight": 80,
     "Source": "FoB",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Chains of contrition",
     "Cost": 20000,
     "Weight": 32,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Consecrated weapon",
     "Cost": 15000,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Driftwood Icon",
     "Cost": 2500,
     "Weight": 0,
     "Source": "FoB",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Hallowed chalice",
     "Cost": 20000,
     "Weight": 32,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Instrument of the divine",
     "Cost": 20000,
     "Weight": 48,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Iron eye",
     "Cost": 5000,
     "Weight": 0,
     "Source": "FoB",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Just scale",
     "Cost": 5000,
     "Weight": 0,
     "Source": "FoB",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Lock of the saved",
     "Cost": 5000,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Meditation crystal",
     "Cost": 10000,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Sanctified rings (pair)",
     "Cost": 500,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Sanctified shield",
     "Cost": 10000,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Spiked focus ward",
     "Cost": 10000,
     "Weight": 32,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Stinging whip",
     "Cost": 5000,
     "Weight": 80,
     "Source": "FoB",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Sundered mask",
     "Cost": 25000,
     "Weight": 0,
     "Source": "FoB",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Teaching staff",
     "Cost": 7500,
     "Weight": 80,
     "Source": "AA",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Winged fetish",
     "Cost": 5000,
     "Weight": 0,
     "Source": "FoB",
-    "Subtype": "Foci"
+    "Subtype": "Foci",
+    "MarkdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+    "MarkdownTitle": "Tools and Skill Kits"
   },
   {
     "Name": "Ball (2 in.)",
     "Cost": 8,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Toy"
+    "Subtype": "Toy",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Ball (5 in.)",
     "Cost": 20,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Toy"
+    "Subtype": "Toy",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Ball (10 in.)",
     "Cost": 600,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Toy"
+    "Subtype": "Toy",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Billiards gear",
     "Cost": 50,
     "Weight": 128,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Board game",
     "Cost": 1100,
     "Weight": 32,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Bowling set",
     "Cost": 5100,
     "Weight": 240,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Cards",
     "Cost": 11000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Card"
+    "Subtype": "Card",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Cards, marked",
     "Cost": 100,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Card"
+    "Subtype": "Card",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Cards, fortune-teller's, common",
     "Cost": 100,
     "Weight": 8,
     "Source": "APG",
-    "Subtype": "Card"
+    "Subtype": "Card",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Cards, fortune-teller's, quality",
     "Cost": 2500,
     "Weight": 0,
     "Source": "APG",
-    "Subtype": "Card"
+    "Subtype": "Card",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Cards, fortune-teller's, masterwork",
     "Cost": 5000,
     "Weight": 0,
     "Source": "APG",
-    "Subtype": "Card"
+    "Subtype": "Card",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Cards, harrow deck",
     "Cost": 10000,
     "Weight": 0,
     "Source": "AA",
-    "Subtype": "Card"
+    "Subtype": "Card",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Croquet set",
     "Cost": 50,
     "Weight": 160,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Crossword",
     "Cost": 11,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Dartboard set",
     "Cost": 50,
     "Weight": 160,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Dice",
     "Cost": 10,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Dice, loaded, average",
     "Cost": 1000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Dice, loaded, superior",
     "Cost": 5000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Dominos",
     "Cost": 1250,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Halfling jugglesticks",
     "Cost": 2500,
     "Weight": 0,
     "Source": "ARG",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Horseshoes game",
     "Cost": 50,
     "Weight": 48,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Kite",
     "Cost": 120000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Toy"
+    "Subtype": "Toy",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Marbles",
     "Cost": 0,
     "Weight": 0,
     "Source": "APG",
-    "Subtype": "Toy"
+    "Subtype": "Toy",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Polo gear",
     "Cost": 50,
     "Weight": 80,
     "Source": "UE",
-    "Subtype": "Toy"
+    "Subtype": "Toy",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Puzzle box",
     "Cost": 1100000,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Rounders gear",
     "Cost": 10,
     "Weight": 8,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Shadow stencils",
     "Cost": 0,
     "Weight": 0,
     "Source": "ARG",
-    "Subtype": "Toy"
+    "Subtype": "Toy",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   },
   {
     "Name": "Tennis gear",
     "Cost": 30,
     "Weight": 48,
     "Source": "UE",
-    "Subtype": "Game"
+    "Subtype": "Game",
+    "MarkdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+    "MarkdownTitle": "Entertainment and Trade Goods"
   }
 ]

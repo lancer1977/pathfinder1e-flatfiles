@@ -88,9 +88,13 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - [x] Define shared label and alias normalization rules
 - [x] Add family-oriented export helper for grouped family snapshots
 - [x] Add source-repo refresh smoke tests for the flatfile repo itself
-- [ ] Add markdown enrichment for weapons and weapon features
-- [ ] Add markdown enrichment for armor and armor features
-- [ ] Add markdown enrichment for mundane gear and magic items
-- [ ] Add markdown enrichment for feats and class abilities
-- [ ] Add markdown enrichment for races, racial traits, and traits
+- [x] Add markdown enrichment for weapons
+- [x] Add markdown enrichment for armor
+- [x] Add markdown enrichment for mundane gear
+- [x] Add markdown enrichment for magic items
+- [x] Add markdown enrichment for feats
+- [x] Add markdown enrichment for races, racial traits, and traits
+- [ ] Add markdown enrichment for weapon features
+- [ ] Add markdown enrichment for armor features
+- [ ] Add markdown enrichment for class abilities
 - [ ] Extend SRD overlay if the upstream repository adds classes, skills, equipment, feats, or traits

@@ -13,7 +13,9 @@
     "Source": "UC",
     "Category": "Martial",
     "ItemType": "RangedWeapon",
-    "Action": "Performance"
+    "Action": "Performance",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Axe, Boarding",
@@ -27,7 +29,9 @@
     "DamageType": "Piercing:Slashing",
     "Source": "PoIS",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Handaxe",
@@ -41,7 +45,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pick, Light",
@@ -55,7 +61,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Battleaxe",
@@ -69,7 +77,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pick, Heavy",
@@ -83,7 +93,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bardiche",
@@ -98,7 +110,9 @@
     "Source": "APG",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace:Reach"
+    "Action": "Brace:Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Greataxe",
@@ -112,7 +126,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "TwohandedWeapon"
+    "ItemType": "TwohandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Horsechopper",
@@ -127,7 +143,9 @@
     "Source": "ARG",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Reach:Trip"
+    "Action": "Reach:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pickaxe",
@@ -141,7 +159,9 @@
     "DamageType": "Piercing",
     "Source": "AP14",
     "Category": "Martial",
-    "ItemType": "TwohandedWeapon"
+    "ItemType": "TwohandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Axe, Knuckle",
@@ -156,7 +176,9 @@
     "Source": "UC",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Monk:Performance"
+    "Action": "Monk:Performance",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Barbazu Beard",
@@ -171,7 +193,9 @@
     "Source": "Cheliax",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Maulaxe, Dwarven",
@@ -186,7 +210,9 @@
     "DamageType": "Bludgeoning:Slashing",
     "Source": "AA",
     "Category": "Exotic",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Axe, Hooked",
@@ -201,7 +227,9 @@
     "Source": "UC",
     "Category": "Exotic",
     "ItemType": "OnehandedWeapon",
-    "Action": "Disarm:Performance:Trip"
+    "Action": "Disarm:Performance:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Waraxe, Dwarven",
@@ -215,7 +243,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Exotic",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Waraxe, Dwarven Double",
@@ -230,7 +260,9 @@
     "Source": "ARG",
     "Category": "Exotic",
     "ItemType": "OnehandedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Axe, Orc Double",
@@ -245,7 +277,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Double"
+    "Action": "Double",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Longaxe, Dwarven",
@@ -260,7 +294,9 @@
     "Source": "ARG",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Reach"
+    "Action": "Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Urgrosh, Dwarven",
@@ -275,7 +311,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace:Double"
+    "Action": "Brace:Double",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Longbow",
@@ -290,7 +328,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Longbow, Composite",
@@ -305,7 +345,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shortbow",
@@ -320,7 +362,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shortbow, Composite",
@@ -335,7 +379,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Gauntlet",
@@ -349,7 +395,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Unarmed Strike",
@@ -364,7 +412,9 @@
     "Source": "CRB",
     "Category": "Simple",
     "ItemType": "LightWeapon",
-    "Action": "Nonlethal"
+    "Action": "Nonlethal",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Brass Knuckles",
@@ -379,7 +429,9 @@
     "Source": "AA / APG",
     "Category": "Simple",
     "ItemType": "LightWeapon",
-    "Action": "Monk"
+    "Action": "Monk",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Cestus",
@@ -394,7 +446,9 @@
     "Source": "APG",
     "Category": "Simple",
     "ItemType": "LightWeapon",
-    "Action": "Monk"
+    "Action": "Monk",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Dagger, Punching",
@@ -408,7 +462,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Gauntlet, Spiked",
@@ -422,7 +478,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Wooden Stake",
@@ -437,7 +495,9 @@
     "DamageType": "Piercing",
     "Source": "APG",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Club",
@@ -452,7 +512,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Dart",
@@ -467,7 +529,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sap",
@@ -482,7 +546,9 @@
     "Source": "CRB",
     "Category": "Martial",
     "ItemType": "LightWeapon",
-    "Action": "Nonlethal"
+    "Action": "Nonlethal",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shield, Light",
@@ -496,7 +562,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Spiked Armor",
@@ -510,7 +578,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Spiked Shield, Light",
@@ -524,7 +594,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shield, Heavy",
@@ -538,7 +610,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Spiked Shield, Heavy",
@@ -552,7 +626,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Helmet, Dwarven Boulder",
@@ -567,7 +643,9 @@
     "Source": "ARG",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Rope Gauntlet",
@@ -581,7 +659,9 @@
     "DamageType": "Bludgeoning:Slashing",
     "Source": "AA",
     "Category": "Exotic",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Thorn Bracer",
@@ -595,7 +675,9 @@
     "DamageType": "Piercing",
     "Source": "PCS",
     "Category": "Exotic",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Garrote",
@@ -610,7 +692,9 @@
     "Source": "AA",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Grapple"
+    "Action": "Grapple",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Scarf, Bladed",
@@ -625,7 +709,9 @@
     "Source": "ISWG",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Disarm:Trip"
+    "Action": "Disarm:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Unarmed",
@@ -640,7 +726,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Crossbow, Heavy",
@@ -655,7 +743,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Crossbow, Heavy (Underwater)",
@@ -670,7 +760,9 @@
     "DamageType": "Piercing",
     "Source": "ARG",
     "Category": "Simple",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Crossbow, Light",
@@ -685,7 +777,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Crossbow, Light (Underwater)",
@@ -700,7 +794,9 @@
     "DamageType": "Piercing",
     "Source": "ARG",
     "Category": "Simple",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Crossbow, Double",
@@ -715,7 +811,9 @@
     "DamageType": "Piercing",
     "Source": "APG",
     "Category": "Exotic",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Crossbow, Hand",
@@ -730,7 +828,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Exotic",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Crossbow, Launching",
@@ -746,7 +846,9 @@
     "Source": "AA",
     "Category": "Exotic",
     "ItemType": "RangedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Crossbow, Repeating Heavy",
@@ -761,7 +863,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Exotic",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Crossbow, Repeating",
@@ -776,7 +880,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Exotic",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Quarterstaff",
@@ -791,7 +897,9 @@
     "Source": "CRB",
     "Category": "Simple",
     "ItemType": "TwohandedWeapon",
-    "Action": "Double:Monk"
+    "Action": "Double:Monk",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Spear",
@@ -807,7 +915,9 @@
     "Source": "CRB",
     "Category": "Simple",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace"
+    "Action": "Brace",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Buckler gun",
@@ -824,7 +934,9 @@
     "ItemType": "OnehandedWeapon",
     "Misfire": 1,
     "MisfireRange": 5,
-    "Capacity": 2
+    "Capacity": 2,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pepperbox",
@@ -841,7 +953,9 @@
     "ItemType": "OnehandedWeapon",
     "Misfire": 2,
     "MisfireRange": 5,
-    "Capacity": 6
+    "Capacity": 6,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pistol",
@@ -858,7 +972,9 @@
     "ItemType": "OnehandedWeapon",
     "Misfire": 1,
     "MisfireRange": 5,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pistol, coat",
@@ -875,7 +991,9 @@
     "ItemType": "OnehandedWeapon",
     "Misfire": 1,
     "MisfireRange": 5,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pistol, dagger",
@@ -892,7 +1010,9 @@
     "ItemType": "OnehandedWeapon",
     "Misfire": 1,
     "MisfireRange": 5,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pistol, double-barreled",
@@ -909,7 +1029,9 @@
     "ItemType": "OnehandedWeapon",
     "Misfire": 2,
     "MisfireRange": 5,
-    "Capacity": 2
+    "Capacity": 2,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pistol, dragon",
@@ -927,7 +1049,9 @@
     "Action": "Scatter",
     "Misfire": 2,
     "MisfireRange": 5,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pistol, sword cane",
@@ -944,7 +1068,9 @@
     "ItemType": "OnehandedWeapon",
     "Misfire": 1,
     "MisfireRange": 5,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Blunpriaderbuss",
@@ -962,7 +1088,9 @@
     "Action": "Scatter",
     "Misfire": 2,
     "MisfireRange": 10,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Culverin",
@@ -980,7 +1108,9 @@
     "Action": "Scatter",
     "Misfire": 1,
     "MisfireRange": 10,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Double hackbut",
@@ -997,7 +1127,9 @@
     "ItemType": "TwohandedWeapon",
     "Misfire": 2,
     "MisfireRange": 5,
-    "Capacity": 2
+    "Capacity": 2,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Fire lance",
@@ -1014,7 +1146,9 @@
     "ItemType": "TwohandedWeapon",
     "Misfire": 4,
     "MisfireRange": 5,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Musket",
@@ -1031,7 +1165,9 @@
     "ItemType": "TwohandedWeapon",
     "Misfire": 2,
     "MisfireRange": 5,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Musket, axe",
@@ -1048,7 +1184,9 @@
     "ItemType": "TwohandedWeapon",
     "Misfire": 2,
     "MisfireRange": 5,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Musket, double-barreled",
@@ -1065,7 +1203,9 @@
     "ItemType": "TwohandedWeapon",
     "Misfire": 3,
     "MisfireRange": 5,
-    "Capacity": 2
+    "Capacity": 2,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Musket, warhammer",
@@ -1082,7 +1222,9 @@
     "ItemType": "TwohandedWeapon",
     "Misfire": 2,
     "MisfireRange": 5,
-    "Capacity": 1
+    "Capacity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Revolver",
@@ -1101,7 +1243,9 @@
     "Misfire": 1,
     "MisfireRange": 0,
     "Capacity": 6,
-    "AdvancedFirearm": "TRUE"
+    "AdvancedFirearm": "TRUE",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Rifle",
@@ -1120,7 +1264,9 @@
     "Misfire": 1,
     "MisfireRange": 0,
     "Capacity": 1,
-    "AdvancedFirearm": "TRUE"
+    "AdvancedFirearm": "TRUE",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Rifle, pepperbox",
@@ -1139,7 +1285,9 @@
     "Misfire": 2,
     "MisfireRange": 0,
     "Capacity": 4,
-    "AdvancedFirearm": "TRUE"
+    "AdvancedFirearm": "TRUE",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shotgun",
@@ -1159,7 +1307,9 @@
     "Misfire": 2,
     "MisfireRange": 0,
     "Capacity": 1,
-    "AdvancedFirearm": "TRUE"
+    "AdvancedFirearm": "TRUE",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shotgun, double-barreled",
@@ -1179,7 +1329,9 @@
     "Misfire": 2,
     "MisfireRange": 0,
     "Capacity": 2,
-    "AdvancedFirearm": "TRUE"
+    "AdvancedFirearm": "TRUE",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Morningstar",
@@ -1193,7 +1345,9 @@
     "DamageType": "Bludgeoning:Piercing",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Cat-O'-Nine-Tails",
@@ -1208,7 +1362,9 @@
     "Source": "PoIS",
     "Category": "Martial",
     "ItemType": "LightWeapon",
-    "Action": "Disarm:Nonlethal"
+    "Action": "Disarm:Nonlethal",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Flail",
@@ -1223,7 +1379,9 @@
     "Source": "CRB",
     "Category": "Martial",
     "ItemType": "OnehandedWeapon",
-    "Action": "Disarm:Trip"
+    "Action": "Disarm:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Flail, Heavy",
@@ -1238,7 +1396,9 @@
     "Source": "CRB",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Disarm:Trip"
+    "Action": "Disarm:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Battle Poi",
@@ -1252,7 +1412,9 @@
     "DamageType": "fire",
     "Source": "AA",
     "Category": "Exotic",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Nunchaku",
@@ -1267,7 +1429,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Disarm:Monk"
+    "Action": "Disarm:Monk",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Whip, Scorpion",
@@ -1282,7 +1446,9 @@
     "Source": "UC",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Disarm:Performance:Reach:Trip"
+    "Action": "Disarm:Performance:Reach:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Whip",
@@ -1297,7 +1463,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "OnehandedWeapon",
-    "Action": "Disarm:Nonlethal:Reach:Trip"
+    "Action": "Disarm:Nonlethal:Reach:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Chain, Spiked",
@@ -1312,7 +1480,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Disarm:Trip"
+    "Action": "Disarm:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Flail, Dire",
@@ -1327,7 +1497,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Disarm:Double:Trip"
+    "Action": "Disarm:Double:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Flailpole",
@@ -1342,7 +1514,9 @@
     "Source": "GoG",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Reach:Trip"
+    "Action": "Reach:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Flying Blade",
@@ -1357,7 +1531,9 @@
     "Source": "UC",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Performance:Reach"
+    "Action": "Performance:Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Battle Aspergillum",
@@ -1372,7 +1548,9 @@
     "Source": "APG",
     "Category": "Simple",
     "ItemType": "LightWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Hook Hand",
@@ -1387,7 +1565,9 @@
     "Source": "PoIS",
     "Category": "Simple",
     "ItemType": "LightWeapon",
-    "Action": "Disarm"
+    "Action": "Disarm",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Mace, Light",
@@ -1401,7 +1581,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Club, Mere",
@@ -1416,7 +1598,9 @@
     "Source": "AA",
     "Category": "Simple",
     "ItemType": "OnehandedWeapon",
-    "Action": "Fragile"
+    "Action": "Fragile",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Combat Scabbard",
@@ -1431,7 +1615,9 @@
     "Source": "AA",
     "Category": "Simple",
     "ItemType": "OnehandedWeapon",
-    "Action": "Improvised"
+    "Action": "Improvised",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Mace, Heavy",
@@ -1445,7 +1631,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Hammer, Light",
@@ -1460,7 +1648,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Warhammer",
@@ -1474,7 +1664,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bec De Corbin",
@@ -1489,7 +1681,9 @@
     "Source": "APG",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace:Reach"
+    "Action": "Brace:Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bill",
@@ -1504,7 +1698,9 @@
     "Source": "APG",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace:Disarm:Reach"
+    "Action": "Brace:Disarm:Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Earth Breaker",
@@ -1518,7 +1714,9 @@
     "DamageType": "Bludgeoning",
     "Source": "ISWG",
     "Category": "Martial",
-    "ItemType": "TwohandedWeapon"
+    "ItemType": "TwohandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Glaive",
@@ -1533,7 +1731,9 @@
     "Source": "CRB",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Reach"
+    "Action": "Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Glaive-Guisarme",
@@ -1548,7 +1748,9 @@
     "Source": "APG",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace:Reach"
+    "Action": "Brace:Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Greatclub",
@@ -1562,7 +1764,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "TwohandedWeapon"
+    "ItemType": "TwohandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Guisarme",
@@ -1577,7 +1781,9 @@
     "Source": "CRB",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Reach:Trip"
+    "Action": "Reach:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Halberd",
@@ -1592,7 +1798,9 @@
     "Source": "CRB",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace:Trip"
+    "Action": "Brace:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Hammer, Lucerne",
@@ -1607,7 +1815,9 @@
     "Source": "APG",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace:Reach"
+    "Action": "Brace:Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Lance",
@@ -1622,7 +1832,9 @@
     "Source": "CRB",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Reach"
+    "Action": "Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Ogre Hook",
@@ -1637,7 +1849,9 @@
     "Source": "ISWG",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Trip"
+    "Action": "Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Ranseur",
@@ -1652,7 +1866,9 @@
     "Source": "CRB",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Disarm:Reach"
+    "Action": "Disarm:Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Aklys",
@@ -1668,7 +1884,9 @@
     "Source": "UC",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Performance:Trip"
+    "Action": "Performance:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Boarding Gaff",
@@ -1683,7 +1901,9 @@
     "Source": "PoIS",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Double:Reach:Trip"
+    "Action": "Double:Reach:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Dorn Dergar, Dwarven",
@@ -1698,7 +1918,9 @@
     "Source": "DoG",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Reach"
+    "Action": "Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Hammer, Gnome Hooked",
@@ -1713,7 +1935,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Double:Trip"
+    "Action": "Double:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Longhammer, Dwarven",
@@ -1728,7 +1952,9 @@
     "Source": "ARG",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Reach"
+    "Action": "Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Mancatcher",
@@ -1743,7 +1969,9 @@
     "Source": "APG",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Grapple, Reach"
+    "Action": "Grapple, Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Piston Maul",
@@ -1758,7 +1986,9 @@
     "Source": "GoG",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Klar",
@@ -1772,7 +2002,9 @@
     "DamageType": "Slashing",
     "Source": "ISWG",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Longsword",
@@ -1786,7 +2018,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Scimitar",
@@ -1800,7 +2034,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Terbutje",
@@ -1815,7 +2051,9 @@
     "Source": "AA",
     "Category": "Martial",
     "ItemType": "OnehandedWeapon",
-    "Action": "Fragile"
+    "Action": "Fragile",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Terbutje, Steel",
@@ -1829,7 +2067,9 @@
     "DamageType": "Slashing",
     "Source": "AA",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Falchion",
@@ -1843,7 +2083,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "TwohandedWeapon"
+    "ItemType": "TwohandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Greatsword",
@@ -1857,7 +2099,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "TwohandedWeapon"
+    "ItemType": "TwohandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Scythe",
@@ -1872,7 +2116,9 @@
     "Source": "CRB",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Trip"
+    "Action": "Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Chakram",
@@ -1887,7 +2133,9 @@
     "DamageType": "Slashing",
     "Source": "APG",
     "Category": "Martial",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Falcata",
@@ -1901,7 +2149,9 @@
     "DamageType": "Slashing",
     "Source": "APG",
     "Category": "Exotic",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Khopesh",
@@ -1916,7 +2166,9 @@
     "Source": "APG",
     "Category": "Exotic",
     "ItemType": "OnehandedWeapon",
-    "Action": "Trip"
+    "Action": "Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shotel",
@@ -1931,7 +2183,9 @@
     "Source": "UC",
     "Category": "Exotic",
     "ItemType": "OnehandedWeapon",
-    "Action": "Performance"
+    "Action": "Performance",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sword, Bastard",
@@ -1945,7 +2199,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Exotic",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Curve Blade, Elven",
@@ -1959,7 +2215,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Exotic",
-    "ItemType": "TwohandedWeapon"
+    "ItemType": "TwohandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Fauchard",
@@ -1974,7 +2232,9 @@
     "Source": "CHR",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Reach:Trip"
+    "Action": "Reach:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Flambard",
@@ -1989,7 +2249,9 @@
     "Source": "AA",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Sunder"
+    "Action": "Sunder",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Ripsaw Glaive",
@@ -2004,7 +2266,9 @@
     "Source": "GoG",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Reach"
+    "Action": "Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sword, Two-Bladed",
@@ -2019,7 +2283,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Double"
+    "Action": "Double",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Brass Knife",
@@ -2035,7 +2301,9 @@
     "Source": "PoIS",
     "Category": "Simple",
     "ItemType": "LightWeapon",
-    "Action": "Fragile"
+    "Action": "Fragile",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Dagger",
@@ -2050,7 +2318,9 @@
     "DamageType": "Piercing:Slashing",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sickle",
@@ -2065,7 +2335,9 @@
     "Source": "CRB",
     "Category": "Simple",
     "ItemType": "LightWeapon",
-    "Action": "Trip"
+    "Action": "Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pommel Swipe",
@@ -2080,7 +2352,9 @@
     "Source": "CRB",
     "Category": "Simple",
     "ItemType": "OnehandedWeapon",
-    "Action": "KnockProne"
+    "Action": "KnockProne",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bayonet",
@@ -2094,7 +2368,9 @@
     "DamageType": "Piercing",
     "Source": "APG",
     "Category": "Simple",
-    "ItemType": "TwohandedWeapon"
+    "ItemType": "TwohandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Blade Boot",
@@ -2109,7 +2385,9 @@
     "Source": "AA",
     "Category": "Martial",
     "ItemType": "LightWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Dogslicer",
@@ -2124,7 +2402,9 @@
     "Source": "ARG",
     "Category": "Martial",
     "ItemType": "LightWeapon",
-    "Action": "Fragile"
+    "Action": "Fragile",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Gladius",
@@ -2139,7 +2419,9 @@
     "Source": "UC",
     "Category": "Martial",
     "ItemType": "LightWeapon",
-    "Action": "Performance"
+    "Action": "Performance",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Knife, Switchblade",
@@ -2154,7 +2436,9 @@
     "DamageType": "Piercing",
     "Source": "AA",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Kukri",
@@ -2168,7 +2452,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sea-Knife",
@@ -2182,7 +2468,9 @@
     "DamageType": "Slashing",
     "Source": "ARG",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Starknife",
@@ -2197,7 +2485,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sword, Short",
@@ -2211,7 +2501,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "War Razor",
@@ -2225,7 +2517,9 @@
     "DamageType": "Slashing",
     "Source": "ISWG",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Cutlass",
@@ -2239,7 +2533,9 @@
     "DamageType": "Slashing",
     "Source": "PoIS",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Rapier",
@@ -2253,7 +2549,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Scabbard, Combat (Sharpened)",
@@ -2268,7 +2566,9 @@
     "Source": "AA",
     "Category": "Martial",
     "ItemType": "OnehandedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Scizore",
@@ -2282,7 +2582,9 @@
     "DamageType": "Piercing",
     "Source": "UC",
     "Category": "Martial",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sword Cane",
@@ -2297,7 +2599,9 @@
     "Source": "APG",
     "Category": "Martial",
     "ItemType": "OnehandedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Hunga Munga",
@@ -2312,7 +2616,9 @@
     "DamageType": "Piercing",
     "Source": "AA",
     "Category": "Martial",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Dagger, Swordbreaker",
@@ -2327,7 +2633,9 @@
     "Source": "APG",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Disarm:Sunder"
+    "Action": "Disarm:Sunder",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Kama",
@@ -2342,7 +2650,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Monk:Trip"
+    "Action": "Monk:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Knife, Butterfly",
@@ -2356,7 +2666,9 @@
     "DamageType": "Piercing:Slashing",
     "Source": "AA",
     "Category": "Exotic",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Quadrens",
@@ -2371,7 +2683,9 @@
     "Source": "UC",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Performance"
+    "Action": "Performance",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sica",
@@ -2386,7 +2700,9 @@
     "Source": "UC",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Performance"
+    "Action": "Performance",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Rhoka",
@@ -2400,7 +2716,9 @@
     "DamageType": "Slashing",
     "Source": "AA",
     "Category": "Exotic",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sabre, Sawtooth",
@@ -2414,7 +2732,9 @@
     "DamageType": "Slashing",
     "Source": "ISWG",
     "Category": "Exotic",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sword, Aldori Dueling",
@@ -2428,7 +2748,9 @@
     "DamageType": "Slashing",
     "Source": "ISWG",
     "Category": "Exotic",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Net",
@@ -2443,7 +2765,9 @@
     "DamageType": "—",
     "Source": "CRB",
     "Category": "Exotic",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sai",
@@ -2458,7 +2782,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Disarm:Monk"
+    "Action": "Disarm:Monk",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Siangham",
@@ -2473,7 +2799,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Monk"
+    "Action": "Monk",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shuriken",
@@ -2488,7 +2816,9 @@
     "DamageType": "Piercing",
     "Source": "UC",
     "Category": "Martial",
-    "Action": "Monk"
+    "Action": "Monk",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Flying Talon",
@@ -2504,7 +2834,9 @@
     "Source": "D1",
     "Category": "Exotic",
     "ItemType": "LightWeapon",
-    "Action": "Disarm:Trip"
+    "Action": "Disarm:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Tentacle",
@@ -2519,7 +2851,9 @@
     "DamageType": "Bludgeoning",
     "Source": "NA",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bite",
@@ -2533,7 +2867,9 @@
     "Weight": 0,
     "DamageType": "Bludgeoning:Piercing:Slashing",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Claw",
@@ -2547,7 +2883,9 @@
     "Weight": 0,
     "DamageType": "Bludgeoning:Slashing",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Gore",
@@ -2561,7 +2899,9 @@
     "Weight": 0,
     "DamageType": "Piercing",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Hoof",
@@ -2575,7 +2915,9 @@
     "Weight": 0,
     "DamageType": "Bludgeoning",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Wing",
@@ -2589,7 +2931,9 @@
     "Weight": 0,
     "DamageType": "Bludgeoning",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pincer",
@@ -2603,7 +2947,9 @@
     "Weight": 0,
     "DamageType": "Bludgeoning",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Tail Slap",
@@ -2617,7 +2963,9 @@
     "Weight": 0,
     "DamageType": "Bludgeoning",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Slam",
@@ -2631,7 +2979,9 @@
     "Weight": 0,
     "DamageType": "Bludgeoning",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sting",
@@ -2645,7 +2995,9 @@
     "Weight": 0,
     "DamageType": "Piercing",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Talon",
@@ -2659,7 +3011,9 @@
     "Weight": 0,
     "DamageType": "Bludgeoning:Piercing:Slashing",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shortspear",
@@ -2674,7 +3028,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "OnehandedWeapon"
+    "ItemType": "OnehandedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Longspear",
@@ -2689,7 +3045,9 @@
     "Source": "CRB",
     "Category": "Simple",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace:Reach"
+    "Action": "Brace:Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Javelin",
@@ -2704,7 +3062,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Trident",
@@ -2720,7 +3080,9 @@
     "Source": "CRB",
     "Category": "Martial",
     "ItemType": "OnehandedWeapon",
-    "Action": "Brace"
+    "Action": "Brace",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pilum",
@@ -2736,7 +3098,9 @@
     "Source": "APG",
     "Category": "Martial",
     "ItemType": "RangedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Harpoon",
@@ -2752,7 +3116,9 @@
     "Source": "PoIS",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Grapple"
+    "Action": "Grapple",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Ray",
@@ -2767,7 +3133,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Boarding Pike",
@@ -2782,7 +3150,9 @@
     "Source": "PoIS",
     "Category": "Simple",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace:Reach"
+    "Action": "Brace:Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Spear, Boar",
@@ -2797,7 +3167,9 @@
     "Source": "APG",
     "Category": "Simple",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace"
+    "Action": "Brace",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Spear, Syringe",
@@ -2813,7 +3185,9 @@
     "Source": "AA",
     "Category": "Martial",
     "ItemType": "TwohandedWeapon",
-    "Action": "Brace"
+    "Action": "Brace",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Spear, Totem",
@@ -2829,7 +3203,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Alchemist Bomb",
@@ -2843,7 +3219,9 @@
     "Weight": 16,
     "DamageType": "Fire",
     "Source": "CRB",
-    "Category": "Simple"
+    "Category": "Simple",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Blowgun",
@@ -2858,7 +3236,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sling",
@@ -2873,7 +3253,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Stingchuck",
@@ -2889,7 +3271,9 @@
     "Source": "AA",
     "Category": "Simple",
     "ItemType": "RangedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Axe, Throwing",
@@ -2904,7 +3288,9 @@
     "DamageType": "Slashing",
     "Source": "CRB",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Dart, Jolting",
@@ -2920,7 +3306,9 @@
     "Source": "ARG",
     "Category": "Martial",
     "ItemType": "RangedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bola",
@@ -2936,7 +3324,9 @@
     "Source": "CRB",
     "Category": "Exotic",
     "ItemType": "RangedWeapon",
-    "Action": "Nonlethal:Trip"
+    "Action": "Nonlethal:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bola, Shoanti",
@@ -2952,7 +3342,9 @@
     "Source": "ISWG",
     "Category": "Exotic",
     "ItemType": "RangedWeapon",
-    "Action": "Trip"
+    "Action": "Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Boomerang",
@@ -2967,7 +3359,9 @@
     "DamageType": "Bludgeoning",
     "Source": "APG",
     "Category": "Exotic",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Flask Thrower",
@@ -2983,7 +3377,9 @@
     "Source": "GoG",
     "Category": "Exotic",
     "ItemType": "RangedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Lasso",
@@ -2998,7 +3394,9 @@
     "Source": "APG",
     "Category": "Exotic",
     "ItemType": "RangedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shield, Throwing",
@@ -3014,7 +3412,9 @@
     "Source": "UC",
     "Category": "Exotic",
     "ItemType": "RangedWeapon",
-    "Action": "Performance:Trip"
+    "Action": "Performance:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Shrillshaft Javelin",
@@ -3030,7 +3430,9 @@
     "Source": "GoG",
     "Category": "Exotic",
     "ItemType": "RangedWeapon",
-    "Action": "See Text"
+    "Action": "See Text",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sling, Double",
@@ -3046,7 +3448,9 @@
     "Source": "HoG",
     "Category": "Exotic",
     "ItemType": "RangedWeapon",
-    "Action": "Double"
+    "Action": "Double",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sling Glove",
@@ -3061,7 +3465,9 @@
     "DamageType": "Bludgeoning",
     "Source": "AA",
     "Category": "Exotic",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sling Staff, Halfling",
@@ -3076,7 +3482,9 @@
     "DamageType": "Bludgeoning",
     "Source": "CRB",
     "Category": "Exotic",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Sling, Stitched",
@@ -3091,7 +3499,9 @@
     "Source": "HoG",
     "Category": "Exotic",
     "ItemType": "RangedWeapon",
-    "Action": "Disarm:Trip"
+    "Action": "Disarm:Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Kobold Tail Attachment, Long Lash",
@@ -3106,7 +3516,9 @@
     "Source": "ARG",
     "Category": "Martial",
     "ItemType": "LightWeapon",
-    "Action": "Reach"
+    "Action": "Reach",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Kobold Tail Attachment, Pounder",
@@ -3120,7 +3532,9 @@
     "DamageType": "Bludgeoning",
     "Source": "ARG",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Kobold Tail Attachment, Razored",
@@ -3134,7 +3548,9 @@
     "DamageType": "Slashing",
     "Source": "ARG",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Kobold Tail Attachment, Spiked",
@@ -3148,7 +3564,9 @@
     "DamageType": "Piercing",
     "Source": "ARG",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Kobold Tail Attachment, Sweeper",
@@ -3163,7 +3581,9 @@
     "Source": "ARG",
     "Category": "Martial",
     "ItemType": "LightWeapon",
-    "Action": "Trip"
+    "Action": "Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Ratfolk Tailblade",
@@ -3177,7 +3597,9 @@
     "DamageType": "Slashing",
     "Source": "ARG",
     "Category": "Martial",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Katar, Tri-Bladed",
@@ -3191,7 +3613,9 @@
     "DamageType": "Piercing",
     "Source": "PCS",
     "Category": "Exotic",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Flindbar",
@@ -3206,7 +3630,9 @@
     "Source": "CMR",
     "Category": "Exotic",
     "ItemType": "OnehandedWeapon",
-    "Action": "Disarm"
+    "Action": "Disarm",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Battle Ladder",
@@ -3221,7 +3647,9 @@
     "Source": "GoG",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Trip"
+    "Action": "Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Net, Snag",
@@ -3236,7 +3664,9 @@
     "Source": "ARG",
     "Category": "Exotic",
     "ItemType": "TwohandedWeapon",
-    "Action": "Trip"
+    "Action": "Trip",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bow, Thorn",
@@ -3251,7 +3681,9 @@
     "DamageType": "Piercing",
     "Source": "AA",
     "Category": "Exotic",
-    "ItemType": "RangedWeapon"
+    "ItemType": "RangedWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Grappling Hook",
@@ -3267,7 +3699,9 @@
     "Source": "PoIS",
     "Category": "Exotic",
     "ItemType": "RangedWeapon",
-    "Action": "Grapple"
+    "Action": "Grapple",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Generic",
@@ -3282,6 +3716,8 @@
     "DamageType": "Slashing:Piercing:Bludgeoning",
     "Source": "CRB",
     "Category": "Simple",
-    "ItemType": "LightWeapon"
+    "ItemType": "LightWeapon",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   }
 ]

@@ -1,0 +1,1317 @@
+{
+  "generatedAt": "2026-05-21T03:13:52.879Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/weapon.json",
+  "markdownCoverage": 218,
+  "totalRecords": 218,
+  "records": [
+    {
+      "name": "Ammentum",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "UC"
+    },
+    {
+      "name": "Axe, Boarding",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "PoIS"
+    },
+    {
+      "name": "Handaxe",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Pick, Light",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Battleaxe",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Pick, Heavy",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Bardiche",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "APG"
+    },
+    {
+      "name": "Greataxe",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Horsechopper",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ARG"
+    },
+    {
+      "name": "Pickaxe",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "AP14"
+    },
+    {
+      "name": "Axe, Knuckle",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Barbazu Beard",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "Cheliax"
+    },
+    {
+      "name": "Maulaxe, Dwarven",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "AA"
+    },
+    {
+      "name": "Axe, Hooked",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Waraxe, Dwarven",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Waraxe, Dwarven Double",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "ARG"
+    },
+    {
+      "name": "Axe, Orc Double",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Longaxe, Dwarven",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "ARG"
+    },
+    {
+      "name": "Urgrosh, Dwarven",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Longbow",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Longbow, Composite",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Shortbow",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Shortbow, Composite",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Gauntlet",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Unarmed Strike",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Brass Knuckles",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "AA / APG"
+    },
+    {
+      "name": "Cestus",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "APG"
+    },
+    {
+      "name": "Dagger, Punching",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Gauntlet, Spiked",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Wooden Stake",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "APG"
+    },
+    {
+      "name": "Club",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Dart",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Sap",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Shield, Light",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Spiked Armor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Spiked Shield, Light",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Shield, Heavy",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Spiked Shield, Heavy",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Helmet, Dwarven Boulder",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "ARG"
+    },
+    {
+      "name": "Rope Gauntlet",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "AA"
+    },
+    {
+      "name": "Thorn Bracer",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "PCS"
+    },
+    {
+      "name": "Garrote",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "AA"
+    },
+    {
+      "name": "Scarf, Bladed",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "ISWG"
+    },
+    {
+      "name": "Unarmed",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Crossbow, Heavy",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Crossbow, Heavy (Underwater)",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "ARG"
+    },
+    {
+      "name": "Crossbow, Light",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Crossbow, Light (Underwater)",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "ARG"
+    },
+    {
+      "name": "Crossbow, Double",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "APG"
+    },
+    {
+      "name": "Crossbow, Hand",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Crossbow, Launching",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "AA"
+    },
+    {
+      "name": "Crossbow, Repeating Heavy",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Crossbow, Repeating",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Quarterstaff",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Spear",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Buckler gun",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Pepperbox",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Pistol",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Pistol, coat",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Pistol, dagger",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Pistol, double-barreled",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Pistol, dragon",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Pistol, sword cane",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Blunpriaderbuss",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Culverin",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Double hackbut",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Fire lance",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Musket",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Musket, axe",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Musket, double-barreled",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Musket, warhammer",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": null
+    },
+    {
+      "name": "Revolver",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Rifle",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Rifle, pepperbox",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Shotgun",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Shotgun, double-barreled",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Morningstar",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Cat-O'-Nine-Tails",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "PoIS"
+    },
+    {
+      "name": "Flail",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Flail, Heavy",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Battle Poi",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "AA"
+    },
+    {
+      "name": "Nunchaku",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Whip, Scorpion",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Whip",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Chain, Spiked",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Flail, Dire",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Flailpole",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "GoG"
+    },
+    {
+      "name": "Flying Blade",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Battle Aspergillum",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "APG"
+    },
+    {
+      "name": "Hook Hand",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "PoIS"
+    },
+    {
+      "name": "Mace, Light",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Club, Mere",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "AA"
+    },
+    {
+      "name": "Combat Scabbard",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "AA"
+    },
+    {
+      "name": "Mace, Heavy",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Hammer, Light",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Warhammer",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Bec De Corbin",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "APG"
+    },
+    {
+      "name": "Bill",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "APG"
+    },
+    {
+      "name": "Earth Breaker",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ISWG"
+    },
+    {
+      "name": "Glaive",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Glaive-Guisarme",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "APG"
+    },
+    {
+      "name": "Greatclub",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Guisarme",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Halberd",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Hammer, Lucerne",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "APG"
+    },
+    {
+      "name": "Lance",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Ogre Hook",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ISWG"
+    },
+    {
+      "name": "Ranseur",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Aklys",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Boarding Gaff",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "PoIS"
+    },
+    {
+      "name": "Dorn Dergar, Dwarven",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "DoG"
+    },
+    {
+      "name": "Hammer, Gnome Hooked",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Longhammer, Dwarven",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "ARG"
+    },
+    {
+      "name": "Mancatcher",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "APG"
+    },
+    {
+      "name": "Piston Maul",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "GoG"
+    },
+    {
+      "name": "Klar",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ISWG"
+    },
+    {
+      "name": "Longsword",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Scimitar",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Terbutje",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "AA"
+    },
+    {
+      "name": "Terbutje, Steel",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "AA"
+    },
+    {
+      "name": "Falchion",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Greatsword",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Scythe",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Chakram",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "APG"
+    },
+    {
+      "name": "Falcata",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "APG"
+    },
+    {
+      "name": "Khopesh",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "APG"
+    },
+    {
+      "name": "Shotel",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Sword, Bastard",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Curve Blade, Elven",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Fauchard",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CHR"
+    },
+    {
+      "name": "Flambard",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "AA"
+    },
+    {
+      "name": "Ripsaw Glaive",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "GoG"
+    },
+    {
+      "name": "Sword, Two-Bladed",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Brass Knife",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "PoIS"
+    },
+    {
+      "name": "Dagger",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Sickle",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Pommel Swipe",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Bayonet",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "APG"
+    },
+    {
+      "name": "Blade Boot",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "AA"
+    },
+    {
+      "name": "Dogslicer",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ARG"
+    },
+    {
+      "name": "Gladius",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "UC"
+    },
+    {
+      "name": "Knife, Switchblade",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "AA"
+    },
+    {
+      "name": "Kukri",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Sea-Knife",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ARG"
+    },
+    {
+      "name": "Starknife",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Sword, Short",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "War Razor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ISWG"
+    },
+    {
+      "name": "Cutlass",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "PoIS"
+    },
+    {
+      "name": "Rapier",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Scabbard, Combat (Sharpened)",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "AA"
+    },
+    {
+      "name": "Scizore",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "UC"
+    },
+    {
+      "name": "Sword Cane",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "APG"
+    },
+    {
+      "name": "Hunga Munga",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "AA"
+    },
+    {
+      "name": "Dagger, Swordbreaker",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "APG"
+    },
+    {
+      "name": "Kama",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Knife, Butterfly",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "AA"
+    },
+    {
+      "name": "Quadrens",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Sica",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Rhoka",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "AA"
+    },
+    {
+      "name": "Sabre, Sawtooth",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "ISWG"
+    },
+    {
+      "name": "Sword, Aldori Dueling",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "ISWG"
+    },
+    {
+      "name": "Net",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Sai",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Siangham",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Shuriken",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "UC"
+    },
+    {
+      "name": "Flying Talon",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "D1"
+    },
+    {
+      "name": "Tentacle",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "NA"
+    },
+    {
+      "name": "Bite",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": null
+    },
+    {
+      "name": "Claw",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": null
+    },
+    {
+      "name": "Gore",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": null
+    },
+    {
+      "name": "Hoof",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": null
+    },
+    {
+      "name": "Wing",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": null
+    },
+    {
+      "name": "Pincer",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": null
+    },
+    {
+      "name": "Tail Slap",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": null
+    },
+    {
+      "name": "Slam",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": null
+    },
+    {
+      "name": "Sting",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": null
+    },
+    {
+      "name": "Talon",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": null
+    },
+    {
+      "name": "Shortspear",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Longspear",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Javelin",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Trident",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Pilum",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "APG"
+    },
+    {
+      "name": "Harpoon",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "PoIS"
+    },
+    {
+      "name": "Ray",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Boarding Pike",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "PoIS"
+    },
+    {
+      "name": "Spear, Boar",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "APG"
+    },
+    {
+      "name": "Spear, Syringe",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "AA"
+    },
+    {
+      "name": "Spear, Totem",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Alchemist Bomb",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Blowgun",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Sling",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    },
+    {
+      "name": "Stingchuck",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "AA"
+    },
+    {
+      "name": "Axe, Throwing",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "CRB"
+    },
+    {
+      "name": "Dart, Jolting",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ARG"
+    },
+    {
+      "name": "Bola",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Bola, Shoanti",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "ISWG"
+    },
+    {
+      "name": "Boomerang",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "APG"
+    },
+    {
+      "name": "Flask Thrower",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "GoG"
+    },
+    {
+      "name": "Lasso",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "APG"
+    },
+    {
+      "name": "Shield, Throwing",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "UC"
+    },
+    {
+      "name": "Shrillshaft Javelin",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "GoG"
+    },
+    {
+      "name": "Sling, Double",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "HoG"
+    },
+    {
+      "name": "Sling Glove",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "AA"
+    },
+    {
+      "name": "Sling Staff, Halfling",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CRB"
+    },
+    {
+      "name": "Sling, Stitched",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "HoG"
+    },
+    {
+      "name": "Kobold Tail Attachment, Long Lash",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ARG"
+    },
+    {
+      "name": "Kobold Tail Attachment, Pounder",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ARG"
+    },
+    {
+      "name": "Kobold Tail Attachment, Razored",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ARG"
+    },
+    {
+      "name": "Kobold Tail Attachment, Spiked",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ARG"
+    },
+    {
+      "name": "Kobold Tail Attachment, Sweeper",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ARG"
+    },
+    {
+      "name": "Ratfolk Tailblade",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Martial",
+      "source": "ARG"
+    },
+    {
+      "name": "Katar, Tri-Bladed",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "PCS"
+    },
+    {
+      "name": "Flindbar",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "CMR"
+    },
+    {
+      "name": "Battle Ladder",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "GoG"
+    },
+    {
+      "name": "Net, Snag",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "ARG"
+    },
+    {
+      "name": "Bow, Thorn",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "AA"
+    },
+    {
+      "name": "Grappling Hook",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Exotic",
+      "source": "PoIS"
+    },
+    {
+      "name": "Generic",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": "Simple",
+      "source": "CRB"
+    }
+  ]
+}

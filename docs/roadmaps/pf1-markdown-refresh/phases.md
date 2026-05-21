@@ -71,10 +71,14 @@ Current scope:
 
 ## Phase 7: Additional Enrichment
 
-- [ ] Enrich `weapon.json`, `weaponfeature.json`, `ammo.json`, `specificWeapon.json`
-- [ ] Enrich `armor.json`, `armorFeatures.json`, `specificArmor.json`
-- [ ] Enrich `mundane.json`, `magicItems.json`
-- [ ] Enrich `feats.json`, `classAbility.json`, `classAbility.UnchainedMonk.json`
+- [x] Enrich `weapon.json`
+- [ ] Enrich `weaponfeature.json`, `ammo.json`, `specificWeapon.json`
+- [x] Enrich `armor.json`
+- [ ] Enrich `armorFeatures.json`, `specificArmor.json`
+- [x] Enrich `mundane.json`
+- [x] Enrich `magicItems.json`
+- [x] Enrich `feats.json`
+- [ ] Enrich `classAbility.json`, `classAbility.UnchainedMonk.json`
 - [x] Enrich `race.json`
 - [x] Enrich `racialtrait.json`
 - [x] Enrich `traits.json`

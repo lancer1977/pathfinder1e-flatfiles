@@ -11,7 +11,9 @@
     "Weight": 160,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "AA"
+    "Source": "AA",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Padded",
@@ -25,7 +27,9 @@
     "Weight": 160,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Quilted Cloth",
@@ -39,7 +43,9 @@
     "Weight": 240,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "APG"
+    "Source": "APG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Leather",
@@ -53,7 +59,9 @@
     "Weight": 240,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Rosewood Armor",
@@ -67,7 +75,9 @@
     "Weight": 240,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "AA"
+    "Source": "AA",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Leaf Armor",
@@ -81,7 +91,9 @@
     "Weight": 320,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "ISWG"
+    "Source": "ISWG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Parade Armor",
@@ -95,7 +107,9 @@
     "Weight": 320,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "AA"
+    "Source": "AA",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Studded Leather",
@@ -109,7 +123,9 @@
     "Weight": 320,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Wooden",
@@ -123,7 +139,9 @@
     "Weight": 400,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "APG"
+    "Source": "APG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Chain Shirt",
@@ -137,7 +155,9 @@
     "Weight": 400,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Hide Shirt",
@@ -151,7 +171,9 @@
     "Weight": 400,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "AA"
+    "Source": "AA",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Armored Coat",
@@ -165,7 +187,9 @@
     "Weight": 320,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "APG"
+    "Source": "APG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Hide",
@@ -179,7 +203,9 @@
     "Weight": 400,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Scale Mail",
@@ -193,7 +219,9 @@
     "Weight": 480,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Chainmail",
@@ -207,7 +235,9 @@
     "Weight": 640,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Breastplate",
@@ -221,7 +251,9 @@
     "Weight": 480,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Breastplate (Agile)",
@@ -235,7 +267,9 @@
     "Weight": 400,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "APG"
+    "Source": "APG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Splint Mail",
@@ -249,7 +283,9 @@
     "Weight": 720,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Banded Mail",
@@ -263,7 +299,9 @@
     "Weight": 560,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Field Plate",
@@ -277,7 +315,9 @@
     "Weight": 800,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "ISWG"
+    "Source": "ISWG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Half-Plate",
@@ -291,7 +331,9 @@
     "Weight": 800,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Half-Plate (Agile)",
@@ -305,7 +347,9 @@
     "Weight": 880,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "APG"
+    "Source": "APG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Full Plate",
@@ -319,7 +363,9 @@
     "Weight": 800,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Hellknight Plate",
@@ -333,7 +379,9 @@
     "Weight": 800,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "ISWG"
+    "Source": "ISWG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Stoneplate",
@@ -347,7 +395,9 @@
     "Weight": 1200,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "ISWG"
+    "Source": "ISWG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "No Armor",
@@ -361,7 +411,9 @@
     "Weight": 0,
     "Category": "None",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Mage Armor",
@@ -375,7 +427,9 @@
     "Weight": 0,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Haramaki",
@@ -389,7 +443,9 @@
     "Weight": 0,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Silken Ceremonial Armor",
@@ -403,7 +459,9 @@
     "Weight": 0,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Lamellar Cuirass",
@@ -417,7 +475,9 @@
     "Weight": 0,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Leather Lamellar",
@@ -431,7 +491,9 @@
     "Weight": 0,
     "Category": "Light",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Do-Maru",
@@ -445,7 +507,9 @@
     "Weight": 0,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Kikko Armor",
@@ -459,7 +523,9 @@
     "Weight": 0,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Horn Lamellar",
@@ -473,7 +539,9 @@
     "Weight": 0,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Four Mirror Armor",
@@ -487,7 +555,9 @@
     "Weight": 0,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Steel Lamellar",
@@ -501,7 +571,9 @@
     "Weight": 0,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Mountain Pattern Armor",
@@ -515,7 +587,9 @@
     "Weight": 0,
     "Category": "Medium",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Kusari Gusoku",
@@ -529,7 +603,9 @@
     "Weight": 0,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Iron Lamellar",
@@ -543,7 +619,9 @@
     "Weight": 0,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Tatami-Do",
@@ -557,7 +635,9 @@
     "Weight": 0,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Oyoroi",
@@ -571,7 +651,9 @@
     "Weight": 0,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Stone Coat",
@@ -585,7 +667,9 @@
     "Weight": 0,
     "Category": "Heavy",
     "ItemType": "Armor",
-    "Source": "UC"
+    "Source": "UC",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "No Shield",
@@ -599,7 +683,9 @@
     "Weight": 0,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Buckler",
@@ -613,7 +699,9 @@
     "Weight": 80,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Klar",
@@ -627,7 +715,9 @@
     "Weight": 96,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "ISWG"
+    "Source": "ISWG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Madu, Leather",
@@ -641,7 +731,9 @@
     "Weight": 80,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "AA"
+    "Source": "AA",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Madu, Steel",
@@ -655,7 +747,9 @@
     "Weight": 96,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "AA"
+    "Source": "AA",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Shield, Light Wooden",
@@ -669,7 +763,9 @@
     "Weight": 80,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Shield, Light Wooden (Quickdraw)",
@@ -683,7 +779,9 @@
     "Weight": 96,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "APG"
+    "Source": "APG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Shield, Light Steel",
@@ -697,7 +795,9 @@
     "Weight": 96,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Shield, Light Steel (Quickdraw)",
@@ -711,7 +811,9 @@
     "Weight": 112,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "APG"
+    "Source": "APG",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Shield, Heavy Wooden",
@@ -725,7 +827,9 @@
     "Weight": 160,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Shield, Heavy Steel",
@@ -739,7 +843,9 @@
     "Weight": 240,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   },
   {
     "Name": "Shield, Tower",
@@ -753,6 +859,8 @@
     "Weight": 720,
     "Category": "Shield",
     "ItemType": "Shield",
-    "Source": "CRB"
+    "Source": "CRB",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+    "MarkdownTitle": "Armor"
   }
 ]

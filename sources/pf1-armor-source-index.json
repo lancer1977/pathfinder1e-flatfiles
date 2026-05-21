@@ -1,0 +1,333 @@
+{
+  "generatedAt": "2026-05-21T03:13:52.866Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/armor.json",
+  "markdownCoverage": 54,
+  "totalRecords": 54,
+  "records": [
+    {
+      "name": "Armored Kilt",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "AA"
+    },
+    {
+      "name": "Padded",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "CRB"
+    },
+    {
+      "name": "Quilted Cloth",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "APG"
+    },
+    {
+      "name": "Leather",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "CRB"
+    },
+    {
+      "name": "Rosewood Armor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "AA"
+    },
+    {
+      "name": "Leaf Armor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "ISWG"
+    },
+    {
+      "name": "Parade Armor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "AA"
+    },
+    {
+      "name": "Studded Leather",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "CRB"
+    },
+    {
+      "name": "Wooden",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "APG"
+    },
+    {
+      "name": "Chain Shirt",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "CRB"
+    },
+    {
+      "name": "Hide Shirt",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "AA"
+    },
+    {
+      "name": "Armored Coat",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "APG"
+    },
+    {
+      "name": "Hide",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "CRB"
+    },
+    {
+      "name": "Scale Mail",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "CRB"
+    },
+    {
+      "name": "Chainmail",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "CRB"
+    },
+    {
+      "name": "Breastplate",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "CRB"
+    },
+    {
+      "name": "Breastplate (Agile)",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "APG"
+    },
+    {
+      "name": "Splint Mail",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "CRB"
+    },
+    {
+      "name": "Banded Mail",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "CRB"
+    },
+    {
+      "name": "Field Plate",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "ISWG"
+    },
+    {
+      "name": "Half-Plate",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "CRB"
+    },
+    {
+      "name": "Half-Plate (Agile)",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "APG"
+    },
+    {
+      "name": "Full Plate",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "CRB"
+    },
+    {
+      "name": "Hellknight Plate",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "ISWG"
+    },
+    {
+      "name": "Stoneplate",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "ISWG"
+    },
+    {
+      "name": "No Armor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "None",
+      "source": "CRB"
+    },
+    {
+      "name": "Mage Armor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "CRB"
+    },
+    {
+      "name": "Haramaki",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "UC"
+    },
+    {
+      "name": "Silken Ceremonial Armor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "UC"
+    },
+    {
+      "name": "Lamellar Cuirass",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "UC"
+    },
+    {
+      "name": "Leather Lamellar",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Light",
+      "source": "UC"
+    },
+    {
+      "name": "Do-Maru",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "UC"
+    },
+    {
+      "name": "Kikko Armor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "UC"
+    },
+    {
+      "name": "Horn Lamellar",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "UC"
+    },
+    {
+      "name": "Four Mirror Armor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "UC"
+    },
+    {
+      "name": "Steel Lamellar",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "UC"
+    },
+    {
+      "name": "Mountain Pattern Armor",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Medium",
+      "source": "UC"
+    },
+    {
+      "name": "Kusari Gusoku",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "UC"
+    },
+    {
+      "name": "Iron Lamellar",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "UC"
+    },
+    {
+      "name": "Tatami-Do",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "UC"
+    },
+    {
+      "name": "Oyoroi",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "UC"
+    },
+    {
+      "name": "Stone Coat",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Heavy",
+      "source": "UC"
+    },
+    {
+      "name": "No Shield",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "CRB"
+    },
+    {
+      "name": "Buckler",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "CRB"
+    },
+    {
+      "name": "Klar",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "ISWG"
+    },
+    {
+      "name": "Madu, Leather",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "AA"
+    },
+    {
+      "name": "Madu, Steel",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "AA"
+    },
+    {
+      "name": "Shield, Light Wooden",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "CRB"
+    },
+    {
+      "name": "Shield, Light Wooden (Quickdraw)",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "APG"
+    },
+    {
+      "name": "Shield, Light Steel",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "CRB"
+    },
+    {
+      "name": "Shield, Light Steel (Quickdraw)",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "APG"
+    },
+    {
+      "name": "Shield, Heavy Wooden",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "CRB"
+    },
+    {
+      "name": "Shield, Heavy Steel",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "CRB"
+    },
+    {
+      "name": "Shield, Tower",
+      "markdownPath": "ultimateEquipment/armsAndArmor/armor.md",
+      "category": "Shield",
+      "source": "CRB"
+    }
+  ]
+}

@@ -1,0 +1,1671 @@
+{
+  "generatedAt": "2026-05-21T03:13:52.878Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/mundane.json",
+  "markdownCoverage": 277,
+  "totalRecords": 277,
+  "records": [
+    {
+      "name": "Fishhook",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Hunting",
+      "source": "UE"
+    },
+    {
+      "name": "Net, bell",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Hunting",
+      "source": "UE"
+    },
+    {
+      "name": "Net, butterfly",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Hunting",
+      "source": "UE"
+    },
+    {
+      "name": "Netting, camouflage",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Hunting",
+      "source": "UE"
+    },
+    {
+      "name": "Net, fishing",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Hunting",
+      "source": "UE"
+    },
+    {
+      "name": "Scent cloak",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Hunting",
+      "source": "AA"
+    },
+    {
+      "name": "Trap, bear",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Hunting",
+      "source": "AA"
+    },
+    {
+      "name": "Bathtub, collapsible",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Comfort",
+      "source": "UE"
+    },
+    {
+      "name": "Bedroll",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Comfort",
+      "source": "UE"
+    },
+    {
+      "name": "Blanket",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Comfort",
+      "source": "UE"
+    },
+    {
+      "name": "Chair, folding",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Comfort",
+      "source": "UE"
+    },
+    {
+      "name": "Cot",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Comfort",
+      "source": "UE"
+    },
+    {
+      "name": "Hammock",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Comfort",
+      "source": "UE"
+    },
+    {
+      "name": "Soap",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Comfort",
+      "source": "UE"
+    },
+    {
+      "name": "Tent, small",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Shelter",
+      "source": "UE"
+    },
+    {
+      "name": "Tent, medium",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Shelter",
+      "source": "UE"
+    },
+    {
+      "name": "Tent, large",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Shelter",
+      "source": "UE"
+    },
+    {
+      "name": "Tent, pavilion",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Shelter",
+      "source": "UE"
+    },
+    {
+      "name": "Tent, hanging",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Shelter",
+      "source": "ARG"
+    },
+    {
+      "name": "Air bladder",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Animal glue",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Bell",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "CRB"
+    },
+    {
+      "name": "Buoy, common",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "CRB"
+    },
+    {
+      "name": "Buoy, superior",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "CRB"
+    },
+    {
+      "name": "Compass",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Heatstone",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "ISWG"
+    },
+    {
+      "name": "Map",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Mirror, small steel",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "CRB"
+    },
+    {
+      "name": "Rope, hemp (50 ft.)",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Rope, silk (50 ft.)",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Rope, spider's silk (50 ft.)",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Star Charts",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "ARG"
+    },
+    {
+      "name": "String or twine (50 ft.)",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Horn, powder",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Horn, signal",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Whistle, signal",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Whistle, silent",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Outdoors Gear",
+      "source": "UE"
+    },
+    {
+      "name": "Candle",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Candle, helmet",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Candle, insectbane",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "??"
+    },
+    {
+      "name": "Candle lamp",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Candlestick",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Darkflare",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "Faction Guide"
+    },
+    {
+      "name": "Firewood (per day)",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Lamp",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Lamp, celestial",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "ARG"
+    },
+    {
+      "name": "Lantern, bullseye",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Lantern, darklight",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "ARG"
+    },
+    {
+      "name": "Lantern, hooded",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Lantern, miner's",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "PSFG"
+    },
+    {
+      "name": "Lantern, waterproof",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Moonrod",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "ARG"
+    },
+    {
+      "name": "Sunrod",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "CRB"
+    },
+    {
+      "name": "Thurible",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Torch",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Torch, everburning",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Illumination",
+      "source": "UE"
+    },
+    {
+      "name": "Absinthe",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Ale",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "CRB"
+    },
+    {
+      "name": "Ale",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "CRB"
+    },
+    {
+      "name": "Ale, Dwarven Stout",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "AA"
+    },
+    {
+      "name": "Ale, Luglurch",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "HoG"
+    },
+    {
+      "name": "Ale, Luglurch",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "HoG"
+    },
+    {
+      "name": "Applejack",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Applejack",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Baijiu",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Bufo",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Cauim",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Godsbrew",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "AA"
+    },
+    {
+      "name": "Grog",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "AA/PoIS"
+    },
+    {
+      "name": "Kumis",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Mead",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Mead",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Mead, linnorm",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "AA"
+    },
+    {
+      "name": "Pulque",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Rumboozle",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Tepache",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Whiskey, Dragon Punch",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "HoG"
+    },
+    {
+      "name": "Whiskey, Oldlaw",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "AA"
+    },
+    {
+      "name": "Wine common",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "CRB"
+    },
+    {
+      "name": "Wine fine",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "CRB"
+    },
+    {
+      "name": "Wine, sealord",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Coffee, common",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "AA"
+    },
+    {
+      "name": "Coffee, exotic",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Kahve",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Milk",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Milk, powdered",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Tea",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "UE"
+    },
+    {
+      "name": "Tea, ceremonial",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "AA"
+    },
+    {
+      "name": "Tonic, medicinal",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Beverage",
+      "source": "HoG"
+    },
+    {
+      "name": "Bread",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "CRB"
+    },
+    {
+      "name": "Caviar",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Cheese",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Chocolate",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Fortune cookie",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Haggis",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Honey",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Ice cream",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Maple syrup",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Meal, banquet",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "CRB"
+    },
+    {
+      "name": "Meal, good",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "CRB"
+    },
+    {
+      "name": "Meal, common",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "CRB"
+    },
+    {
+      "name": "Meal, poor",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "CRB"
+    },
+    {
+      "name": "Meat",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "CRB"
+    },
+    {
+      "name": "Meat, street",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Rations, trail",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Rations, Dwarven trail",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Rations, Elven trail",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Rations, Gnome trail",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Rations, Halfling trail",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Rations, Orc trail",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Rations, Wandermeal (per serving)",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "AA"
+    },
+    {
+      "name": "Travel cake mix",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Yogurt",
+      "markdownPath": "ultimateEquipment/gear/foodAndDrink.md",
+      "category": "Food",
+      "source": "UE"
+    },
+    {
+      "name": "Outfit, Artisan's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Outfit, Cold-Weather",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Outfit, Courtier's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Outfit, Dilettante's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "ARG"
+    },
+    {
+      "name": "Outfit, Doctor's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "AA"
+    },
+    {
+      "name": "Outfit, Entertainer's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Outfit, Explorer's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Outfit, Hot Weather",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "APG"
+    },
+    {
+      "name": "Outfit, Monk's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Outfit, Noble's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Outfit, Peasant's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Outfit, Pickpocket's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "AA"
+    },
+    {
+      "name": "Outfit, Royal",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Outfit, Scholar's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Soldier's uniform",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "UE"
+    },
+    {
+      "name": "Suit, diving",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "UE"
+    },
+    {
+      "name": "Swarmsuit",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Tear-Away Clothing",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "AA"
+    },
+    {
+      "name": "Outfit, Traveler's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Outfit",
+      "source": "CRB"
+    },
+    {
+      "name": "Cleats",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Footwear",
+      "source": "APG"
+    },
+    {
+      "name": "Boots, fire-resistant",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Footwear",
+      "source": "UE"
+    },
+    {
+      "name": "Boots, softpaw",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Footwear",
+      "source": "ARG"
+    },
+    {
+      "name": "Skates, ice",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Footwear",
+      "source": "UE"
+    },
+    {
+      "name": "Skis",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Footwear",
+      "source": "UE"
+    },
+    {
+      "name": "Snowshoes",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Footwear",
+      "source": "APG"
+    },
+    {
+      "name": "Cape, Billow",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "ARG"
+    },
+    {
+      "name": "Eyeglasses",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Face",
+      "source": "AA"
+    },
+    {
+      "name": "Eye patch",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Face",
+      "source": "PoIS"
+    },
+    {
+      "name": "Goggles, Gloom Sight",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Face",
+      "source": "ARG"
+    },
+    {
+      "name": "Goggles, Smoked",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Face",
+      "source": "APG"
+    },
+    {
+      "name": "Hat",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Head",
+      "source": "AA"
+    },
+    {
+      "name": "Mask",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Face",
+      "source": "AA"
+    },
+    {
+      "name": "Mask, Battle",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Face",
+      "source": "ARG"
+    },
+    {
+      "name": "Mask, Doctor's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Face",
+      "source": "AA"
+    },
+    {
+      "name": "Mask, Monster",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Face",
+      "source": "UE"
+    },
+    {
+      "name": "Neck Guard",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Neck",
+      "source": "ARG"
+    },
+    {
+      "name": "Scarf",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Neck",
+      "source": "AA"
+    },
+    {
+      "name": "Scarf, pocketed",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Neck",
+      "source": "AA"
+    },
+    {
+      "name": "Scarf, reinforced",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Neck",
+      "source": "AA"
+    },
+    {
+      "name": "Wig",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Head",
+      "source": "AA"
+    },
+    {
+      "name": "Cloak, Patchwork",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "UE"
+    },
+    {
+      "name": "Cloak, Reversible",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "UE"
+    },
+    {
+      "name": "Cloak, Wing",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "ARG"
+    },
+    {
+      "name": "Furs",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "APG"
+    },
+    {
+      "name": "Kilt",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "UE"
+    },
+    {
+      "name": "Poncho",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "UE"
+    },
+    {
+      "name": "Sash, Adventurer's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "SOS"
+    },
+    {
+      "name": "Tabard",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "UE"
+    },
+    {
+      "name": "Vest",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "AA"
+    },
+    {
+      "name": "Vest, barbed",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "CRB"
+    },
+    {
+      "name": "Vestments, Cleric's",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Bodywear",
+      "source": "CRB"
+    },
+    {
+      "name": "Brooch",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Jewelry",
+      "source": "UE"
+    },
+    {
+      "name": "Caul",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Jewelry",
+      "source": "UE"
+    },
+    {
+      "name": "Decorative trim",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Jewelry",
+      "source": "UE"
+    },
+    {
+      "name": "Jewelry",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Jewelry",
+      "source": "AA"
+    },
+    {
+      "name": "Jewelry, false",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Jewelry",
+      "source": "RotRLPG"
+    },
+    {
+      "name": "Hennin",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Jewelry",
+      "source": "UE"
+    },
+    {
+      "name": "Perfume/Cologne, common",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Perfume",
+      "source": "ISWG"
+    },
+    {
+      "name": "Perfume/Cologne, exotic",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Perfume",
+      "source": "ISWG"
+    },
+    {
+      "name": "Perfume/Cologne, common (1 dose)",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Perfume",
+      "source": "PCS"
+    },
+    {
+      "name": "Perfume/Cologne, rare (1 dose)",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Perfume",
+      "source": "PCS"
+    },
+    {
+      "name": "Perfume/Cologne, exotic (1 dose)",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Perfume",
+      "source": "PCS"
+    },
+    {
+      "name": "Ring, poison pill",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Ring",
+      "source": "AA"
+    },
+    {
+      "name": "Ring, signet",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Ring",
+      "source": "CRB"
+    },
+    {
+      "name": "Watch, pocket",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Watch",
+      "source": "AA"
+    },
+    {
+      "name": "Tattoo",
+      "markdownPath": "ultimateEquipment/gear/clothing.md",
+      "category": "Tatoo",
+      "source": "AA"
+    },
+    {
+      "name": "Backpack, common",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Bag",
+      "source": "UE"
+    },
+    {
+      "name": "Backpack, masterwork",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Bag",
+      "source": "UE"
+    },
+    {
+      "name": "Bag, waterproof",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Bag",
+      "source": "UE"
+    },
+    {
+      "name": "Bandolier",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Pouch",
+      "source": "UE"
+    },
+    {
+      "name": "Pouch, belt",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Pouch",
+      "source": "UE"
+    },
+    {
+      "name": "Pouch, spell components",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Pouch",
+      "source": "CRB"
+    },
+    {
+      "name": "Pouch, war spirit",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Pouch",
+      "source": "ARG"
+    },
+    {
+      "name": "Sack",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Bag",
+      "source": "CRB"
+    },
+    {
+      "name": "Satchel, familiar",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Bag",
+      "source": "UE"
+    },
+    {
+      "name": "Waterskin",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Pouch",
+      "source": "CRB"
+    },
+    {
+      "name": "Barrel",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Barrel",
+      "source": "UE"
+    },
+    {
+      "name": "Basket",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Barrel",
+      "source": "UE"
+    },
+    {
+      "name": "Bottle",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Bottle",
+      "source": "UE"
+    },
+    {
+      "name": "Box, scroll",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Box",
+      "source": "UE"
+    },
+    {
+      "name": "Bucket",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Barrel",
+      "source": "UE"
+    },
+    {
+      "name": "Canteen",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Pouch",
+      "source": "UE"
+    },
+    {
+      "name": "Case, scroll",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Box",
+      "source": "UE"
+    },
+    {
+      "name": "Cauldron",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Barrel",
+      "source": "UE"
+    },
+    {
+      "name": "Cauldron, mithral",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Barrel",
+      "source": "UE"
+    },
+    {
+      "name": "Chest, Small / Small treasure chest",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Chest",
+      "source": "AA/PoIS"
+    },
+    {
+      "name": "Chest, Medium / Medium treasure chest",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Chest",
+      "source": "CRB/PoIS"
+    },
+    {
+      "name": "Chest, Large / Large treasure chest",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Chest",
+      "source": "CRB/PoIS"
+    },
+    {
+      "name": "Chest, Huge / Huge treasure chest",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Chest",
+      "source": "CRB/PoIS"
+    },
+    {
+      "name": "Chest, false bottomed",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Chest",
+      "source": "AA"
+    },
+    {
+      "name": "Coffee pot",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Pot",
+      "source": "UE"
+    },
+    {
+      "name": "Coffin, common",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Box",
+      "source": "UE"
+    },
+    {
+      "name": "Coffin, ornate",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Box",
+      "source": "UE"
+    },
+    {
+      "name": "Cup",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Cup",
+      "source": "AA"
+    },
+    {
+      "name": "Cup, false bottomed",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Cup",
+      "source": "UE"
+    },
+    {
+      "name": "Flask",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Flask",
+      "source": "UE"
+    },
+    {
+      "name": "Flask, hip",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Flask",
+      "source": "UE"
+    },
+    {
+      "name": "Jug",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Bottle",
+      "source": "UE"
+    },
+    {
+      "name": "Mug/Tankard, clay",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Cup",
+      "source": "CRB"
+    },
+    {
+      "name": "Pitcher",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Cup",
+      "source": "UE"
+    },
+    {
+      "name": "Pot, iron",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Barrel",
+      "source": "CRB"
+    },
+    {
+      "name": "Potion Sponge",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Sponge",
+      "source": "ARG"
+    },
+    {
+      "name": "Vial (for ink or potions)",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Bottle",
+      "source": "UE"
+    },
+    {
+      "name": "Vial, iron",
+      "markdownPath": "ultimateEquipment/gear/adventuringGear.md",
+      "category": "Bottle",
+      "source": "UE"
+    },
+    {
+      "name": "Altar, Portable",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "AA"
+    },
+    {
+      "name": "Holy symbol, wooden",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "UE"
+    },
+    {
+      "name": "Holy symbol, iron",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "UE"
+    },
+    {
+      "name": "Holy symbol, silver",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "UE"
+    },
+    {
+      "name": "Holy symbol, gold",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "UE"
+    },
+    {
+      "name": "Holy symbol, platinum",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "UE"
+    },
+    {
+      "name": "Holy symbol, compartment",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "UE"
+    },
+    {
+      "name": "Holy symbol, flask",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "UE"
+    },
+    {
+      "name": "Holy symbol, tattoo",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "UE"
+    },
+    {
+      "name": "Holy text",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "UE"
+    },
+    {
+      "name": "Holy/Unholy Water (1 flask)",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "CRB"
+    },
+    {
+      "name": "Samsaran Life Wheel",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "ARG"
+    },
+    {
+      "name": "Talisman, Necrotic",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "PCS"
+    },
+    {
+      "name": "Summoner's Idol",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Religious",
+      "source": "CoCTPG"
+    },
+    {
+      "name": "Authoritative vestments",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Bronze gong",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "FoB"
+    },
+    {
+      "name": "Chains of contrition",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Consecrated weapon",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Driftwood Icon",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "FoB"
+    },
+    {
+      "name": "Hallowed chalice",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Instrument of the divine",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Iron eye",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "FoB"
+    },
+    {
+      "name": "Just scale",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "FoB"
+    },
+    {
+      "name": "Lock of the saved",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Meditation crystal",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Sanctified rings (pair)",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Sanctified shield",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Spiked focus ward",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Stinging whip",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "FoB"
+    },
+    {
+      "name": "Sundered mask",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "FoB"
+    },
+    {
+      "name": "Teaching staff",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "AA"
+    },
+    {
+      "name": "Winged fetish",
+      "markdownPath": "ultimateEquipment/gear/toolsAndSkillKits.md",
+      "category": "Foci",
+      "source": "FoB"
+    },
+    {
+      "name": "Ball (2 in.)",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Toy",
+      "source": "UE"
+    },
+    {
+      "name": "Ball (5 in.)",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Toy",
+      "source": "UE"
+    },
+    {
+      "name": "Ball (10 in.)",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Toy",
+      "source": "UE"
+    },
+    {
+      "name": "Billiards gear",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Board game",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Bowling set",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Cards",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Card",
+      "source": "UE"
+    },
+    {
+      "name": "Cards, marked",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Card",
+      "source": "UE"
+    },
+    {
+      "name": "Cards, fortune-teller's, common",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Card",
+      "source": "APG"
+    },
+    {
+      "name": "Cards, fortune-teller's, quality",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Card",
+      "source": "APG"
+    },
+    {
+      "name": "Cards, fortune-teller's, masterwork",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Card",
+      "source": "APG"
+    },
+    {
+      "name": "Cards, harrow deck",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Card",
+      "source": "AA"
+    },
+    {
+      "name": "Croquet set",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Crossword",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Dartboard set",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Dice",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Dice, loaded, average",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Dice, loaded, superior",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Dominos",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Halfling jugglesticks",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "ARG"
+    },
+    {
+      "name": "Horseshoes game",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Kite",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Toy",
+      "source": "UE"
+    },
+    {
+      "name": "Marbles",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Toy",
+      "source": "APG"
+    },
+    {
+      "name": "Polo gear",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Toy",
+      "source": "UE"
+    },
+    {
+      "name": "Puzzle box",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Rounders gear",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    },
+    {
+      "name": "Shadow stencils",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Toy",
+      "source": "ARG"
+    },
+    {
+      "name": "Tennis gear",
+      "markdownPath": "ultimateEquipment/gear/entertainmentAndTradeGoods.md",
+      "category": "Game",
+      "source": "UE"
+    }
+  ]
+}
