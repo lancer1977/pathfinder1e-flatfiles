@@ -9,12 +9,16 @@
 - [x] Root `DataSeeds/pathfinder1e/*.js` files confirmed as JSON payloads
 - [x] DataSeeds root payload count confirmed at 28 families
 - [x] Raw backup family grouping defined
+- [x] Upstream SRD markdown repository confirmed at `Pathfinder-1E-SRD-Markdown`
+- [x] Upstream SRD overlap confirmed for spells and bestiary records
 
 ## Data
 
 - [x] Export raw PF1e API/DataSeeds backup payloads
 - [x] Organize raw backup payloads by family group
 - [x] Mirror every root DataSeeds PF1 payload as JSON
+- [x] Overlay SRD markdown spell values into `spells.json`
+- [x] Overlay SRD markdown bestiary values into `monster.json`
 - [x] Inventory class markdown sections
 - [x] Inventory skill markdown sections
 - [x] Inventory spell markdown sections
@@ -25,11 +29,13 @@
 
 - [x] Add raw backup export helper
 - [x] Add full DataSeeds sync helper
+- [x] Add upstream SRD markdown update helper
 - [x] Add class refresh helper
 - [x] Add skill refresh helper
 - [x] Add spell refresh helper
 - [x] Add payload validation helper
 - [x] Add raw backup validation helper
+- [x] Add upstream SRD markdown validation helper
 - [x] Add enriched family validation helpers
 
 ## Output
@@ -41,6 +47,7 @@
 - [x] Generate merged class flatfile from vault and legacy seeds
 - [x] Generate merged skill flatfile from vault and legacy seeds
 - [x] Generate merged spell flatfile from vault and legacy seeds
+- [x] Generate SRD markdown source index with upstream commit and match counts
 
 ## Validation
 
@@ -50,3 +57,4 @@
 - [x] Validate every DataSeeds root payload has a JSON flatfile counterpart
 - [x] Validate mirrored payload counts match source counts
 - [x] Validate raw backup hashes match source payloads
+- [x] Validate SRD overlay match counts against generated flatfiles

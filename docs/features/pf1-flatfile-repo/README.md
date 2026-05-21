@@ -17,6 +17,7 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 
 - complete DataSeeds PF1 root payload mirror
 - raw PF1e API/DataSeeds backup export
+- upstream SRD markdown overlay for matching spell and monster records
 - class flatfiles
 - spell flatfiles
 - skill flatfiles
@@ -27,8 +28,25 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - `DataSeeds/pathfinder1e/*.js` remains the compatibility source for the current API payload shape.
 - `backups/pathfinder1e-api/<group>/*.json` is the raw backup snapshot and should not be markdown-enriched.
 - `pathfinder1e/*.json` is the generated flatfile surface consumed by downstream importers.
+- `Pathfinder-1E-SRD-Markdown` is pulled into `.cache/` and used as an upstream markdown overlay source.
 - PF1 markdown is the correction and enrichment source for fields missing from DataSeeds.
 - Family-specific refresh scripts may add fields, but they should preserve record identity and counts unless a deliberate source correction is documented.
+
+## Normalization Rules
+
+- Preserve source family names and filenames as raw compatibility labels, even when they contain legacy typos such as `archtype`.
+- Treat `Name` as the primary display label for flatfile records.
+- Preserve source `Id` values when they exist; only synthesize `FlatfileId` for duplicate-name records that do not have an upstream `Id`.
+- Use deterministic duplicate IDs in the form `family:slug(name):occurrence`.
+- Normalize aliases and casing in validation or lookup helpers, not by mutating source identity in the flatfile payloads.
+- Record markdown-derived enrichment as additional fields, but do not let enrichment change record counts or primary identity without an explicit source-correction note.
+
+## SRD Update Command
+
+- `npm run update:srd` fetches the latest upstream `main` branch and overlays supported markdown values.
+- `PF1_SRD_MARKDOWN_BRANCH=...` changes the upstream branch.
+- `PF1_SRD_MARKDOWN_CACHE=...` changes the local cache directory.
+- `npm run update:srd -- --no-pull` reuses the current local cache.
 
 ## Backup Groups
 
@@ -46,14 +64,18 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - [x] Define source-to-flatfile mapping
 - [x] Add full DataSeeds payload sync
 - [x] Add raw API/DataSeeds backup export
+- [x] Add repeatable upstream SRD markdown pull/update script
 - [x] Add class refresh script
 - [x] Add spell refresh script
 - [x] Add skill refresh script
 - [x] Add payload coverage validation
 - [x] Add raw backup hash validation
+- [x] Add SRD markdown overlay validation
 - [x] Add enriched family validation checks
+- [x] Define shared label and alias normalization rules
 - [ ] Add markdown enrichment for weapons and weapon features
 - [ ] Add markdown enrichment for armor and armor features
 - [ ] Add markdown enrichment for mundane gear and magic items
 - [ ] Add markdown enrichment for feats and class abilities
 - [ ] Add markdown enrichment for races, racial traits, and traits
+- [ ] Extend SRD overlay if the upstream repository adds classes, skills, equipment, feats, or traits

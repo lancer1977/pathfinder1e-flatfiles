@@ -19,6 +19,7 @@ Create a repeatable path from the current DataSeeds payload mirror to markdown-e
 - Regenerate a complete JSON mirror of current Pathfinder API payload data.
 - Export a raw backup snapshot of the current Pathfinder API payload data.
 - Regenerate enriched flatfiles from markdown on demand.
+- Pull and overlay current values from the upstream SRD markdown repository.
 - Make data corrections traceable back to markdown source sections.
 
 ## Phases
@@ -28,4 +29,5 @@ Create a repeatable path from the current DataSeeds payload mirror to markdown-e
 - Phase 3: class refresh
 - Phase 4: spells and skills refresh
 - Phase 5: validation and drift checks
-- Phase 6: equipment, feats, class abilities, race, trait, monster, and item enrichment
+- Phase 6: upstream SRD markdown overlay
+- Phase 7: equipment, feats, class abilities, race, trait, and item enrichment
