@@ -10,9 +10,11 @@ const outputRoot = path.join(repoRoot, 'pathfinder1e');
 const sourceIndexFile = path.join(repoRoot, 'sources', 'pf1-dataseeds-payload-index.json');
 
 const enrichedFamilies = new Map([
-  ['characterClass', 'refresh:classes'],
-  ['skills', 'refresh:skills'],
-  ['spells', 'refresh:spells'],
+    ['characterClass', 'refresh:classes'],
+    ['race', 'refresh:races'],
+    ['skills', 'refresh:skills'],
+    ['spells', 'refresh:spells'],
+    ['traits', 'refresh:traits'],
 ]);
 
 function readJsonPayload(filePath) {

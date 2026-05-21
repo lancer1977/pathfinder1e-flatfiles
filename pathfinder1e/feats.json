@@ -6153,7 +6153,8 @@
     "Benefits": "The time required for you to reload your chosen type of weapon is reduced to a free action (for a hand or light crossbow), a move action (for heavy crossbow or onehanded firearm), or a standard action (two-handed firearm). Reloading a crossbow or firearm ",
     "Prerequistites": "Weapon Proficiency (crossbow type chosen) or Exotic Weapon Proficiency (firearm).",
     "Source": "Ultimate Combat",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:rapid-reload:2"
   },
   {
     "Name": "Rebounding Leap",
@@ -8833,7 +8834,8 @@
     "Benefits": "You can cast spider climb once per day as a spell-like ability, using your character level as the caster level. Furthermore, you gain a +4 bonus on saving throws against the web special attacks of spiders and the effects of web and other similar spells (s",
     "Prerequistites": "Character level 3rd, drow.",
     "Source": "Advanced Race Guide",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:spider-step:2"
   },
   {
     "Name": "Spider Summoner",
@@ -10974,7 +10976,8 @@
     "Benefits": "The time required for you to reload your chosen type of weapon is reduced to a free action (for a hand or light crossbow), a move action (for heavy crossbow or onehanded firearm), or a standard action (two-handed firearm). Reloading a crossbow or firearm ",
     "Prerequistites": "Weapon Proficiency (crossbow type chosen) or Exotic Weapon Proficiency (firearm).",
     "Source": "Inner Sea World Guide",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:rapid-reload:3"
   },
   {
     "Name": "Rugged Northerner",
@@ -11458,7 +11461,8 @@
     "Benefits": "Whenever one of your worthy allies is brought to negative hit points or killed, you may enter a state similar to but less powerful than a barbarian's rage as a free action on your turn. If you have the rage class feature and are already raging, your moral",
     "Prerequistites": "Half-orc or orc, non-lawful.",
     "Source": "Orcs Of Golarion",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:blood-vengeance:2"
   },
   {
     "Name": "Brutal Grappler",
@@ -11478,7 +11482,8 @@
     "Benefits": "When you are raging and you succeed at a sunder attempt, you regain 1 round of rage. If the sunder attempt causes the object to gain the broken condition, you heal 1 hit point.",
     "Prerequistites": "Half-orc or orc, rage class feature, worshiper of the Destroyer.",
     "Source": "Orcs Of Golarion",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:destroyer-s-blessing:2"
   },
   {
     "Name": "Ferocious Tenacity",
@@ -11488,7 +11493,8 @@
     "Benefits": "When raging, if you are hit by an attack that would deal enough hit points of damage to kill you (negative hit points equal to your Constitution score), as an immediate action you may expend 1 or more rounds of rage to negate some of this damage and keep ",
     "Prerequistites": "Half-orc or orc, ferocity racial trait, rage class feature.",
     "Source": "Orcs Of Golarion",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:ferocious-tenacity:2"
   },
   {
     "Name": "Ferocious Tenacity",
@@ -11498,7 +11504,8 @@
     "Benefits": "When raging, if you are hit by an attack that would deal enough hit points of damage to kill you (negative hit points equal to your Constitution score), as an immediate action you may expend 1 or more rounds of rage to negate some of this damage and keep ",
     "Prerequistites": "Half-orc or orc, ferocity racial trait, rage class feature.",
     "Source": "Orcs Of Golarion",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:ferocious-tenacity:3"
   },
   {
     "Name": "Fire God's Blessing",
@@ -11518,7 +11525,8 @@
     "Benefits": "When you are raging and you confirm a critical hit with a melee weapon or suffer a critical hit yourself (whether by a melee weapon, spell, or ranged weapon), you regain 1 round of rage.",
     "Prerequistites": "Half-orc or orc, rage class feature.",
     "Source": "Orcs Of Golarion",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:gore-fiend:2"
   },
   {
     "Name": "Sympathetic Rage",
@@ -11528,7 +11536,8 @@
     "Benefits": "Whenever you are adjacent to an ally who is raging, you may choose to enter a similar but less powerful rage as a free action on your turn. This weaker rage gives you all the benefits and penalties of a rage, except your morale bonus to Strength and Const",
     "Prerequistites": "Half-orc or orc, non-lawful.",
     "Source": "Orcs Of Golarion",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:sympathetic-rage:2"
   },
   {
     "Name": "Thrill of the Kill",
@@ -11538,7 +11547,8 @@
     "Benefits": "When you are raging and your attack brings an enemy to negative hit points or kills them, you regain 1 round of rage. You may only use this feat if the fallen enemy had at least as many Hit Dice as you.",
     "Prerequistites": "Half-orc or orc, rage class feature.",
     "Source": "Orcs Of Golarion",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:thrill-of-the-kill:2"
   },
   {
     "Name": "Warleader's Rage",
@@ -11786,7 +11796,8 @@
     "Benefits": "Animal Companion class feature: bird, dog, small cat, horse. Mount: horses; You gain a +2 bonus on Handle Animal and Nature checks with chosen animal type. +1 lvl to determine abilities of your animal companion or mount.",
     "Prerequistites": "Handle Animal 1;animal companion, divine bond (mount), or mount class feature; human",
     "Source": "Advanced Race Guide",
-    "System": "PF"
+    "System": "PF",
+    "FlatfileId": "feats:huntmaster:2"
   },
   {
     "Name": "Ballista Master",

@@ -95,7 +95,8 @@
     "Alternate": 0,
     "Race": "Merfolk",
     "Implemented": 0,
-    "Description": "Merfolk are amphibious, but prefer not to spend long periods out of the water."
+    "Description": "Merfolk are amphibious, but prefer not to spend long periods out of the water.",
+    "FlatfileId": "racialtrait:amphibious:2"
   },
   {
     "Name": "Amphibious",
@@ -103,7 +104,8 @@
     "Race": "Undine",
     "Implemented": 0,
     "Replaces": "Spell-Like Ability",
-    "Description": "Some undines are born with a permanent bond to water. Undines with this racial trait gain the aquatic subtype and amphibious special quality. This racial trait replaces the spell-like ability racial trait."
+    "Description": "Some undines are born with a permanent bond to water. Undines with this racial trait gain the aquatic subtype and amphibious special quality. This racial trait replaces the spell-like ability racial trait.",
+    "FlatfileId": "racialtrait:amphibious:3"
   },
   {
     "Name": "Ancestral Arms",
@@ -145,7 +147,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Aquatic",
-    "Description": "Merfolk are humanoids with the aquatic subtype."
+    "Description": "Merfolk are humanoids with the aquatic subtype.",
+    "FlatfileId": "racialtrait:aquatic:2"
   },
   {
     "Name": "Arcane Focus",
@@ -179,7 +182,8 @@
     "Implemented": 1,
     "BenefitType": "AC",
     "BenefitValue": "Natural:2",
-    "Description": "Merfolk have a +2 natural armor bonus."
+    "Description": "Merfolk have a +2 natural armor bonus.",
+    "FlatfileId": "racialtrait:armor:2"
   },
   {
     "Name": "Armored Scales",
@@ -533,7 +537,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Changelings can see in the dark up to 60 feet."
+    "Description": "Changelings can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:2"
   },
   {
     "Name": "Darkvision",
@@ -542,7 +547,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Dwarves can see in the dark up to 60 feet."
+    "Description": "Dwarves can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:3"
   },
   {
     "Name": "Darkvision",
@@ -552,7 +558,8 @@
     "Replaces": "Low-Light Vision",
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Though uncommon, some groups of elves are born with darkvision, rather than low-light vision. In many cases this is taken as a sign of a drow in the elf's ancestry, and can lead to persecution within the elf's home community. Elves with this racial trait"
+    "Description": "Though uncommon, some groups of elves are born with darkvision, rather than low-light vision. In many cases this is taken as a sign of a drow in the elf's ancestry, and can lead to persecution within the elf's home community. Elves with this racial trait",
+    "FlatfileId": "racialtrait:darkvision:4"
   },
   {
     "Name": "Darkvision",
@@ -561,7 +568,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Fetchlings can see in the dark up to 60 feet."
+    "Description": "Fetchlings can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:5"
   },
   {
     "Name": "Darkvision",
@@ -571,7 +579,8 @@
     "Replaces": "Low-Light Vision#Keen Senses",
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Some gnome strains have lived in the underground depths for so long they have given up on light entirely and gained darkvision with a range of 60 feet. This racial trait replaces low-light vision and keen senses."
+    "Description": "Some gnome strains have lived in the underground depths for so long they have given up on light entirely and gained darkvision with a range of 60 feet. This racial trait replaces low-light vision and keen senses.",
+    "FlatfileId": "racialtrait:darkvision:6"
   },
   {
     "Name": "Darkvision",
@@ -580,7 +589,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Goblins can see in the dark up to 60 feet."
+    "Description": "Goblins can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:7"
   },
   {
     "Name": "Darkvision",
@@ -589,7 +599,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Gripplis can see in the dark up to 60 feet."
+    "Description": "Gripplis can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:8"
   },
   {
     "Name": "Darkvision",
@@ -598,7 +609,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Half-orcs can see in the dark up to 60 feet."
+    "Description": "Half-orcs can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:9"
   },
   {
     "Name": "Darkvision",
@@ -607,7 +619,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Hobgoblins can see in the dark up to 60 feet."
+    "Description": "Hobgoblins can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:10"
   },
   {
     "Name": "Darkvision",
@@ -616,7 +629,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Ifrits can see in the dark up to 60 feet."
+    "Description": "Ifrits can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:11"
   },
   {
     "Name": "Darkvision",
@@ -625,7 +639,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Kobolds can see in the dark up to 60 feet."
+    "Description": "Kobolds can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:12"
   },
   {
     "Name": "Darkvision",
@@ -635,7 +650,8 @@
     "Replaces": "Low-Light Vision",
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Some merfolk favor the lightless depths over shallower waters. Merfolk with this racial trait gain darkvision with a range of 60 feet and light sensitivity. This racial trait replaces low-light vision."
+    "Description": "Some merfolk favor the lightless depths over shallower waters. Merfolk with this racial trait gain darkvision with a range of 60 feet and light sensitivity. This racial trait replaces low-light vision.",
+    "FlatfileId": "racialtrait:darkvision:13"
   },
   {
     "Name": "Darkvision",
@@ -644,7 +660,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Orcs can see in the dark up to 60 feet."
+    "Description": "Orcs can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:14"
   },
   {
     "Name": "Darkvision",
@@ -653,7 +670,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Oreads can see in the dark up to 60 feet."
+    "Description": "Oreads can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:15"
   },
   {
     "Name": "Darkvision",
@@ -662,7 +680,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Ratfolk can see in the dark up to 60 feet."
+    "Description": "Ratfolk can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:16"
   },
   {
     "Name": "Darkvision",
@@ -671,7 +690,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Sylphs can see in the dark up to 60 feet."
+    "Description": "Sylphs can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:17"
   },
   {
     "Name": "Darkvision",
@@ -680,7 +700,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Strix can see in the dark up to 60 feet."
+    "Description": "Strix can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:18"
   },
   {
     "Name": "Darkvision",
@@ -689,7 +710,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Tieflings see in the dark for up to 60 feet."
+    "Description": "Tieflings see in the dark for up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:19"
   },
   {
     "Name": "Darkvision",
@@ -698,7 +720,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Undines can see in the dark up to 60 feet."
+    "Description": "Undines can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:20"
   },
   {
     "Name": "Darkvision",
@@ -707,7 +730,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:60",
-    "Description": "Wayangs can see in the dark up to 60 feet."
+    "Description": "Wayangs can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:darkvision:21"
   },
   {
     "Name": "Dayborn",
@@ -790,7 +814,8 @@
     "Alternate": 0,
     "Race": "Gnome",
     "Implemented": 0,
-    "Description": "Gnomes get a +4 dodge bonus to AC against monsters of the giant type."
+    "Description": "Gnomes get a +4 dodge bonus to AC against monsters of the giant type.",
+    "FlatfileId": "racialtrait:defensive-giant-training:2"
   },
   {
     "Name": "Defensive Training",
@@ -862,7 +887,8 @@
     "Alternate": 0,
     "Race": "Drow Noble",
     "Implemented": 0,
-    "Description": "Drow are immune to magic sleep effects and gain a +2 racial bonus on saving throws against enchantment spells and effects."
+    "Description": "Drow are immune to magic sleep effects and gain a +2 racial bonus on saving throws against enchantment spells and effects.",
+    "FlatfileId": "racialtrait:drow-immunities:2"
   },
   {
     "Name": "Drow Magic",
@@ -997,7 +1023,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Elf",
-    "Description": "Drow are humanoids with the elf subtype."
+    "Description": "Drow are humanoids with the elf subtype.",
+    "FlatfileId": "racialtrait:elf:2"
   },
   {
     "Name": "Elf Blood",
@@ -1022,7 +1049,8 @@
     "Race": "Half-Elf",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Half-elves are immune to magic sleep effects and get a +2 racial saving throw bonus against enchantment spells and effects."
+    "Description": "Half-elves are immune to magic sleep effects and get a +2 racial saving throw bonus against enchantment spells and effects.",
+    "FlatfileId": "racialtrait:elven-immunities:2"
   },
   {
     "Name": "Elven Magic",
@@ -1221,7 +1249,8 @@
     "Implemented": 1,
     "BenefitType": "Save",
     "BenefitValue": "Fear:2",
-    "Description": "Halflings receive a +2 racial bonus on all saving throws against fear. This bonus stacks with the bonus granted by halfling luck."
+    "Description": "Halflings receive a +2 racial bonus on all saving throws against fear. This bonus stacks with the bonus granted by halfling luck.",
+    "FlatfileId": "racialtrait:fearless:2"
   },
   {
     "Name": "Fearsome",
@@ -1256,7 +1285,8 @@
     "Race": "Orc",
     "Implemented": 0,
     "Replaces": "Weapon Familiarity#Languages",
-    "Description": "Orcs have the ability to fend for themselves long before they master the rudiments of their language and culture. Having needed to hunt bugs and tiny animals for food to survive while still infants, feral orcs fight all the harder to survive when at the b"
+    "Description": "Orcs have the ability to fend for themselves long before they master the rudiments of their language and culture. Having needed to hunt bugs and tiny animals for food to survive while still infants, feral orcs fight all the harder to survive when at the b",
+    "FlatfileId": "racialtrait:feral:2"
   },
   {
     "Name": "Ferocity",
@@ -1525,7 +1555,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Goblin",
-    "Description": "Hobgoblins are humanoids with the goblinoid subtype."
+    "Description": "Hobgoblins are humanoids with the goblinoid subtype.",
+    "FlatfileId": "racialtrait:goblinoid:2"
   },
   {
     "Name": "Granite Skin",
@@ -1600,7 +1631,8 @@
     "Implemented": 1,
     "BenefitType": "Save",
     "BenefitValue": "All:1",
-    "Description": "Halflings receive a +1 racial bonus on all saving throws."
+    "Description": "Halflings receive a +1 racial bonus on all saving throws.",
+    "FlatfileId": "racialtrait:halfling-luck:2"
   },
   {
     "Name": "Halo",
@@ -1639,21 +1671,24 @@
     "Alternate": 0,
     "Race": "Gnome",
     "Implemented": 0,
-    "Description": "Gnomes receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and goblinoid subtypes due to special training against these hated foes."
+    "Description": "Gnomes receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and goblinoid subtypes due to special training against these hated foes.",
+    "FlatfileId": "racialtrait:hatred:2"
   },
   {
     "Name": "Hatred",
     "Alternate": 0,
     "Race": "Strix",
     "Implemented": 0,
-    "Description": "Strix receive a +1 racial bonus on attack rolls against humanoid creatures with the human subtype because of their special training against these hated foes."
+    "Description": "Strix receive a +1 racial bonus on attack rolls against humanoid creatures with the human subtype because of their special training against these hated foes.",
+    "FlatfileId": "racialtrait:hatred:3"
   },
   {
     "Name": "Hatred",
     "Alternate": 0,
     "Race": "Svirfneblin",
     "Implemented": 0,
-    "Description": "Svirfneblin receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and dwarven subtypes due to training against these hated foes."
+    "Description": "Svirfneblin receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and dwarven subtypes due to training against these hated foes.",
+    "FlatfileId": "racialtrait:hatred:4"
   },
   {
     "Name": "Healthy",
@@ -1875,7 +1910,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Perception:2",
-    "Description": "Drow gain a +2 racial bonus on Perception checks."
+    "Description": "Drow gain a +2 racial bonus on Perception checks.",
+    "FlatfileId": "racialtrait:keen-senses:2"
   },
   {
     "Name": "Keen Senses",
@@ -1884,7 +1920,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Perception:2",
-    "Description": "Elves receive a +2 racial bonus on Perception skill checks."
+    "Description": "Elves receive a +2 racial bonus on Perception skill checks.",
+    "FlatfileId": "racialtrait:keen-senses:3"
   },
   {
     "Name": "Keen Senses",
@@ -1893,7 +1930,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Perception:2",
-    "Description": "Halflings receive a +2 racial bonus on Perception skill checks."
+    "Description": "Halflings receive a +2 racial bonus on Perception skill checks.",
+    "FlatfileId": "racialtrait:keen-senses:4"
   },
   {
     "Name": "Keen Senses",
@@ -1902,7 +1940,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Perception:2",
-    "Description": "Gnomes receive a +2 racial bonus on Perception skill checks."
+    "Description": "Gnomes receive a +2 racial bonus on Perception skill checks.",
+    "FlatfileId": "racialtrait:keen-senses:5"
   },
   {
     "Name": "Keen Senses",
@@ -1911,7 +1950,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Perception:2",
-    "Description": "Half-elves receive a +2 racial bonus on Perception skill checks."
+    "Description": "Half-elves receive a +2 racial bonus on Perception skill checks.",
+    "FlatfileId": "racialtrait:keen-senses:6"
   },
   {
     "Name": "Keen Senses",
@@ -1920,7 +1960,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Perception:2",
-    "Description": "Halflings receive a +2 racial bonus on Perception skill checks."
+    "Description": "Halflings receive a +2 racial bonus on Perception skill checks.",
+    "FlatfileId": "racialtrait:keen-senses:7"
   },
   {
     "Name": "Keen Senses",
@@ -1929,7 +1970,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Perception:2",
-    "Description": "Vishkanyas receive a +2 racial bonus on Perception checks."
+    "Description": "Vishkanyas receive a +2 racial bonus on Perception checks.",
+    "FlatfileId": "racialtrait:keen-senses:8"
   },
   {
     "Name": "Kitsune",
@@ -1973,7 +2015,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Catfolk",
-    "Description": "Catfolk begin play speaking Common and Catfolk. Catfolk with high Intelligence scores can choose from the following languages"
+    "Description": "Catfolk begin play speaking Common and Catfolk. Catfolk with high Intelligence scores can choose from the following languages",
+    "FlatfileId": "racialtrait:languages:2"
   },
   {
     "Name": "Languages",
@@ -1982,7 +2025,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common",
-    "Description": "Changelings begin play speaking Common and the primary language of their host society. Changelings with high Intelligence scores can choose from the following"
+    "Description": "Changelings begin play speaking Common and the primary language of their host society. Changelings with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:3"
   },
   {
     "Name": "Languages",
@@ -1991,7 +2035,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common",
-    "Description": "Dhampirs begin play speaking Common. Those with high Intelligence scores can choose any language it wants (except secret languages, such as Druidic)."
+    "Description": "Dhampirs begin play speaking Common. Those with high Intelligence scores can choose any language it wants (except secret languages, such as Druidic).",
+    "FlatfileId": "racialtrait:languages:4"
   },
   {
     "Name": "Languages",
@@ -2000,7 +2045,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Elven#Undercommon",
-    "Description": "Drow begin play speaking Elven and Undercommon. Drow with high Intelligence scores can choose from the following languages"
+    "Description": "Drow begin play speaking Elven and Undercommon. Drow with high Intelligence scores can choose from the following languages",
+    "FlatfileId": "racialtrait:languages:5"
   },
   {
     "Name": "Languages",
@@ -2009,7 +2055,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Dwarven#Undercommon",
-    "Description": "Duergar begin play speaking Common, Dwarven, and Undercommon. Duergar with high Intelligence scores can choose from the following"
+    "Description": "Duergar begin play speaking Common, Dwarven, and Undercommon. Duergar with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:6"
   },
   {
     "Name": "Languages",
@@ -2018,7 +2065,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Dwarven",
-    "Description": "Dwarves begin play speaking Common and Dwarven. Dwarves with high Intelligence scores can choose from the following"
+    "Description": "Dwarves begin play speaking Common and Dwarven. Dwarves with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:7"
   },
   {
     "Name": "Languages",
@@ -2027,7 +2075,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Elven",
-    "Description": "Elves begin play speaking Common and Elven. Elves with high Intelligence scores can choose from the following"
+    "Description": "Elves begin play speaking Common and Elven. Elves with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:8"
   },
   {
     "Name": "Languages",
@@ -2036,7 +2085,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Halfling",
-    "Description": "Halflings begin play speaking Common and Halfling. Halflings with high Intelligence scores can choose from the following"
+    "Description": "Halflings begin play speaking Common and Halfling. Halflings with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:9"
   },
   {
     "Name": "Languages",
@@ -2045,7 +2095,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common",
-    "Description": "Fetchlings begin play speaking Common. Fetchlings with a high Intelligence scores can choose from the following"
+    "Description": "Fetchlings begin play speaking Common. Fetchlings with a high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:10"
   },
   {
     "Name": "Languages",
@@ -2054,7 +2105,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Aboleth",
-    "Description": "Gillmen begin play speaking Common and Aboleth. Gillmen with high Intelligence scores can choose from the following"
+    "Description": "Gillmen begin play speaking Common and Aboleth. Gillmen with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:11"
   },
   {
     "Name": "Languages",
@@ -2063,7 +2115,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Gnome#Sylvan",
-    "Description": "Gnomes begin play speaking Common, Gnome, and Sylvan. Gnomes with high Intelligence scores can choose from the following"
+    "Description": "Gnomes begin play speaking Common, Gnome, and Sylvan. Gnomes with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:12"
   },
   {
     "Name": "Languages",
@@ -2072,7 +2125,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Goblin",
-    "Description": "Goblins begin play speaking Goblin. Goblins with high Intelligence scores can choose from the following"
+    "Description": "Goblins begin play speaking Goblin. Goblins with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:13"
   },
   {
     "Name": "Languages",
@@ -2081,7 +2135,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Grippli",
-    "Description": "Gripplis begin play speaking Common and Grippli. Gripplis with high Intelligence scores can choose from the following"
+    "Description": "Gripplis begin play speaking Common and Grippli. Gripplis with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:14"
   },
   {
     "Name": "Languages",
@@ -2090,7 +2145,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Elven",
-    "Description": "Half-elves begin play speaking Common and Elven. Half-elves with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic)."
+    "Description": "Half-elves begin play speaking Common and Elven. Half-elves with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).",
+    "FlatfileId": "racialtrait:languages:15"
   },
   {
     "Name": "Languages",
@@ -2099,7 +2155,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Halfling",
-    "Description": "Halflings begin play speaking Common and Halfling. Halflings with high Intelligence scores can choose from the following"
+    "Description": "Halflings begin play speaking Common and Halfling. Halflings with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:16"
   },
   {
     "Name": "Languages",
@@ -2108,7 +2165,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Orc",
-    "Description": "Half-orcs begin play speaking Common and Orc. Half-orcs with high Intelligence scores can choose from the following"
+    "Description": "Half-orcs begin play speaking Common and Orc. Half-orcs with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:17"
   },
   {
     "Name": "Languages",
@@ -2117,7 +2175,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Goblin",
-    "Description": "Hobgoblins begin play speaking Common and Goblin. Hobgoblins with high Intelligence scores can choose from the following"
+    "Description": "Hobgoblins begin play speaking Common and Goblin. Hobgoblins with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:18"
   },
   {
     "Name": "Languages",
@@ -2126,7 +2185,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common",
-    "Description": "Humans begin play speaking Common. Humans with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic)."
+    "Description": "Humans begin play speaking Common. Humans with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).",
+    "FlatfileId": "racialtrait:languages:19"
   },
   {
     "Name": "Languages",
@@ -2135,7 +2195,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Ignan",
-    "Description": "Ifrits begin play speaking Common and Ignan. Ifrits with high Intelligence scores can choose from the following"
+    "Description": "Ifrits begin play speaking Common and Ignan. Ifrits with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:20"
   },
   {
     "Name": "Languages",
@@ -2144,7 +2205,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Sylvan",
-    "Description": "Kitsune begin play speaking Common and Sylvan. Kitsune with high Intelligence scores can choose from the following"
+    "Description": "Kitsune begin play speaking Common and Sylvan. Kitsune with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:21"
   },
   {
     "Name": "Languages",
@@ -2153,7 +2215,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Draconic",
-    "Description": "Kobolds begin play speaking only Draconic. Kobolds with high Intelligence scores can choose from the following"
+    "Description": "Kobolds begin play speaking only Draconic. Kobolds with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:22"
   },
   {
     "Name": "Languages",
@@ -2162,7 +2225,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Aquan",
-    "Description": "Merfolk begin play speaking Common and Aquan. Merfolk with high Intelligence scores can choose from the following"
+    "Description": "Merfolk begin play speaking Common and Aquan. Merfolk with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:23"
   },
   {
     "Name": "Languages",
@@ -2171,7 +2235,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Draconic",
-    "Description": "Nagaji begin play speaking Common and Draconic. Nagaji with high Intelligence scores can choose from the following"
+    "Description": "Nagaji begin play speaking Common and Draconic. Nagaji with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:24"
   },
   {
     "Name": "Languages",
@@ -2180,7 +2245,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Orc",
-    "Description": "Orcs begin play speaking Common and Orc. Orcs with high Intelligence scores can chose from the following"
+    "Description": "Orcs begin play speaking Common and Orc. Orcs with high Intelligence scores can chose from the following",
+    "FlatfileId": "racialtrait:languages:25"
   },
   {
     "Name": "Languages",
@@ -2189,7 +2255,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Terran",
-    "Description": "Oreads begin play speaking Common and Terran. Oreads with high Intelligence scores can choose from the following"
+    "Description": "Oreads begin play speaking Common and Terran. Oreads with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:26"
   },
   {
     "Name": "Languages",
@@ -2198,7 +2265,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Aklo#Sylvan",
-    "Description": "Quicklings begin play speaking Common, Aklo, and Sylvan."
+    "Description": "Quicklings begin play speaking Common, Aklo, and Sylvan.",
+    "FlatfileId": "racialtrait:languages:27"
   },
   {
     "Name": "Languages",
@@ -2207,7 +2275,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common",
-    "Description": "Ratfolk begin play speaking Common. Ratfolk with high Intelligence scores can choose from the following"
+    "Description": "Ratfolk begin play speaking Common. Ratfolk with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:28"
   },
   {
     "Name": "Languages",
@@ -2216,7 +2285,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Samsaran",
-    "Description": "Samsarans begin play speaking Common and Samsaran. Samsarans with high Intelligence scores can choose from the following"
+    "Description": "Samsarans begin play speaking Common and Samsaran. Samsarans with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:29"
   },
   {
     "Name": "Languages",
@@ -2225,7 +2295,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Auran",
-    "Description": "Sylphs begin play speaking Common and Auran. Sylphs with high Intelligence scores can choose from the following"
+    "Description": "Sylphs begin play speaking Common and Auran. Sylphs with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:30"
   },
   {
     "Name": "Languages",
@@ -2234,7 +2305,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Strix",
-    "Description": "Strix begin play speaking Strix. Those with high Intelligence scores can choose from the following"
+    "Description": "Strix begin play speaking Strix. Those with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:31"
   },
   {
     "Name": "Languages",
@@ -2243,7 +2315,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common and one elemental language (Aquan#Auran, Ignan#elemental language (Aquan, Auran, Ignan, or Terran)",
-    "Description": "Sulis begin play speaking Common and one elemental language (Aquan, Auran, Ignan, or Terran). Sulis with high Intelligence scores can choose from the following"
+    "Description": "Sulis begin play speaking Common and one elemental language (Aquan, Auran, Ignan, or Terran). Sulis with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:32"
   },
   {
     "Name": "Languages",
@@ -2252,7 +2325,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Gnome#Undercommon",
-    "Description": "Svirfneblin begin play speaking Gnome and Undercommon. Those with high Intelligence scores can choose from the following"
+    "Description": "Svirfneblin begin play speaking Gnome and Undercommon. Those with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:33"
   },
   {
     "Name": "Languages",
@@ -2261,7 +2335,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common",
-    "Description": "Tengus begin play speaking Common and Tengu. Tengus with high Intelligence scores can choose any languages they want (except for secret languages, such as Druidic)."
+    "Description": "Tengus begin play speaking Common and Tengu. Tengus with high Intelligence scores can choose any languages they want (except for secret languages, such as Druidic).",
+    "FlatfileId": "racialtrait:languages:34"
   },
   {
     "Name": "Languages",
@@ -2270,7 +2345,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Abyssal#Infernal",
-    "Description": "Tieflings begin play speaking Common and either Abyssal or Infernal. Tieflings with high intelligence scores can choose from the following"
+    "Description": "Tieflings begin play speaking Common and either Abyssal or Infernal. Tieflings with high intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:35"
   },
   {
     "Name": "Languages",
@@ -2279,7 +2355,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Aquan",
-    "Description": "Undines begin play speaking Common and Aquan. Undines with high Intelligence scores can choose from the following"
+    "Description": "Undines begin play speaking Common and Aquan. Undines with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:36"
   },
   {
     "Name": "Languages",
@@ -2288,7 +2365,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Vanaran",
-    "Description": "Vanaras begin play speaking Common and Vanaran. Vanaras with high Intelligence scores can choose from the following  Aklo, Celestial, Elven, Gnome, Goblin, and Sylvan."
+    "Description": "Vanaras begin play speaking Common and Vanaran. Vanaras with high Intelligence scores can choose from the following  Aklo, Celestial, Elven, Gnome, Goblin, and Sylvan.",
+    "FlatfileId": "racialtrait:languages:37"
   },
   {
     "Name": "Languages",
@@ -2297,7 +2375,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Vishkanya",
-    "Description": "Vishkanyas begin play speaking Common and Vishkanya. Vishkanyas with high Intelligence scores can choose from the following: Aklo, Draconic, Elven, Goblin, Sylvan, and Undercommon."
+    "Description": "Vishkanyas begin play speaking Common and Vishkanya. Vishkanyas with high Intelligence scores can choose from the following: Aklo, Draconic, Elven, Goblin, Sylvan, and Undercommon.",
+    "FlatfileId": "racialtrait:languages:38"
   },
   {
     "Name": "Languages",
@@ -2306,7 +2385,8 @@
     "Implemented": 1,
     "BenefitType": "Languages",
     "BenefitValue": "Common#Wayang",
-    "Description": "Wayangs begin play speaking Common and Wayang. Wayangs with high Intelligence scores can choose from the following"
+    "Description": "Wayangs begin play speaking Common and Wayang. Wayangs with high Intelligence scores can choose from the following",
+    "FlatfileId": "racialtrait:languages:39"
   },
   {
     "Name": "Legless",
@@ -2341,7 +2421,8 @@
     "Alternate": 0,
     "Race": "Drow Noble",
     "Implemented": 0,
-    "Description": "Abrupt exposure to bright light blinds drow for 1 round; on subsequent rounds, they are dazzled as long as they remain in the affected area."
+    "Description": "Abrupt exposure to bright light blinds drow for 1 round; on subsequent rounds, they are dazzled as long as they remain in the affected area.",
+    "FlatfileId": "racialtrait:light-blindness:2"
   },
   {
     "Name": "Light Sensitivity",
@@ -2355,14 +2436,16 @@
     "Alternate": 0,
     "Race": "Duergar",
     "Implemented": 0,
-    "Description": "Duergar are dazzled in areas of bright light."
+    "Description": "Duergar are dazzled in areas of bright light.",
+    "FlatfileId": "racialtrait:light-sensitivity:2"
   },
   {
     "Name": "Light Sensitivity",
     "Alternate": 0,
     "Race": "Orc",
     "Implemented": 0,
-    "Description": "Orcs are dazzled in areas of bright sunlight or within the radius of a daylight spell."
+    "Description": "Orcs are dazzled in areas of bright sunlight or within the radius of a daylight spell.",
+    "FlatfileId": "racialtrait:light-sensitivity:3"
   },
   {
     "Name": "Lightbringer",
@@ -2423,7 +2506,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Elves can see twice as far as humans in conditions of dim light. See Additional Rules."
+    "Description": "Elves can see twice as far as humans in conditions of dim light. See Additional Rules.",
+    "FlatfileId": "racialtrait:low-light-vision:2"
   },
   {
     "Name": "Low-Light Vision",
@@ -2432,7 +2516,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Fetchlings can see twice as far as humans in conditions of dim light."
+    "Description": "Fetchlings can see twice as far as humans in conditions of dim light.",
+    "FlatfileId": "racialtrait:low-light-vision:3"
   },
   {
     "Name": "Low-Light Vision",
@@ -2441,7 +2526,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Gnomes can see twice as far as humans in conditions of dim light. See Additional Rules."
+    "Description": "Gnomes can see twice as far as humans in conditions of dim light. See Additional Rules.",
+    "FlatfileId": "racialtrait:low-light-vision:4"
   },
   {
     "Name": "Low-Light Vision",
@@ -2450,7 +2536,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Half-elves can see twice as far as humans in conditions of dim light. See Additional Rules."
+    "Description": "Half-elves can see twice as far as humans in conditions of dim light. See Additional Rules.",
+    "FlatfileId": "racialtrait:low-light-vision:5"
   },
   {
     "Name": "Low-Light Vision",
@@ -2459,7 +2546,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Kitsune can see twice as far as humans in conditions of dim light."
+    "Description": "Kitsune can see twice as far as humans in conditions of dim light.",
+    "FlatfileId": "racialtrait:low-light-vision:6"
   },
   {
     "Name": "Low-Light Vision",
@@ -2468,7 +2556,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Merfolk have low-light vision."
+    "Description": "Merfolk have low-light vision.",
+    "FlatfileId": "racialtrait:low-light-vision:7"
   },
   {
     "Name": "Low-Light Vision",
@@ -2477,7 +2566,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Nagaji can see twice as far as humans in conditions of dim light."
+    "Description": "Nagaji can see twice as far as humans in conditions of dim light.",
+    "FlatfileId": "racialtrait:low-light-vision:8"
   },
   {
     "Name": "Low-Light Vision",
@@ -2486,7 +2576,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Quicklings can see in the dark up to 60 feet."
+    "Description": "Quicklings can see in the dark up to 60 feet.",
+    "FlatfileId": "racialtrait:low-light-vision:9"
   },
   {
     "Name": "Low-Light Vision",
@@ -2495,7 +2586,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Samsarans can see twice as far as humans in conditions of dim light."
+    "Description": "Samsarans can see twice as far as humans in conditions of dim light.",
+    "FlatfileId": "racialtrait:low-light-vision:10"
   },
   {
     "Name": "Low-Light Vision",
@@ -2504,7 +2596,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Strix can see twice as far as humans in conditions of dim light."
+    "Description": "Strix can see twice as far as humans in conditions of dim light.",
+    "FlatfileId": "racialtrait:low-light-vision:11"
   },
   {
     "Name": "Low-Light Vision",
@@ -2513,7 +2606,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Sulis can see twice as far as humans in dim light."
+    "Description": "Sulis can see twice as far as humans in dim light.",
+    "FlatfileId": "racialtrait:low-light-vision:12"
   },
   {
     "Name": "Low-Light Vision",
@@ -2522,7 +2616,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Tengus have low-light vision."
+    "Description": "Tengus have low-light vision.",
+    "FlatfileId": "racialtrait:low-light-vision:13"
   },
   {
     "Name": "Low-Light Vision",
@@ -2531,7 +2626,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "A vanara can see twice as far as a human in dim light."
+    "Description": "A vanara can see twice as far as a human in dim light.",
+    "FlatfileId": "racialtrait:low-light-vision:14"
   },
   {
     "Name": "Low-Light Vision",
@@ -2540,7 +2636,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Lowlight",
-    "Description": "Vishkanyas can see twice as far as humans in conditions of dim light."
+    "Description": "Vishkanyas can see twice as far as humans in conditions of dim light.",
+    "FlatfileId": "racialtrait:low-light-vision:15"
   },
   {
     "Name": "Lurker",
@@ -2629,14 +2726,16 @@
     "Race": "Catfolk",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Catfolk are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Catfolk are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:2"
   },
   {
     "Name": "Medium",
     "Alternate": 0,
     "Race": "Changeling",
     "Implemented": 1,
-    "Description": "Changelings are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Changelings are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:3"
   },
   {
     "Name": "Medium",
@@ -2644,7 +2743,8 @@
     "Race": "Dhampir",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Dhampirs are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Dhampirs are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:4"
   },
   {
     "Name": "Medium",
@@ -2652,7 +2752,8 @@
     "Race": "Drow",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Drow are Medium creatures and receive no bonuses or penalties due to their size."
+    "Description": "Drow are Medium creatures and receive no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:5"
   },
   {
     "Name": "Medium",
@@ -2660,7 +2761,8 @@
     "Race": "Drow Noble",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Drow are Medium creatures and receive no bonuses or penalties due to their size."
+    "Description": "Drow are Medium creatures and receive no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:6"
   },
   {
     "Name": "Medium",
@@ -2668,7 +2770,8 @@
     "Race": "Duergar",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Duergar are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Duergar are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:7"
   },
   {
     "Name": "Medium",
@@ -2676,7 +2779,8 @@
     "Race": "Dwarf",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Dwarves are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Dwarves are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:8"
   },
   {
     "Name": "Medium",
@@ -2684,7 +2788,8 @@
     "Race": "Elf",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Elves are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Elves are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:9"
   },
   {
     "Name": "Medium",
@@ -2692,7 +2797,8 @@
     "Race": "Fetchling",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Fetchlings are Medium creatures and receive no bonuses or penalties due to their size."
+    "Description": "Fetchlings are Medium creatures and receive no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:10"
   },
   {
     "Name": "Medium",
@@ -2700,7 +2806,8 @@
     "Race": "Gillman",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Gillmen are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Gillmen are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:11"
   },
   {
     "Name": "Medium",
@@ -2708,7 +2815,8 @@
     "Race": "Half-Elf",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Half-elves are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Half-elves are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:12"
   },
   {
     "Name": "Medium",
@@ -2716,7 +2824,8 @@
     "Race": "Half-Orc",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Half-orcs are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Half-orcs are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:13"
   },
   {
     "Name": "Medium",
@@ -2724,7 +2833,8 @@
     "Race": "Hobgoblin",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Hobgoblins are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Hobgoblins are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:14"
   },
   {
     "Name": "Medium",
@@ -2732,7 +2842,8 @@
     "Race": "Human",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Humans are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Humans are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:15"
   },
   {
     "Name": "Medium",
@@ -2740,7 +2851,8 @@
     "Race": "Ifrit",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Ifrits are Medium creatures and receive no bonuses or penalties due to their size."
+    "Description": "Ifrits are Medium creatures and receive no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:16"
   },
   {
     "Name": "Medium",
@@ -2748,7 +2860,8 @@
     "Race": "Kitsune",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Kitsune are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Kitsune are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:17"
   },
   {
     "Name": "Medium",
@@ -2756,7 +2869,8 @@
     "Race": "Merfolk",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Merfolk are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Merfolk are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:18"
   },
   {
     "Name": "Medium",
@@ -2764,7 +2878,8 @@
     "Race": "Nagaji",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Nagaji are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Nagaji are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:19"
   },
   {
     "Name": "Medium",
@@ -2772,7 +2887,8 @@
     "Race": "Orc",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Orcs are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Orcs are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:20"
   },
   {
     "Name": "Medium",
@@ -2780,7 +2896,8 @@
     "Race": "Oread",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Oreads are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Oreads are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:21"
   },
   {
     "Name": "Medium",
@@ -2788,7 +2905,8 @@
     "Race": "Samsaran",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Samsarans are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Samsarans are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:22"
   },
   {
     "Name": "Medium",
@@ -2796,7 +2914,8 @@
     "Race": "Slyph",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Sylphs are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Sylphs are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:23"
   },
   {
     "Name": "Medium",
@@ -2804,7 +2923,8 @@
     "Race": "Strix",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Strix are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Strix are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:24"
   },
   {
     "Name": "Medium",
@@ -2812,7 +2932,8 @@
     "Race": "Suli",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Sulis are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Sulis are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:25"
   },
   {
     "Name": "Medium",
@@ -2820,7 +2941,8 @@
     "Race": "Tengu",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Tengus are Medium creatures and receive no bonuses or penalties due to their size."
+    "Description": "Tengus are Medium creatures and receive no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:26"
   },
   {
     "Name": "Medium",
@@ -2828,7 +2950,8 @@
     "Race": "Tiefling",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Tieflings are Medium creatures and receive no bonuses or penalties due to their size."
+    "Description": "Tieflings are Medium creatures and receive no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:27"
   },
   {
     "Name": "Medium",
@@ -2836,7 +2959,8 @@
     "Race": "Undine",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Undines are Medium creatures and receive no bonuses or penalties due to their size."
+    "Description": "Undines are Medium creatures and receive no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:28"
   },
   {
     "Name": "Medium",
@@ -2844,7 +2968,8 @@
     "Race": "Vanara",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Vanaras are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Vanaras are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:29"
   },
   {
     "Name": "Medium",
@@ -2852,7 +2977,8 @@
     "Race": "Vishkanyas",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Vishkanyas are Medium creatures and have no bonuses or penalties due to their size."
+    "Description": "Vishkanyas are Medium creatures and have no bonuses or penalties due to their size.",
+    "FlatfileId": "racialtrait:medium:30"
   },
   {
     "Name": "Minesight",
@@ -2936,7 +3062,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Outsider",
-    "Description": "Fetchlings are outsiders with the native subtype."
+    "Description": "Fetchlings are outsiders with the native subtype.",
+    "FlatfileId": "racialtrait:native-outsider:2"
   },
   {
     "Name": "Native Outsider",
@@ -2945,7 +3072,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Outsider",
-    "Description": "Ifrits are outsiders with the native subtype."
+    "Description": "Ifrits are outsiders with the native subtype.",
+    "FlatfileId": "racialtrait:native-outsider:3"
   },
   {
     "Name": "Native Outsider",
@@ -2954,7 +3082,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Outsider",
-    "Description": "Oreads are outsiders with the native subtype."
+    "Description": "Oreads are outsiders with the native subtype.",
+    "FlatfileId": "racialtrait:native-outsider:4"
   },
   {
     "Name": "Native Outsider",
@@ -2963,7 +3092,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Outsider",
-    "Description": "Sylphs are outsiders with the native subtype."
+    "Description": "Sylphs are outsiders with the native subtype.",
+    "FlatfileId": "racialtrait:native-outsider:5"
   },
   {
     "Name": "Native Outsider",
@@ -2972,7 +3102,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Outsider",
-    "Description": "Sulis are outsiders with the native subtype."
+    "Description": "Sulis are outsiders with the native subtype.",
+    "FlatfileId": "racialtrait:native-outsider:6"
   },
   {
     "Name": "Native Outsider",
@@ -2981,7 +3112,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Outsider",
-    "Description": "Tieflings are outsiders with the native subtype."
+    "Description": "Tieflings are outsiders with the native subtype.",
+    "FlatfileId": "racialtrait:native-outsider:7"
   },
   {
     "Name": "Native Outsider",
@@ -2990,7 +3122,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Outsider",
-    "Description": "Undines are outsiders with the native subtype."
+    "Description": "Undines are outsiders with the native subtype.",
+    "FlatfileId": "racialtrait:native-outsider:8"
   },
   {
     "Name": "Natural Armor",
@@ -3114,7 +3247,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Catfolk have a base speed of 30 feet."
+    "Description": "Catfolk have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:2"
   },
   {
     "Name": "Normal Speed",
@@ -3123,7 +3257,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Changelings have a base speed of 30 feet."
+    "Description": "Changelings have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:3"
   },
   {
     "Name": "Normal Speed",
@@ -3132,7 +3267,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Dhampirs have a base speed of 30 feet."
+    "Description": "Dhampirs have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:4"
   },
   {
     "Name": "Normal Speed",
@@ -3141,7 +3277,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Drow have a base speed of 30 feet."
+    "Description": "Drow have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:5"
   },
   {
     "Name": "Normal Speed",
@@ -3150,7 +3287,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Drow have a base speed of 30 feet."
+    "Description": "Drow have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:6"
   },
   {
     "Name": "Normal Speed",
@@ -3159,7 +3297,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Elves have a base speed of 30 feet."
+    "Description": "Elves have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:7"
   },
   {
     "Name": "Normal Speed",
@@ -3168,7 +3307,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Fetchlings have a base speed of 30 feet."
+    "Description": "Fetchlings have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:8"
   },
   {
     "Name": "Normal Speed",
@@ -3177,7 +3317,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Gillmen have a base speed of 30 feet on land. As aquatic creatures, they also have a swim speed of 30 feet, can move in water without making Swim checks, and always treat Swim as a class skill."
+    "Description": "Gillmen have a base speed of 30 feet on land. As aquatic creatures, they also have a swim speed of 30 feet, can move in water without making Swim checks, and always treat Swim as a class skill.",
+    "FlatfileId": "racialtrait:normal-speed:9"
   },
   {
     "Name": "Normal Speed",
@@ -3186,7 +3327,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Gripplis have a base speed of 30 feet and a climb speed of 20 feet."
+    "Description": "Gripplis have a base speed of 30 feet and a climb speed of 20 feet.",
+    "FlatfileId": "racialtrait:normal-speed:10"
   },
   {
     "Name": "Normal Speed",
@@ -3195,7 +3337,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Half-elves have a base speed of 30 feet."
+    "Description": "Half-elves have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:11"
   },
   {
     "Name": "Normal Speed",
@@ -3204,7 +3347,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Half-orcs have a base speed of 30 feet."
+    "Description": "Half-orcs have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:12"
   },
   {
     "Name": "Normal Speed",
@@ -3213,7 +3357,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Hobgoblins have a base speed of 30 feet."
+    "Description": "Hobgoblins have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:13"
   },
   {
     "Name": "Normal Speed",
@@ -3222,7 +3367,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Humans have a base speed of 30 feet."
+    "Description": "Humans have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:14"
   },
   {
     "Name": "Normal Speed",
@@ -3231,7 +3377,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Ifrits have a base speed of 30 feet."
+    "Description": "Ifrits have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:15"
   },
   {
     "Name": "Normal Speed",
@@ -3240,7 +3387,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Kitsune have a base speed of 30 feet."
+    "Description": "Kitsune have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:16"
   },
   {
     "Name": "Normal Speed",
@@ -3249,7 +3397,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Kobolds have a base speed of 30 feet."
+    "Description": "Kobolds have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:17"
   },
   {
     "Name": "Normal Speed",
@@ -3258,7 +3407,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Nagaji have a base speed of 30 feet."
+    "Description": "Nagaji have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:18"
   },
   {
     "Name": "Normal Speed",
@@ -3267,7 +3417,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Orcs have a base speed of 30 feet."
+    "Description": "Orcs have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:19"
   },
   {
     "Name": "Normal Speed",
@@ -3276,7 +3427,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Samsarans have a base speed of 30 feet."
+    "Description": "Samsarans have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:20"
   },
   {
     "Name": "Normal Speed",
@@ -3285,7 +3437,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Sylphs have a base speed of 30 feet."
+    "Description": "Sylphs have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:21"
   },
   {
     "Name": "Normal Speed",
@@ -3294,7 +3447,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Strix have a base speed of 30 feet on land. They also have a fly speed of 60 feet (average)."
+    "Description": "Strix have a base speed of 30 feet on land. They also have a fly speed of 60 feet (average).",
+    "FlatfileId": "racialtrait:normal-speed:22"
   },
   {
     "Name": "Normal Speed",
@@ -3303,7 +3457,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Sulis have a base speed of 30 feet."
+    "Description": "Sulis have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:23"
   },
   {
     "Name": "Normal Speed",
@@ -3312,7 +3467,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Tengus have a base speed of 30 feet."
+    "Description": "Tengus have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:24"
   },
   {
     "Name": "Normal Speed",
@@ -3321,7 +3477,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Tieflings have a base speed of 30 feet."
+    "Description": "Tieflings have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:25"
   },
   {
     "Name": "Normal Speed",
@@ -3330,7 +3487,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Undines have a base speed of 30 feet on land. They also have a swim speed of 30 feet, can move in water without making Swim checks, and always treat Swim as a class skill."
+    "Description": "Undines have a base speed of 30 feet on land. They also have a swim speed of 30 feet, can move in water without making Swim checks, and always treat Swim as a class skill.",
+    "FlatfileId": "racialtrait:normal-speed:26"
   },
   {
     "Name": "Normal Speed",
@@ -3339,7 +3497,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Vanaras have a base speed of 30 feet and a Climb speed of 30 feet."
+    "Description": "Vanaras have a base speed of 30 feet and a Climb speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:27"
   },
   {
     "Name": "Normal Speed",
@@ -3348,7 +3507,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 30,
-    "Description": "Vishkanyas have a base speed of 30 feet."
+    "Description": "Vishkanyas have a base speed of 30 feet.",
+    "FlatfileId": "racialtrait:normal-speed:28"
   },
   {
     "Name": "Object of Desire",
@@ -3455,21 +3615,24 @@
     "Alternate": 0,
     "Race": "Drow Noble",
     "Implemented": 0,
-    "Description": "Drow are skilled in the use of poison and never risk accidentally poisoning themselves."
+    "Description": "Drow are skilled in the use of poison and never risk accidentally poisoning themselves.",
+    "FlatfileId": "racialtrait:poison-use:2"
   },
   {
     "Name": "Poison Use",
     "Alternate": 0,
     "Race": "Feral Halfling",
     "Implemented": 0,
-    "Description": "Halflings are skilled with poison and never risk accidentally poisoning themselves when applying it to weapons."
+    "Description": "Halflings are skilled with poison and never risk accidentally poisoning themselves when applying it to weapons.",
+    "FlatfileId": "racialtrait:poison-use:3"
   },
   {
     "Name": "Poison Use",
     "Alternate": 0,
     "Race": "Vishkanyas",
     "Implemented": 0,
-    "Description": "Vishkanyas are skilled in the use of poison and never accidentally poison themselves when using or applying poison."
+    "Description": "Vishkanyas are skilled in the use of poison and never accidentally poison themselves when using or applying poison.",
+    "FlatfileId": "racialtrait:poison-use:4"
   },
   {
     "Name": "Polyglot",
@@ -3502,7 +3665,8 @@
     "Alternate": 0,
     "Race": "Vanara",
     "Implemented": 0,
-    "Description": "A vanara has a long, flexible tail that she can use to carry objects. She cannot wield weapons with her tail, but the tail allows her to retrieve a small, stowed object carried on her person as a swift action."
+    "Description": "A vanara has a long, flexible tail that she can use to carry objects. She cannot wield weapons with her tail, but the tail allows her to retrieve a small, stowed object carried on her person as a swift action.",
+    "FlatfileId": "racialtrait:prehensile-tail:2"
   },
   {
     "Name": "Princely",
@@ -3557,7 +3721,8 @@
     "Implemented": 1,
     "BenefitType": "Subtype",
     "BenefitValue": "Reptilian",
-    "Description": "Nagaji are humanoids with the reptilian subtype."
+    "Description": "Nagaji are humanoids with the reptilian subtype.",
+    "FlatfileId": "racialtrait:reptilian:2"
   },
   {
     "Name": "Resist Level Drain",
@@ -3677,7 +3842,8 @@
     "Race": "Ratfolk",
     "Implemented": 0,
     "Replaces": "Tinker",
-    "Description": "Some ratfolk have much more strongly developed senses of smell, instead of keen eyes and ears. These ratfolk have the scent ability, but take a –2 penalty on all Perception checks based primarily on sight or hearing. This racial trait replaces tinker."
+    "Description": "Some ratfolk have much more strongly developed senses of smell, instead of keen eyes and ears. These ratfolk have the scent ability, but take a –2 penalty on all Perception checks based primarily on sight or hearing. This racial trait replaces tinker.",
+    "FlatfileId": "racialtrait:scent:2"
   },
   {
     "Name": "Scion of Humanity",
@@ -3767,7 +3933,8 @@
     "Alternate": 0,
     "Race": "Wayang",
     "Implemented": 0,
-    "Description": "Wayangs add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Wayangs with a Charisma score of 11 or higher also gain the following spell-like abilities"
+    "Description": "Wayangs add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Wayangs with a Charisma score of 11 or higher also gain the following spell-like abilities",
+    "FlatfileId": "racialtrait:shadow-magic:2"
   },
   {
     "Name": "Shadow Resistance",
@@ -3855,7 +4022,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Planes#Stealth",
-    "Description": "Fetchlings have a +2 racial bonus on Knowledge (planes) and Stealth checks."
+    "Description": "Fetchlings have a +2 racial bonus on Knowledge (planes) and Stealth checks.",
+    "FlatfileId": "racialtrait:skilled:2"
   },
   {
     "Name": "Skilled",
@@ -3864,7 +4032,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Ride:4#Stealth:4",
-    "Description": "+4 racial bonus on Ride and Stealth checks."
+    "Description": "+4 racial bonus on Ride and Stealth checks.",
+    "FlatfileId": "racialtrait:skilled:3"
   },
   {
     "Name": "Skilled",
@@ -3874,7 +4043,8 @@
     "Replaces": "Darkvision",
     "BenefitType": "ExtraSkillRank",
     "BenefitValue": 1,
-    "Description": "Second- and third-generation half-orcs often favor their human heritage more than their orc heritage. Half-orcs with this trait gain 1 additional skill rank per level. This racial trait replaces darkvision."
+    "Description": "Second- and third-generation half-orcs often favor their human heritage more than their orc heritage. Half-orcs with this trait gain 1 additional skill rank per level. This racial trait replaces darkvision.",
+    "FlatfileId": "racialtrait:skilled:4"
   },
   {
     "Name": "Skilled",
@@ -3883,7 +4053,8 @@
     "Implemented": 1,
     "BenefitType": "ExtraSkillRank",
     "BenefitValue": 1,
-    "Description": "Humans gain an additional skill rank at first level and one additional rank whenever they gain a level."
+    "Description": "Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.",
+    "FlatfileId": "racialtrait:skilled:5"
   },
   {
     "Name": "Skilled",
@@ -3892,7 +4063,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Bluff:Stealth",
-    "Description": "Tieflings gain a +2 racial bonus on Bluff and Stealth checks."
+    "Description": "Tieflings gain a +2 racial bonus on Bluff and Stealth checks.",
+    "FlatfileId": "racialtrait:skilled:6"
   },
   {
     "Name": "SkilledSvirfneblin",
@@ -3961,7 +4133,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 20,
-    "Description": "Dwarves have a base speed of 20 feet, but their speed is never modified by armor or encumbrance."
+    "Description": "Dwarves have a base speed of 20 feet, but their speed is never modified by armor or encumbrance.",
+    "FlatfileId": "racialtrait:slow-and-steady:2"
   },
   {
     "Name": "Slow Speed",
@@ -3979,7 +4152,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 20,
-    "Description": "Gnomes have a base speed of 20 feet."
+    "Description": "Gnomes have a base speed of 20 feet.",
+    "FlatfileId": "racialtrait:slow-speed:2"
   },
   {
     "Name": "Slow Speed",
@@ -3988,7 +4162,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 20,
-    "Description": "Halflings have a base speed of 20 feet."
+    "Description": "Halflings have a base speed of 20 feet.",
+    "FlatfileId": "racialtrait:slow-speed:3"
   },
   {
     "Name": "Slow Speed",
@@ -3997,7 +4172,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 20,
-    "Description": "Merfolk have a base speed of 5 feet. They have a swim speed of 50 feet."
+    "Description": "Merfolk have a base speed of 5 feet. They have a swim speed of 50 feet.",
+    "FlatfileId": "racialtrait:slow-speed:4"
   },
   {
     "Name": "Slow Speed",
@@ -4006,7 +4182,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 20,
-    "Description": "Oreads have a base speed of 20 feet."
+    "Description": "Oreads have a base speed of 20 feet.",
+    "FlatfileId": "racialtrait:slow-speed:5"
   },
   {
     "Name": "Slow Speed",
@@ -4015,7 +4192,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 20,
-    "Description": "Ratfolk have a base speed of 20 feet."
+    "Description": "Ratfolk have a base speed of 20 feet.",
+    "FlatfileId": "racialtrait:slow-speed:6"
   },
   {
     "Name": "Slow Speed",
@@ -4024,7 +4202,8 @@
     "Implemented": 1,
     "BenefitType": "Move",
     "BenefitValue": 20,
-    "Description": "Wayangs have a base speed of 20 feet."
+    "Description": "Wayangs have a base speed of 20 feet.",
+    "FlatfileId": "racialtrait:slow-speed:7"
   },
   {
     "Name": "Slow Susceptability",
@@ -4047,7 +4226,8 @@
     "Race": "Gnome",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Gnomes are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their Combat Maneuver Bonus and Combat Maneuver Defense, and a +4 size bonus on Stealth checks."
+    "Description": "Gnomes are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their Combat Maneuver Bonus and Combat Maneuver Defense, and a +4 size bonus on Stealth checks.",
+    "FlatfileId": "racialtrait:small:2"
   },
   {
     "Name": "Small",
@@ -4055,7 +4235,8 @@
     "Race": "Goblin",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks."
+    "Description": "Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.",
+    "FlatfileId": "racialtrait:small:3"
   },
   {
     "Name": "Small",
@@ -4063,7 +4244,8 @@
     "Race": "Grippli",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Gripplis are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks."
+    "Description": "Gripplis are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.",
+    "FlatfileId": "racialtrait:small:4"
   },
   {
     "Name": "Small",
@@ -4071,7 +4253,8 @@
     "Race": "Halfling",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Halflings are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their Combat Maneuver Bonus and Combat Maneuver Defense, and a +4 size bonus on Stealth checks."
+    "Description": "Halflings are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their Combat Maneuver Bonus and Combat Maneuver Defense, and a +4 size bonus on Stealth checks.",
+    "FlatfileId": "racialtrait:small:5"
   },
   {
     "Name": "Small",
@@ -4079,7 +4262,8 @@
     "Race": "Kobold",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Kobolds are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on their combat maneuver checks and to Combat Maneuver Defense, and a +4 size bonus on Stealth checks."
+    "Description": "Kobolds are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on their combat maneuver checks and to Combat Maneuver Defense, and a +4 size bonus on Stealth checks.",
+    "FlatfileId": "racialtrait:small:6"
   },
   {
     "Name": "Small",
@@ -4087,7 +4271,8 @@
     "Race": "Quickling",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Quickling are Small and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their CMD, and a +4 size bonus on Stealth checks."
+    "Description": "Quickling are Small and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their CMD, and a +4 size bonus on Stealth checks.",
+    "FlatfileId": "racialtrait:small:7"
   },
   {
     "Name": "Small",
@@ -4095,7 +4280,8 @@
     "Race": "Ratfolk",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Ratfolk are Small and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their CMD, and a +4 size bonus on Stealth checks."
+    "Description": "Ratfolk are Small and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their CMD, and a +4 size bonus on Stealth checks.",
+    "FlatfileId": "racialtrait:small:8"
   },
   {
     "Name": "Small",
@@ -4103,7 +4289,8 @@
     "Race": "Svirfneblin",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Svirfneblin are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks."
+    "Description": "Svirfneblin are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.",
+    "FlatfileId": "racialtrait:small:9"
   },
   {
     "Name": "Small",
@@ -4111,7 +4298,8 @@
     "Race": "Wayang",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "Wayangs are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on their CMB and to CMD, and a +4 size bonus on Stealth checks."
+    "Description": "Wayangs are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on their CMB and to CMD, and a +4 size bonus on Stealth checks.",
+    "FlatfileId": "racialtrait:small:10"
   },
   {
     "Name": "Smeller",
@@ -4146,7 +4334,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Perception#Stealth",
-    "Description": "Tengus gain a +2 racial bonus on Perception and Stealth checks."
+    "Description": "Tengus gain a +2 racial bonus on Perception and Stealth checks.",
+    "FlatfileId": "racialtrait:sneaky:2"
   },
   {
     "Name": "Sociable",
@@ -4194,14 +4383,16 @@
     "Alternate": 0,
     "Race": "Drow Noble",
     "Implemented": 0,
-    "Description": "Drow nobles can cast dancing lights, deeper darkness, faerie fire, feather fall, and levitate each at will, and have detect magic as a constant spell-like ability. A drow noble can also cast divine favor, dispel magic, and suggestion once per day each."
+    "Description": "Drow nobles can cast dancing lights, deeper darkness, faerie fire, feather fall, and levitate each at will, and have detect magic as a constant spell-like ability. A drow noble can also cast divine favor, dispel magic, and suggestion once per day each.",
+    "FlatfileId": "racialtrait:spell-like-abilities:2"
   },
   {
     "Name": "Spell-Like Abilities",
     "Alternate": 0,
     "Race": "Duergar",
     "Implemented": 0,
-    "Description": "A duergar can use enlarge person and invisibility once each per day, using its character level as its caster level and affecting itself only."
+    "Description": "A duergar can use enlarge person and invisibility once each per day, using its character level as its caster level and affecting itself only.",
+    "FlatfileId": "racialtrait:spell-like-abilities:3"
   },
   {
     "Name": "Spell-Like Abilities",
@@ -4209,7 +4400,8 @@
     "Race": "Fetchling",
     "Implemented": 1,
     "BenefitType": "Custom",
-    "Description": "A fetchling can use disguise self once per day as a spell-like ability. He can assume the form of any humanoid creature using this spell-like ability. When a fetchling reaches 9th level in any combination of classes, he gains shadow walk (self only) as a"
+    "Description": "A fetchling can use disguise self once per day as a spell-like ability. He can assume the form of any humanoid creature using this spell-like ability. When a fetchling reaches 9th level in any combination of classes, he gains shadow walk (self only) as a",
+    "FlatfileId": "racialtrait:spell-like-abilities:4"
   },
   {
     "Name": "Spell-Like Ability",
@@ -4223,42 +4415,48 @@
     "Alternate": 0,
     "Race": "Dhampir",
     "Implemented": 0,
-    "Description": "A dhampir can use detect undead three times per day as a spell-like ability. The caster level for this ability equals the dhampir's class level."
+    "Description": "A dhampir can use detect undead three times per day as a spell-like ability. The caster level for this ability equals the dhampir's class level.",
+    "FlatfileId": "racialtrait:spell-like-ability:2"
   },
   {
     "Name": "Spell-Like Ability",
     "Alternate": 0,
     "Race": "Ifrit",
     "Implemented": 0,
-    "Description": "Burning hands 1/day (caster level equals the ifrit's level)."
+    "Description": "Burning hands 1/day (caster level equals the ifrit's level).",
+    "FlatfileId": "racialtrait:spell-like-ability:3"
   },
   {
     "Name": "Spell-Like Ability",
     "Alternate": 0,
     "Race": "Oread",
     "Implemented": 0,
-    "Description": "Magic stone 1/day (caster level equals the oread's total level)."
+    "Description": "Magic stone 1/day (caster level equals the oread's total level).",
+    "FlatfileId": "racialtrait:spell-like-ability:4"
   },
   {
     "Name": "Spell-Like Ability",
     "Alternate": 0,
     "Race": "Slyph",
     "Implemented": 0,
-    "Description": "Feather fall 1/day (caster level equals the sylph's total level)."
+    "Description": "Feather fall 1/day (caster level equals the sylph's total level).",
+    "FlatfileId": "racialtrait:spell-like-ability:5"
   },
   {
     "Name": "Spell-Like Ability",
     "Alternate": 0,
     "Race": "Tiefling",
     "Implemented": 0,
-    "Description": "Tieflings can use darkness once per day as a spell-like ability. The caster level for this ability equals the tiefling's class level."
+    "Description": "Tieflings can use darkness once per day as a spell-like ability. The caster level for this ability equals the tiefling's class level.",
+    "FlatfileId": "racialtrait:spell-like-ability:6"
   },
   {
     "Name": "Spell-Like Ability",
     "Alternate": 0,
     "Race": "Undine",
     "Implemented": 0,
-    "Description": "Hydraulic push 1/day (caster level equals the undine's level)."
+    "Description": "Hydraulic push 1/day (caster level equals the undine's level).",
+    "FlatfileId": "racialtrait:spell-like-ability:7"
   },
   {
     "Name": "Spirit of the Waters",
@@ -4306,7 +4504,8 @@
     "Alternate": 0,
     "Race": "Dwarf",
     "Implemented": 0,
-    "Description": "Dwarves receive a +4 racial bonus to their Combat Maneuver Defense when resisting a bull rush or trip attempt while standing on the ground."
+    "Description": "Dwarves receive a +4 racial bonus to their Combat Maneuver Defense when resisting a bull rush or trip attempt while standing on the ground.",
+    "FlatfileId": "racialtrait:stability:2"
   },
   {
     "Name": "Stalker",
@@ -4333,7 +4532,8 @@
     "Implemented": 1,
     "BenefitType": "StatChoice",
     "BenefitValue": 1,
-    "Description": "Half-orc characters get a +2 bonus to one ability score of their choice at creation to represent their varied nature."
+    "Description": "Half-orc characters get a +2 bonus to one ability score of their choice at creation to represent their varied nature.",
+    "FlatfileId": "racialtrait:stat-choice:2"
   },
   {
     "Name": "Stat Choice",
@@ -4342,7 +4542,8 @@
     "Implemented": 1,
     "BenefitType": "StatChoice",
     "BenefitValue": 1,
-    "Description": "Human characters get a +2 bonus to one ability score of their choice at creation to represent their varied nature."
+    "Description": "Human characters get a +2 bonus to one ability score of their choice at creation to represent their varied nature.",
+    "FlatfileId": "racialtrait:stat-choice:3"
   },
   {
     "Name": "Stats",
@@ -4356,14 +4557,16 @@
     "Alternate": 0,
     "Race": "Catfolk",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Charisma, –2 Wisdom Catfolk are sociable and agile, but often lack common sense."
+    "Description": "+2 Dexterity, +2 Charisma, –2 Wisdom Catfolk are sociable and agile, but often lack common sense.",
+    "FlatfileId": "racialtrait:stats:2"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Changeling",
     "Implemented": 0,
-    "Description": "Changelings are frail, but are clever and comely. Stats +2 Wisdom, +2 Charisma, –2 Constitution"
+    "Description": "Changelings are frail, but are clever and comely. Stats +2 Wisdom, +2 Charisma, –2 Constitution",
+    "FlatfileId": "racialtrait:stats:3"
   },
   {
     "Name": "Stats",
@@ -4372,238 +4575,272 @@
     "Implemented": 0,
     "BenefitType": "Stats",
     "BenefitValue": "Dex:2#Cha:2#Con:-2",
-    "Description": "Dhampirs are fast and seductive, but their racial bond to the undead impedes their mortal vigor, +2 Dexterity +2 Charisma -2 Constitution."
+    "Description": "Dhampirs are fast and seductive, but their racial bond to the undead impedes their mortal vigor, +2 Dexterity +2 Charisma -2 Constitution.",
+    "FlatfileId": "racialtrait:stats:4"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Drow",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Charisma, –2 Constitution Drow are nimble and manipulative."
+    "Description": "+2 Dexterity, +2 Charisma, –2 Constitution Drow are nimble and manipulative.",
+    "FlatfileId": "racialtrait:stats:5"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Drow Noble",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Charisma, –2 Constitution Drow are nimble and manipulative."
+    "Description": "+2 Dexterity, +2 Charisma, –2 Constitution Drow are nimble and manipulative.",
+    "FlatfileId": "racialtrait:stats:6"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Duergar",
     "Implemented": 0,
-    "Description": "Duergar are hearty and observant, but also belligerent. +2 Constitution, +2 Wisdom, –4 Charisma"
+    "Description": "Duergar are hearty and observant, but also belligerent. +2 Constitution, +2 Wisdom, –4 Charisma",
+    "FlatfileId": "racialtrait:stats:7"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Dwarf",
     "Implemented": 0,
-    "Description": "Dwarves are both tough and wise, but also a bit gruff. They gain +2 Constitution, +2 Wisdom, and –2 Charisma."
+    "Description": "Dwarves are both tough and wise, but also a bit gruff. They gain +2 Constitution, +2 Wisdom, and –2 Charisma.",
+    "FlatfileId": "racialtrait:stats:8"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Elf",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Intelligence, –2 Constitution: Elves are nimble, both in body and mind, but their form is frail."
+    "Description": "+2 Dexterity, +2 Intelligence, –2 Constitution: Elves are nimble, both in body and mind, but their form is frail.",
+    "FlatfileId": "racialtrait:stats:9"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Feral Halfling",
     "Implemented": 0,
-    "Description": "Halflings are nimble and strong-willed, but their small stature makes them weaker than other races. They gain +2 Dexterity, +2 Charisma, and –2 Strength."
+    "Description": "Halflings are nimble and strong-willed, but their small stature makes them weaker than other races. They gain +2 Dexterity, +2 Charisma, and –2 Strength.",
+    "FlatfileId": "racialtrait:stats:10"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Fetchling",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Charisma, –2 Wisdom Fetchlings are quick and forceful, but often strange and easily distracted by errant thoughts."
+    "Description": "+2 Dexterity, +2 Charisma, –2 Wisdom Fetchlings are quick and forceful, but often strange and easily distracted by errant thoughts.",
+    "FlatfileId": "racialtrait:stats:11"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Gillman",
     "Implemented": 0,
-    "Description": "Gillmen are vigorous and beautiful, but their domination by the aboleths has made them weak-willed. +2 Constitution, +2 Charisma, –2 Wisdom"
+    "Description": "Gillmen are vigorous and beautiful, but their domination by the aboleths has made them weak-willed. +2 Constitution, +2 Charisma, –2 Wisdom",
+    "FlatfileId": "racialtrait:stats:12"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Gnome",
     "Implemented": 0,
-    "Description": "Gnomes are physically weak but surprisingly hardy, and their attitude makes them naturally agreeable."
+    "Description": "Gnomes are physically weak but surprisingly hardy, and their attitude makes them naturally agreeable.",
+    "FlatfileId": "racialtrait:stats:13"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Goblin",
     "Implemented": 0,
-    "Description": "+4 Dexterity, –2 Strength, –2 Charisma Goblins are fast, but weak and unpleasant to be around."
+    "Description": "+4 Dexterity, –2 Strength, –2 Charisma Goblins are fast, but weak and unpleasant to be around.",
+    "FlatfileId": "racialtrait:stats:14"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Grippli",
     "Implemented": 0,
-    "Description": "Gripplis are nimble and alert, but spindly. +2 Dexterity, +2 Wisdom, –2 Strength"
+    "Description": "Gripplis are nimble and alert, but spindly. +2 Dexterity, +2 Wisdom, –2 Strength",
+    "FlatfileId": "racialtrait:stats:15"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Halfling",
     "Implemented": 0,
-    "Description": "Halflings are nimble and strong-willed, but their small stature makes them weaker than other races. They gain +2 Dexterity, +2 Charisma, and –2 Strength."
+    "Description": "Halflings are nimble and strong-willed, but their small stature makes them weaker than other races. They gain +2 Dexterity, +2 Charisma, and –2 Strength.",
+    "FlatfileId": "racialtrait:stats:16"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Hobgoblin",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Constitution Hobgoblins are fast and hardy."
+    "Description": "+2 Dexterity, +2 Constitution Hobgoblins are fast and hardy.",
+    "FlatfileId": "racialtrait:stats:17"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Ifrit",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Charisma, –2 Wisdom Ifrits are passionate and quick, but impetuous and destructive."
+    "Description": "+2 Dexterity, +2 Charisma, –2 Wisdom Ifrits are passionate and quick, but impetuous and destructive.",
+    "FlatfileId": "racialtrait:stats:18"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Kitsune",
     "Implemented": 0,
-    "Description": "Kitsune are agile and companionable, but tend to be physically weak. +2 Dexterity, +2 Charisma, –2 Strength"
+    "Description": "Kitsune are agile and companionable, but tend to be physically weak. +2 Dexterity, +2 Charisma, –2 Strength",
+    "FlatfileId": "racialtrait:stats:19"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Kobold",
     "Implemented": 0,
-    "Description": "+2 Dexterity, –4 Strength, –2 Constitution Kobolds are fast but weak."
+    "Description": "+2 Dexterity, –4 Strength, –2 Constitution Kobolds are fast but weak.",
+    "FlatfileId": "racialtrait:stats:20"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Merfolk",
     "Implemented": 0,
-    "Description": "Merfolk are graceful, hale, and beautiful. +2 Dexterity, +2 Constitution, +2 Charisma"
+    "Description": "Merfolk are graceful, hale, and beautiful. +2 Dexterity, +2 Constitution, +2 Charisma",
+    "FlatfileId": "racialtrait:stats:21"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Nagaji",
     "Implemented": 0,
-    "Description": "Nagaji are strong and have forceful personalities, but tend to ignore logic and mock scholastic pursuits. +2 Strength, +2 Charisma, –2 Intelligence"
+    "Description": "Nagaji are strong and have forceful personalities, but tend to ignore logic and mock scholastic pursuits. +2 Strength, +2 Charisma, –2 Intelligence",
+    "FlatfileId": "racialtrait:stats:22"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Orc",
     "Implemented": 0,
-    "Description": "+4 Strength, –2 Intelligence, –2 Wisdom, –2 Charisma Orcs are brutal and savage."
+    "Description": "+4 Strength, –2 Intelligence, –2 Wisdom, –2 Charisma Orcs are brutal and savage.",
+    "FlatfileId": "racialtrait:stats:23"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Oread",
     "Implemented": 0,
-    "Description": "+2 Strength, +2 Wisdom, –2 Charisma Oreads are strong, solid, stable, and stoic."
+    "Description": "+2 Strength, +2 Wisdom, –2 Charisma Oreads are strong, solid, stable, and stoic.",
+    "FlatfileId": "racialtrait:stats:24"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Quickling",
     "Implemented": 0,
-    "Description": "Quicklings are agile and hearty yet slightly weak."
+    "Description": "Quicklings are agile and hearty yet slightly weak.",
+    "FlatfileId": "racialtrait:stats:25"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Ratfolk",
     "Implemented": 0,
-    "Description": "Ratfolk are agile and clever, yet physically weak, +2 Dexterity, +2 Intelligence, –2 Strength."
+    "Description": "Ratfolk are agile and clever, yet physically weak, +2 Dexterity, +2 Intelligence, –2 Strength.",
+    "FlatfileId": "racialtrait:stats:26"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Samsaran",
     "Implemented": 0,
-    "Description": "Samsarans are insightful and strong-minded, but their bodies tend to be frail. +2 Intelligence, +2 Wisdom, –2 Constitution"
+    "Description": "Samsarans are insightful and strong-minded, but their bodies tend to be frail. +2 Intelligence, +2 Wisdom, –2 Constitution",
+    "FlatfileId": "racialtrait:stats:27"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Slyph",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Intelligence, –2 Constitution Sylphs are quick and insightful, but slight and delicate."
+    "Description": "+2 Dexterity, +2 Intelligence, –2 Constitution Sylphs are quick and insightful, but slight and delicate.",
+    "FlatfileId": "racialtrait:stats:28"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Strix",
     "Implemented": 0,
-    "Description": "Strix are swift and elusive, but tend to be stubborn and swift to anger. +2 Dexterity, -2 Charisma"
+    "Description": "Strix are swift and elusive, but tend to be stubborn and swift to anger. +2 Dexterity, -2 Charisma",
+    "FlatfileId": "racialtrait:stats:29"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Suli",
     "Implemented": 0,
-    "Description": "Sulis are brawny and charming, but slow-witted. +2 Strength, +2 Charisma, –2 Intelligence"
+    "Description": "Sulis are brawny and charming, but slow-witted. +2 Strength, +2 Charisma, –2 Intelligence",
+    "FlatfileId": "racialtrait:stats:30"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Svirfneblin",
     "Implemented": 0,
-    "Description": "Svirfneblin are fast and observant but relatively weak and emotionally distant. –2 Strength, +2 Dexterity, +2 Wisdom, –4 Charisma"
+    "Description": "Svirfneblin are fast and observant but relatively weak and emotionally distant. –2 Strength, +2 Dexterity, +2 Wisdom, –4 Charisma",
+    "FlatfileId": "racialtrait:stats:31"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Tengu",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Wisdom, –2 Constitution Tengus are fast and observant, but relatively fragile and delicate."
+    "Description": "+2 Dexterity, +2 Wisdom, –2 Constitution Tengus are fast and observant, but relatively fragile and delicate.",
+    "FlatfileId": "racialtrait:stats:32"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Tiefling",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Intelligence, –2 Charisma Tieflings are quick in body and mind, but are inherently strange and unnerving."
+    "Description": "+2 Dexterity, +2 Intelligence, –2 Charisma Tieflings are quick in body and mind, but are inherently strange and unnerving.",
+    "FlatfileId": "racialtrait:stats:33"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Undine",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Wisdom, –2 Strength Undines are both perceptive and agile, but tend to adapt rather than match force with force."
+    "Description": "+2 Dexterity, +2 Wisdom, –2 Strength Undines are both perceptive and agile, but tend to adapt rather than match force with force.",
+    "FlatfileId": "racialtrait:stats:34"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Vanara",
     "Implemented": 0,
-    "Description": "+2 Dexterity, +2 Wisdom, –2 Charisma. Vanaras are agile and insightful, but are also rather mischievous."
+    "Description": "+2 Dexterity, +2 Wisdom, –2 Charisma. Vanaras are agile and insightful, but are also rather mischievous.",
+    "FlatfileId": "racialtrait:stats:35"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Vishkanyas",
     "Implemented": 0,
-    "Description": "Vishkanyas are graceful and elegant, but they are often irrational. +2 Dexterity, +2 Charisma, –2 Wisdom"
+    "Description": "Vishkanyas are graceful and elegant, but they are often irrational. +2 Dexterity, +2 Charisma, –2 Wisdom",
+    "FlatfileId": "racialtrait:stats:36"
   },
   {
     "Name": "Stats",
     "Alternate": 0,
     "Race": "Wayang",
     "Implemented": 0,
-    "Description": "Wayang are nimble and cagey, but their perception of the world is clouded by shadows. +2 Dexterity, +2 Intelligence, –2 Wisdom"
+    "Description": "Wayang are nimble and cagey, but their perception of the world is clouded by shadows. +2 Dexterity, +2 Intelligence, –2 Wisdom",
+    "FlatfileId": "racialtrait:stats:37"
   },
   {
     "Name": "Stone in the Blood",
@@ -4625,7 +4862,8 @@
     "Alternate": 0,
     "Race": "Svirfneblin",
     "Implemented": 0,
-    "Description": "Svirfneblin gain stonecunning as dwarves."
+    "Description": "Svirfneblin gain stonecunning as dwarves.",
+    "FlatfileId": "racialtrait:stonecunning:2"
   },
   {
     "Name": "Stoneseer",
@@ -4706,7 +4944,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:120",
-    "Description": "Drow can see in the dark up to 120 feet."
+    "Description": "Drow can see in the dark up to 120 feet.",
+    "FlatfileId": "racialtrait:superior-darkvision:2"
   },
   {
     "Name": "Superior Darkvision",
@@ -4715,7 +4954,8 @@
     "Implemented": 1,
     "BenefitType": "Senses",
     "BenefitValue": "Darkvision:120",
-    "Description": "Duergar can see in the dark up to 120 feet."
+    "Description": "Duergar can see in the dark up to 120 feet.",
+    "FlatfileId": "racialtrait:superior-darkvision:3"
   },
   {
     "Name": "Supernatural Speed",
@@ -4742,7 +4982,8 @@
     "Implemented": 1,
     "BenefitType": "Skill",
     "BenefitValue": "Acrobatics#Climb",
-    "Description": "Halflings receive a +2 racial bonus on Acrobatics and Climb skill checks."
+    "Description": "Halflings receive a +2 racial bonus on Acrobatics and Climb skill checks.",
+    "FlatfileId": "racialtrait:sure-footed:2"
   },
   {
     "Name": "Surface Infiltrator",
@@ -4803,7 +5044,8 @@
     "Race": "Halfling",
     "Implemented": 0,
     "Replaces": "Sure Footed",
-    "Description": "Halflings possess incredible stealth even while moving through obstructed areas. Halflings with this racial trait reduce the penalty for using Stealth while moving by 5, and reduce the Stealth check penalty for sniping by 10. This racial trait replaces su"
+    "Description": "Halflings possess incredible stealth even while moving through obstructed areas. Halflings with this racial trait reduce the penalty for using Stealth while moving by 5, and reduce the Stealth check penalty for sniping by 10. This racial trait replaces su",
+    "FlatfileId": "racialtrait:swift-as-shadows:2"
   },
   {
     "Name": "Swordtrained",
@@ -5106,35 +5348,40 @@
     "Alternate": 0,
     "Race": "Drow Noble",
     "Implemented": 0,
-    "Description": "Drow are proficient with the hand crossbow, rapier, and short sword."
+    "Description": "Drow are proficient with the hand crossbow, rapier, and short sword.",
+    "FlatfileId": "racialtrait:weapon-familiarity:2"
   },
   {
     "Name": "Weapon Familiarity",
     "Alternate": 0,
     "Race": "Dwarf",
     "Implemented": 0,
-    "Description": "Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon."
+    "Description": "Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.",
+    "FlatfileId": "racialtrait:weapon-familiarity:3"
   },
   {
     "Name": "Weapon Familiarity",
     "Alternate": 0,
     "Race": "Elf",
     "Implemented": 0,
-    "Description": "Elves are proficient with longbows (including composite longbows), longswords, rapiers, and shortbows (including composite shortbows), and treat any weapon with the word “elven” in its name as a martial weapon."
+    "Description": "Elves are proficient with longbows (including composite longbows), longswords, rapiers, and shortbows (including composite shortbows), and treat any weapon with the word “elven” in its name as a martial weapon.",
+    "FlatfileId": "racialtrait:weapon-familiarity:4"
   },
   {
     "Name": "Weapon Familiarity",
     "Alternate": 0,
     "Race": "Feral Halfling",
     "Implemented": 0,
-    "Description": "Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon."
+    "Description": "Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon.",
+    "FlatfileId": "racialtrait:weapon-familiarity:5"
   },
   {
     "Name": "Weapon Familiarity",
     "Alternate": 0,
     "Race": "Gnome",
     "Implemented": 0,
-    "Description": "Gnomes treat any weapon with the word “gnome” in its name as a martial weapon."
+    "Description": "Gnomes treat any weapon with the word “gnome” in its name as a martial weapon.",
+    "FlatfileId": "racialtrait:weapon-familiarity:6"
   },
   {
     "Name": "Weapon Familiarity",
@@ -5142,42 +5389,48 @@
     "Race": "Goblin",
     "Implemented": 0,
     "Replaces": "Skilled",
-    "Description": "Goblins' traditional weapons are the dogslicer and the horsechopper, weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the dogslicer and the horsechopper, and treat any weapon with the word gobl"
+    "Description": "Goblins' traditional weapons are the dogslicer and the horsechopper, weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the dogslicer and the horsechopper, and treat any weapon with the word gobl",
+    "FlatfileId": "racialtrait:weapon-familiarity:7"
   },
   {
     "Name": "Weapon Familiarity",
     "Alternate": 0,
     "Race": "Grippli",
     "Implemented": 0,
-    "Description": "Gripplis are proficient with nets."
+    "Description": "Gripplis are proficient with nets.",
+    "FlatfileId": "racialtrait:weapon-familiarity:8"
   },
   {
     "Name": "Weapon Familiarity",
     "Alternate": 0,
     "Race": "Halfling",
     "Implemented": 0,
-    "Description": "Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon."
+    "Description": "Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon.",
+    "FlatfileId": "racialtrait:weapon-familiarity:9"
   },
   {
     "Name": "Weapon Familiarity",
     "Alternate": 0,
     "Race": "Half-Orc",
     "Implemented": 0,
-    "Description": "Half-orcs are proficient with greataxes and falchions and treat any weapon with the word “orc” in its name as a martial weapon."
+    "Description": "Half-orcs are proficient with greataxes and falchions and treat any weapon with the word “orc” in its name as a martial weapon.",
+    "FlatfileId": "racialtrait:weapon-familiarity:10"
   },
   {
     "Name": "Weapon Familiarity",
     "Alternate": 0,
     "Race": "Orc",
     "Implemented": 0,
-    "Description": "Orcs are always proficient with greataxes and falchions, and treat any weapon with the word orc in its name as a martial weapon."
+    "Description": "Orcs are always proficient with greataxes and falchions, and treat any weapon with the word orc in its name as a martial weapon.",
+    "FlatfileId": "racialtrait:weapon-familiarity:11"
   },
   {
     "Name": "Weapon Familiarity",
     "Alternate": 0,
     "Race": "Vishkanyas",
     "Implemented": 0,
-    "Description": "Vishkanyas are always proficient with blowguns, kukri, and shuriken."
+    "Description": "Vishkanyas are always proficient with blowguns, kukri, and shuriken.",
+    "FlatfileId": "racialtrait:weapon-familiarity:12"
   },
   {
     "Name": "Weather Savvy",

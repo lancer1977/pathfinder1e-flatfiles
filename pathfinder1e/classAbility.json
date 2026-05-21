@@ -104,7 +104,8 @@
     "Archtype": "Mindchemist",
     "Level": 1,
     "Description": "A mindchemist may select Skill Focus (Disable Device, Disguise, Heal, any Knowledge skill, Sense Motive, or Spellcraft) in place of a discovery.",
-    "ClassName": "Alchemist"
+    "ClassName": "Alchemist",
+    "FlatfileId": "classAbility:bonus-feats:2"
   },
   {
     "Name": "Languages",
@@ -175,7 +176,8 @@
     "Level": 1,
     "Sacrifice": "Bomb",
     "Description": "A psychonaut's bombs deal damage one die step lower than normal (regular bombs deal d4s, concussive bombs deal 1d3s, and so on). This ability otherwise functions as and",
-    "ClassName": "Alchemist"
+    "ClassName": "Alchemist",
+    "FlatfileId": "classAbility:bomb:2"
   },
   {
     "Name": "Precognition",
@@ -223,7 +225,8 @@
     "Level": 1,
     "Sacrifice": "Bomb",
     "Description": "A reanimator's bombs deal damage one die step lower than normal (regular bombs deal d4s, concussive bombs deal 1d3s, and so on). This ability otherwise functions as and",
-    "ClassName": "Alchemist"
+    "ClassName": "Alchemist",
+    "FlatfileId": "classAbility:bomb:3"
   },
   {
     "Name": "Simple Reanimation",
@@ -260,7 +263,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Bombs deal {0} damage. {1} per day.",
-    "ClassName": "Alchemist"
+    "ClassName": "Alchemist",
+    "FlatfileId": "classAbility:bomb:4"
   },
   {
     "Name": "Brew Potion",
@@ -612,14 +616,16 @@
     "Archtype": "Standard Arcane Trickster",
     "Level": 1,
     "Description": "Arcane tricksters gain no proficiency with any weapon or armor",
-    "ClassName": "Arcane Trickster"
+    "ClassName": "Arcane Trickster",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:2"
   },
   {
     "Name": "Spells per Day",
     "Archtype": "Standard Arcane Trickster",
     "Level": 1,
     "Description": "When a new arcane trickster level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting If a character had more than one spellcasting class before becoming an arcane trickster, she must decide to which class she adds the new level for purposes of determining spells per day",
-    "ClassName": "Arcane Trickster"
+    "ClassName": "Arcane Trickster",
+    "FlatfileId": "classAbility:spells-per-day:2"
   },
   {
     "Name": "Ranged Legerdemain",
@@ -634,7 +640,8 @@
     "Archtype": "Standard Arcane Trickster",
     "Level": 1,
     "Description": "This is exactly like the rogue ability of the same name The extra damage dealt increases by +1d6 every other level (2nd, 4th, 6th, 8th, and 10th) If an arcane trickster gets a sneak attack bonus from another source, the bonuses on damage stack",
-    "ClassName": "Arcane Trickster"
+    "ClassName": "Arcane Trickster",
+    "FlatfileId": "classAbility:sneak-attack:2"
   },
   {
     "Name": "Impromptu Sneak Attack",
@@ -704,7 +711,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "An arcanist casts arcane spells drawn from the sorcerer/wizard spell list, presented in Chapter 10 of the Core Rulebook. An arcanist must prepare her spells ahead of time, but unlike a wizard, her spells are not expended when they’re cast. Instead, she can cast any spell that she has prepared, assuming she hasn’t yet used up her spells per day for that level. To learn, prepare, or cast a spell, the arcanist must have an Intelligence score equal to at least 10 + the spell level. The saving throw DC against an arcanist’s spell is 10 + the spell level + the arcanist’s Intelligence modifier. An arcanist can only cast a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table 1–1. In addition, she receives bonus spells per day if she has a high Intelligence score (see Table 1–3 in the Core Rulebook). An arcanist’s may know any number of spells, but the number she can prepare each day is limited. she can prepare four 0-level spells and two 1st-level spells each day. At each new arcanist level, the number of spells she can prepare each day increases, adding new spell levels as indicated on Table 1–2. Unlike the number of spells she can cast per day, the number of spells an arcanist can prepare each day is not affected by her Intelligence score. Feats and other effects that modify the number of spells known by a spellcaster affect the number of spells the arcanist can prepare. An arcanist must choose and prepare her spells ahead of time by getting 8 hours of sleep and spending 1 hour studying her spellbook. While studying, the arcanist decides what spells to prepare. Like a sorcerer, an arcanist can choose to apply a metamagic feat to a prepared spell as she casts it, increasing the casting time as normal. Like a wizard, she may prepare a spell with a metamagic feat, casting it using the normal casting time. She may combine these options, preparing a spell with a metamagic feat, then add another metamagic feat when she casts it by increasing the casting time.",
-    "ClassName": "Arcanist"
+    "ClassName": "Arcanist",
+    "FlatfileId": "classAbility:spells:2"
   },
   {
     "Name": "Weapon And Armor Proficiency",
@@ -712,7 +720,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Arcanists are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor interferes with an arcanist’s gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor on page 83 of the Pathfinder RPG Core Rulebook).",
-    "ClassName": "Arcanist"
+    "ClassName": "Arcanist",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:3"
   },
   {
     "Name": "Scribe Scroll",
@@ -728,7 +737,8 @@
     "Level": 8,
     "Implemented": 1,
     "Description": "At 8th, 13th, and 18th level, an arcanist gains a bonus feat in addition to the bonus feats gained from normal advancement. At each such opportunity, she can choose a metamagic feat, an item creation feat, Eschew Materials, or Spell Mastery (the arcanist counts as a wizard for the purposes of this feat). The arcanist must still meet all prerequisites for a bonus feat, including caster level minimums.",
-    "ClassName": "Arcanist"
+    "ClassName": "Arcanist",
+    "FlatfileId": "classAbility:bonus-feats:3"
   },
   {
     "Name": "School Supremacy",
@@ -743,7 +753,8 @@
     "Archtype": "Standard Assassin",
     "Level": 1,
     "Description": "Assassins are proficient with the crossbow (hand, light, or heavy), dagger (any type), dart, rapier, sap, shortbow (normal and composite), and short sword Assassins are proficient with light armor but not with shields",
-    "ClassName": "Assassin"
+    "ClassName": "Assassin",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:4"
   },
   {
     "Name": "Sneak Attack",
@@ -751,7 +762,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "This is exactly like the rogue ability of the same name The extra damage dealt increases by +1d6 every other level (1st, 3rd, 5th, 7th, and 9th) If an assassin gets a sneak attack bonus from another source, the bonuses on damage stack",
-    "ClassName": "Assassin"
+    "ClassName": "Assassin",
+    "FlatfileId": "classAbility:sneak-attack:3"
   },
   {
     "Name": "Death Attack",
@@ -766,7 +778,8 @@
     "Archtype": "Standard Assassin",
     "Level": 1,
     "Description": "Assassins are trained in the use of poison and cannot accidentally poison themselves when applying poison to a blade (see Poison)",
-    "ClassName": "Assassin"
+    "ClassName": "Assassin",
+    "FlatfileId": "classAbility:poison-use:2"
   },
   {
     "Name": "Save Bonus against Poison",
@@ -782,7 +795,8 @@
     "Archtype": "Standard Assassin",
     "Level": 2,
     "Description": "At 2nd level, an assassin cannot be caught flat-footed, even if the attacker is invisible He still loses his Dexterity bonus to AC if immobilized An assassin with this ability can still lose his Dexterity bonus to AC if an opponent successfully uses the feint action against him",
-    "ClassName": "Assassin"
+    "ClassName": "Assassin",
+    "FlatfileId": "classAbility:uncanny-dodge:2"
   },
   {
     "Name": "Hidden Weapons",
@@ -996,7 +1010,8 @@
     "Level": 2,
     "Implemented": 1,
     "Description": "Cannot be caught flat-footed, nor does she lose her Dex bonus to AC if the attacker is invisible.",
-    "ClassName": "Barbarian"
+    "ClassName": "Barbarian",
+    "FlatfileId": "classAbility:uncanny-dodge:3"
   },
   {
     "Name": "Trap Sense",
@@ -1012,7 +1027,8 @@
     "Level": 5,
     "Implemented": 1,
     "Description": "Can no longer be flanked.",
-    "ClassName": "Barbarian"
+    "ClassName": "Barbarian",
+    "FlatfileId": "classAbility:improved-uncanny-dodge:2"
   },
   {
     "Name": "Damage Reduction",
@@ -1387,7 +1403,8 @@
     "Level": 3,
     "Sacrifice": "Inspire Competence",
     "Description": "At 3rd level, a sandman gains a +1 bonus on Reflex saves against traps and a +1 dodge bonus to AC against traps These bonuses increase by +1 every three levels after 3rd This ability replaces inspire competence",
-    "ClassName": "Bard"
+    "ClassName": "Bard",
+    "FlatfileId": "classAbility:trap-sense:2"
   },
   {
     "Name": "Sneak Attack",
@@ -1396,7 +1413,8 @@
     "Level": 5,
     "Sacrifice": "Lore Master",
     "Description": "At 5th level, a sandman inflicts +1d6 points of damage against targets within 30 feet that he flanks or that are denied their Dex bonus to AC against him This damage increases by +1d6 every five levels after 5th This ability replaces lore master",
-    "ClassName": "Bard"
+    "ClassName": "Bard",
+    "FlatfileId": "classAbility:sneak-attack:4"
   },
   {
     "Name": "Slumber Song",
@@ -1563,7 +1581,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Cast unlimited 0 level spells.",
-    "ClassName": "Bard"
+    "ClassName": "Bard",
+    "FlatfileId": "classAbility:cantrips:2"
   },
   {
     "Name": "Countersong",
@@ -1603,7 +1622,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Can cast spells without preparing them ahead of time. Max spells per day {0}",
-    "ClassName": "Bard"
+    "ClassName": "Bard",
+    "FlatfileId": "classAbility:spells:3"
   },
   {
     "Name": "Versatile Performance",
@@ -1634,7 +1654,8 @@
     "Level": 5,
     "Implemented": 1,
     "Description": "Take 10 in Knowledges, take 20 up to {0} per day.",
-    "ClassName": "Bard"
+    "ClassName": "Bard",
+    "FlatfileId": "classAbility:lore-master:2"
   },
   {
     "Name": "Suggestion",
@@ -1791,7 +1812,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A bloodrager’s land speed is faster than the norm for his race by 10 feet. This benefit applies only when he is wearing no armor, light armor, or medium armor, and while not carrying a heavy load. Apply this bonus before modifying the bloodrager’s speed because of any load carried or armor worn. This bonus stacks with any other bonuses to the bloodrager’s land speed.",
-    "ClassName": "Bloodrager"
+    "ClassName": "Bloodrager",
+    "FlatfileId": "classAbility:fast-movement:2"
   },
   {
     "Name": "Weapon And Armor Proficiency",
@@ -1799,7 +1821,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Bloodragers are proficient with all simple weapons and martial weapons, light armor, medium armor, and shields (except tower shields). A bloodrager can cast bloodrager spells while wearing light armor or medium armor without incurring the normal arcane spell failure chance. Like other arcane spellcasters, a bloodrager wearing heavy armor or wielding a shield incurs a chance of arcane spell failure if the spell in question has somatic components. A multiclass bloodrager still incurs the normal arcane spell failure chance for arcane spells received from other classes.",
-    "ClassName": "Bloodrager"
+    "ClassName": "Bloodrager",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:5"
   },
   {
     "Name": "Uncanny Dodge",
@@ -1807,7 +1830,8 @@
     "Level": 2,
     "Implemented": 1,
     "Description": "A bloodrager gains the ability to react to danger before his senses would normally allow him to do so. He cannot be caught f latfooted, even if the attacker is invisible. He still loses his Dexterity bonus to AC if immobilized. A bloodrager with this ability can still lose his Dexterity bonus to AC if an opponent successfully uses the feint action against him. If a bloodrager already has uncanny dodge from a different class, he automatically gains improved uncanny dodge (see below) instead.",
-    "ClassName": "Bloodrager"
+    "ClassName": "Bloodrager",
+    "FlatfileId": "classAbility:uncanny-dodge:4"
   },
   {
     "Name": "Blood Casting",
@@ -1823,7 +1847,8 @@
     "Level": 4,
     "Implemented": 1,
     "Description": "Beginning a bloodrager gains the ability to cast a small number of arcane spells drawn from the magus spell list (see page 13 of Pathfinder RPG Ultimate Magic). To learn or cast a spell, a bloodrager must have a Charisma score equal to at least 10 + the spell level. He can cast spells he knows without preparing it ahead of time. The saving throw DC against a bloodrager’s spell is 10 + the spell level + the bloodrager’s Charisma modifier. A bloodrager’s highest level of spells is 4th. Magus spells of 5th level and above are not on the bloodrager class spell list, and a bloodrager cannot use spell completion or spell trigger magic items (without making a successful Use Magic Device check) of magus spells of 5th level or higher. Like other spellcasters, a bloodrager can cast only a certain number of spells of each level per day. His base daily spell allotment is given on Table 1–3. In addition, he receives bonus spells per day if he has a high Charisma score (Pathfinder RPG Core Rulebook 17, Table 1–3). The bloodrager does not need to prepare these spells in advance; he can cast them at any point during a bloodrage (as per his blood casting ability), assuming he hasn’t yet used up his spells per day for that level. The bloodrager’s selection of spells is limited. a bloodrager knows two 1st-level spells of the bloodrager’s choice at 4th level. A bloodrager gains more spells as he increases in level, as indicated on Table 1–4. (Unlike spells per day, the number of spells a bloodrager knows is not affected by his Charisma score, but it’s affected by the bonus bloodline spells he gains).",
-    "ClassName": "Bloodrager"
+    "ClassName": "Bloodrager",
+    "FlatfileId": "classAbility:spells:4"
   },
   {
     "Name": "Improved Uncanny Dodge",
@@ -1831,7 +1856,8 @@
     "Level": 5,
     "Implemented": 0,
     "Description": "A bloodrager can no longer be f lanked. This defense denies a rogue (or other class with the sneak attack ability) the ability to sneak attack the bloodrager by f lanking him, unless the attacker has at least four more rogue levels (or levels in the class granting sneak attack) than the target has bloodrager levels. If a character already has uncanny dodge (see above) from another class, the levels from the classes that grant uncanny dodge stack to determine the minimum rogue level required to f lank the character.",
-    "ClassName": "Bloodrager"
+    "ClassName": "Bloodrager",
+    "FlatfileId": "classAbility:improved-uncanny-dodge:3"
   },
   {
     "Name": "Damage Reduction",
@@ -1839,7 +1865,8 @@
     "Level": 7,
     "Implemented": 0,
     "Description": "a bloodrager gains damage reduction. Subtract 1 from the damage the bloodrager takes each time he is dealt damage from a weapon or a natural attack. At 10th level, and every three bloodrager levels thereafter (13th, 16th, and 19th level), this damage reduction rises by 1 point. Damage reduction can reduce damage to 0 but not below 0.",
-    "ClassName": "Bloodrager"
+    "ClassName": "Bloodrager",
+    "FlatfileId": "classAbility:damage-reduction:2"
   },
   {
     "Name": "Greater Bloodrage",
@@ -1855,7 +1882,8 @@
     "Level": 14,
     "Implemented": 0,
     "Description": "While in rage, a bloodrager of 14th level or higher gains a +4 bonus on Will saves to resist enchantment spells. This bonus stacks with all other modifiers, including the morale bonus on Will saves he also receives during his bloodrage.",
-    "ClassName": "Bloodrager"
+    "ClassName": "Bloodrager",
+    "FlatfileId": "classAbility:indomitable-will:2"
   },
   {
     "Name": "Tireless Rage",
@@ -1863,7 +1891,8 @@
     "Level": 17,
     "Implemented": 0,
     "Description": "A bloodrager no longer becomes fatigued at the end of his bloodrage.",
-    "ClassName": "Bloodrager"
+    "ClassName": "Bloodrager",
+    "FlatfileId": "classAbility:tireless-rage:2"
   },
   {
     "Name": "Mighty Rage",
@@ -1871,7 +1900,8 @@
     "Level": 20,
     "Implemented": 0,
     "Description": "when a bloodrager enters rage, the morale bonus to his Strength and Constitution increases to +8, and the morale bonus on his Will saves increases to +4.",
-    "ClassName": "Bloodrager"
+    "ClassName": "Bloodrager",
+    "FlatfileId": "classAbility:mighty-rage:2"
   },
   {
     "Name": "Martial Maneuvers",
@@ -1896,7 +1926,8 @@
     "Implemented": 1,
     "LevelsPerCharges": 2,
     "Description": "+{0} bonus combat feats.",
-    "ClassName": "Brawler"
+    "ClassName": "Brawler",
+    "FlatfileId": "classAbility:bonus-feats:4"
   },
   {
     "Name": "Brawlers Flurry",
@@ -1950,7 +1981,8 @@
     "Archtype": "Emissary",
     "Level": 1,
     "Description": "An emissary can select Endurance, Fleet, or Run in addition to the list of combat feats whenever he gains a bonus feat",
-    "ClassName": "Cavalier"
+    "ClassName": "Cavalier",
+    "FlatfileId": "classAbility:bonus-feats:5"
   },
   {
     "Name": "In or Out of the Saddle",
@@ -2003,7 +2035,8 @@
     "Level": 1,
     "Sacrifice": "Tactician, Greater Tactician, Master Tactician, And The Standard Cavalier's Selection Of Bonus Feats",
     "Description": "Bonus Feats: A gendarme trains to be a mounted terror, almost to the exclusion of all other abilities He gains bonus feats at 1st level, 5th level, and then every three levels thereafter, but must select these bonus feats from the following list: Improved Bull Rush, Mounted Combat, Power Attack, Ride-By Attack, Spirited Charge, Spring Attack, and Unseat If the gendarme has already selected all of the listed feats, then he may select his bonus feats from those feats listed as combat feats This ability replaces tactician, greater tactician, master tactician, and the standard cavalier's selection of bonus feats",
-    "ClassName": "Cavalier"
+    "ClassName": "Cavalier",
+    "FlatfileId": "classAbility:bonus-feats:6"
   },
   {
     "Name": "Transfixing Charge",
@@ -2097,7 +2130,8 @@
     "Archtype": "Musketeer",
     "Level": 1,
     "Description": "A musketeer does not gain proficiency in heavy armor Musketeers are proficient with all simple and martial weapons, and with firearms A cavalier's levels stack with any fighter levels he possesses for the purpose of meeting the level prerequisite for feats that specifically select a firearm, such as Weapon Specialization",
-    "ClassName": "Cavalier"
+    "ClassName": "Cavalier",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:6"
   },
   {
     "Name": "Gifted Firearm",
@@ -2164,7 +2198,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Gain a mount as druid animal companion ability.",
-    "ClassName": "Cavalier"
+    "ClassName": "Cavalier",
+    "FlatfileId": "classAbility:mount:2"
   },
   {
     "Name": "Mount",
@@ -2172,7 +2207,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Gain the service of a loyal and trusty steed to carry him into battle.",
-    "ClassName": "Cavalier"
+    "ClassName": "Cavalier",
+    "FlatfileId": "classAbility:mount:3"
   },
   {
     "Name": "Order",
@@ -2212,7 +2248,8 @@
     "Level": 5,
     "Implemented": 0,
     "Description": "Cavaliers banner grants a {0} morale bonus vs fear, {1} morale bonus on charge attack rolls.",
-    "ClassName": "Cavalier"
+    "ClassName": "Cavalier",
+    "FlatfileId": "classAbility:banner:2"
   },
   {
     "Name": "Bonus Feat",
@@ -2276,7 +2313,8 @@
     "Archtype": "Strategist",
     "Level": 1,
     "Description": "As the cavalier class feature, except that a strategist can use this ability once per day at 1st level, plus one additional time per day at 5th level and for every four levels thereafter (to a maximum of five times per day at 17th level)",
-    "ClassName": "Cavalier"
+    "ClassName": "Cavalier",
+    "FlatfileId": "classAbility:tactician:2"
   },
   {
     "Name": "Drill Instructor",
@@ -2317,7 +2355,8 @@
     "Archtype": "Crusader",
     "Level": 1,
     "Description": "Bonus Feat: A crusader gains a bonus feat at 1st level, then again at 5th level and every five levels thereafter (to a maximum of six at 20th level) These bonus feats must be chosen from the following list: Heavy Armor Proficiency, Improved Shield Bash, Martial Weapon Proficiency, Saving Shield, Shield Focus, Tower Shield Proficiency, and Weapon Focus* At 10th level, a crusader may also choose from the following feats: Exotic Weapon Proficiency, Greater Shield Focus, Greater Weapon Focus*, Improved Critical*, Shield Slam, Shield Specialization, and Weapon Specialization* At 20th level, a crusader may also choose from the following feats: Greater Shield Specialization and Greater Weapon Specialization* Bonus feats marked with an asterisk (*) must be applied to the favored weapon of the crusader's deity A crusader need not meet the normal class- or level-based prerequisites for these bonus feats",
-    "ClassName": "Cleric"
+    "ClassName": "Cleric",
+    "FlatfileId": "classAbility:bonus-feat:2"
   },
   {
     "Name": "Legions Blessing",
@@ -2342,7 +2381,8 @@
     "Level": 1,
     "Sacrifice": "Channel Energy",
     "Description": "A divine strategist can always act in a surprise round even if she fails to make a Perception check to notice enemies, though she is considered flat-footed until she acts In addition, the divine strategist gains a bonus on initiative checks equal to 1/2 her cleric level At 20th level, a divine strategist's initiative roll is automatically a natural 20 Allies able to see and hear the divine strategist gain a bonus on initiative checks equal to 1/4 the divine strategist's level This is a language-dependent ability This ability replaces channel energy",
-    "ClassName": "Cleric"
+    "ClassName": "Cleric",
+    "FlatfileId": "classAbility:master-tactician:2"
   },
   {
     "Name": "Caster Support",
@@ -2448,7 +2488,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Channel Energy up to {0} times per day for {1}.",
-    "ClassName": "Cleric"
+    "ClassName": "Cleric",
+    "FlatfileId": "classAbility:channel-energy:2"
   },
   {
     "Name": "Domains",
@@ -2456,7 +2497,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Gain powers and spells from Domains.",
-    "ClassName": "Cleric"
+    "ClassName": "Cleric",
+    "FlatfileId": "classAbility:domains:2"
   },
   {
     "Name": "Osirons",
@@ -2479,7 +2521,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Can cast spells that are prepared ahead of time. Max spells per day {0}",
-    "ClassName": "Cleric"
+    "ClassName": "Cleric",
+    "FlatfileId": "classAbility:spells:5"
   },
   {
     "Name": "Spontaneous Casting",
@@ -2487,21 +2530,24 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Trade spells for",
-    "ClassName": "Cleric"
+    "ClassName": "Cleric",
+    "FlatfileId": "classAbility:spontaneous-casting:2"
   },
   {
     "Name": "Weapon and Armor Proficiency",
     "Archtype": "Standard Dragon Disciple",
     "Level": 1,
     "Description": "Dragon disciples gain no proficiency with any weapon or armor",
-    "ClassName": "Dragon Disciple"
+    "ClassName": "Dragon Disciple",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:7"
   },
   {
     "Name": "Spells per Day",
     "Archtype": "Standard Dragon Disciple",
     "Level": 1,
     "Description": "At the indicated levels, a dragon disciple gains new spells per day as if he had also gained a level in an arcane spellcasting class he belonged to before adding the prestige class He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting If a character had more than one arcane spellcasting class before becoming a dragon disciple, he must decide to which class he adds the new level for purposes of determining spells per day",
-    "ClassName": "Dragon Disciple"
+    "ClassName": "Dragon Disciple",
+    "FlatfileId": "classAbility:spells-per-day:3"
   },
   {
     "Name": "Blood of Dragons",
@@ -2619,14 +2665,16 @@
     "Level": 9,
     "Sacrifice": "Venom Immunity",
     "Description": "Bonus Feat: At 9th level and every four levels thereafter, an ape shaman gains one of the following bonus feats: Diehard, Endurance, Great Fortitude, Improved Bull Rush, and Toughness She must meet the prerequisites for these bonus feats This ability replaces venom immunity",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:bonus-feat:3"
   },
   {
     "Name": "Nature Bond",
     "Archtype": "Bat Shaman",
     "Level": 1,
     "Description": "A bat shaman who chooses an animal companion must select a bat If choosing a domain, the bat shaman must choose from Air, Animal, Darkness (Night subdomain), and Trickery (Deception subdomain)",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:nature-bond:2"
   },
   {
     "Name": "Wild Empathy",
@@ -2634,7 +2682,8 @@
     "Archtype": "Bat Shaman",
     "Level": 1,
     "Description": "A bat shaman can use wild empathy with bats as a full-round action with a +4 bonus",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:wild-empathy:2"
   },
   {
     "Name": "Totem Transformation",
@@ -2642,7 +2691,8 @@
     "Archtype": "Bat Shaman",
     "Level": 2,
     "Description": "Totem Transformation (Su): At 2nd level, a bat shaman may adopt an aspect of the bat while retaining her normal form This ability functions as the ape shaman ability, but the druid may select from the following sets of bonuses and abilities: movement (fly speed 30 ft [average]; the druid must be at least 5th level to select this bonus), natural weapons (bite [1d4 for a Medium shaman]), or senses (blindsense 20 ft)",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:totem-transformation:2"
   },
   {
     "Name": "While using totem transformation, the bat shaman may speak normally and can cast speak with animals",
@@ -2658,7 +2708,8 @@
     "Archtype": "Bat Shaman",
     "Level": 5,
     "Description": "At 5th level, a bat shaman may cast summon nature's ally as a standard action when summoning bats, and these summoned creatures gain temporary hit points equal to her druid level This ability otherwise functions as the ape shaman ability",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:totemic-summons:2"
   },
   {
     "Name": "Wild Shape",
@@ -2666,7 +2717,8 @@
     "Archtype": "Bat Shaman",
     "Level": 6,
     "Description": "At 6th level, a bat shaman's wild shape ability functions at her druid level –2 If she takes on the form of a bat, she instead uses her druid level + 2",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:wild-shape:2"
   },
   {
     "Name": "Bonus Feat",
@@ -2674,14 +2726,16 @@
     "Level": 9,
     "Sacrifice": "Venom Immunity",
     "Description": "Bonus Feat: At 9th level and every four levels thereafter, a bat shaman gains one of the following bonus feats: Acrobatic, Agile Maneuvers, Improved Initiative, Lightning Reflexes, or Skill Focus (Perception) She must meet the prerequisites for these bonus feats This ability replaces venom immunity",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:bonus-feat:4"
   },
   {
     "Name": "Nature Bond",
     "Archtype": "Boar Shaman",
     "Level": 1,
     "Description": "A boar shaman who chooses an animal companion must select a boar If choosing a domain, the boar shaman must choose from the Animal, Destruction (Rage), Protection, and Strength domains",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:nature-bond:3"
   },
   {
     "Name": "Wild Empathy",
@@ -2689,7 +2743,8 @@
     "Archtype": "Boar Shaman",
     "Level": 1,
     "Description": "A boar shaman can use wild empathy with porcine creatures as a full-round action with a +4 bonus",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:wild-empathy:3"
   },
   {
     "Name": "Totem Transformation",
@@ -2697,7 +2752,8 @@
     "Archtype": "Boar Shaman",
     "Level": 2,
     "Description": "Totem Transformation (Su): At 2nd level, a boar shaman may adopt an aspect of the boar while retaining her normal form This ability functions as the ape shaman ability, but the druid may select from the following sets of bonuses and abilities: movement (+10 enhancement bonus to land speed), senses (low-light vision, scent), natural weapons (gore [1d8 for a Medium druid], +2 on combat maneuver checks to overrun), or toughness (+2 natural armor bonus to AC, Endurance feat) While using totem transformation, the boar shaman may speak normally and can cast speak with animals (boars and related animals only) at will",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:totem-transformation:3"
   },
   {
     "Name": "Totemic Summons",
@@ -2705,7 +2761,8 @@
     "Archtype": "Boar Shaman",
     "Level": 5,
     "Description": "At 5th level, a boar shaman may cast summon nature's ally as a standard action when summoning boars or other porcine creatures, and these summoned creatures gain temporary hit points equal to her druid level This ability otherwise functions as the ape shaman ability",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:totemic-summons:3"
   },
   {
     "Name": "Wild Shape",
@@ -2713,7 +2770,8 @@
     "Archtype": "Boar Shaman",
     "Level": 6,
     "Description": "At 6th level, a boar shaman's wild shape ability functions at her druid level –2 If she takes on the form of a boar, she instead uses her druid level +2",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:wild-shape:3"
   },
   {
     "Name": "Bonus Feat",
@@ -2721,7 +2779,8 @@
     "Level": 9,
     "Sacrifice": "Venom Immunity",
     "Description": "Bonus Feat: At 9th level and every four levels thereafter, a boar shaman gains one of the following bonus feats: Bleeding Critical, Blind-Fight, Diehard, or Improved Overrun She must meet the prerequisites for these bonus feats This ability replaces venom immunity",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:bonus-feat:5"
   },
   {
     "Name": "Bonus Languages",
@@ -2729,7 +2788,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Druidic, can also choose to learn Sylvan.",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:bonus-languages:2"
   },
   {
     "Name": "Chaotic Evil Good Lawful Spells",
@@ -2744,7 +2804,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Domain or Animal Companion",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:nature-bond:4"
   },
   {
     "Name": "Nature Sense",
@@ -2768,7 +2829,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Can cast spells that are prepared ahead of time. Max spells per day {0}",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:spells:6"
   },
   {
     "Name": "Spontaneous Casting",
@@ -2776,14 +2838,16 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Cast any \\\"Summon Natures Ally\\\" spell in place of a sacrificed spell of equal or higher level.",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:spontaneous-casting:3"
   },
   {
     "Name": "Weapon And Armor Proficiency",
     "Archtype": "Standard Druid",
     "Level": 1,
     "Implemented": 1,
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:8"
   },
   {
     "Name": "Wild Empathy",
@@ -2791,7 +2855,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Improve the attitude of an animal.",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:wild-empathy:4"
   },
   {
     "Name": "Woodland Stride",
@@ -2823,7 +2888,8 @@
     "Level": 4,
     "Implemented": 0,
     "Description": "Turn self into an animal.",
-    "ClassName": "Druid"
+    "ClassName": "Druid",
+    "FlatfileId": "classAbility:wild-shape:4"
   },
   {
     "Name": "Venom Immunity",
@@ -2872,7 +2938,8 @@
     "Archtype": "Standard Duelist",
     "Level": 1,
     "Description": "The duelist is proficient with all simple and martial weapons Duelists are proficient with light armor but not with shields",
-    "ClassName": "Duelist"
+    "ClassName": "Duelist",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:9"
   },
   {
     "Name": "Canny Defense",
@@ -2981,14 +3048,16 @@
     "Archtype": "Standard Eldritch Knight",
     "Level": 1,
     "Description": "Eldritch knights gain no proficiency with any weapon or armor",
-    "ClassName": "Eldritch Knight"
+    "ClassName": "Eldritch Knight",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:10"
   },
   {
     "Name": "Bonus Feat",
     "Archtype": "Standard Eldritch Knight",
     "Level": 1,
     "Description": "At 1st level, an eldritch knight may choose a bonus combat feat This is in addition to the feats that a character of any class normally gets from advancing levels The character must still meet any prerequisites for these bonus feats An eldritch knight gains an additional combat feat at 5th and 9th level",
-    "ClassName": "Eldritch Knight"
+    "ClassName": "Eldritch Knight",
+    "FlatfileId": "classAbility:bonus-feat:6"
   },
   {
     "Name": "Diverse Training",
@@ -3002,7 +3071,8 @@
     "Archtype": "Standard Eldritch Knight",
     "Level": 1,
     "Description": "At the indicated levels, an eldritch knight gains new spells per day as if he had also gained a level in an arcane spellcasting class he belonged to before adding the prestige class He does not, however, gain any other benefit a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting If a character had more than one arcane spellcasting class before becoming an eldritch knight, he must decide to which class he adds the new level for purposes of determining spells per day",
-    "ClassName": "Eldritch Knight"
+    "ClassName": "Eldritch Knight",
+    "FlatfileId": "classAbility:spells-per-day:4"
   },
   {
     "Name": "Spell Critical",
@@ -3160,14 +3230,16 @@
     "Archtype": "Cad",
     "Level": 1,
     "Description": "A cad is not proficient with medium armor, heavy armor, or tower shields",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:11"
   },
   {
     "Name": "Skills",
     "Archtype": "Cad",
     "Level": 1,
     "Description": "Acrobatics (Dex), Bluff (Cha), Escape Artist (Dex), Sleight of Hand (Dex), and Stealth (Dex) are class skills for a cad",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:skills:2"
   },
   {
     "Name": "Dirty Maneuvers",
@@ -3303,7 +3375,8 @@
     "Level": 13,
     "Implemented": 0,
     "Sacrifice": "Weapon Training 3",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:safe-shot:2"
   },
   {
     "Name": "Pinpoint Targeting",
@@ -3366,7 +3439,8 @@
     "Archtype": "Dragoon",
     "Level": 1,
     "Description": "A dragoon is not proficient with tower shields",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:12"
   },
   {
     "Name": "Skilled Rider",
@@ -3401,7 +3475,8 @@
     "Level": 9,
     "Sacrifice": "Weapon Training 2,Weapon Training 3,Weapon Training 4",
     "Description": "At 9th level, a dragoon may attach a banner to his lance This is identical to the cavalier class feature The bonuses provided by the dragoon's banner increase by +1 for every five levels beyond 9th (to a maximum of +3 at 19th level) Cavalier levels stack with his dragoon level for determining the effect of his banner, and he can take the better banner progression This ability replaces weapon training 2, 3, and 4",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:banner:3"
   },
   {
     "Name": "Piercing Lance",
@@ -3426,7 +3501,8 @@
     "Archtype": "Dragoon",
     "Level": 20,
     "Description": "The dragoon must select the lance for this ability",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-mastery:2"
   },
   {
     "Name": "Deceptive Strike",
@@ -3481,21 +3557,24 @@
     "Archtype": "Gladiator",
     "Level": 1,
     "Description": "A gladiator gains Perform (act, comedy, and dance) (Cha) as class skills",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:skills:3"
   },
   {
     "Name": "Weapon and Armor Proficiency",
     "Archtype": "Gladiator",
     "Level": 1,
     "Description": "A gladiator is not proficient with heavy armor or tower shields Instead he gains the Performance Weapon Mastery feat at 1st level as a bonus feat This bonus feat is in addition to the bonus feat a fighter gains at 1st level Furthermore, a gladiator using piecemeal armor is considered to be wearing a suit of armor as long as he wearing two or three armor pieces, gaining the +1 to armor bonus but still taking the +5% chance of arcane spell failure if the pieces are mixed",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:13"
   },
   {
     "Name": "Bonus Feats",
     "Archtype": "Gladiator",
     "Level": 1,
     "Description": "A gladiator may choose to take combat or performance feats as bonus feats",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:bonus-feats:7"
   },
   {
     "Name": "Fame",
@@ -3535,7 +3614,8 @@
     "Implemented": 1,
     "Sacrifice": "Armor Training 3",
     "Description": "Can combine a full-attack action with a single move. He must forgo the attack at his highest bonus but may take the remaining attacks at any point during his movement. This movement provokes attacks of opportunity as normal",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:rapid-attack:2"
   },
   {
     "Name": "Fleet Footed",
@@ -3695,7 +3775,8 @@
     "Implemented": 1,
     "Sacrifice": "Weapon Mastery",
     "Description": "A polearm master must choose a spear or polearm for his Weapon Mastery class feature.",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-mastery:3"
   },
   {
     "Name": "Active Defense",
@@ -3757,7 +3838,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "+{0} bonus combat feats.",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:bonus-feat:7"
   },
   {
     "Name": "Bonus Feat",
@@ -3765,7 +3847,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "+{0} bonus combat feats.",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:bonus-feat:8"
   },
   {
     "Name": "Bravery",
@@ -3853,7 +3936,8 @@
     "Level": 20,
     "Implemented": 1,
     "Description": "Auto confirm criticals, unable to disarm, and +1 multiplier with {0}s.",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-mastery:4"
   },
   {
     "Name": "Defensive Parry",
@@ -3896,7 +3980,8 @@
     "Archtype": "Tactician",
     "Level": 1,
     "Description": "A tactician is not proficient with heavy armor or tower shields",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:14"
   },
   {
     "Name": "Strategic Training",
@@ -3912,7 +3997,8 @@
     "Archtype": "Tactician",
     "Level": 1,
     "Description": "A tactician may choose Skill Focus or any teamwork feat, in addition to combat feats, as bonus feats",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:bonus-feats:8"
   },
   {
     "Name": "Tactical Awareness",
@@ -3930,7 +4016,8 @@
     "Level": 5,
     "Sacrifice": "Weapon Training 1",
     "Description": "At 5th level, a tactician gains this ability as the cavalier class feature He may use this ability once per day at 5th level, plus one additional time for every five levels after 5th (to a maximum of four times at 20th level) If the tactician also has cavalier levels, these levels stack for determining the number of uses per day, and he can take the better progression This ability replaces weapon training 1",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:tactician:3"
   },
   {
     "Name": "Cooperative Combatant",
@@ -4154,7 +4241,8 @@
     "Level": 1,
     "Sacrifice": "Weapon And Armor Proficiency: An Unarmed Fighter Is Not Proficient With Medium Armor, Heavy Armor, Or Shields An Unarmed Fighter Is Proficient With All Monk Weapons, Including Exotic Monk Weapons",
     "Description": "An unarmed fighter is not proficient with medium armor, heavy armor, or shields An unarmed fighter is proficient with all monk weapons, including exotic monk weapons",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:15"
   },
   {
     "Name": "Unarmed Style",
@@ -4162,7 +4250,8 @@
     "Level": 1,
     "Sacrifice": "The Bonus Feat At 1st Level",
     "Description": "At 1st level, a unarmed fighter gains the Improved Unarmed Strike feat and any single style feat (see Chapter 3) as a bonus feat The unarmed fighter need not meet all the prerequisites of the style feat he chooses, but style feats that grant additional uses of the Elemental Fist feat cannot be taken until the unarmed fighter has that feat This ability replaces the bonus feat at 1st level",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:unarmed-style:2"
   },
   {
     "Name": "Harsh Training",
@@ -4180,7 +4269,8 @@
     "Level": 2,
     "Sacrifice": "Bravery",
     "Description": "At 2nd level, an unarmed fighter gains a +1 bonus on saving throws against effects that cause the exhausted, fatigued, or staggered conditions or temporary penalties to ability scores This bonus increases by +1 for every four levels after 2nd (to a maximum of +5 at 18th level) This ability replaces bravery",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:harsh-training:2"
   },
   {
     "Name": "Tough Guy",
@@ -4198,7 +4288,8 @@
     "Level": 3,
     "Sacrifice": "Armor Training 1",
     "Description": "At 3rd level, an unarmed fighter gains DR/— equal to half his fighter level against nonlethal damage or damage taken while he is grappled This ability replaces armor training 1",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:tough-guy:2"
   },
   {
     "Name": "Weapon Training ",
@@ -4234,7 +4325,8 @@
     "Level": 7,
     "Sacrifice": "Armor Training 2",
     "Description": "At 7th level, an unarmed fighter takes no penalties to Dexterity or on attack rolls while grappled, and retains his Dexterity bonus to AC while pinning an opponent The unarmed fighter can make attacks of opportunity even when grappled and even against creatures attempting to grapple him if the opponent has the Improved Grapple feat or the grab ability This ability replaces armor training 2",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:clever-wrestler:2"
   },
   {
     "Name": "Trick Throw",
@@ -4252,7 +4344,8 @@
     "Level": 9,
     "Sacrifice": "Weapon Training 2",
     "Description": "At 9th level, when an unarmed fighter successfully trips an opponent with an unarmed attack, he can attempt a dirty trick combat maneuver against that creature (before the opponent becomes prone) as an immediate action that does not provoke attacks of opportunity This ability replaces weapon training 2",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:trick-throw:2"
   },
   {
     "Name": "Takedown",
@@ -4270,7 +4363,8 @@
     "Level": 11,
     "Sacrifice": "Armor Training 3",
     "Description": "At 11th level, if an unarmed fighter succeeds on a drag maneuver, he can attempt a trip maneuver against the same target as a swift action that does not provoke attacks of opportunity At 15th level, he may do so after a successful grapple check This ability replaces armor training 3",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:takedown:2"
   },
   {
     "Name": "Eye Gouge",
@@ -4288,7 +4382,8 @@
     "Level": 13,
     "Sacrifice": "Weapon Training 3",
     "Description": "At 13th level, if an unarmed fighter confirms a critical hit with his unarmed strike or begins his turn grappled, he may attempt a dirty trick maneuver to blind his target as a swift action that does not provoke attacks of opportunity A target more than one size category larger is unaffected This ability replaces weapon training 3",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:eye-gouge:2"
   },
   {
     "Name": "Sucker Punch",
@@ -4306,7 +4401,8 @@
     "Level": 17,
     "Sacrifice": "Armor Training 4",
     "Description": "At 17th level, when an unarmed fighter strikes a creature that is denied its Dexterity bonus to AC, or that he has successfully pinned with a grapple check, he can attempt a dirty trick or trip combat maneuver against that target as a swift action This ability replaces armor training 4",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:sucker-punch:2"
   },
   {
     "Name": "Sheer Toughness",
@@ -4324,7 +4420,8 @@
     "Level": 19,
     "Sacrifice": "Armor Mastery",
     "Description": "At 19th level, an unarmed fighter becomes immune to nonlethal damage and the exhausted, fatigued, and staggered conditions This ability replaces armor mastery",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:sheer-toughness:2"
   },
   {
     "Name": "Weapon Mastery",
@@ -4333,7 +4430,8 @@
     "Implemented": 0,
     "Sacrifice": "Weapon Mastery",
     "Description": "This ability applies to unarmed strikes only.",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-mastery:5"
   },
   {
     "Name": "Weapon Mastery",
@@ -4341,14 +4439,16 @@
     "Archtype": "Unarmed Fighter",
     "Level": 20,
     "Description": "This ability applies to unarmed strikes only",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-mastery:6"
   },
   {
     "Name": "Weapon and Armor Proficiency",
     "Archtype": "Unbreakable",
     "Level": 1,
     "Description": "An unbreakable is not proficient with tower shields",
-    "ClassName": "Fighter"
+    "ClassName": "Fighter",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:16"
   },
   {
     "Name": "Tough as Nails",
@@ -4468,7 +4568,8 @@
     "Level": 4,
     "Implemented": 1,
     "Description": "(0) bonus combat or grit feats.",
-    "ClassName": "Gunslinger"
+    "ClassName": "Gunslinger",
+    "FlatfileId": "classAbility:bonus-feat:9"
   },
   {
     "Name": "Gun Training",
@@ -4516,7 +4617,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "A hunter casts divine spells, which are drawn from the druid spell list (see Chapter 10 of the Pathfinder RPG Core Rulebook). Only druid spells of 6th level and lower are considered on the hunter spell list. Her alignment may restrict her from casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells. A hunter must choose and prepare her spells in advance. A hunter’s highest level of spells is 6th. A hunter cannot use spell completion or spell trigger magic items (without making a successful Use Magic Device check) of druid spells of 7th level or higher To prepare or cast a spell, the hunter must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a hunter’s spell is 10 + the spell level + the hunter’s Wisdom modifier. Like other spellcasters, a hunter can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table 1–6. In addition, she receives bonus spells per day if she has a high Wisdom score (Core Rulebook 17). A hunter must spend 1 hour each day in a trance-like meditation on the mysteries of nature to regain her daily allotment of spells. A hunter may prepare and cast any spell on the hunter spell list, provided that she can cast spells of that level, but she must choose which spells to prepare during her daily meditation.",
-    "ClassName": "Hunter"
+    "ClassName": "Hunter",
+    "FlatfileId": "classAbility:spells:7"
   },
   {
     "Name": "Weapon And Armor Proficiency",
@@ -4524,7 +4626,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Hunters are proficient with all simple weapons plus the longbow, scimitar, scythe, and shortbow. Hunters are proficient with light and medium armor but are prohibited from wearing heavy armor. Hunters are proficient with shields (except tower shields), but must use only those crafted from wood. A hunter who wears prohibited armor or uses a prohibited shield is unable to cast hunter spells or use any of her supernatural or spell-like class abilities while doing so and for 24 hours thereafter.",
-    "ClassName": "Hunter"
+    "ClassName": "Hunter",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:17"
   },
   {
     "Name": "Track",
@@ -4540,7 +4643,8 @@
     "Level": 2,
     "Implemented": 0,
     "Description": "The hunter can improve the initial attitude of an animal. This ability functions just like a Diplomacy check to improve the attitude of a person (see Chapter 4 of the Core Rulebook). The hunter rolls 1d20 and adds her hunter level and her Charisma bonus to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly. To use wild empathy, the hunter and the animal must be within 30 feet of one another under normal visibility conditions. Generally, inf luencing an animal in this way takes 1 minute, but as with inf luencing people, it might take more or less time. The hunter can also use this ability to inf luence a magical beast with an Intelligence score of 1 or 2, but she takes a –4 penalty on the check.",
-    "ClassName": "Hunter"
+    "ClassName": "Hunter",
+    "FlatfileId": "classAbility:wild-empathy:5"
   },
   {
     "Name": "Hunter Tactics",
@@ -4564,7 +4668,8 @@
     "Level": 5,
     "Implemented": 0,
     "Description": "Starting a hunter may move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at her normal speed and without taking damage or suffering any other impairment. Thorns, briars, and overgrown areas that are enchanted or magically manipulated to impede motion will still affect her.",
-    "ClassName": "Hunter"
+    "ClassName": "Hunter",
+    "FlatfileId": "classAbility:woodland-stride:2"
   },
   {
     "Name": "Swift Tracker",
@@ -4613,7 +4718,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Cast unlimited number of 0 level spells.",
-    "ClassName": "Inquisitor"
+    "ClassName": "Inquisitor",
+    "FlatfileId": "classAbility:orisons:2"
   },
   {
     "Name": "Spells",
@@ -4621,7 +4727,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Can cast spells without preparing them ahead of time. Max spells per day {0}",
-    "ClassName": "Inquisitor"
+    "ClassName": "Inquisitor",
+    "FlatfileId": "classAbility:spells:8"
   },
   {
     "Name": "Stern Gaze",
@@ -4653,7 +4760,8 @@
     "Level": 2,
     "Implemented": 1,
     "Description": "+{0} to tracking checks.",
-    "ClassName": "Inquisitor"
+    "ClassName": "Inquisitor",
+    "FlatfileId": "classAbility:track:2"
   },
   {
     "Name": "Solo Tactics",
@@ -4685,7 +4793,8 @@
     "Level": 6,
     "Implemented": 1,
     "Description": "+{0} bonus teamwork feats. Change latest feat as standard action {1} times per day.",
-    "ClassName": "Inquisitor"
+    "ClassName": "Inquisitor",
+    "FlatfileId": "classAbility:teamwork-feat:2"
   },
   {
     "Name": "Second Judgment",
@@ -4701,7 +4810,8 @@
     "Level": 11,
     "Implemented": 1,
     "Description": "Fortitude saves that have a reduced effect on save are negated instead.",
-    "ClassName": "Inquisitor"
+    "ClassName": "Inquisitor",
+    "FlatfileId": "classAbility:stalwart:2"
   },
   {
     "Name": "Greater Bane",
@@ -4756,7 +4866,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "+{0} on alchemical checks, detect magic on potions after holding them for a round, and gain use of extracts.",
-    "ClassName": "Investigator"
+    "ClassName": "Investigator",
+    "FlatfileId": "classAbility:alchemy:2"
   },
   {
     "Name": "Inspiration",
@@ -4780,7 +4891,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Investigators are proficient with simple weapons, plus the hand crossbow, rapier, sap, shortbow, short sword, and sword caneUE. They are proficient in light armors, but not shields.",
-    "ClassName": "Investigator"
+    "ClassName": "Investigator",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:18"
   },
   {
     "Name": "Poison Resistance",
@@ -4788,7 +4900,8 @@
     "Level": 2,
     "Implemented": 1,
     "Description": "Gain +{0} vs poison.",
-    "ClassName": "Investigator"
+    "ClassName": "Investigator",
+    "FlatfileId": "classAbility:poison-resistance:2"
   },
   {
     "Name": "Poison Use",
@@ -4796,7 +4909,8 @@
     "Level": 2,
     "Implemented": 0,
     "Description": "You are trained in the use of poison. You  cannot accidentally poison yourself when applying poison to a weapon.",
-    "ClassName": "Investigator"
+    "ClassName": "Investigator",
+    "FlatfileId": "classAbility:poison-use:3"
   },
   {
     "Name": "Investigator Talent",
@@ -4820,7 +4934,8 @@
     "Level": 3,
     "Implemented": 1,
     "Description": "An investigator gains an intuitive sense that alerts him to danger from traps, giving him a +1 bonus on Ref lex saving throws made to avoid traps and a +1 dodge bonus to AC against attacks made by traps. These bonuses increases to +2 when the investigator reaches 6th level, and by 1 for every third level thereafter.",
-    "ClassName": "Investigator"
+    "ClassName": "Investigator",
+    "FlatfileId": "classAbility:trap-sense:3"
   },
   {
     "Name": "Sneak Attack",
@@ -4828,7 +4943,8 @@
     "Level": 4,
     "Implemented": 1,
     "Description": "+{0} sneak attack damage on melee attacks or ranged within 30 feet of target.",
-    "ClassName": "Investigator"
+    "ClassName": "Investigator",
+    "FlatfileId": "classAbility:sneak-attack:5"
   },
   {
     "Name": "Swift Alchemy",
@@ -4836,7 +4952,8 @@
     "Level": 4,
     "Implemented": 1,
     "Description": "Time crafting alchemy items is halved. Can apply poison as a swift action.",
-    "ClassName": "Investigator"
+    "ClassName": "Investigator",
+    "FlatfileId": "classAbility:swift-alchemy:2"
   },
   {
     "Name": "True Inspiration",
@@ -4858,7 +4975,8 @@
     "Archtype": "Standard Loremaster",
     "Level": 4,
     "Description": "A loremaster can learn any new language at 4th and 8th level",
-    "ClassName": "Loremaster"
+    "ClassName": "Loremaster",
+    "FlatfileId": "classAbility:bonus-languages:3"
   },
   {
     "Name": "Greater Lore",
@@ -4898,7 +5016,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A magus casts arcane spells drawn from the magus spell list. A magus must choose and prepare his spells ahead of time.",
-    "ClassName": "Magus"
+    "ClassName": "Magus",
+    "FlatfileId": "classAbility:spells:9"
   },
   {
     "Name": "Spellstrike",
@@ -4932,7 +5051,8 @@
     "Implemented": 1,
     "LevelsPerCharges": 6,
     "Description": "+{0} bonus feats from Combat, Item Creation, or Metamagic lists.",
-    "ClassName": "Magus"
+    "ClassName": "Magus",
+    "FlatfileId": "classAbility:bonus-feats:9"
   },
   {
     "Name": "Knowledge Pool",
@@ -5215,7 +5335,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Unarmed attacks do {0} damage.",
-    "ClassName": "Monk"
+    "ClassName": "Monk",
+    "FlatfileId": "classAbility:unarmed-strike:2"
   },
   {
     "Name": "Bonus Feat",
@@ -5223,7 +5344,8 @@
     "Level": 2,
     "Implemented": 1,
     "Description": "+{0} bonus feats.",
-    "ClassName": "Monk"
+    "ClassName": "Monk",
+    "FlatfileId": "classAbility:bonus-feat:10"
   },
   {
     "Name": "Evasion",
@@ -5239,7 +5361,8 @@
     "Level": 3,
     "Implemented": 1,
     "Description": "+{0} movement.",
-    "ClassName": "Monk"
+    "ClassName": "Monk",
+    "FlatfileId": "classAbility:fast-movement:3"
   },
   {
     "Name": "Maneuver Training",
@@ -5263,7 +5386,8 @@
     "Level": 4,
     "Implemented": 1,
     "Description": "+{0} AC.",
-    "ClassName": "Monk"
+    "ClassName": "Monk",
+    "FlatfileId": "classAbility:ac-bonus:2"
   },
   {
     "Name": "Ki Pool",
@@ -5351,7 +5475,8 @@
     "Level": 17,
     "Implemented": 1,
     "Description": "No longer receives age penalty to ability scores.",
-    "ClassName": "Monk"
+    "ClassName": "Monk",
+    "FlatfileId": "classAbility:timeless-body:2"
   },
   {
     "Name": "Toungue Of The Sun And Moon",
@@ -5382,14 +5507,16 @@
     "Archtype": "Standard Mystic Thurge",
     "Level": 1,
     "Description": "Mystic theurges gain no proficiency with any weapon or armor",
-    "ClassName": "Mystic Thurge"
+    "ClassName": "Mystic Thurge",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:19"
   },
   {
     "Name": "Spells per Day",
     "Archtype": "Standard Mystic Thurge",
     "Level": 1,
     "Description": "When a new mystic theurge level is gained, the character gains new spells per day as if he had also gained a level in any one arcane spellcasting class he belonged to before he added the prestige class and any one divine spellcasting class he belonged to previously He does not, however, gain other benefits a character of that class would have gained This essentially means that he adds the level of mystic theurge to the level of whatever other arcane spellcasting class and divine spellcasting class the character has, then determines spells per day, spells known, and caster level accordingly If a character had more than one arcane spellcasting class or more than one divine spellcasting class before he became a mystic theurge, he must decide to which class he adds each level of mystic theurge for the purpose of determining spells per day",
-    "ClassName": "Mystic Thurge"
+    "ClassName": "Mystic Thurge",
+    "FlatfileId": "classAbility:spells-per-day:5"
   },
   {
     "Name": "Combined Spells",
@@ -5422,7 +5549,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Ninja are proficient with all simple weapons, plus the kama, katana, kusarigama, nunchaku, sai, shortbow, short sword, shuriken, siangham, and wakizashi. They are proficient with light armor but not with shields.",
-    "ClassName": "Ninja"
+    "ClassName": "Ninja",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:20"
   },
   {
     "Name": "Poison Use",
@@ -5430,7 +5558,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "At 1st level, a ninja is trained in the use of poison and cannot accidentally poison herself when applying poison to a weapon.",
-    "ClassName": "Ninja"
+    "ClassName": "Ninja",
+    "FlatfileId": "classAbility:poison-use:4"
   },
   {
     "Name": "Sneak Attack",
@@ -5438,7 +5567,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "If a ninja can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage.",
-    "ClassName": "Ninja"
+    "ClassName": "Ninja",
+    "FlatfileId": "classAbility:sneak-attack:6"
   },
   {
     "Name": "Ki Pool",
@@ -5446,7 +5576,8 @@
     "Level": 2,
     "Implemented": 0,
     "Description": "At 2nd level, a ninja gains a pool of ki points, supernatural energy she can use to accomplish amazing feats. The number of points in the ninja’s ki pool is equal to 1/2 her ninja level + her Charisma modifier. As long as she has at least 1 point in her ki pool, she treats any Acrobatics skill check made to jump as if she had a running start. At 10th level, she also reduces the DC of Acrobatics skill checks made to jump by 1/2 (although she still cannot move farther than her speed allows).",
-    "ClassName": "Ninja"
+    "ClassName": "Ninja",
+    "FlatfileId": "classAbility:ki-pool:2"
   },
   {
     "Name": "No Trace",
@@ -5462,7 +5593,8 @@
     "Level": 4,
     "Implemented": 0,
     "Description": "Starting at 4th level, a ninja can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dexterity bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A ninja with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If a ninja already possesses uncanny dodge from a different class, she automatically gains improved uncanny dodge instead.",
-    "ClassName": "Ninja"
+    "ClassName": "Ninja",
+    "FlatfileId": "classAbility:uncanny-dodge:5"
   },
   {
     "Name": "Light Steps",
@@ -5478,7 +5610,8 @@
     "Level": 8,
     "Implemented": 0,
     "Description": "At 8th level, a ninja can no longer be flanked. This defense denies another ninja (or rogue) the ability to sneak attack the ninja by flanking her, unless the attacker has at least four more ninja (or rogue) levels than the target does. If a character already has uncanny dodge from another class, the levels from the classes that grant uncanny dodge stack when determining the minimum ninja (or rogue) level required to flank the character.",
-    "ClassName": "Ninja"
+    "ClassName": "Ninja",
+    "FlatfileId": "classAbility:improved-uncanny-dodge:4"
   },
   {
     "Name": "Hidden Master",
@@ -5510,7 +5643,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Unlimited 0 level spell casts.",
-    "ClassName": "Oracle"
+    "ClassName": "Oracle",
+    "FlatfileId": "classAbility:orisons:3"
   },
   {
     "Name": "Revelation",
@@ -5690,7 +5824,8 @@
     "Level": 4,
     "Implemented": 1,
     "Description": "Spells per day",
-    "ClassName": "Paladin"
+    "ClassName": "Paladin",
+    "FlatfileId": "classAbility:spells:10"
   },
   {
     "Name": "Divine Bond",
@@ -5790,7 +5925,8 @@
     "Implemented": 0,
     "Sacrifice": "Divine Health",
     "Description": "No longer takes a penalty to the Ride skill due to armor check penalty. Any mount they are riding gains the benefit of divine grace class feature, adding her Charisma bonus to its saving throws.",
-    "ClassName": "Paldin"
+    "ClassName": "Paldin",
+    "FlatfileId": "classAbility:skilled-rider:2"
   },
   {
     "Name": "Divine Bond",
@@ -5799,7 +5935,8 @@
     "Implemented": 0,
     "Sacrifice": "Divine Bond",
     "Description": "Must take a mount as the divine bond.",
-    "ClassName": "Paldin"
+    "ClassName": "Paldin",
+    "FlatfileId": "classAbility:divine-bond:2"
   },
   {
     "Name": "Knights Charge",
@@ -5816,7 +5953,8 @@
     "Archtype": "Standard Pathfinder Chronicler",
     "Level": 1,
     "Description": "This ability is identical to the bard class feature of the same name, and levels in this class stack with levels in any other class that grants a similar ability",
-    "ClassName": "Pathfinder Chronicler"
+    "ClassName": "Pathfinder Chronicler",
+    "FlatfileId": "classAbility:bardic-knowledge:2"
   },
   {
     "Name": "Deep Pockets",
@@ -5864,7 +6002,8 @@
     "Archtype": "Standard Pathfinder Chronicler",
     "Level": 3,
     "Description": "At 3rd level, a Pathfinder chronicler gains this ability, which functions like the bard class feature of the same name, except that the chronicler's effective bard level is 2 lower than her class level Levels in this class stack with levels in any other class that grants a similar ability to determine her effective bard level",
-    "ClassName": "Pathfinder Chronicler"
+    "ClassName": "Pathfinder Chronicler",
+    "FlatfileId": "classAbility:bardic-performance:2"
   },
   {
     "Name": "Epic Tales",
@@ -5984,7 +6123,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "+{0} to survival checks.",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:track:3"
   },
   {
     "Name": "Wild Empathy",
@@ -5992,7 +6132,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Skill check {0} to improve animal disposition.",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:wild-empathy:6"
   },
   {
     "Name": "Endurance",
@@ -6008,7 +6149,8 @@
     "Level": 3,
     "Implemented": 1,
     "Description": "While in {0} terrain types, gain +{1} bonus to Geography, Perception, Stealth, Survival, and leave no trail. Receove bonus initiative of {3}.",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:favored-terrain:2"
   },
   {
     "Name": "Hunters Bond",
@@ -6023,7 +6165,8 @@
     "Level": 4,
     "Implemented": 1,
     "Description": "Cast spells {0} per day.",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:spells:11"
   },
   {
     "Name": "Woodland Stride",
@@ -6031,7 +6174,8 @@
     "Level": 7,
     "Implemented": 0,
     "Description": "Move through any undergrowth at normal speed and with no damage.",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:woodland-stride:3"
   },
   {
     "Name": "Swift Tracker",
@@ -6039,7 +6183,8 @@
     "Level": 8,
     "Implemented": 0,
     "Description": "0 penalty for normal move on survival check, half penalty for double move.",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:swift-tracker:2"
   },
   {
     "Name": "Evasion",
@@ -6047,7 +6192,8 @@
     "Level": 9,
     "Implemented": 1,
     "Description": "0 Damage on successful reflex saves (vs half)",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:evasion:2"
   },
   {
     "Name": "Quarry",
@@ -6071,7 +6217,8 @@
     "Level": 16,
     "Implemented": 1,
     "Description": "Half damage on failed reflex saves.",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:improved-evasion:2"
   },
   {
     "Name": "Hide In Plain Sight",
@@ -6079,7 +6226,8 @@
     "Level": 17,
     "Implemented": 1,
     "Description": "Use stealth even while observed.",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:hide-in-plain-sight:2"
   },
   {
     "Name": "Improved Quarry",
@@ -6095,7 +6243,8 @@
     "Level": 20,
     "Implemented": 0,
     "Description": "No survival movement penalty. Gains std action vs favored enemy to save or die on single successful attack with a DC {0}, {1} times a day.",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:master-hunter:2"
   },
   {
     "Name": "Urban Ranger",
@@ -6123,7 +6272,8 @@
     "Implemented": 0,
     "Sacrifice": "Endurance",
     "Description": "+{0} to Perception skill checks made to locate traps and to Disable Device skill checks. Can use Disable Device to disarm magic traps.",
-    "ClassName": "Ranger"
+    "ClassName": "Ranger",
+    "FlatfileId": "classAbility:trapfinding:2"
   },
   {
     "Name": "Push Through",
@@ -6183,7 +6333,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (local) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex), Swim (Str), and Use Magic Device (Cha)",
-    "ClassName": "Rogue"
+    "ClassName": "Rogue",
+    "FlatfileId": "classAbility:skills:4"
   },
   {
     "Name": "Sneak Attack",
@@ -6191,7 +6342,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Attack deal an extra {0} damage anytime her target would be denied a Dexterity bonus to AC, or when the rogue flanks her target.",
-    "ClassName": "Rogue"
+    "ClassName": "Rogue",
+    "FlatfileId": "classAbility:sneak-attack:7"
   },
   {
     "Name": "Trapfinding",
@@ -6199,7 +6351,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "+{0} to Perception skill checks made to locate traps and to Disable Device skill checks. Can use Disable Device to disarm magic traps.",
-    "ClassName": "Rogue"
+    "ClassName": "Rogue",
+    "FlatfileId": "classAbility:trapfinding:3"
   },
   {
     "Name": "Weapon Armor",
@@ -6215,7 +6368,8 @@
     "Level": 2,
     "Implemented": 1,
     "Description": "0 Damage on successful reflex saves (vs half)",
-    "ClassName": "Rogue"
+    "ClassName": "Rogue",
+    "FlatfileId": "classAbility:evasion:3"
   },
   {
     "Name": "Rogue Talent",
@@ -6232,7 +6386,8 @@
     "Implemented": 0,
     "LevelsPerCharges": 3,
     "Description": "gains an intuitive sense that alerts her to danger from traps, giving her a +{0} bonus on Reflex saves made to avoid traps and a +{0} dodge bonus to AC against attacks made by traps.",
-    "ClassName": "Rogue"
+    "ClassName": "Rogue",
+    "FlatfileId": "classAbility:trap-sense:4"
   },
   {
     "Name": "Uncanny Dodge",
@@ -6240,7 +6395,8 @@
     "Level": 4,
     "Implemented": 0,
     "Description": "Can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dex bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A rogue with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action (see Combat) against her",
-    "ClassName": "Rogue"
+    "ClassName": "Rogue",
+    "FlatfileId": "classAbility:uncanny-dodge:6"
   },
   {
     "Name": "Improved Uncanny Dodge",
@@ -6248,7 +6404,8 @@
     "Level": 8,
     "Implemented": 0,
     "Description": "This defense denies another rogue the ability to sneak attack the character by flanking her, unless the attacker has at least four more rogue levels than the target does",
-    "ClassName": "Rogue"
+    "ClassName": "Rogue",
+    "FlatfileId": "classAbility:improved-uncanny-dodge:5"
   },
   {
     "Name": "Advanced Talents",
@@ -6272,7 +6429,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Once per day, a samurai can challenge a foe to combat. As a swift action, the samurai chooses one target within sight to challenge. The samurai’s melee attacks deal extra damage when made against the target of his challenge. This extra damage is equal to the samurai’s level. The samurai can use this ability once per day at 1st level, plus one additional time per day for every three levels beyond 1st, to a maximum of seven times per day at 19th level. Challenging a foe requires much of the samurai’s concentration. The samurai takes a –2 penalty to his Armor Class, except against attacks made by the target of his challenge. The challenge remains in effect until the target is dead or unconscious, or until the combat ends. Each samurai’s challenge also includes another effect, which is listed in the section describing the samurai’s order.",
-    "ClassName": "Samurai"
+    "ClassName": "Samurai",
+    "FlatfileId": "classAbility:challenge:2"
   },
   {
     "Name": "Mount",
@@ -6280,7 +6438,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "A samurai gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the samurai’s level as his effective druid level. The creature must be one that he is capable of riding and that is suitable as a mount. A Medium samurai can select a camel or a horse. A Small samurai can select a pony or a wolf, but can also select a boar or a dog if he is at least 4th level. The GM may approve other animals as suitable mounts.",
-    "ClassName": "Samurai"
+    "ClassName": "Samurai",
+    "FlatfileId": "classAbility:mount:4"
   },
   {
     "Name": "Order",
@@ -6288,7 +6447,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "At 1st level, a samurai must pledge himself to a specific order, typically the order of the warrior. The order grants the samurai a number of bonuses, class skills, and special abilities. In addition, each order includes a number of edicts the samurai must follow. If he violates these edicts, he loses the benefits of his order’s challenge ability for 24 hours. The violation of an edict is subject to GM interpretation. Most samurai belong to the order of the warrior and are dedicated to their lord. Those without a lord, or who chose to abandon their lord, are ronin. A samurai may instead elect to dedicate himself to one of the orders listed under the cavalier description, but such samurai are rare.",
-    "ClassName": "Samurai"
+    "ClassName": "Samurai",
+    "FlatfileId": "classAbility:order:2"
   },
   {
     "Name": "Resolve",
@@ -6320,7 +6480,8 @@
     "Level": 5,
     "Implemented": 0,
     "Description": "At 5th level, a samurai’s banner becomes a symbol of inspiration to his allies and companions. As long as the samurai’s banner is clearly visible, all allies within 60 feet receive a +2 morale bonus on saving throws against fear and a +1 morale bonus on attack rolls made as part of a charge. At 10th level, and every five levels thereafter, these bonuses increase by +1. The banner must be at least Small or larger and must be carried or displayed by the samurai or his mount to function.",
-    "ClassName": "Samurai"
+    "ClassName": "Samurai",
+    "FlatfileId": "classAbility:banner:4"
   },
   {
     "Name": "Bonus Feat",
@@ -6328,7 +6489,8 @@
     "Level": 6,
     "Implemented": 0,
     "Description": "At 6th level, and every six levels thereafter, a samurai gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as Combat Feats. The samurai must meet the requirements of these bonus feats.",
-    "ClassName": "Samurai"
+    "ClassName": "Samurai",
+    "FlatfileId": "classAbility:bonus-feat:11"
   },
   {
     "Name": "Greater Resolve",
@@ -6352,7 +6514,8 @@
     "Level": 12,
     "Implemented": 0,
     "Description": "At 12th level, whenever a samurai declares a challenge, his target must pay attention to the threat he poses. As long as the target is within the threatened area of the samurai, it takes a –2 penalty to its AC on attacks made by anyone other than the samurai.",
-    "ClassName": "Samurai"
+    "ClassName": "Samurai",
+    "FlatfileId": "classAbility:demanding-challenge:2"
   },
   {
     "Name": "Greater Banner",
@@ -6360,7 +6523,8 @@
     "Level": 14,
     "Implemented": 0,
     "Description": "At 14th level, a samurai’s banner becomes a rallying call to his allies. All allies within 60 feet receive a +2 morale bonus on saving throws against charm and compulsion spells and effects. In addition, while his banner is displayed, the samurai can spend a standard action to wave the banner through the air, granting all allies within 60 feet an additional saving throw against any one spell or effect that is targeting them. This save is made at the original DC. Spells and effects that do not allow saving throws are unaffected by this ability. An ally cannot benefit from this ability more than once per day.",
-    "ClassName": "Samurai"
+    "ClassName": "Samurai",
+    "FlatfileId": "classAbility:greater-banner:2"
   },
   {
     "Name": "True Resolve",
@@ -6383,7 +6547,8 @@
     "Archtype": "Standard Shadowdancer",
     "Level": 1,
     "Description": "Shadowdancers are proficient with the club, crossbow (hand, light, or heavy), dagger (any type), dart, mace, morningstar, quarterstaff, rapier, sap, shortbow (normal and composite), and short sword Shadowdancers are proficient with light armor but not with shields",
-    "ClassName": "Shadowdancer"
+    "ClassName": "Shadowdancer",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:21"
   },
   {
     "Name": "Hide in Plain Sight",
@@ -6391,7 +6556,8 @@
     "Archtype": "Standard Shadowdancer",
     "Level": 1,
     "Description": "A shadowdancer can use the Stealth skill even while being observed As long as she is within 10 feet of an area of dim light, a shadowdancer can hide herself from view in the open without anything to actually hide behind She cannot, however, hide in her own shadow",
-    "ClassName": "Shadowdancer"
+    "ClassName": "Shadowdancer",
+    "FlatfileId": "classAbility:hide-in-plain-sight:3"
   },
   {
     "Name": "Evasion",
@@ -6399,7 +6565,8 @@
     "Archtype": "Standard Shadowdancer",
     "Level": 2,
     "Description": "At 2nd level, a shadowdancer gains evasion If exposed to any effect that normally allows her to attempt a Reflex saving throw for half damage, she takes no damage with a successful saving throw The evasion ability can only be used if the shadowdancer is wearing light armor or no armor",
-    "ClassName": "Shadowdancer"
+    "ClassName": "Shadowdancer",
+    "FlatfileId": "classAbility:evasion:4"
   },
   {
     "Name": "Darkvision",
@@ -6415,14 +6582,16 @@
     "Archtype": "Standard Shadowdancer",
     "Level": 2,
     "Description": "At 2nd level, a shadowdancer cannot be caught flat-footed, even if the attacker is invisible He still loses her Dexterity bonus to AC if immobilized An shadowdancer with this ability can still lose his Dexterity bonus to AC if an opponent successfully uses the feint action against him",
-    "ClassName": "Shadowdancer"
+    "ClassName": "Shadowdancer",
+    "FlatfileId": "classAbility:uncanny-dodge:7"
   },
   {
     "Name": "Rogue Talent",
     "Archtype": "Standard Shadowdancer",
     "Level": 3,
     "Description": "At 3rd level, and every three levels thereafter, a shadowdancer gains a special ability that allows her to confound her foes This functions as the rogue talent class feature A shadowdancer cannot select an individual talent more than once If a shadowdancer has the advanced talents rogue class feature, she can chose from the advanced talents list instead",
-    "ClassName": "Shadowdancer"
+    "ClassName": "Shadowdancer",
+    "FlatfileId": "classAbility:rogue-talent:2"
   },
   {
     "Name": "Shadow Illusion",
@@ -6470,7 +6639,8 @@
     "Archtype": "Standard Shadowdancer",
     "Level": 5,
     "Description": "At 5th level and higher, shadowdancer can no longer be flanked This defense denies a rogue the ability to sneak attack the assassin by flanking him, unless the attacker has at least four more rogue levels than the target has assassin levels",
-    "ClassName": "Shadowdancer"
+    "ClassName": "Shadowdancer",
+    "FlatfileId": "classAbility:improved-uncanny-dodge:6"
   },
   {
     "Name": "Slippery Mind",
@@ -6494,7 +6664,8 @@
     "Archtype": "Standard Shadowdancer",
     "Level": 10,
     "Description": "This ability, gained at 10th level, works like evasion (see above) A shadowdancer takes no damage at all on successful saving throws against attacks that allow a Reflex saving throw for half damage What's more, she takes only half damage even if she fails her saving throw",
-    "ClassName": "Shadowdancer"
+    "ClassName": "Shadowdancer",
+    "FlatfileId": "classAbility:improved-evasion:3"
   },
   {
     "Name": "Shadow Master",
@@ -6510,7 +6681,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "Shamans can prepare a number of orisons, or 0-level spells, each day, as noted on Table 1–8. These spells are cast like any other spell, but they are not expended when cast and may be used again.",
-    "ClassName": "Shaman"
+    "ClassName": "Shaman",
+    "FlatfileId": "classAbility:orisons:4"
   },
   {
     "Name": "Shamans Familiar",
@@ -6526,7 +6698,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "A shaman casts divine spells drawn from the cleric spell list. Her alignment, however, may restrict her from casting certain spells opposed to her moral or ethical beliefs; see chaotic, evil, good, and lawful spells. A shaman must choose and prepare her spells in advance. To prepare or cast a spell, a shaman must have a Wisdom score equal to at least 10 + the spell level. The saving throw DC against a shaman’s spell is 10 + the spell level + the shaman’s Wisdom modifier. Like other spellcasters, a shaman can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table 1–8. In addition, she receives bonus spells per day if she has a high Wisdom score (see Table 1–3 in the Core Rulebook). Shamans commune with their familiars to prepare their spells. Each shaman must choose a time when she must spend 1 hour each day in quiet contemplation with her familiar to regain her daily allotment of spells. A shaman may prepare and cast any spell on the cleric spell list, provided that she can cast spells of that level, but she must choose which spells to prepare during her daily communion.",
-    "ClassName": "Shaman"
+    "ClassName": "Shaman",
+    "FlatfileId": "classAbility:spells:12"
   },
   {
     "Name": "Spirit",
@@ -6550,7 +6723,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "A shaman is proficient with all simple weapons, and with light and medium armor.",
-    "ClassName": "Shaman"
+    "ClassName": "Shaman",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:22"
   },
   {
     "Name": "Hex",
@@ -6611,7 +6785,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A skald adds half his class level (minimum 1) on all Knowledge skill checks, and may make all Knowledge skill checks untrained.",
-    "ClassName": "Skald"
+    "ClassName": "Skald",
+    "FlatfileId": "classAbility:bardic-knowledge:3"
   },
   {
     "Name": "Cantrips",
@@ -6619,7 +6794,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Skalds learn a number of cantrips, or 0-level spells, as noted on Table 1–10. These spells are cast like any other spell, but they do not consume any slots and may be used again.",
-    "ClassName": "Skald"
+    "ClassName": "Skald",
+    "FlatfileId": "classAbility:cantrips:3"
   },
   {
     "Name": "Raging Song",
@@ -6635,7 +6811,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A skald gains Scribe Scroll as a bonus feat.",
-    "ClassName": "Skald"
+    "ClassName": "Skald",
+    "FlatfileId": "classAbility:scribe-scroll:2"
   },
   {
     "Name": "Spells",
@@ -6643,7 +6820,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A skald casts arcane spells drawn from the bard spell lists (see pages 226-229 of the Pathfinder RPG Core Rulebook). He can cast any spell he knows without preparing it ahead of time. Every skald spell has a verbal component, either song, recitation, or music. To learn or cast a spell, a skald must have a Charisma score equal to at least 10 + the spell level. The saving throw DC against a skald’s spell is 10 + the spell level + the skald’s Charisma modifier.",
-    "ClassName": "Skald"
+    "ClassName": "Skald",
+    "FlatfileId": "classAbility:spells:13"
   },
   {
     "Name": "Weapon And Armor Proficiency",
@@ -6651,7 +6829,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A skald is proficient with all simple weapons, plus the longsword, rapier, sap, short sword, shortbow, and whip. Skalds are also proficient with light armor and shields (except tower shields). A skald can cast skald spells while wearing light armor and use a shield without incurring the normal arcane spell failure chance. Like other arcane spellcasters, a skald wearing medium or heavy armor incurs a chance of arcane spell failure if the spell in question has somatic components. A multiclass skald still incurs the normal arcane spell failure chance for arcane spells received from other classes.",
-    "ClassName": "Skald"
+    "ClassName": "Skald",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:23"
   },
   {
     "Name": "Inspired Rage",
@@ -6668,7 +6847,8 @@
     "Level": 2,
     "Implemented": 1,
     "Description": "The skald becomes resistant to sonic effects. The skald gains a +4 bonus on saving throws made against bardic performance, as well as sonic and language-dependent effects.",
-    "ClassName": "Skald"
+    "ClassName": "Skald",
+    "FlatfileId": "classAbility:well-versed:2"
   },
   {
     "Name": "Rage Powers",
@@ -6710,7 +6890,8 @@
     "Level": 7,
     "Implemented": 1,
     "Description": "the skald becomes a master of lore, and can choose to take 10 on any Knowledge skill check that he has ranks in. Once per day, the skald can take 20 on any Knowledge skill check as a standard action. He can use this ability one additional time per day for every six levels he possesses beyond 5th, to a maximum of three times per day at 17th level.",
-    "ClassName": "Skald"
+    "ClassName": "Skald",
+    "FlatfileId": "classAbility:lore-master:3"
   },
   {
     "Name": "Dirge of Doom",
@@ -6719,7 +6900,8 @@
     "Level": 10,
     "Implemented": 0,
     "Description": "At 10th level, a skald can create a sense of growing dread in his enemies, causing them to become shaken This only affects enemies that are within 30 feet and able to hear the skald's performance The effect persists for as long as the enemy is within 30 feet and the skald continues his performance This cannot cause a creature to become frightened or panicked, even if the targets are already shaken from another effect This is a sonic mind-affecting fear effect, and relies on audible components",
-    "ClassName": "Skald"
+    "ClassName": "Skald",
+    "FlatfileId": "classAbility:dirge-of-doom:2"
   },
   {
     "Name": "Song of the Fallen",
@@ -6728,7 +6910,8 @@
     "Level": 14,
     "Implemented": 0,
     "Description": "At 14th level, a skald can temporarily revive dead allies to continue fighting, with the same limitations as raise dead The skald selects a dead ally within 60 feet and expends 1 round of raging song to bring that ally back to life The revived ally is alive but staggered Each round, the skald may expend another 1 round of raging song to keep that ally alive for another round The ally automatically dies if the skald ends this performance or is interrupted The skald may revive multiple allies with this ability (either at the same time or over successive rounds) but must expend 1 round of raging song per revived ally per round to maintain the effect",
-    "ClassName": "Skald"
+    "ClassName": "Skald",
+    "FlatfileId": "classAbility:song-of-the-fallen:2"
   },
   {
     "Name": "Master Skald",
@@ -6752,7 +6935,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A slayer adds half his level (minimum 1) to Survival skill checks made to follow tracks.",
-    "ClassName": "Slayer"
+    "ClassName": "Slayer",
+    "FlatfileId": "classAbility:track:4"
   },
   {
     "Name": "Weapon And Armor Proficiency",
@@ -6760,7 +6944,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A slayer is proficientwith all simple and martial weapons and with lightarmor, medium armor, and shields (except tower shields).",
-    "ClassName": "Slayer"
+    "ClassName": "Slayer",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:24"
   },
   {
     "Name": "Slayer Talents",
@@ -6780,7 +6965,8 @@
     "LevelsPerCharges": 3,
     "Calculation": "Start1Plus1PerCharge",
     "Description": "a slayer can make sneak attacks, as the rogue ability of the same name. The extra damage dealt is +1d6 and increases by +1d6 at every three levels thereafter. If a slayer gets a sneak attackfrom another source, the bonuses on damage stack.",
-    "ClassName": "Slayer"
+    "ClassName": "Slayer",
+    "FlatfileId": "classAbility:sneak-attack:8"
   },
   {
     "Name": "Stalker",
@@ -6796,7 +6982,8 @@
     "Level": 10,
     "Implemented": 0,
     "Description": "A slayer can select one of the following advanced talents in place of a slayer talent.",
-    "ClassName": "Slayer"
+    "ClassName": "Slayer",
+    "FlatfileId": "classAbility:advanced-talents:2"
   },
   {
     "Name": "Swift Tracker",
@@ -6804,7 +6991,8 @@
     "Level": 11,
     "Implemented": 0,
     "Description": "a slayer can move athis normal speed while using Survival to follow trackswithout taking the normal –5 penalty. When moving atup to twice normal speed while tracking, he takes only a–10 penalty instead of the normal –20.",
-    "ClassName": "Slayer"
+    "ClassName": "Slayer",
+    "FlatfileId": "classAbility:swift-tracker:3"
   },
   {
     "Name": "Slayer’s Advance",
@@ -6820,7 +7008,8 @@
     "Level": 14,
     "Implemented": 0,
     "Description": "A slayer can, as a standard action, denote one target within his line of sight as his quarry. Whenever he is following the tracks of his quarry,a slayer can take 10 on his Survival skill checks whilemoving at normal speed, without penalty. In addition, hereceives a +2 insight bonus on attack rolls made agains this quarry, and all critical threats are automatically confirmed. A slayer can have no more than one quarry at a time and the creature’s type must correspond to one ofhis favored enemy types. He can dismiss this effect at any time as a free action, but he cannot select a new quarry for24 hours. If the slayer sees proof that his quarry is dead,he can select a new quarry after waiting 1 hour.",
-    "ClassName": "Slayer"
+    "ClassName": "Slayer",
+    "FlatfileId": "classAbility:quarry:2"
   },
   {
     "Name": "Improved Quarry",
@@ -6828,7 +7017,8 @@
     "Level": 19,
     "Implemented": 0,
     "Description": "The slayer’s abilityto hunt his quarry improves. He can now select a quarry as a free action, and can now take 20 while using Survivalto track his quarry, while moving at normal speed withoutpenalty. His insight bonus to attack his quarry increasesto +4. If his quarry is killed or dismissed, he can select anew one after 10 minutes have passed.",
-    "ClassName": "Slayer"
+    "ClassName": "Slayer",
+    "FlatfileId": "classAbility:improved-quarry:2"
   },
   {
     "Name": "Master Slayer",
@@ -6844,7 +7034,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Each sorcerer has a source of magic somewhere in her heritage that grants her spells, bonus feats, an additional class skill, and other special abilities. This source can represent a blood relation or an extreme event involving a creature somewhere in the family's past.",
-    "ClassName": "Sorcerer"
+    "ClassName": "Sorcerer",
+    "FlatfileId": "classAbility:bloodline:2"
   },
   {
     "Name": "Weapon And Armor Proficiency",
@@ -6852,14 +7043,16 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Sorcerers are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor interferes with a sorcerer's gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor).",
-    "ClassName": "Sorcerer"
+    "ClassName": "Sorcerer",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:25"
   },
   {
     "Name": "Spells",
     "Archtype": "Standard Sorcerer",
     "Level": 1,
     "Implemented": 1,
-    "ClassName": "Sorcerer"
+    "ClassName": "Sorcerer",
+    "FlatfileId": "classAbility:spells:14"
   },
   {
     "Name": "Cantrips",
@@ -6867,7 +7060,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Sorcerers learn a number of cantrips, or 0-level spells.",
-    "ClassName": "Sorcerer"
+    "ClassName": "Sorcerer",
+    "FlatfileId": "classAbility:cantrips:4"
   },
   {
     "Name": "Eschew Materials",
@@ -6883,7 +7077,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Unlimited 0 level spell casts per day.",
-    "ClassName": "Summoner"
+    "ClassName": "Summoner",
+    "FlatfileId": "classAbility:cantrips:5"
   },
   {
     "Name": "Eidolon",
@@ -6907,7 +7102,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Can cast spells without preparing them ahead of time. Max spells per day {0}",
-    "ClassName": "Summoner"
+    "ClassName": "Summoner",
+    "FlatfileId": "classAbility:spells:15"
   },
   {
     "Name": "Summon Monster I",
@@ -6939,7 +7135,8 @@
     "Level": 4,
     "Implemented": 0,
     "Description": "+2 Shield bonus and +2 circumstance to saving throws while in reach of eidolon.",
-    "ClassName": "Summoner"
+    "ClassName": "Summoner",
+    "FlatfileId": "classAbility:shield-ally:2"
   },
   {
     "Name": "Summon Monster III",
@@ -7082,7 +7279,8 @@
     "Archtype": "Standard Swashbuckler",
     "Level": 1,
     "Implemented": 1,
-    "ClassName": "Swashbuckler"
+    "ClassName": "Swashbuckler",
+    "FlatfileId": "classAbility:deeds:2"
   },
   {
     "Name": "Bravery",
@@ -7090,7 +7288,8 @@
     "Level": 2,
     "Implemented": 1,
     "Description": "+{0} on Will saves against fear.",
-    "ClassName": "Swashbuckler"
+    "ClassName": "Swashbuckler",
+    "FlatfileId": "classAbility:bravery:2"
   },
   {
     "Name": "Swashbuckler Finesse",
@@ -7107,7 +7306,8 @@
     "Implemented": 1,
     "LevelsPerCharges": 4,
     "Description": "+{0} dodge bonus while wearing light or no armor.",
-    "ClassName": "Swashbuckler"
+    "ClassName": "Swashbuckler",
+    "FlatfileId": "classAbility:nimble:2"
   },
   {
     "Name": "Daring",
@@ -7123,7 +7323,8 @@
     "Implemented": 1,
     "LevelsPerCharges": 4,
     "Description": "+{0} combat feats. Can switch out previously learned feats from this list every time you learn a new feat.",
-    "ClassName": "Swashbuckler"
+    "ClassName": "Swashbuckler",
+    "FlatfileId": "classAbility:bonus-feat:12"
   },
   {
     "Name": "Swashbuckler Weapon Training",
@@ -7156,7 +7357,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "At 1st level, 3rd level, and every 3 levelsthereafter, a warpriest gains a bonus feat in addition tothose gained from normal advancement. These bonusfeats must be selected from those listed as combat feats.The warpriest must meet the prerequisites for these feats.",
-    "ClassName": "Warpriest"
+    "ClassName": "Warpriest",
+    "FlatfileId": "classAbility:bonus-feats:10"
   },
   {
     "Name": "Focus Weapon",
@@ -7172,7 +7374,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Warpriests can prepare a number of orisons,or 0-level spells, each day, as noted on Table 1–13. Thesespells are cast as any other spell, but aren’t expendedwhen cast and may be used again.",
-    "ClassName": "Warpriest"
+    "ClassName": "Warpriest",
+    "FlatfileId": "classAbility:orisons:5"
   },
   {
     "Name": "Spells",
@@ -7180,7 +7383,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A warpriest casts divine spells drawn from thecleric spell list. His alignment, however, may restricthim from casting certain spells opposed to his moral orethical beliefs; see chaotic, evil, good, and lawful spells. Awarpriest must choose and prepare his spells in advance.A warpriest’s highest level of spells is 6th. Cleric spellsof 7th level and above are not on the warpriest class spelllist, and a warpriest cannot use spell completion or spelltrigger magic items (without making a successful UseMagic Device check) of cleric spells of 7th level or higher.To prepare or cast a spell, a warpriest must have aWisdom score equal to at least 10 + the spell level. Thesaving throw DC against a warpriest’s spell is 10 + thespell level + the warpriest’s Wisdom modifier.Like other spellcasters, a warpriest can cast only acertain number of spells of each spell level per day.His base daily spell allotment is given on Table 1–13. In",
-    "ClassName": "Warpriest"
+    "ClassName": "Warpriest",
+    "FlatfileId": "classAbility:spells:16"
   },
   {
     "Name": "Spontaneous Casting",
@@ -7188,7 +7392,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "A good warpriest (or a neutralwarpriest of a good deity) can channel stored spell energyinto healing spells that he did not prepare ahead of time.The warpriest can expend any prepared spell that isn’tan orison in order to cast any cure spell of the same spelllevel or lower. A cure spell is any spell with “cure” in itsname.An evil warpriest (or a neutral warpriest of an evildeity) can’t convert spells to cure spells, but can convertthem to inf lict spells. An inf lict spell is any spell with“inf lict” in its name.A warpriest that is neither good nor evil and whosedeity is neither good nor evil can convert spells to eithercure spells or inf lict spells, player’s choice. Once this",
-    "ClassName": "Warpriest"
+    "ClassName": "Warpriest",
+    "FlatfileId": "classAbility:spontaneous-casting:4"
   },
   {
     "Name": "Weapon And Armor Proficiency",
@@ -7196,7 +7401,8 @@
     "Level": 1,
     "Implemented": 0,
     "Description": "A warpriest is proficient with all simple and martial weapons and with all armor and shields (except tower shields).",
-    "ClassName": "Warpriest"
+    "ClassName": "Warpriest",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:26"
   },
   {
     "Name": "Channel Energy",
@@ -7204,7 +7410,8 @@
     "Level": 2,
     "Implemented": 0,
     "Description": "A warpriest can release a waveof energy by channeling the power of his faith throughhis holy (or unholy) symbol. This energy can be used tocause or heal damage, depending on the type of energychanneled and the creatures targeted. Using this abilityis a standard action that does not provoke an attack ofopportunity. The warpriest must present a holy (orunholy) symbol to use this ability.",
-    "ClassName": "Warpriest"
+    "ClassName": "Warpriest",
+    "FlatfileId": "classAbility:channel-energy:3"
   },
   {
     "Name": "Sacred Weapon",
@@ -7236,7 +7443,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Unlimited 0 level spells casts.",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "classAbility:cantrips:6"
   },
   {
     "Name": "Hex",
@@ -7244,7 +7452,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "As a standard action can apply the following hexes with a DC of {0}: {1}",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "classAbility:hex:2"
   },
   {
     "Name": "Patron Spells",
@@ -7260,14 +7469,16 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Can cast spells that are prepared ahead of time. Max spells per day {0}",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "classAbility:spells:17"
   },
   {
     "Name": "Weapon And Armor Proficiency",
     "Archtype": "Standard Witch",
     "Level": 1,
     "Implemented": 1,
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:27"
   },
   {
     "Name": "Witchs Familiar",
@@ -7299,7 +7510,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Wizards cast arcane spells that are chosen and prepared ahead of time. Must have int of 10 + leve lof the spell. DC is 10 + spell level + int modifier.",
-    "ClassName": "Wizard"
+    "ClassName": "Wizard",
+    "FlatfileId": "classAbility:spells:18"
   },
   {
     "Name": "Weapon And Armor Proficiency",
@@ -7307,7 +7519,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Wizards are proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but not with any type of armor or shield. Armor interferes with a wizard's movements, which can cause his spells with somatic components to fail.",
-    "ClassName": "Wizard"
+    "ClassName": "Wizard",
+    "FlatfileId": "classAbility:weapon-and-armor-proficiency:28"
   },
   {
     "Name": "Bonus Languages",
@@ -7315,7 +7528,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A wizard may substitute Draconic for one of the bonus languages available to the character because of his race.",
-    "ClassName": "Wizard"
+    "ClassName": "Wizard",
+    "FlatfileId": "classAbility:bonus-languages:4"
   },
   {
     "Name": "Arcane Bond",
@@ -7323,7 +7537,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Wizards can choose a familiar, or a object bond.",
-    "ClassName": "Wizard"
+    "ClassName": "Wizard",
+    "FlatfileId": "classAbility:arcane-bond:2"
   },
   {
     "Name": "Arcane School",
@@ -7339,7 +7554,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A wizard can cast from a set of known cantrips, unlimited number per day.",
-    "ClassName": "Wizard"
+    "ClassName": "Wizard",
+    "FlatfileId": "classAbility:cantrips:7"
   },
   {
     "Name": "Scribe Scroll",
@@ -7347,7 +7563,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "Scribe Scroll as a bonus feat.",
-    "ClassName": "Wizard"
+    "ClassName": "Wizard",
+    "FlatfileId": "classAbility:scribe-scroll:3"
   },
   {
     "Name": "Spellbooks",
@@ -7355,7 +7572,8 @@
     "Level": 1,
     "Implemented": 1,
     "Description": "A wizard must study his spellbook each day to prepare his spells. He cannot prepare any spell not recorded in his spellbook, except for read magic, which all wizards can prepare from memory.",
-    "ClassName": "Wizard"
+    "ClassName": "Wizard",
+    "FlatfileId": "classAbility:spellbooks:2"
   },
   {
     "Name": "Bonus Feats",
@@ -7364,14 +7582,16 @@
     "Implemented": 1,
     "LevelsPerCharges": 5,
     "Description": "+ {0} metamagic feat,  item creation, or Spell Mastery feats.",
-    "ClassName": "Wizard"
+    "ClassName": "Wizard",
+    "FlatfileId": "classAbility:bonus-feats:11"
   },
   {
     "Name": "Versatile Performance",
     "Archtype": "Standard Skald",
     "Level": 2,
     "Implemented": 1,
-    "ClassName": "Skald"
+    "ClassName": "Skald",
+    "FlatfileId": "classAbility:versatile-performance:2"
   },
   {
     "Name": "Feral Focus",
@@ -7400,7 +7620,8 @@
     "Implemented": 1,
     "Sacrifice": "Bonus Tricks, Improved Empathic Link, Greater Empathic Link, Master Of The Wild, Raise Animal Companion",
     "Description": "At 4th level, a feral hunter gains the ability to change shape. This ability functions like the druid wild shape ability, except the hunter can take only animal forms (not elemental or plant forms). The hunter's effective druid level is equal to her class level.",
-    "ClassName": "Hunter"
+    "ClassName": "Hunter",
+    "FlatfileId": "classAbility:wild-shape:5"
   },
   {
     "Name": "Summon Pack",
@@ -7450,7 +7671,8 @@
     "Level": 5,
     "Sacrifice": "Lore Master",
     "Description": "At 5th level, an arcane duelist gains the arcane bond ability as a wizard, using a weapon as his bonded item. He may not choose a familiar or other type of bonded item. He may use the hand holding his bonded weapon for somatic components.",
-    "ClassName": "Bard"
+    "ClassName": "Bard",
+    "FlatfileId": "classAbility:arcane-bond:3"
   },
   {
     "Name": "Bonus Feats",
@@ -7458,7 +7680,8 @@
     "Level": 2,
     "Sacrifice": "Versatile Performance,Well-Versed",
     "Description": "An arcane duelist weaves might and magic in his combat style, gaining the following bonus feats at 2nd level and every four levels thereafter:",
-    "ClassName": "Bard"
+    "ClassName": "Bard",
+    "FlatfileId": "classAbility:bonus-feats:12"
   },
   {
     "Name": "Arcane Armor",
@@ -7476,48 +7699,55 @@
     "Level": 10,
     "Sacrifice": "Jack Of All Trades",
     "Description": "At 10th level, an arcane duelist gainsMedium Armor Proficiency and can cast bard spells in medium armor with no chance of arcane spell failure. At 16th level, he gains Heavy Armor Proficiencyand can cast bard spells in heavy armor with no arcane spell failure. ",
-    "ClassName": "Bard"
+    "ClassName": "Bard",
+    "FlatfileId": "classAbility:arcane-armor:2"
   },
   {
     "Name": "Bonus Feat",
     "Archtype": "Unchained Monk",
     "Level": 1,
     "ClassName": "Unchained Monk",
-    "Description": "At 1st level, 2nd level, and every 4 levels thereafter, a monk can select a bonus feat. These feats must be taken from the following list: Catch Off-Guard, Combat Reflexes, Deflect Arrows, Dodge, Improved Grapple, Scorpion Style, and Throw Anything. At 6th level, the following feats are added to the list: Gorgon’s Fist, Improved Bull Rush, Improved Disarm, Improved Feint, Improved Trip, and Mobility. At 10th level, the following feats are added to the list: Improved Critical, Medusa’s Wrath, Snatch Arrows, and Spring Attack. A monk need not have any of the prerequisites normally required for these feats to select them."
+    "Description": "At 1st level, 2nd level, and every 4 levels thereafter, a monk can select a bonus feat. These feats must be taken from the following list: Catch Off-Guard, Combat Reflexes, Deflect Arrows, Dodge, Improved Grapple, Scorpion Style, and Throw Anything. At 6th level, the following feats are added to the list: Gorgon’s Fist, Improved Bull Rush, Improved Disarm, Improved Feint, Improved Trip, and Mobility. At 10th level, the following feats are added to the list: Improved Critical, Medusa’s Wrath, Snatch Arrows, and Spring Attack. A monk need not have any of the prerequisites normally required for these feats to select them.",
+    "FlatfileId": "classAbility:bonus-feat:13"
   },
   {
     "Name": "Flurry of Blows",
     "Archtype": "Unchained Monk",
     "Level": 1,
     "ClassName": "Unchained Monk",
-    "Description": "At 1st level, a monk can make a flurry of blows as a full-attack action. When making a flurry of blows, the monk can make one additional attack at his highest base attack bonus. This additional attack stacks with the bonus attacks from haste and other similar effects. When using this ability, the monk can make these attacks with any combination of his unarmed strikes and weapons that have the monk special weapon quality. He takes no penalty for using multiple weapons when making a flurry of blows, but he does not gain any additional attacks beyond what’s already granted by the flurry for doing so. (He can still gain additional attacks from a high base attack bonus, from this ability, and from haste and similar effects). \r\n At 11th level, a monk can make an additional attack at his highest base attack bonus whenever he makes a flurry of blows. This stacks with the first attack from this ability and additional attacks from haste and similar effects."
+    "Description": "At 1st level, a monk can make a flurry of blows as a full-attack action. When making a flurry of blows, the monk can make one additional attack at his highest base attack bonus. This additional attack stacks with the bonus attacks from haste and other similar effects. When using this ability, the monk can make these attacks with any combination of his unarmed strikes and weapons that have the monk special weapon quality. He takes no penalty for using multiple weapons when making a flurry of blows, but he does not gain any additional attacks beyond what’s already granted by the flurry for doing so. (He can still gain additional attacks from a high base attack bonus, from this ability, and from haste and similar effects). \r\n At 11th level, a monk can make an additional attack at his highest base attack bonus whenever he makes a flurry of blows. This stacks with the first attack from this ability and additional attacks from haste and similar effects.",
+    "FlatfileId": "classAbility:flurry-of-blows:2"
   },
   {
     "Name": "Stunning Fist",
     "Archtype": "Unchained Monk",
     "Level": 1,
     "ClassName": "Unchained Monk",
-    "Description": "At 1st level, the monk gains Stunning Fist as a bonus feat, even if he does not meet the prerequisites.\r\nAt 4th level, and every 4 levels thereafter, the monk gains the ability to apply a new condition to the target of his Stunning Fist. This condition replaces stunning the target for 1 round, and a successful saving throw still negates the effect.\r\nAt 4th level, the monk can choose to make the target fatigued. At 8th level, he can make the target sickened for 1 minute.\r\nAt 12th level, he can make the target staggered for 1d6+1 rounds.\r\nAt 16th level, he can permanently blind or deafen the target.\r\nAt 20th level, he can paralyze the target for 1d6+1 rounds. The monk must choose which condition will apply before the attack roll is made. These effects do not stack with themselves (a creature fatigued by Stunning Fist cannot become exhausted if hit by Stunning Fist again), but additional hits do increase the duration."
+    "Description": "At 1st level, the monk gains Stunning Fist as a bonus feat, even if he does not meet the prerequisites.\r\nAt 4th level, and every 4 levels thereafter, the monk gains the ability to apply a new condition to the target of his Stunning Fist. This condition replaces stunning the target for 1 round, and a successful saving throw still negates the effect.\r\nAt 4th level, the monk can choose to make the target fatigued. At 8th level, he can make the target sickened for 1 minute.\r\nAt 12th level, he can make the target staggered for 1d6+1 rounds.\r\nAt 16th level, he can permanently blind or deafen the target.\r\nAt 20th level, he can paralyze the target for 1d6+1 rounds. The monk must choose which condition will apply before the attack roll is made. These effects do not stack with themselves (a creature fatigued by Stunning Fist cannot become exhausted if hit by Stunning Fist again), but additional hits do increase the duration.",
+    "FlatfileId": "classAbility:stunning-fist:2"
   },
   {
     "Name": "Unarmed Strike",
     "Archtype": "Unchained Monk",
     "Level": 1,
     "ClassName": "Unchained Monk",
-    "Description": "At 1st level, a monk gains Improved Unarmed Strike as a bonus feat. A monk’s attacks can be with fists, elbows, knees, and feet. This means that a monk can make unarmed strikes with his hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk can apply his full Strength bonus on damage rolls for all his unarmed strikes. A monk’s unarmed strikes deal lethal damage, although he can choose to deal nonlethal damage with no penalty on his attack roll. He can make this choice while grappling as well.\r\nA monk’s unarmed strike is treated as both a manufactured weapon and a natural weapon for the purpose of spells and effects that enhance or improve either manufactured weapons or natural weapons."
+    "Description": "At 1st level, a monk gains Improved Unarmed Strike as a bonus feat. A monk’s attacks can be with fists, elbows, knees, and feet. This means that a monk can make unarmed strikes with his hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk can apply his full Strength bonus on damage rolls for all his unarmed strikes. A monk’s unarmed strikes deal lethal damage, although he can choose to deal nonlethal damage with no penalty on his attack roll. He can make this choice while grappling as well.\r\nA monk’s unarmed strike is treated as both a manufactured weapon and a natural weapon for the purpose of spells and effects that enhance or improve either manufactured weapons or natural weapons.",
+    "FlatfileId": "classAbility:unarmed-strike:3"
   },
   {
     "Name": "Evasion",
     "Archtype": "Unchained Monk",
     "Level": 2,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "FlatfileId": "classAbility:evasion:5"
   },
   {
     "Description": "A monk gains an enhancement bonus to his land speed, as shown on Table: Monk Unchained. A monk in armor or carrying a medium or heavy load loses this extra speed.",
     "Name": "Fast Movement",
     "Archtype": "Unchained Monk",
     "Level": 3,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "FlatfileId": "classAbility:fast-movement:4"
   },
   {
     "Description": "A monk gains a pool of ki points, supernatural energy he can use to accomplish amazing feats. The number of points in a monk’s ki pool is equal to 1/2 his monk level + his Wisdom modifier. As long as he has at least 1 point in his ki pool, he can make a ki strike.",
@@ -7525,7 +7755,8 @@
     "SpellLike": "Su",
     "Archtype": "Unchained Monk",
     "Level": 3,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "FlatfileId": "classAbility:ki-pool:3"
   },
   {
     "Description": "Ki strike allows his unarmed attacks to be treated as magic weapons for the purpose of overcoming damage reduction.",
@@ -7548,7 +7779,8 @@
     "SpellLike": "Ex",
     "Archtype": "Unchained Monk",
     "Level": 4,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "FlatfileId": "classAbility:still-mind:2"
   },
   {
     "Description": "At 5th level, a monk gains immunity to all diseases, including supernatural and magical diseases.",
@@ -7556,7 +7788,8 @@
     "SpellLike": "Ex",
     "Archtype": "Unchained Monk",
     "Level": 5,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "FlatfileId": "classAbility:purity-of-body:2"
   },
   {
     "Description": "At 5th level, a monk can learn one type of style strike. Whenever he makes a flurry of blows, he can designate one of his unarmed strikes as a style strike. This attack is resolved as normal, but it has an additional effect depending on the type of strike chosen. At 9th level, and every 4 levels thereafter, a monk learns an additional style strike. He must choose which style strike to apply before the attack roll is made. At 15th level, he can designate up to two of his unarmed strikes each round as a style strike, and each one can be a different type. The monk can choose from any of the following strikes.",
@@ -7579,7 +7812,8 @@
     "SpellLike": "Ex",
     "Archtype": "Unchained Monk",
     "Level": 9,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "FlatfileId": "classAbility:improved-evasion:4"
   },
   {
     "Description": "At 13th level, a monk can understand and speak with any living creature, as if under a permanent tongues effect.",
@@ -7595,7 +7829,8 @@
     "SpellLike": "Ex",
     "Archtype": "Unchained Monk",
     "Level": 17,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "FlatfileId": "classAbility:timeless-body:3"
   },
   {
     "Description": "At 20th level, a monk becomes a magical creature. He is forevermore treated as an outsider rather than a humanoid (or whatever his original creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/chaotic, which allows him to ignore the first 10 points of damage from any attack made by a nonchaotic weapon. Unlike other outsiders, the monk can still be brought back from the dead as if he were a member of his previous creature type. Finally, the monk gains the ability to enter a state of perfect calm. During this time, the monk can take no actions, but he does regain ki at the rate of 1 point per 10 minutes spent at calm. He cannot use this ability to gain an amount of ki in excess of his maximum.",
@@ -7609,6 +7844,7 @@
     "Name": "Perfect Self",
     "Archtype": "Unchained Monk",
     "Level": 20,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "FlatfileId": "classAbility:perfect-self:2"
   }
 ]

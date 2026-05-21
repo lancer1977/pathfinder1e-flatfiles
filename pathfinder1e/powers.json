@@ -245,7 +245,8 @@
   {
     "Name": "Versatile Evocation",
     "Type": "Arcane School",
-    "Description": "When you cast an evocation spell that does acid, cold, electricity, or fire damage, you may change the damage dealt to one of the other four energy types. This changes the descriptor of the spell to match the new energy type. Any non-damaging effects remain unchanged unless the new energy type invalidates them (an ice storm that deals fire damage might still provide a penalty on Perception checks due to smoke, but it would not create difficult terrain). Such effects are subject to GM discretion. You can use this ability a number of times per day equal to 3 + your Intelligence modifier."
+    "Description": "When you cast an evocation spell that does acid, cold, electricity, or fire damage, you may change the damage dealt to one of the other four energy types. This changes the descriptor of the spell to match the new energy type. Any non-damaging effects remain unchanged unless the new energy type invalidates them (an ice storm that deals fire damage might still provide a penalty on Perception checks due to smoke, but it would not create difficult terrain). Such effects are subject to GM discretion. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.",
+    "FlatfileId": "powers:versatile-evocation:2"
   },
   {
     "Name": "Elemental Manipulation",
@@ -367,7 +368,8 @@
     "Name": "Battle Companion",
     "Type": "Blessing",
     "Subtype": "Major",
-    "Description": "At 10th as a standard action, you can summon a battle companion. This ability functions as summon monster IV, with a duration of 1 minute, but can only summon a chaotic outsider or an animal with the entropic creature simple template (Pathfinder RPG Bestiary 2 293). This ability can only summon one creature, regardless of the list used. At every 2 levels beyond 10th, the level of the summon monster spell increases by one, to a maximum of summon monster IX at 20th level."
+    "Description": "At 10th as a standard action, you can summon a battle companion. This ability functions as summon monster IV, with a duration of 1 minute, but can only summon a chaotic outsider or an animal with the entropic creature simple template (Pathfinder RPG Bestiary 2 293). This ability can only summon one creature, regardless of the list used. At every 2 levels beyond 10th, the level of the summon monster spell increases by one, to a maximum of summon monster IX at 20th level.",
+    "FlatfileId": "powers:battle-companion:2"
   },
   {
     "Name": "Anarchic Strike",
@@ -451,7 +453,8 @@
     "Name": "Battle Companion",
     "Type": "Blessing",
     "Subtype": "Major",
-    "Description": "as a standard action you can summon a battle companion. This ability functions as summon monster IV, with a duration of 1 minute, but can only summon an evil outsider or an animal with the fiendish creature simple template. This ability can only summon one creature, regardless of the list used. At every 2 levels beyond 10th, the level of the summon monster spell increases by one, to a maximum of summon monster IX at 20th level."
+    "Description": "as a standard action you can summon a battle companion. This ability functions as summon monster IV, with a duration of 1 minute, but can only summon an evil outsider or an animal with the fiendish creature simple template. This ability can only summon one creature, regardless of the list used. At every 2 levels beyond 10th, the level of the summon monster spell increases by one, to a maximum of summon monster IX at 20th level.",
+    "FlatfileId": "powers:battle-companion:3"
   },
   {
     "Name": "Unholy Strike",
@@ -487,7 +490,8 @@
     "Name": "Battle Companion",
     "Type": "Blessing",
     "Subtype": "Major",
-    "Description": "as a standard action you can summon a battle companion. This ability functions as summon monster IV, with a duration of 1 minute, but can only summon a good outsider or an animal with the celestial creature simple template. This ability can only summon one creature, regardless of the list used. At every 2 levels beyond 10th, the level of the summon monster spell increases by one, to a maximum of summon monster IX at 20th level."
+    "Description": "as a standard action you can summon a battle companion. This ability functions as summon monster IV, with a duration of 1 minute, but can only summon a good outsider or an animal with the celestial creature simple template. This ability can only summon one creature, regardless of the list used. At every 2 levels beyond 10th, the level of the summon monster spell increases by one, to a maximum of summon monster IX at 20th level.",
+    "FlatfileId": "powers:battle-companion:4"
   },
   {
     "Name": "Holy Strike",
@@ -523,7 +527,8 @@
     "Name": "Battle Companion",
     "Type": "Blessing",
     "Subtype": "Major",
-    "Description": "as a standard action you can summon a battle companion. This ability functions as summon monster IV, with a duration of 1 minute, but can only summon a lawful outsider or an animal with the resolute creature simple template (Bestiary 2 293). This ability can only summon one creature, regardless of the list used. At every 2 levels beyond 10th, the level of the summon monster spell increases by one, to a maximum of summon monster IX at 20 level."
+    "Description": "as a standard action you can summon a battle companion. This ability functions as summon monster IV, with a duration of 1 minute, but can only summon a lawful outsider or an animal with the resolute creature simple template (Bestiary 2 293). This ability can only summon one creature, regardless of the list used. At every 2 levels beyond 10th, the level of the summon monster spell increases by one, to a maximum of summon monster IX at 20 level.",
+    "FlatfileId": "powers:battle-companion:5"
   },
   {
     "Name": "Axiomatic Strike",
@@ -595,7 +600,8 @@
     "Name": "Battle Companion",
     "Type": "Blessing",
     "Subtype": "Major",
-    "Description": "as a standard action you can summon a battle companion. This ability functions as summon nature’s ally IV, with a duration of 1 minute. This ability can only summon one animal, regardless of the list used, and the creature’s type changes to plant instead of animal. At every 2 levels beyond 10th, the level of the summon nature’s ally spell increases by one, to a maximum of summon nature’s ally IX at 20th level."
+    "Description": "as a standard action you can summon a battle companion. This ability functions as summon nature’s ally IV, with a duration of 1 minute. This ability can only summon one animal, regardless of the list used, and the creature’s type changes to plant instead of animal. At every 2 levels beyond 10th, the level of the summon nature’s ally spell increases by one, to a maximum of summon nature’s ally IX at 20th level.",
+    "FlatfileId": "powers:battle-companion:6"
   },
   {
     "Name": "Name",
@@ -913,7 +919,8 @@
     "Name": "Claws",
     "Type": "Bloodrager",
     "SpellLike": "Su",
-    "Description": "Starting you grow claws. These claws are treated as natural weapons, allowing you to make two claw attacks as a full-attack action using your full base attack bonus. Each of these attacks deals 1d6 points of damage plus your Strength modifier (1d4 if you are Small). these claws are considered magic weapons for the purpose of overcoming DR. the damage increases by one step to 1d8 points of damage (1d6 if you are Small). these claws deal an additional 1d6 points of damage of your energy type on a successful hit."
+    "Description": "Starting you grow claws. These claws are treated as natural weapons, allowing you to make two claw attacks as a full-attack action using your full base attack bonus. Each of these attacks deals 1d6 points of damage plus your Strength modifier (1d4 if you are Small). these claws are considered magic weapons for the purpose of overcoming DR. the damage increases by one step to 1d8 points of damage (1d6 if you are Small). these claws deal an additional 1d6 points of damage of your energy type on a successful hit.",
+    "FlatfileId": "powers:claws:2"
   },
   {
     "Name": "Breath Weapon",
@@ -1903,7 +1910,8 @@
     "Type": "Discovery",
     "Level": 20,
     "Prereq": "Grand discovery",
-    "Description": "Gain fast healing 5"
+    "Description": "Gain fast healing 5",
+    "FlatfileId": "powers:fast-healing:2"
   },
   {
     "Name": "Philosopher's Stone",
@@ -1973,7 +1981,8 @@
   {
     "Name": "Dazing Touch",
     "Type": "Domain",
-    "Description": "You can cause a living creature to become dazed for 1 round as a melee touch attack. Creatures with more Hit Dice than your cleric level are unaffected. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    "Description": "You can cause a living creature to become dazed for 1 round as a melee touch attack. Creatures with more Hit Dice than your cleric level are unaffected. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+    "FlatfileId": "powers:dazing-touch:2"
   },
   {
     "Name": "Charming Smile",
@@ -2028,7 +2037,8 @@
   {
     "Name": "Acid Dart",
     "Type": "Domain",
-    "Description": "As a standard action, you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. This acid dart deals 1d6 points of acid damage + 1 point for every two cleric levels you possess. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    "Description": "As a standard action, you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. This acid dart deals 1d6 points of acid damage + 1 point for every two cleric levels you possess. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+    "FlatfileId": "powers:acid-dart:2"
   },
   {
     "Name": "Acid Resistance",
@@ -2094,7 +2104,8 @@
   {
     "Name": "Lore Keeper",
     "Type": "Domain",
-    "Description": "You can touch a creature to learn about its abilities and weaknesses. With a successful touch attack, you gain information as if you made the appropriate Knowledge skill check with a result equal to 15 + your cleric level + your Wisdom modifier."
+    "Description": "You can touch a creature to learn about its abilities and weaknesses. With a successful touch attack, you gain information as if you made the appropriate Knowledge skill check with a result equal to 15 + your cleric level + your Wisdom modifier.",
+    "FlatfileId": "powers:lore-keeper:2"
   },
   {
     "Name": "Remote Viewing",
@@ -2116,7 +2127,8 @@
   {
     "Name": "Liberation",
     "Type": "Domain",
-    "Description": "You have the ability to ignore impediments to your mobility. For a number of rounds per day equal to your cleric level, you can move normally regardless of magical effects that impede movement, as if you were affected by freedom of movement. This effect occurs automatically as soon as it applies. These rounds do not need to be consecutive."
+    "Description": "You have the ability to ignore impediments to your mobility. For a number of rounds per day equal to your cleric level, you can move normally regardless of magical effects that impede movement, as if you were affected by freedom of movement. This effect occurs automatically as soon as it applies. These rounds do not need to be consecutive.",
+    "FlatfileId": "powers:liberation:2"
   },
   {
     "Name": "Freedom's Call",
@@ -2149,7 +2161,8 @@
   {
     "Name": "Hand Of The Acolyte",
     "Type": "Domain",
-    "Description": "You can cause your melee weapon to fly from your grasp and strike a foe before instantly returning. As a standard action, you can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Wisdom modifier to the attack roll instead of your Dexterity modifier (damage still relies on Strength). This ability cannot be used to perform a combat maneuver. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    "Description": "You can cause your melee weapon to fly from your grasp and strike a foe before instantly returning. As a standard action, you can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Wisdom modifier to the attack roll instead of your Dexterity modifier (damage still relies on Strength). This ability cannot be used to perform a combat maneuver. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+    "FlatfileId": "powers:hand-of-the-acolyte:2"
   },
   {
     "Name": "Dispelling Touch",
@@ -2160,7 +2173,8 @@
   {
     "Name": "Inspiring Word",
     "Type": "Domain",
-    "Description": "As a standard action, you can speak an inspiring word to a creature within 30 feet. That creature receives a +2 morale bonus on attack rolls, skill checks, ability checks, and saving throws for a number of rounds equal to 1/2 your cleric level (minimum 1). You can use this power a number of times per day equal to 3 + your Wisdom modifier."
+    "Description": "As a standard action, you can speak an inspiring word to a creature within 30 feet. That creature receives a +2 morale bonus on attack rolls, skill checks, ability checks, and saving throws for a number of rounds equal to 1/2 your cleric level (minimum 1). You can use this power a number of times per day equal to 3 + your Wisdom modifier.",
+    "FlatfileId": "powers:inspiring-word:2"
   },
   {
     "Name": "Leadership",
@@ -2188,12 +2202,14 @@
     "Name": "Aura Of Protection",
     "Type": "Domain",
     "Level": 8,
-    "Description": "You can emit a 30-foot aura of protection for a number of rounds per day equal to your cleric level. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four cleric levels you possess beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive."
+    "Description": "You can emit a 30-foot aura of protection for a number of rounds per day equal to your cleric level. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four cleric levels you possess beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive.",
+    "FlatfileId": "powers:aura-of-protection:2"
   },
   {
     "Name": "Gentle Rest",
     "Type": "Domain",
-    "Description": "Your touch can fill a creature with lethargy, causing a living creature to become staggered for 1 round as a melee touch attack. If you touch a staggered living creature, that creature falls asleep for 1 round instead. Undead creatures touched are staggered for a number of rounds equal to your Wisdom modifier. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    "Description": "Your touch can fill a creature with lethargy, causing a living creature to become staggered for 1 round as a melee touch attack. If you touch a staggered living creature, that creature falls asleep for 1 round instead. Undead creatures touched are staggered for a number of rounds equal to your Wisdom modifier. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+    "FlatfileId": "powers:gentle-rest:2"
   },
   {
     "Name": "Ward Against Death",
@@ -2204,7 +2220,8 @@
   {
     "Name": "Blast Rune",
     "Type": "Domain",
-    "Description": "As a standard action, you can create a blast rune in any adjacent square. Any creature entering this square takes 1d6 points of damage + 1 point for every two cleric levels you possess. This rune deals either acid, cold, electricity, or fire damage, decided when you create the rune. The rune is invisible and lasts a number of rounds equal to your cleric level or until discharged. You cannot create a blast rune in a square occupied by another creature. This rune counts as a 1st-level spell for the purposes of dispelling. It can be discovered with a DC 26 Perception skill check and disarmed with a DC 26 Disable Device skill check. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    "Description": "As a standard action, you can create a blast rune in any adjacent square. Any creature entering this square takes 1d6 points of damage + 1 point for every two cleric levels you possess. This rune deals either acid, cold, electricity, or fire damage, decided when you create the rune. The rune is invisible and lasts a number of rounds equal to your cleric level or until discharged. You cannot create a blast rune in a square occupied by another creature. This rune counts as a 1st-level spell for the purposes of dispelling. It can be discovered with a DC 26 Perception skill check and disarmed with a DC 26 Disable Device skill check. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+    "FlatfileId": "powers:blast-rune:2"
   },
   {
     "Name": "Spell Rune",
@@ -2215,7 +2232,8 @@
   {
     "Name": "Strength Surge",
     "Type": "Domain",
-    "Description": "As a standard action, you can touch a creature to give it great strength. For 1 round, the target gains an enhancement bonus equal to 1/2 your cleric level (minimum +1) to melee attacks, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    "Description": "As a standard action, you can touch a creature to give it great strength. For 1 round, the target gains an enhancement bonus equal to 1/2 your cleric level (minimum +1) to melee attacks, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+    "FlatfileId": "powers:strength-surge:2"
   },
   {
     "Name": "Might Of The Gods",
@@ -2237,18 +2255,21 @@
   {
     "Name": "Agile Feet",
     "Type": "Domain",
-    "Description": "As a free action, you can gain increased mobility for 1 round. For the next round, you ignore all difficult terrain and do not take any penalties for moving through it. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    "Description": "As a free action, you can gain increased mobility for 1 round. For the next round, you ignore all difficult terrain and do not take any penalties for moving through it. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+    "FlatfileId": "powers:agile-feet:2"
   },
   {
     "Name": "Dimensional Hop",
     "Type": "Domain",
     "Level": 8,
-    "Description": "You can teleport up to 10 feet per cleric level per day as a move action. This teleportation must be used in 5-foot increments and such movement does not provoke attacks of opportunity. You must have line of sight to your destination to use this ability. You can bring other willing creatures with you, but you must expend an equal amount of distance for each creature brought."
+    "Description": "You can teleport up to 10 feet per cleric level per day as a move action. This teleportation must be used in 5-foot increments and such movement does not provoke attacks of opportunity. You must have line of sight to your destination to use this ability. You can bring other willing creatures with you, but you must expend an equal amount of distance for each creature brought.",
+    "FlatfileId": "powers:dimensional-hop:2"
   },
   {
     "Name": "Copycat",
     "Type": "Domain",
-    "Description": "You can create an illusory double of yourself as a move action. This double functions as a single mirror image and lasts for a number of rounds equal to your cleric level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one copycat at a time. This ability does not stack with the mirror image spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    "Description": "You can create an illusory double of yourself as a move action. This double functions as a single mirror image and lasts for a number of rounds equal to your cleric level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one copycat at a time. This ability does not stack with the mirror image spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+    "FlatfileId": "powers:copycat:2"
   },
   {
     "Name": "Master's Illusion",
@@ -2781,7 +2802,8 @@
   {
     "Name": "Back to the Grave",
     "Type": "Domain",
-    "Description": "When you cast cure spells (any spells with “cure” in their name) to deal damage to undead creatures, you add +2 points of damage per caster level instead of +1 point of damage per caster level. The maximum damage for each spell remains unchanged."
+    "Description": "When you cast cure spells (any spells with “cure” in their name) to deal damage to undead creatures, you add +2 points of damage per caster level instead of +1 point of damage per caster level. The maximum damage for each spell remains unchanged.",
+    "FlatfileId": "powers:back-to-the-grave:2"
   },
   {
     "Name": "Hallowed Rite",
@@ -2825,7 +2847,8 @@
     "Name": "Locate Focus",
     "Type": "Domain",
     "Level": 8,
-    "Description": "once per day you may use either locate creature or locate object as a spell-like ability using your current focus as the target. The range of this effect is 1 mile per level."
+    "Description": "once per day you may use either locate creature or locate object as a spell-like ability using your current focus as the target. The range of this effect is 1 mile per level.",
+    "FlatfileId": "powers:locate-focus:2"
   },
   {
     "Name": "Righteous Awe",
@@ -2858,7 +2881,8 @@
   {
     "Name": "Charm of Wisdom",
     "Type": "Domain",
-    "Description": "You use your Wisdom modifier instead of your Charisma modifier when making Bluff, Diplomacy, and Intimidate checks."
+    "Description": "You use your Wisdom modifier instead of your Charisma modifier when making Bluff, Diplomacy, and Intimidate checks.",
+    "FlatfileId": "powers:charm-of-wisdom:2"
   },
   {
     "Name": "Illuminating Touch",
@@ -2964,7 +2988,8 @@
     "Name": "Excommunicate",
     "Type": "Domain",
     "Level": 8,
-    "Description": "once per day, you can silence a creature within 30 feet as a standard action. A Will save against DC = 10 + 1/2 your inquisitor level + your Wisdom modifier negates the effect. A creature that fails its save gets a second save 1 round later. If it fails the second save, the target cannot speak, provide verbal components for spells, make use of language-dependent effects, write, pantomime, or take any other action meant to communicate anything more complex than a simple affirmative or negative for 1 day."
+    "Description": "once per day, you can silence a creature within 30 feet as a standard action. A Will save against DC = 10 + 1/2 your inquisitor level + your Wisdom modifier negates the effect. A creature that fails its save gets a second save 1 round later. If it fails the second save, the target cannot speak, provide verbal components for spells, make use of language-dependent effects, write, pantomime, or take any other action meant to communicate anything more complex than a simple affirmative or negative for 1 day.",
+    "FlatfileId": "powers:excommunicate:2"
   },
   {
     "Name": "Disrupt Animation",
@@ -3299,91 +3324,106 @@
     "Name": "Fatigued",
     "Type": "Mercy",
     "Level": 3,
-    "Description": "The target is no longer fatigued"
+    "Description": "The target is no longer fatigued",
+    "FlatfileId": "powers:fatigued:2"
   },
   {
     "Name": "Shaken",
     "Type": "Mercy",
     "Level": 3,
-    "Description": "The target is no longer shaken"
+    "Description": "The target is no longer shaken",
+    "FlatfileId": "powers:shaken:2"
   },
   {
     "Name": "Sickened",
     "Type": "Mercy",
     "Level": 3,
-    "Description": "The target is no longer sickened"
+    "Description": "The target is no longer sickened",
+    "FlatfileId": "powers:sickened:2"
   },
   {
     "Name": "Dazed",
     "Type": "Mercy",
     "Level": 6,
-    "Description": "The target is no longer dazed"
+    "Description": "The target is no longer dazed",
+    "FlatfileId": "powers:dazed:2"
   },
   {
     "Name": "Diseased",
     "Type": "Mercy",
     "Level": 6,
-    "Description": "The target is no longer diseased"
+    "Description": "The target is no longer diseased",
+    "FlatfileId": "powers:diseased:2"
   },
   {
     "Name": "Staggered",
     "Type": "Mercy",
     "Level": 6,
-    "Description": "The target is no longer staggered"
+    "Description": "The target is no longer staggered",
+    "FlatfileId": "powers:staggered:2"
   },
   {
     "Name": "Cursed",
     "Type": "Mercy",
     "Level": 9,
-    "Description": "The paladin's lay on hands ability also acts as remove curse, using the paladin's level as the caster level."
+    "Description": "The paladin's lay on hands ability also acts as remove curse, using the paladin's level as the caster level.",
+    "FlatfileId": "powers:cursed:2"
   },
   {
     "Name": "Exhausted",
     "Type": "Mercy",
     "Level": 9,
-    "Description": "The target is no longer exhausted"
+    "Description": "The target is no longer exhausted",
+    "FlatfileId": "powers:exhausted:2"
   },
   {
     "Name": "Frightened",
     "Type": "Mercy",
     "Level": 9,
-    "Description": "The target is no longer frightened"
+    "Description": "The target is no longer frightened",
+    "FlatfileId": "powers:frightened:2"
   },
   {
     "Name": "Nauseated",
     "Type": "Mercy",
     "Level": 9,
-    "Description": "The target is no longer nauseated"
+    "Description": "The target is no longer nauseated",
+    "FlatfileId": "powers:nauseated:2"
   },
   {
     "Name": "Poisoned",
     "Type": "Mercy",
     "Level": 9,
-    "Description": "The paladin's lay on hands ability also acts as neutralize poison, using the paladin's level as the caster level"
+    "Description": "The paladin's lay on hands ability also acts as neutralize poison, using the paladin's level as the caster level",
+    "FlatfileId": "powers:poisoned:2"
   },
   {
     "Name": "Blinded",
     "Type": "Mercy",
     "Level": 12,
-    "Description": "The target is no longer blinded"
+    "Description": "The target is no longer blinded",
+    "FlatfileId": "powers:blinded:2"
   },
   {
     "Name": "Deafened",
     "Type": "Mercy",
     "Level": 12,
-    "Description": "The target is no longer deafened"
+    "Description": "The target is no longer deafened",
+    "FlatfileId": "powers:deafened:2"
   },
   {
     "Name": "Paralyzed",
     "Type": "Mercy",
     "Level": 12,
-    "Description": "The target is no longer paralyzed"
+    "Description": "The target is no longer paralyzed",
+    "FlatfileId": "powers:paralyzed:2"
   },
   {
     "Name": "Stunned",
     "Type": "Mercy",
     "Level": 12,
-    "Description": "The target is no longer stunned"
+    "Description": "The target is no longer stunned",
+    "FlatfileId": "powers:stunned:2"
   },
   {
     "Name": "Countersong",
@@ -3507,7 +3547,8 @@
     "Type": "Performance",
     "Level": 10,
     "SpellLike": "Su",
-    "Description": "A skald can create a sense of growing dread in his enemies, causing them to become shaken. This only affects enemies that are within 30 feet and able to hear the skald's performance. The effect persists for as long as the enemy is within 30 feet and the skald continues his performance. This cannot cause a creature to become frightened or panicked, even if the targets are already shaken from another effect. This is a sonic mind-affecting fear effect, and relies on audible components."
+    "Description": "A skald can create a sense of growing dread in his enemies, causing them to become shaken. This only affects enemies that are within 30 feet and able to hear the skald's performance. The effect persists for as long as the enemy is within 30 feet and the skald continues his performance. This cannot cause a creature to become frightened or panicked, even if the targets are already shaken from another effect. This is a sonic mind-affecting fear effect, and relies on audible components.",
+    "FlatfileId": "powers:dirge-of-doom:2"
   },
   {
     "Name": "Song of the Fallen",
@@ -3653,7 +3694,8 @@
     "Type": "Rage",
     "Level": 12,
     "Prereq": "Greater Energy Resistance",
-    "Description": "Absorb energy to gain temporary hit points"
+    "Description": "Absorb energy to gain temporary hit points",
+    "FlatfileId": "powers:energy-absorption:2"
   },
   {
     "Name": "Ground Breaker, Greater",
@@ -3984,7 +4026,8 @@
   {
     "Name": "Animal Fury",
     "Type": "Rage",
-    "Description": "Gain a bite attack"
+    "Description": "Gain a bite attack",
+    "FlatfileId": "powers:animal-fury:2"
   },
   {
     "Name": "Armor Ripper",
@@ -4170,7 +4213,8 @@
   {
     "Name": "Strength Surge",
     "Type": "Rage",
-    "Description": "Gain a Strength bonus on Combat Maneuver Checks"
+    "Description": "Gain a Strength bonus on Combat Maneuver Checks",
+    "FlatfileId": "powers:strength-surge:3"
   },
   {
     "Name": "Superstition",
@@ -4418,7 +4462,8 @@
     "Name": "Spirit Walk",
     "Type": "Revelation",
     "Subtype": "Bones",
-    "Description": "As a standard action, you can become incorporeal and invisible. While in this form, you can move in any direction and through any object (except for those made of force). You can take no action other than to move while in this form. You remain in this form for a number of rounds equal to your oracle level, but you can end this effect prematurely with a standard action. You can use this ability once per day at 11th level, and twice per day at 15th level. You must be at least 11th level to select this revelation."
+    "Description": "As a standard action, you can become incorporeal and invisible. While in this form, you can move in any direction and through any object (except for those made of force). You can take no action other than to move while in this form. You remain in this form for a number of rounds equal to your oracle level, but you can end this effect prematurely with a standard action. You can use this ability once per day at 11th level, and twice per day at 15th level. You must be at least 11th level to select this revelation.",
+    "FlatfileId": "powers:spirit-walk:2"
   },
   {
     "Name": "Undead Servitude",
@@ -4430,13 +4475,15 @@
     "Name": "Voice of the Grave",
     "Type": "Revelation",
     "Subtype": "Bones",
-    "Description": "You can speak with dead, as per the spell, for a number of rounds per day equal to your oracle level. These rounds do not need to be consecutive. At 5th level, and every five levels thereafter, the dead creature takes a cumulative –2 penalty on its Will save to resist this effect."
+    "Description": "You can speak with dead, as per the spell, for a number of rounds per day equal to your oracle level. These rounds do not need to be consecutive. At 5th level, and every five levels thereafter, the dead creature takes a cumulative –2 penalty on its Will save to resist this effect.",
+    "FlatfileId": "powers:voice-of-the-grave:2"
   },
   {
     "Name": "Final Revelation",
     "Type": "Revelation",
     "Subtype": "Bones",
-    "Description": "Upon reaching 20th level, you become a master of death. Once per round, you can cast bleed or stabilize as a free action. If you are brought to below 0 hit points, you automatically stabilize. You can cast animate dead at will without paying a material component cost (although you are still subject to the usual Hit Die control limit). Once per day, you can cast power word kill, but the spell can target a creature with 150 hit points or less."
+    "Description": "Upon reaching 20th level, you become a master of death. Once per round, you can cast bleed or stabilize as a free action. If you are brought to below 0 hit points, you automatically stabilize. You can cast animate dead at will without paying a material component cost (although you are still subject to the usual Hit Die control limit). Once per day, you can cast power word kill, but the spell can target a creature with 150 hit points or less.",
+    "FlatfileId": "powers:final-revelation:2"
   },
   {
     "Name": "Burning Magic",
@@ -4502,7 +4549,8 @@
     "Name": "Final Revelation",
     "Type": "Revelation",
     "Subtype": "Flame",
-    "Description": "Upon reaching 20th level, you become a master of fire. You can apply any one of the following feats to any fire spell you cast without increasing the level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell. You do not need to possess these feats to use this ability."
+    "Description": "Upon reaching 20th level, you become a master of fire. You can apply any one of the following feats to any fire spell you cast without increasing the level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell. You do not need to possess these feats to use this ability.",
+    "FlatfileId": "powers:final-revelation:3"
   },
   {
     "Name": "Awesome Display",
@@ -4568,7 +4616,8 @@
     "Name": "Final Revelation",
     "Type": "Revelation",
     "Subtype": "Heavens",
-    "Description": "Upon achieving 20th level, your rapport with the heavens grants you perfect harmony with the universe. You receive a bonus on all saving throws equal to your Charisma modifier. You automatically stabilize if you are below 0 hit points, are immune to fear effects, and automatically confirm all critical hits. Should you die, you are reborn 3 days later in the form of a star child, who matures over the course of 7 days (treat as the reincarnate spell)."
+    "Description": "Upon achieving 20th level, your rapport with the heavens grants you perfect harmony with the universe. You receive a bonus on all saving throws equal to your Charisma modifier. You automatically stabilize if you are below 0 hit points, are immune to fear effects, and automatically confirm all critical hits. Should you die, you are reborn 3 days later in the form of a star child, who matures over the course of 7 days (treat as the reincarnate spell).",
+    "FlatfileId": "powers:final-revelation:4"
   },
   {
     "Name": "Channel",
@@ -4580,7 +4629,8 @@
     "Name": "Combat Healer",
     "Type": "Revelation",
     "Subtype": "Life",
-    "Description": "As the battle mystery revelation."
+    "Description": "As the battle mystery revelation.",
+    "FlatfileId": "powers:combat-healer:2"
   },
   {
     "Name": "Delay Affliction",
@@ -4634,7 +4684,8 @@
     "Name": "Final Revelation",
     "Type": "Revelation",
     "Subtype": "Life",
-    "Description": "Upon reaching 20th level, you become a perfect channel for life energy. You become immune to bleed, death attacks, exhaustion, fatigue, nausea effects, negative levels, and sickened effects. Ability damage and drain cannot reduce you below 1 in any ability score. You automatically make saving throws against massive damage. When you are below 0 hit points, you do not die until your negative total is in excess of twice your Constitution score."
+    "Description": "Upon reaching 20th level, you become a perfect channel for life energy. You become immune to bleed, death attacks, exhaustion, fatigue, nausea effects, negative levels, and sickened effects. Ability damage and drain cannot reduce you below 1 in any ability score. You automatically make saving throws against massive damage. When you are below 0 hit points, you do not die until your negative total is in excess of twice your Constitution score.",
+    "FlatfileId": "powers:final-revelation:5"
   },
   {
     "Name": "Arcane Archivist",
@@ -4664,7 +4715,8 @@
     "Name": "Lore Keeper",
     "Type": "Revelation",
     "Subtype": "Lore",
-    "Description": "Instead of encyclopedic knowledge, you learn most of your information through tales, songs, and poems. You may use your Charisma modifier instead of your Intelligence modifier on all Knowledge checks."
+    "Description": "Instead of encyclopedic knowledge, you learn most of your information through tales, songs, and poems. You may use your Charisma modifier instead of your Intelligence modifier on all Knowledge checks.",
+    "FlatfileId": "powers:lore-keeper:3"
   },
   {
     "Name": "Mental Acuity",
@@ -4700,7 +4752,8 @@
     "Name": "Final Revelation",
     "Type": "Revelation",
     "Subtype": "Lore",
-    "Description": "You gain the ability to take 20 on all Knowledge skill checks. Your understanding of the fundamental underpinnings of reality has also become so advanced that once per day, you can cast wish. This ability does not require a material component, but the wish cannot be used to grant ability score bonuses, nor can it be used to replicate spells with expensive material components."
+    "Description": "You gain the ability to take 20 on all Knowledge skill checks. Your understanding of the fundamental underpinnings of reality has also become so advanced that once per day, you can cast wish. This ability does not require a material component, but the wish cannot be used to grant ability score bonuses, nor can it be used to replicate spells with expensive material components.",
+    "FlatfileId": "powers:final-revelation:6"
   },
   {
     "Name": "Bonded Mount",
@@ -4742,7 +4795,8 @@
     "Name": "Speak with Animals",
     "Type": "Revelation",
     "Subtype": "Nature",
-    "Description": "Choose a specific kind of animal (eagle, fox, dog, and so on). You gain the ability to converse with that type of animal as if you were under the effects of speak with animal. You gain the ability to communicate with an additional kind of animal for every 3 oracle levels you have attained."
+    "Description": "Choose a specific kind of animal (eagle, fox, dog, and so on). You gain the ability to converse with that type of animal as if you were under the effects of speak with animal. You gain the ability to communicate with an additional kind of animal for every 3 oracle levels you have attained.",
+    "FlatfileId": "powers:speak-with-animals:2"
   },
   {
     "Name": "Spirit of Nature",
@@ -4766,7 +4820,8 @@
     "Name": "Final Revelation",
     "Type": "Revelation",
     "Subtype": "Nature",
-    "Description": "At 20th level, you have discovered the intrinsic secrets of life itself, granting you incredible control over your own body. Once per day, you can surround yourself with an organic cocoon as a full-round action. While enclosed in the cocoon, you are considered helpless. Eight hours later, you emerge having changed your type to plant, animal, or humanoid, gaining superficial physical characteristics as appropriate (see the Pathfinder RPG Bestiary). This change does not alter your Hit Dice, hit points, saving throws, skill points, class skills, or proficiencies. Each time the transformation is made, you are cleansed of all poisons or diseases, are restored to full hit points, and heal all ability damage. You must select a new type every time the transformation is made."
+    "Description": "At 20th level, you have discovered the intrinsic secrets of life itself, granting you incredible control over your own body. Once per day, you can surround yourself with an organic cocoon as a full-round action. While enclosed in the cocoon, you are considered helpless. Eight hours later, you emerge having changed your type to plant, animal, or humanoid, gaining superficial physical characteristics as appropriate (see the Pathfinder RPG Bestiary). This change does not alter your Hit Dice, hit points, saving throws, skill points, class skills, or proficiencies. Each time the transformation is made, you are cleansed of all poisons or diseases, are restored to full hit points, and heal all ability damage. You must select a new type every time the transformation is made.",
+    "FlatfileId": "powers:final-revelation:7"
   },
   {
     "Name": "Acid Skin",
@@ -4832,7 +4887,8 @@
     "Name": "Final Revelation",
     "Type": "Revelation",
     "Subtype": "Stone",
-    "Description": "Upon reaching 20th level, you become a master of acid and earth. You can apply any one of the following feats to any acid or earth spell without increasing the level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell."
+    "Description": "Upon reaching 20th level, you become a master of acid and earth. You can apply any one of the following feats to any acid or earth spell without increasing the level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell.",
+    "FlatfileId": "powers:final-revelation:8"
   },
   {
     "Name": "Air Barrier",
@@ -4898,7 +4954,8 @@
     "Name": "Final Revelation",
     "Type": "Revelation",
     "Subtype": "Wind",
-    "Description": "Upon reaching 20th level, you become a master of air and electricity. You can apply any one of the following feats to any air or electricity spell without increasing the level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell."
+    "Description": "Upon reaching 20th level, you become a master of air and electricity. You can apply any one of the following feats to any air or electricity spell without increasing the level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell.",
+    "FlatfileId": "powers:final-revelation:9"
   },
   {
     "Name": "Blizzard",
@@ -5284,7 +5341,8 @@
     "Type": "Talent",
     "Rogue": 1,
     "Investigator": 1,
-    "Description": "Gain temporary hit points to avoid dying"
+    "Description": "Gain temporary hit points to avoid dying",
+    "FlatfileId": "powers:resiliency:2"
   },
   {
     "Name": "Rogue Crawl",
@@ -5505,7 +5563,8 @@
     "Type": "Talent",
     "Rogue": 2,
     "Ninja": 2,
-    "Description": "You are hard to fool with mindaffecting effects"
+    "Description": "You are hard to fool with mindaffecting effects",
+    "FlatfileId": "powers:hard-to-fool:2"
   },
   {
     "Name": "Hide in Plain Sight",
@@ -5620,7 +5679,8 @@
     "Name": "Bleeding Attack",
     "Type": "Talent",
     "Ninja": 1,
-    "Description": "A ninja with this trick can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the ninja’s sneak attack. Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 15 Heal check or the application of any effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed damage bypasses any DR the creature might possess."
+    "Description": "A ninja with this trick can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the ninja’s sneak attack. Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 15 Heal check or the application of any effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed damage bypasses any DR the creature might possess.",
+    "FlatfileId": "powers:bleeding-attack:2"
   },
   {
     "Name": "Choking Bomb",
@@ -5632,7 +5692,8 @@
     "Name": "Combat Trick",
     "Type": "Talent",
     "Ninja": 1,
-    "Description": "A ninja who selects this trick gains a bonus combat feat."
+    "Description": "A ninja who selects this trick gains a bonus combat feat.",
+    "FlatfileId": "powers:combat-trick:2"
   },
   {
     "Name": "Darkvision",
@@ -5656,7 +5717,8 @@
     "Name": "Fast Stealth",
     "Type": "Talent",
     "Ninja": 1,
-    "Description": "A ninja with this trick can move at full speed using the Stealth skill without penalty."
+    "Description": "A ninja with this trick can move at full speed using the Stealth skill without penalty.",
+    "FlatfileId": "powers:fast-stealth:2"
   },
   {
     "Name": "Feather Fall",
@@ -5704,7 +5766,8 @@
     "Name": "Poison Bomb",
     "Type": "Talent",
     "Ninja": 1,
-    "Description": "Whenever the ninja throws a smoke bomb, she can decide to include 1 dose of any inhaled poison she possesses. This poison affects all creatures in the smoke and lasts as long as the smoke lasts. She must pay for the poison normally. The ninja must have the smoke bomb ninja trick before selecting this trick."
+    "Description": "Whenever the ninja throws a smoke bomb, she can decide to include 1 dose of any inhaled poison she possesses. This poison affects all creatures in the smoke and lasts as long as the smoke lasts. She must pay for the poison normally. The ninja must have the smoke bomb ninja trick before selecting this trick.",
+    "FlatfileId": "powers:poison-bomb:2"
   },
   {
     "Name": "Pressure Points",
@@ -5734,13 +5797,15 @@
     "Name": "Slow Reactions",
     "Type": "Talent",
     "Ninja": 1,
-    "Description": "Opponents that are damaged by the ninja’s sneak attack can’t make attacks of opportunity for 1 round."
+    "Description": "Opponents that are damaged by the ninja’s sneak attack can’t make attacks of opportunity for 1 round.",
+    "FlatfileId": "powers:slow-reactions:2"
   },
   {
     "Name": "Smoke Bomb",
     "Type": "Talent",
     "Ninja": 1,
-    "Description": "This ability allows a ninja to throw a smoke bomb that creates a cloud of smoke with a 15-foot radius. This acts like the smoke from a smokestick. The ninja can center this smoke on herself, or throw the bomb as a ranged touch attack with a range of 20 feet. Using this ability is a standard action. Each use of this ability uses up 1 ki point."
+    "Description": "This ability allows a ninja to throw a smoke bomb that creates a cloud of smoke with a 15-foot radius. This acts like the smoke from a smokestick. The ninja can center this smoke on herself, or throw the bomb as a ranged touch attack with a range of 20 feet. Using this ability is a standard action. Each use of this ability uses up 1 ki point.",
+    "FlatfileId": "powers:smoke-bomb:2"
   },
   {
     "Name": "Snatch Arrows",
@@ -5836,7 +5901,8 @@
     "Name": "Distracting Attack",
     "Type": "Trick",
     "SpellLike": "Ex",
-    "Description": "The ranger can use this trick as a free action before he makes an attack. If the attack hits, the target takes a –2 penalty on all attack rolls for 1 round."
+    "Description": "The ranger can use this trick as a free action before he makes an attack. If the attack hits, the target takes a –2 penalty on all attack rolls for 1 round.",
+    "FlatfileId": "powers:distracting-attack:2"
   },
   {
     "Name": "Hateful Attack",
@@ -5986,7 +6052,8 @@
     "Name": "Familiar",
     "Type": "Arcana",
     "SpellLike": "Ex",
-    "Description": "The magus gains a familiar, using his magus level as his effective wizard level. This familiar follows the rules for familiars presented in the arcane bond wizard class feature."
+    "Description": "The magus gains a familiar, using his magus level as his effective wizard level. This familiar follows the rules for familiars presented in the arcane bond wizard class feature.",
+    "FlatfileId": "powers:familiar:2"
   },
   {
     "Name": "Hasted Assault",
@@ -5998,7 +6065,8 @@
     "Name": "Maneuver Mastery",
     "Type": "Arcana",
     "SpellLike": "Ex",
-    "Description": "The magus has mastered one combat maneuver. He selects one maneuver when selecting this arcana. Whenever he is attempting the selected maneuver, he uses his magus level in place of his base attack bonus (in addition to any base attack bonus gained from other classes). A magus can select this magus arcana more than once. Its effects do not stack. Each time he selects this arcana, he selects another combat maneuver."
+    "Description": "The magus has mastered one combat maneuver. He selects one maneuver when selecting this arcana. Whenever he is attempting the selected maneuver, he uses his magus level in place of his base attack bonus (in addition to any base attack bonus gained from other classes). A magus can select this magus arcana more than once. Its effects do not stack. Each time he selects this arcana, he selects another combat maneuver.",
+    "FlatfileId": "powers:maneuver-mastery:2"
   },
   {
     "Name": "Maximized Magic",
@@ -6066,7 +6134,8 @@
     "Type": "Talent",
     "SpellLike": "Ex",
     "Slayer": 1,
-    "Description": "A slayer with this talent increases the range at which he can deal sneak attack damage by 10 feet. A slayer can select this talent more than once; its effects stack. A slayer must be at least 4th level before selecting this talent."
+    "Description": "A slayer with this talent increases the range at which he can deal sneak attack damage by 10 feet. A slayer can select this talent more than once; its effects stack. A slayer must be at least 4th level before selecting this talent.",
+    "FlatfileId": "powers:deadly-range:2"
   },
   {
     "Name": "Foil Scrutiny",
@@ -6092,7 +6161,8 @@
     "Name": "Rogue Talent",
     "Type": "Talent",
     "Slayer": 1,
-    "Description": "A slayer can select one of the following rogue talents in place of a slayer talent: bleeding attack*, camouflage, combat trick, fast stealth, finesse rogue, firearm training, grit, hard to fool, lasting poison, powerful sneak, rogue crawl, slow reactions*, snap shot, sniper's eye, surprise attack, swift poison, terrain mastery, trap spotter, unwitting ally, or weapon training. Any talent effects based on rogue level use the slayer's class level. A slayer can select this talent multiple times. If the rogue talent has a prerequisite (such as the major magic rogue talent requiring the minor magic talent), the slayer must fulfill the prerequisite before taking that rogue talent. This talent can be selected multiple times; each time, it grants the slayer a new rogue talent."
+    "Description": "A slayer can select one of the following rogue talents in place of a slayer talent: bleeding attack*, camouflage, combat trick, fast stealth, finesse rogue, firearm training, grit, hard to fool, lasting poison, powerful sneak, rogue crawl, slow reactions*, snap shot, sniper's eye, surprise attack, swift poison, terrain mastery, trap spotter, unwitting ally, or weapon training. Any talent effects based on rogue level use the slayer's class level. A slayer can select this talent multiple times. If the rogue talent has a prerequisite (such as the major magic rogue talent requiring the minor magic talent), the slayer must fulfill the prerequisite before taking that rogue talent. This talent can be selected multiple times; each time, it grants the slayer a new rogue talent.",
+    "FlatfileId": "powers:rogue-talent:2"
   },
   {
     "Name": "Slowing Strike",
@@ -6140,7 +6210,8 @@
     "Type": "Talent",
     "SpellLike": "Ex",
     "Investigator": 1,
-    "Description": "When the investigator deals damage with studied strike, the opponent must succeed at a Fortitude saving throw or be permanently blinded. A successful saving throw reduces this to dazzled for 1d4 rounds. The DC for this Fortitude save is equal to 10 + 1/2 the investigator's level + his Intelligence modifier. This talent has no effect on creatures that do not rely on eyes for sight or creatures with more than two eyes (although multiple critical hits might cause blindness, at the GM's discretion). Blindness can be cured by heal, regeneration, remove blindness, or similar abilities. An investigator must be at least 17th level to select this talent."
+    "Description": "When the investigator deals damage with studied strike, the opponent must succeed at a Fortitude saving throw or be permanently blinded. A successful saving throw reduces this to dazzled for 1d4 rounds. The DC for this Fortitude save is equal to 10 + 1/2 the investigator's level + his Intelligence modifier. This talent has no effect on creatures that do not rely on eyes for sight or creatures with more than two eyes (although multiple critical hits might cause blindness, at the GM's discretion). Blindness can be cured by heal, regeneration, remove blindness, or similar abilities. An investigator must be at least 17th level to select this talent.",
+    "FlatfileId": "powers:blinding-strike:2"
   },
   {
     "Name": "Combat Inspiration",
@@ -6287,7 +6358,8 @@
     "Type": "Talent",
     "SpellLike": "Ex",
     "Investigator": 1,
-    "Description": "An investigator can select one of the following rogue talents in place of an investigator talent"
+    "Description": "An investigator can select one of the following rogue talents in place of an investigator talent",
+    "FlatfileId": "powers:rogue-talent:3"
   },
   {
     "Name": "Sapping Offensive",
@@ -6308,7 +6380,8 @@
     "Type": "Talent",
     "SpellLike": "Ex",
     "Investigator": 1,
-    "Description": "When the investigator deals damage with studied strike, the opponent must succeed at a Fortitude save (DC = 10 + 1/2 the investigator's class level + his Intelligence modifier) or be slowed by the crippling blow. A slowed opponent's movement speeds are each reduced by 5 feet (to a minimum of 5 feet) until the creature is healed through the application of any spell that cures hit point damage or with a successful DC 15 Heal check. Multiple slowing strikes stack, to a minimum of 5 feet. An investigator must be at least 7th level to select this talent. Source Advanced Class Origins"
+    "Description": "When the investigator deals damage with studied strike, the opponent must succeed at a Fortitude save (DC = 10 + 1/2 the investigator's class level + his Intelligence modifier) or be slowed by the crippling blow. A slowed opponent's movement speeds are each reduced by 5 feet (to a minimum of 5 feet) until the creature is healed through the application of any spell that cures hit point damage or with a successful DC 15 Heal check. Multiple slowing strikes stack, to a minimum of 5 feet. An investigator must be at least 7th level to select this talent. Source Advanced Class Origins",
+    "FlatfileId": "powers:slowing-strike:2"
   },
   {
     "Name": "Stealing Strike",
@@ -6379,7 +6452,8 @@
     "Type": "Talent",
     "SpellLike": "Ex",
     "Ninja": 2,
-    "Description": "Whenever the ninja throws a smoke bomb, all living creatures in the cloud must make a Fortitude save or beblinded by the black smoke for 1d4 rounds. The DC of this saving throw is equal to 10 + 1/2 the ninja’s level + the ninja’s Charismamodifier. This trick cannot be combined with a choking bomb, but the ninja can combine a blinding bomb with a poison bomb. The ninja must have the choking bomb ninja trick before selecting this trick."
+    "Description": "Whenever the ninja throws a smoke bomb, all living creatures in the cloud must make a Fortitude save or beblinded by the black smoke for 1d4 rounds. The DC of this saving throw is equal to 10 + 1/2 the ninja’s level + the ninja’s Charismamodifier. This trick cannot be combined with a choking bomb, but the ninja can combine a blinding bomb with a poison bomb. The ninja must have the choking bomb ninja trick before selecting this trick.",
+    "FlatfileId": "powers:blinding-bomb:2"
   },
   {
     "Name": "Deadly Shuriken",

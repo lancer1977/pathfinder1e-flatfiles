@@ -5,6 +5,8 @@ obj/
 dist/
 out/
 node_modules/
+.cache/
+exports/
 *.log
 *.tmp
 *.swp

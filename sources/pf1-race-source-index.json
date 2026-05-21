@@ -1,0 +1,261 @@
+{
+  "generatedAt": "2026-05-21T03:07:21.594Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyRacesFile": "/home/lancer1977/code/pathfinder1e-flatfiles/pathfinder1e/race.json",
+  "markdownCoverage": 37,
+  "totalRecords": 42,
+  "records": [
+    {
+      "name": "Aasimar",
+      "markdownPath": "advancedRaceGuide/featuredRaces/aasimars.md",
+      "subtype": "Native",
+      "advanced": 1
+    },
+    {
+      "name": "Catfolk",
+      "markdownPath": "advancedRaceGuide/featuredRaces/catfolk.md",
+      "subtype": "Catfolk",
+      "advanced": 1
+    },
+    {
+      "name": "Changeling",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/changelings.md",
+      "subtype": "Changeling",
+      "advanced": 1
+    },
+    {
+      "name": "Dhampir",
+      "markdownPath": "advancedRaceGuide/featuredRaces/dhampirs.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Drow",
+      "markdownPath": "advancedRaceGuide/featuredRaces/drow.md",
+      "subtype": "Elf",
+      "advanced": 1
+    },
+    {
+      "name": "Drow Noble",
+      "markdownPath": null,
+      "subtype": "Elf",
+      "advanced": 1
+    },
+    {
+      "name": "Duergar",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/duergar.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Dwarf",
+      "markdownPath": "advancedRaceGuide/coreRaces/dwarves.md",
+      "subtype": null,
+      "advanced": 0
+    },
+    {
+      "name": "Elf",
+      "markdownPath": "advancedRaceGuide/coreRaces/elves.md",
+      "subtype": null,
+      "advanced": 0
+    },
+    {
+      "name": "Fetchling",
+      "markdownPath": "advancedRaceGuide/featuredRaces/fetchlings.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Gillman",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/gillmen.md",
+      "subtype": "Aquatic",
+      "advanced": 1
+    },
+    {
+      "name": "Gnome",
+      "markdownPath": "advancedRaceGuide/coreRaces/gnomes.md",
+      "subtype": null,
+      "advanced": 0
+    },
+    {
+      "name": "Goblin",
+      "markdownPath": "advancedRaceGuide/featuredRaces/goblins.md",
+      "subtype": "Goblinoid",
+      "advanced": 1
+    },
+    {
+      "name": "Grippli",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/gripplis.md",
+      "subtype": "Grippli",
+      "advanced": 1
+    },
+    {
+      "name": "Half-Elf",
+      "markdownPath": "advancedRaceGuide/coreRaces/halfElves.md",
+      "subtype": "Human,Elf",
+      "advanced": 0
+    },
+    {
+      "name": "Halfling",
+      "markdownPath": "advancedRaceGuide/coreRaces/halflings.md",
+      "subtype": null,
+      "advanced": 0
+    },
+    {
+      "name": "Half-Orc",
+      "markdownPath": "advancedRaceGuide/coreRaces/halfOrcs.md",
+      "subtype": "Human,Orc",
+      "advanced": 0
+    },
+    {
+      "name": "Hobgoblin",
+      "markdownPath": "advancedRaceGuide/featuredRaces/hobgoblins.md",
+      "subtype": "Goblinoid",
+      "advanced": 1
+    },
+    {
+      "name": "Human",
+      "markdownPath": "advancedRaceGuide/coreRaces/humans.md",
+      "subtype": null,
+      "advanced": 0
+    },
+    {
+      "name": "Ifrit",
+      "markdownPath": "advancedRaceGuide/featuredRaces/ifrits.md",
+      "subtype": "Native",
+      "advanced": 1
+    },
+    {
+      "name": "Kobold",
+      "markdownPath": "advancedRaceGuide/featuredRaces/kobolds.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Kitsune",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/kitsune.md",
+      "subtype": "Kitsune,Shapechanger",
+      "advanced": 1
+    },
+    {
+      "name": "Merfolk",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/merfolk.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Nagaji",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/nagaji.md",
+      "subtype": "Reptilian",
+      "advanced": 1
+    },
+    {
+      "name": "Orc",
+      "markdownPath": "advancedRaceGuide/featuredRaces/orcs.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Oread",
+      "markdownPath": "advancedRaceGuide/featuredRaces/oreads.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Quickling",
+      "markdownPath": null,
+      "subtype": "Fey",
+      "advanced": 1
+    },
+    {
+      "name": "Ratfolk",
+      "markdownPath": "advancedRaceGuide/featuredRaces/ratfolk.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Samsaran",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/samsarans.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Saurian",
+      "markdownPath": null,
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Slyph",
+      "markdownPath": null,
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Strix",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/strix.md",
+      "subtype": "Strix",
+      "advanced": 1
+    },
+    {
+      "name": "Suli",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/sulis.md",
+      "subtype": "Outsider",
+      "advanced": 1
+    },
+    {
+      "name": "Svirfneblin",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/svirfneblins.md",
+      "subtype": "Gnome",
+      "advanced": 1
+    },
+    {
+      "name": "Sylph",
+      "markdownPath": "advancedRaceGuide/featuredRaces/sylphs.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Tengu",
+      "markdownPath": "advancedRaceGuide/featuredRaces/tengus.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Tiefling",
+      "markdownPath": "advancedRaceGuide/featuredRaces/tieflings.md",
+      "subtype": "Native",
+      "advanced": 1
+    },
+    {
+      "name": "Undine",
+      "markdownPath": "advancedRaceGuide/featuredRaces/undines.md",
+      "subtype": null,
+      "advanced": 1
+    },
+    {
+      "name": "Vanara",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/vanaras.md",
+      "subtype": "Vanara",
+      "advanced": 1
+    },
+    {
+      "name": "Vishkanya",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/vishkanyas.md",
+      "subtype": "Vishkanya",
+      "advanced": 1
+    },
+    {
+      "name": "Wayang",
+      "markdownPath": "advancedRaceGuide/uncommonRaces/wayangs.md",
+      "subtype": "Wayang",
+      "advanced": 1
+    },
+    {
+      "name": "Feral Halfling",
+      "markdownPath": null,
+      "subtype": null,
+      "advanced": 1
+    }
+  ]
+}

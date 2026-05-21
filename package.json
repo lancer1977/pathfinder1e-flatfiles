@@ -9,8 +9,8 @@
     "smoke:refresh": "bash scripts/smoke-refresh.sh",
     "update:srd": "node scripts/update-from-srd-markdown.mjs",
     "assign:ids": "node scripts/assign-flatfile-ids.mjs",
-    "refresh:all": "npm run sync:dataseeds && npm run refresh:classes && npm run refresh:skills && npm run refresh:spells && npm run update:srd && npm run assign:ids",
-    "validate:all": "npm run validate:backup && npm run validate:payloads && npm run validate:classes && npm run validate:skills && npm run validate:spells && npm run validate:srd",
+    "refresh:all": "npm run sync:dataseeds && npm run refresh:classes && npm run refresh:races && npm run refresh:skills && npm run refresh:spells && npm run refresh:traits && npm run update:srd && npm run assign:ids",
+    "validate:all": "npm run validate:backup && npm run validate:payloads && npm run validate:classes && npm run validate:skills && npm run validate:spells && npm run validate:races && npm run validate:traits && npm run validate:srd",
     "validate:backup": "node scripts/validate-pf1-api-backup.mjs",
     "validate:payloads": "node scripts/validate-pf1-payloads.mjs",
     "validate:srd": "node scripts/validate-pf1-srd-markdown.mjs",
@@ -19,6 +19,10 @@
     "refresh:skills": "node scripts/refresh-pf1-skills.mjs",
     "validate:skills": "node scripts/validate-pf1-skills.mjs",
     "refresh:spells": "node scripts/refresh-pf1-spells.mjs",
-    "validate:spells": "node scripts/validate-pf1-spells.mjs"
+    "validate:spells": "node scripts/validate-pf1-spells.mjs",
+    "refresh:races": "node scripts/refresh-pf1-races.mjs",
+    "validate:races": "node scripts/validate-pf1-races.mjs",
+    "refresh:traits": "node scripts/refresh-pf1-traits.mjs",
+    "validate:traits": "node scripts/validate-pf1-traits.mjs"
   }
 }

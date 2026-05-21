@@ -237,7 +237,8 @@
     "Level": "11",
     "Description": "When the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger’s Dexterity modifier. Alternatively, the gunslinger can spend 2 grit points to deal 1 point of Strength, Dexterity, or Constitution bleed damage (gunslinger’s choice) instead. Creatures that are immune to sneak attacks are also immune to these types of bleed damage.",
     "Cost": "1",
-    "Passive": "false"
+    "Passive": "false",
+    "FlatfileId": "deed:bleeding-wound:2"
   },
   {
     "Name": "Expert Loading",
@@ -261,7 +262,8 @@
     "Level": "15",
     "Description": "When the gunslinger has at least 1 grit point, she gains the benefit of the evasion, uncanny dodge, and improved uncanny dodge rogue class features. She uses her gunslinger level as her rogue level for improved uncanny dodge.",
     "Cost": "0",
-    "Passive": "true"
+    "Passive": "true",
+    "FlatfileId": "deed:evasive:2"
   },
   {
     "Name": "Menacing Shot",
@@ -285,7 +287,8 @@
     "Level": "19",
     "Description": "Whenever you are reduced to 0 or fewer hit points, you can spend all of your remaining grit to instead be reduced to 1 hit point. Effects that kill you outright without dealing hit point damage are unaffected by this ability.",
     "Cost": "1",
-    "Passive": "true"
+    "Passive": "true",
+    "FlatfileId": "deed:cheat-death:2"
   },
   {
     "Name": "Death’s Shot",

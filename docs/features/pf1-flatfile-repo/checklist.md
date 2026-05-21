@@ -31,10 +31,14 @@
 - [x] Add full DataSeeds sync helper
 - [x] Add upstream SRD markdown update helper
 - [x] Add class refresh helper
+- [x] Add race refresh helper
 - [x] Add skill refresh helper
 - [x] Add spell refresh helper
+- [x] Add trait refresh helper
 - [x] Add payload validation helper
 - [x] Add raw backup validation helper
+- [x] Add race validation helper
+- [x] Add trait validation helper
 - [x] Add upstream SRD markdown validation helper
 - [x] Add enriched family validation helpers
 
@@ -45,8 +49,10 @@
 - [x] Generate raw backup files under family group folders
 - [x] Generate JSON flatfiles for all 28 root DataSeeds PF1 payloads
 - [x] Generate merged class flatfile from vault and legacy seeds
+- [x] Generate merged race flatfile from vault and legacy seeds
 - [x] Generate merged skill flatfile from vault and legacy seeds
 - [x] Generate merged spell flatfile from vault and legacy seeds
+- [x] Generate merged trait flatfile from vault and legacy seeds
 - [x] Generate SRD markdown source index with upstream commit and match counts
 
 ## Validation
@@ -57,5 +63,7 @@
 - [x] Validate every DataSeeds root payload has a JSON flatfile counterpart
 - [x] Validate mirrored payload counts match source counts
 - [x] Validate raw backup hashes match source payloads
+- [x] Validate race markdown coverage against generated flatfiles
+- [x] Validate trait markdown coverage against generated flatfiles
 - [x] Validate SRD overlay match counts against generated flatfiles
 - [x] Validate the full refresh smoke path and grouped family export manifest

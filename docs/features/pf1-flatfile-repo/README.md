@@ -19,8 +19,10 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - raw PF1e API/DataSeeds backup export
 - upstream SRD markdown overlay for matching spell and monster records
 - class flatfiles
+- race flatfiles
 - spell flatfiles
 - skill flatfiles
+- trait flatfiles
 - supporting lookup, item, rules, race, monster, encounter, and equipment data
 
 ## Source Model

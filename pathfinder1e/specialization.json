@@ -443,7 +443,8 @@
     "Power4": "Unusual Anatomy",
     "Power5": "Aberrant Form",
     "Feat": "Combat Reflexes#Great Fortitude#Improved Disarm#Improved Grapple#Improved Initiative#Improved Unarmed Strike#Iron Will",
-    "Description": "There is a taint in your blood that is both alien and bizarre. When you bloodrage, your taint manifests in peculiar and terrifying ways."
+    "Description": "There is a taint in your blood that is both alien and bizarre. When you bloodrage, your taint manifests in peculiar and terrifying ways.",
+    "FlatfileId": "specialization:aberrant:2"
   },
   {
     "Type": "Bloodrage",
@@ -456,7 +457,8 @@
     "Power4": "Abyssal Bloodrage",
     "Power5": "Demonic Aura",
     "Feat": "Cleave#Great Fortitude#Improved Bull Rush#Improved Sunder#Intimidating Prowess#Power Attack#Toughness",
-    "Description": "Generations ago, a demon spread its filth into the essence of your bloodline. While it doesn’t manifest in all of your kin, in those moments when you’re bloodraging, you embody it to terrifying ends."
+    "Description": "Generations ago, a demon spread its filth into the essence of your bloodline. While it doesn’t manifest in all of your kin, in those moments when you’re bloodraging, you embody it to terrifying ends.",
+    "FlatfileId": "specialization:abyssal:2"
   },
   {
     "Type": "Bloodrage",
@@ -469,7 +471,8 @@
     "Power4": "True Arcane Bloodrage",
     "Power5": "Caster’s Bane",
     "Feat": "Combat Ref lexes#Disruptive*#Improved Initiative#Iron Will#Power Attack#Quick Draw#Spellbreaker",
-    "Description": "While others of your kin are powerful wizards and sorcerers, the eldritch nature of the blood coursing through your veins transforms you into a spell-breaking terror."
+    "Description": "While others of your kin are powerful wizards and sorcerers, the eldritch nature of the blood coursing through your veins transforms you into a spell-breaking terror.",
+    "FlatfileId": "specialization:arcane:2"
   },
   {
     "Type": "Bloodrage",
@@ -482,7 +485,8 @@
     "Power4": "Angelic Protection",
     "Power5": "Ascension",
     "Feat": "Dodge#Improved Initiative#Iron Will#Mobility#Mounted Combat#Ride-By Attack#Weapon Focus",
-    "Description": "By way of either a celestial ancestor or due to divine intervention, the blood of angels runs though the veins of you and your kin. It grants majestic powers when you bloodrage."
+    "Description": "By way of either a celestial ancestor or due to divine intervention, the blood of angels runs though the veins of you and your kin. It grants majestic powers when you bloodrage.",
+    "FlatfileId": "specialization:celestial:2"
   },
   {
     "Type": "Bloodrage",
@@ -495,7 +499,8 @@
     "Power4": "Fate’s Intervention",
     "Power5": "Victory or Death",
     "Feat": "Diehard#Endurance#Improved Initiative#Intimidating Prowess#Leadership#Lightning Ref lexes#Weapon Focus",
-    "Description": "Your bloodline is destined for great things. And when you bloodrage, you exude a greatness that makes all but mythic creatures seem lesser."
+    "Description": "Your bloodline is destined for great things. And when you bloodrage, you exude a greatness that makes all but mythic creatures seem lesser.",
+    "FlatfileId": "specialization:destined:2"
   },
   {
     "Type": "Bloodrage",
@@ -508,7 +513,8 @@
     "Power4": "Dragon Wings",
     "Power5": "Power of Wyrms",
     "Feat": "Blind-Fight#Cleave#Great Fortitude#Improved Initiative#Power Attack#Skill Focus (Fly)#Toughness",
-    "Description": "At some point in your family’s history, a dragon interbred with your bloodline. Now, its ancient power fuels your bloodrage."
+    "Description": "At some point in your family’s history, a dragon interbred with your bloodline. Now, its ancient power fuels your bloodrage.",
+    "FlatfileId": "specialization:draconic:2"
   },
   {
     "Type": "Bloodrage",
@@ -521,7 +527,8 @@
     "Power4": "Elemental Form",
     "Power5": "Elemental Body",
     "Feat": "Cleave#Dodge#Great Fortitude#Improved Initiative#Lightning Ref lexes#Power Attack#Weapon Focus.",
-    "Description": "The power of the elements resides in you, and at times you can hardly control its fury. This inf luence comes either from an elemental outsider in your family history or from a moment when you or your ancestors were exposed to powerful elemental forces."
+    "Description": "The power of the elements resides in you, and at times you can hardly control its fury. This inf luence comes either from an elemental outsider in your family history or from a moment when you or your ancestors were exposed to powerful elemental forces.",
+    "FlatfileId": "specialization:elemental:2"
   },
   {
     "Type": "Bloodrage",
@@ -534,7 +541,8 @@
     "Power4": "One With Nature",
     "Power5": "Fury of the Fey",
     "Feat": "Combat Ref lexes#Dodge#Improved Initiative#Lightning Ref lexes#Mobility#Step-Up#Intimidate Prowess",
-    "Description": "One of your ancestors was fey, or the fey realm somehow intermixed with your bloodline. It affects your bloodrage in tricky and surprising ways."
+    "Description": "One of your ancestors was fey, or the fey realm somehow intermixed with your bloodline. It affects your bloodrage in tricky and surprising ways.",
+    "FlatfileId": "specialization:fey:2"
   },
   {
     "Type": "Bloodrage",
@@ -547,7 +555,8 @@
     "Power4": "Diabolical Arrogance",
     "Power5": "Fiend of the Pit",
     "Feat": "Blind-Fight#Combat Ref lexes#Deceitful#Improved Disarm#Improved Sunder#Intimidating Prowess#Iron Will",
-    "Description": "The Pit lives in your blood. Maybe one of your ancestors was seduced by the powers of Hell, or they made a deal with one its denizens, either way its corruption seethes within your lineage, and makes you fight with devilish ferocity."
+    "Description": "The Pit lives in your blood. Maybe one of your ancestors was seduced by the powers of Hell, or they made a deal with one its denizens, either way its corruption seethes within your lineage, and makes you fight with devilish ferocity.",
+    "FlatfileId": "specialization:infernal:2"
   },
   {
     "Type": "Bloodrage",
@@ -560,7 +569,8 @@
     "Power4": "Frightful Strikes",
     "Power5": "One Foot in the Grave",
     "Feat": "Diehard#Dodge#Endurance#Intimidating Prowess#Iron Will#Mobility#Toughness",
-    "Description": "The foul corruption of undeath courses though your veins. Somewhere in the past, death became infused with your lineage, which bestows frightening power when your bloodrage."
+    "Description": "The foul corruption of undeath courses though your veins. Somewhere in the past, death became infused with your lineage, which bestows frightening power when your bloodrage.",
+    "FlatfileId": "specialization:undead:2"
   },
   {
     "Type": "Domain",
@@ -584,7 +594,8 @@
     "Spells": "Magic Aura#Magic Mouth#Dispel Magic#Arcane Eye#Spell Resistance#Analyze Dweomer#Spell Turning#Protection From Spells#Mage's Disjunction",
     "Power1": "Hand Of The Acolyte",
     "Power2": "Dispelling Touch",
-    "Description": "You are a true student of all things mystical, and see divinity in the purity of magic."
+    "Description": "You are a true student of all things mystical, and see divinity in the purity of magic.",
+    "FlatfileId": "specialization:arcane:3"
   },
   {
     "Type": "Domain",
@@ -648,7 +659,8 @@
     "Spells": "Cause Fear#Align Weapon (Evil Only)#Vampiric Touch#Unholy Blight#Dispel Good#Planar Binding (Daemons Only)#Blasphemy#Unholy Aura#Summon Monster Ix (Evil Spell Only)",
     "Power1": "Touch Of Evil",
     "Power2": "Whispering Evil",
-    "Description": "You are sinister and cruel, and have wholly pledged your soul to the cause of evil."
+    "Description": "You are sinister and cruel, and have wholly pledged your soul to the cause of evil.",
+    "FlatfileId": "specialization:daemon:2"
   },
   {
     "Type": "Domain",
@@ -936,7 +948,8 @@
     "Spells": "Confusion (Lesser)#Align Weapon (Chaos Only)#Displacement#Chaos Hammer#Dispel Law#Planar Binding (Proteans Only)#Word Of Chaos#Cloak Of Chaos#Summon Monster Ix (Chaos Spell Only)",
     "Power1": "Touch Of Chaos",
     "Power2": "Aura Of Chaos",
-    "Description": "Your touch infuses life and weapons with chaos, and you revel in all things anarchic."
+    "Description": "Your touch infuses life and weapons with chaos, and you revel in all things anarchic.",
+    "FlatfileId": "specialization:protean:2"
   },
   {
     "Type": "Domain",
@@ -1064,7 +1077,8 @@
     "Spells": "Cause Fear#Ghoul Touch#Animate Dead#Enervation#Slay Living#Create Undead#Destruction#Create Greater Undead#Energy Drain",
     "Power1": "Death's Kiss",
     "Power2": "Death's Embrace",
-    "Description": "You can cause the living to bleed at a touch, and find comfort in the presence of the dead."
+    "Description": "You can cause the living to bleed at a touch, and find comfort in the presence of the dead.",
+    "FlatfileId": "specialization:undead:3"
   },
   {
     "Type": "Domain",
@@ -1611,7 +1625,8 @@
     "Type": "Mystery",
     "Name": "Wind",
     "Skill": "Acrobatics#Escape Artist#Fly#Stealth",
-    "Spells": "Alter Winds#Gust Of Wind#Cloak Of Winds#River Of Wind#Control Winds#Sirocco#Control Weather#Whirlwind#Winds Of Vengeance"
+    "Spells": "Alter Winds#Gust Of Wind#Cloak Of Winds#River Of Wind#Control Winds#Sirocco#Control Weather#Whirlwind#Winds Of Vengeance",
+    "FlatfileId": "specialization:wind:2"
   },
   {
     "Type": "Mystery",
@@ -1627,7 +1642,8 @@
   {
     "Type": "Patron",
     "Name": "Ancestors",
-    "Spells": "Bless#Aid#Prayer#Blessing Of Fervor#Commune#Greater Heroism#Refuge#Euphoric Tranquility#Weird"
+    "Spells": "Bless#Aid#Prayer#Blessing Of Fervor#Commune#Greater Heroism#Refuge#Euphoric Tranquility#Weird",
+    "FlatfileId": "specialization:ancestors:2"
   },
   {
     "Type": "Patron",
@@ -1642,12 +1658,14 @@
   {
     "Type": "Patron",
     "Name": "Death",
-    "Spells": "Deathwatch#Blessing Of Courage And Life#Speak With Dead#Rest Eternal#Suffocation#Circle Of Death#finger Of Death#Symbol Of Death#Power Word Kill"
+    "Spells": "Deathwatch#Blessing Of Courage And Life#Speak With Dead#Rest Eternal#Suffocation#Circle Of Death#finger Of Death#Symbol Of Death#Power Word Kill",
+    "FlatfileId": "specialization:death:2"
   },
   {
     "Type": "Patron",
     "Name": "Deception",
-    "Spells": "Ventriloquism#Invisibility# Blink#Confusion#Passwall#Programmed Image#mass Invisibility#Scintillating Pattern#Time Stop"
+    "Spells": "Ventriloquism#Invisibility# Blink#Confusion#Passwall#Programmed Image#mass Invisibility#Scintillating Pattern#Time Stop",
+    "FlatfileId": "specialization:deception:2"
   },
   {
     "Type": "Patron",
@@ -1672,17 +1690,20 @@
   {
     "Type": "Patron",
     "Name": "Healing",
-    "Spells": "Remove Fear#Lesser Restoration#Remove Disease#Restoration#Cleanse#Pillar Of Life#greater Restoration#Mass Cure Critical Wounds#True Resurrection"
+    "Spells": "Remove Fear#Lesser Restoration#Remove Disease#Restoration#Cleanse#Pillar Of Life#greater Restoration#Mass Cure Critical Wounds#True Resurrection",
+    "FlatfileId": "specialization:healing:2"
   },
   {
     "Type": "Patron",
     "Name": "Insanity",
-    "Spells": "Memory Lapse#Hideous Laughter#Distracting Cacophony#Confusion#Mind Fog#Envious Urge#insanity#Symbol Of Insanity#Overwhelming Presence"
+    "Spells": "Memory Lapse#Hideous Laughter#Distracting Cacophony#Confusion#Mind Fog#Envious Urge#insanity#Symbol Of Insanity#Overwhelming Presence",
+    "FlatfileId": "specialization:insanity:2"
   },
   {
     "Type": "Patron",
     "Name": "Light",
-    "Spells": "Dancing Lantern#Continual Flame#Daylight#Rainbow Pattern#Fire Snake#Sirocco#sunbeam#Sunburst#Fiery Body"
+    "Spells": "Dancing Lantern#Continual Flame#Daylight#Rainbow Pattern#Fire Snake#Sirocco#sunbeam#Sunburst#Fiery Body",
+    "FlatfileId": "specialization:light:2"
   },
   {
     "Type": "Patron",
@@ -1712,7 +1733,8 @@
   {
     "Type": "Patron",
     "Name": "Shadow",
-    "Spells": "Silent Image#Darkness#Deeper Darkness#Shadow Conjuration#Shadow Evocation#Shadow Walk#shadow Conjuration (greater)#Shadow Evocation (greater)#Shades"
+    "Spells": "Silent Image#Darkness#Deeper Darkness#Shadow Conjuration#Shadow Evocation#Shadow Walk#shadow Conjuration (greater)#Shadow Evocation (greater)#Shades",
+    "FlatfileId": "specialization:shadow:2"
   },
   {
     "Type": "Patron",
@@ -1727,7 +1749,8 @@
   {
     "Type": "Patron",
     "Name": "Strength",
-    "Spells": "Divine Favor#Bull’s Strength# Greater Magic Weapon#Divine Power#Righteous Might#Mass Bull’s Strength#giant Form I#Giant Form II#Shapechange"
+    "Spells": "Divine Favor#Bull’s Strength# Greater Magic Weapon#Divine Power#Righteous Might#Mass Bull’s Strength#giant Form I#Giant Form II#Shapechange",
+    "FlatfileId": "specialization:strength:2"
   },
   {
     "Type": "Patron",
@@ -1742,12 +1765,14 @@
   {
     "Type": "Patron",
     "Name": "Trickery",
-    "Spells": "Animate Rope#Mirror Image#Major Image#Hallucinatory Terrain#Mirage Arcana#Mislead 1reverse Gravity#Screen#Time Stop"
+    "Spells": "Animate Rope#Mirror Image#Major Image#Hallucinatory Terrain#Mirage Arcana#Mislead 1reverse Gravity#Screen#Time Stop",
+    "FlatfileId": "specialization:trickery:2"
   },
   {
     "Type": "Patron",
     "Name": "Vengeance",
-    "Spells": "Burning Hands#Burning Gaze#Pain Strike#Shout#Symbol Of Pain#Mass Pain Strike#phantasmal Revenge Incendiary Cloud#Winds Of Vengeance"
+    "Spells": "Burning Hands#Burning Gaze#Pain Strike#Shout#Symbol Of Pain#Mass Pain Strike#phantasmal Revenge Incendiary Cloud#Winds Of Vengeance",
+    "FlatfileId": "specialization:vengeance:2"
   },
   {
     "Type": "Patron",
@@ -2022,7 +2047,8 @@
     "Power2": "Dazing Touch",
     "Power3": "Aura of Despair",
     "Subtype": "Enchantment",
-    "Description": "The enchanter uses magic to control and manipulate the minds of his victims."
+    "Description": "The enchanter uses magic to control and manipulate the minds of his victims.",
+    "FlatfileId": "specialization:enchantment:2"
   },
   {
     "Type": "Arcane",
@@ -2074,7 +2100,8 @@
     "Power1": "Resistance",
     "Power2": "Unstable Bonds",
     "Power3": "Aura of Banishment",
-    "Subtype": "Abjuration"
+    "Subtype": "Abjuration",
+    "FlatfileId": "specialization:banishment:2"
   },
   {
     "Type": "Arcane",
@@ -2178,7 +2205,8 @@
     "Power1": "Extended Illusions",
     "Power2": "Binding Darkness",
     "Power3": "Shadow Step",
-    "Subtype": "Illusion"
+    "Subtype": "Illusion",
+    "FlatfileId": "specialization:shadow:3"
   },
   {
     "Type": "Arcane",
@@ -2186,7 +2214,8 @@
     "Power1": "Healing Grace",
     "Power2": "Share Essence",
     "Power3": "Life Sight",
-    "Subtype": "Necromancy"
+    "Subtype": "Necromancy",
+    "FlatfileId": "specialization:life:2"
   },
   {
     "Type": "Arcane",
@@ -2194,7 +2223,8 @@
     "Power1": "Power over Undead",
     "Power2": "Bolster",
     "Power3": "Life Sight",
-    "Subtype": "Necromancy"
+    "Subtype": "Necromancy",
+    "FlatfileId": "specialization:undead:4"
   },
   {
     "Type": "Arcane",
@@ -2202,7 +2232,8 @@
     "Power1": "Physical Enhancement",
     "Power2": "Augment",
     "Power3": "Perfection of Self",
-    "Subtype": "Transmutation"
+    "Subtype": "Transmutation",
+    "FlatfileId": "specialization:enchantment:3"
   },
   {
     "Type": "Arcane",

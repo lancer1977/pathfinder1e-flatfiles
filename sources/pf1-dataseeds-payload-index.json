@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-05-20T22:50:32.170Z",
+  "generatedAt": "2026-05-21T03:07:21.357Z",
   "dataSeedsRoot": "/home/lancer1977/code/DataSeeds/pathfinder1e",
   "outputRoot": "pathfinder1e",
   "totalPayloads": 28,
-  "copiedPayloads": 25,
-  "preservedManagedPayloads": 3,
+  "copiedPayloads": 23,
+  "preservedManagedPayloads": 5,
   "enrichedFamilies": {
     "characterClass": "refresh:classes",
+    "race": "refresh:races",
     "skills": "refresh:skills",
-    "spells": "refresh:spells"
+    "spells": "refresh:spells",
+    "traits": "refresh:traits"
   },
   "records": [
     {
@@ -170,8 +172,8 @@
       "outputFile": "pathfinder1e/race.json",
       "shape": "array",
       "count": 42,
-      "managedBy": null,
-      "copiedFromDataSeeds": true
+      "managedBy": "refresh:races",
+      "copiedFromDataSeeds": false
     },
     {
       "family": "racialtrait",
@@ -233,8 +235,8 @@
       "outputFile": "pathfinder1e/traits.json",
       "shape": "array",
       "count": 523,
-      "managedBy": null,
-      "copiedFromDataSeeds": true
+      "managedBy": "refresh:traits",
+      "copiedFromDataSeeds": false
     },
     {
       "family": "weapon",

@@ -533,27 +533,33 @@
   },
   {
     "Name": "Stargazer",
-    "ClassName": "Oracle"
+    "ClassName": "Oracle",
+    "FlatfileId": "archtype:stargazer:2"
   },
   {
     "Name": "Seer",
-    "ClassName": "Oracle"
+    "ClassName": "Oracle",
+    "FlatfileId": "archtype:seer:2"
   },
   {
     "Name": "Possessed Oracle",
-    "ClassName": "Oracle"
+    "ClassName": "Oracle",
+    "FlatfileId": "archtype:possessed-oracle:2"
   },
   {
     "Name": "Planar Oracle",
-    "ClassName": "Oracle"
+    "ClassName": "Oracle",
+    "FlatfileId": "archtype:planar-oracle:2"
   },
   {
     "Name": "Enlightened Philosopher",
-    "ClassName": "Oracle"
+    "ClassName": "Oracle",
+    "FlatfileId": "archtype:enlightened-philosopher:2"
   },
   {
     "Name": "Dual Cursed Oracle",
-    "ClassName": "Oracle"
+    "ClassName": "Oracle",
+    "FlatfileId": "archtype:dual-cursed-oracle:2"
   },
   {
     "Name": "Standard Oracle",
@@ -845,91 +851,113 @@
   },
   {
     "Name": "Crossblooded",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:crossblooded:2"
   },
   {
     "Name": "Wildblooded",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:wildblooded:2"
   },
   {
     "Name": "Anarchic",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:anarchic:2"
   },
   {
     "Name": "Arial",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:arial:2"
   },
   {
     "Name": "Bedrock",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:bedrock:2"
   },
   {
     "Name": "Brutal",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:brutal:2"
   },
   {
     "Name": "Empyreal",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:empyreal:2"
   },
   {
     "Name": "Envenomed",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:envenomed:2"
   },
   {
     "Name": "Groveborn",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:groveborn:2"
   },
   {
     "Name": "Karmic",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:karmic:2"
   },
   {
     "Name": "Linnorm",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:linnorm:2"
   },
   {
     "Name": "Pit Touched",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:pit-touched:2"
   },
   {
     "Name": "Primal",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:primal:2"
   },
   {
     "Name": "Rime Blooded",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:rime-blooded:2"
   },
   {
     "Name": "Sage",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:sage:2"
   },
   {
     "Name": "Sanguine",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:sanguine:2"
   },
   {
     "Name": "Seaborn",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:seaborn:2"
   },
   {
     "Name": "Sylvan",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:sylvan:2"
   },
   {
     "Name": "Umbral",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:umbral:2"
   },
   {
     "Name": "Visionary",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:visionary:2"
   },
   {
     "Name": "Void Touched",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:void-touched:2"
   },
   {
     "Name": "Warped",
-    "ClassName": "Witch"
+    "ClassName": "Witch",
+    "FlatfileId": "archtype:warped:2"
   },
   {
     "Name": "Standard Wizard",

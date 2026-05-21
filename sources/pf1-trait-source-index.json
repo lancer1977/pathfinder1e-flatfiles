@@ -1,0 +1,3147 @@
+{
+  "generatedAt": "2026-05-21T03:07:21.841Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyTraitsFile": "/home/lancer1977/code/pathfinder1e-flatfiles/pathfinder1e/traits.json",
+  "markdownCoverage": 260,
+  "totalRecords": 523,
+  "records": [
+    {
+      "name": "A Sure Thing",
+      "markdownPath": null,
+      "category": "Faction (The Silver Crusade)",
+      "type": null
+    },
+    {
+      "name": "Accelerated Drinker",
+      "markdownPath": null,
+      "category": "Combat",
+      "type": "Basic"
+    },
+    {
+      "name": "Adopted",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Social",
+      "type": "Basic"
+    },
+    {
+      "name": "Aid Allies",
+      "markdownPath": null,
+      "category": "Faction (The Shadow Lodge)",
+      "type": null
+    },
+    {
+      "name": "Alchemical Prodigy",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Alluring",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Andoren Freedom Fighter",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Animal Friend",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Arcane Dabbler",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Asmodean Demon Hunter",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Attuned to the Ancestors",
+      "markdownPath": null,
+      "category": "Faction - Osirion",
+      "type": null
+    },
+    {
+      "name": "Augmented Disguise",
+      "markdownPath": null,
+      "category": "Equipment",
+      "type": null
+    },
+    {
+      "name": "Bastard",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Kingmaker",
+      "type": "Campaign"
+    },
+    {
+      "name": "Beneficient Touch",
+      "markdownPath": null,
+      "category": "Faction (The Silver Crusade)",
+      "type": null
+    },
+    {
+      "name": "Blade of Mercy",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Blooded",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Brigand",
+      "markdownPath": null,
+      "category": "Kingmaker",
+      "type": "Campaign"
+    },
+    {
+      "name": "Bullied",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Combat",
+      "type": "Basic"
+    },
+    {
+      "name": "Canter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Social",
+      "type": "Basic"
+    },
+    {
+      "name": "Charlaton",
+      "markdownPath": null,
+      "category": "Gnome",
+      "type": "Race"
+    },
+    {
+      "name": "Charming",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Social",
+      "type": "Basic"
+    },
+    {
+      "name": "Child of Infamy",
+      "markdownPath": null,
+      "category": "Council of Thieves",
+      "type": "Campaign"
+    },
+    {
+      "name": "Child of Zolurket",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Cleansing the Twisted",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Clearheaded",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Coin Hoarder",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Collector",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race (Gnome)"
+    },
+    {
+      "name": "Dealmaker",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Deep Guardian",
+      "markdownPath": null,
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Dervish",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Desert Child",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Desert Shadow",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Devil's Mark",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Diabolical Dabbler",
+      "markdownPath": null,
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Diabolist Raised",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Dirty Fighter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Divine Warrior",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Dump Salvager",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Dunewalker",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Duskwalker Agent",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Earthbound",
+      "markdownPath": null,
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Eastern Mysteries",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Egorian School Apprentice",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Eldritch Smith",
+      "markdownPath": null,
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Elemental Pupil",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Expert Duelist",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Explorer",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Fencer",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Fiendish Presence",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Finding Haleen",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Fires of Hell",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "First Memories",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Flame of the Dawnflower",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Fools for Friends",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Force For Good",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Fortified",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Freedom Fighter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Freedom Fighter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "??"
+    },
+    {
+      "name": "Frostborn",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Genie Blood",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Genie-Caller",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Ghost Sight",
+      "markdownPath": null,
+      "category": null,
+      "type": null
+    },
+    {
+      "name": "Gifted Adept",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Gifted Adept",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Glory of Old",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Gnoll Killer",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Goldsniffer",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Greasy Palm",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Hedge Magician",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Heirloom Weapon",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Hellknight Ancestry",
+      "markdownPath": null,
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "History of Heresy",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Honeyed Words",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Hunter's Blood",
+      "markdownPath": null,
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Hunter's Eye",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "I Know a Guy",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Iadaran Illusionist",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Impressive Presence",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Improvisational Equipment",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Infernal Bastard",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Iron Liver",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Killer",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Kyonin Gatekeeper",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Lapsed Faith",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Latent Psion",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Left Behind",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Lost Nobility",
+      "markdownPath": null,
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Loyalty",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Magic is Life",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Magical Knack",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Magical Lineage",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Magical Talent",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Master of Pentacles",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Masterful Demeanor",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Medic",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Meridian Strike",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Meticulous Artisian",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Mordant Heritage",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Mummy-Touched",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Natural-Born Leader",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Naturally Gifted",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Noble Born Garess",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Noble Born Medvyed",
+      "markdownPath": null,
+      "category": null,
+      "type": null
+    },
+    {
+      "name": "Noble Born Surtova",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Nonchalant Thuggery",
+      "markdownPath": null,
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Observant",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Optimistic Gambler",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Patient Optimist",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Performance Artist",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Perseverance",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Pesh Addict",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Power of Suggestion",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Precocious Spellcaster",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Prehensile Whip",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Prismati Player",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Quick Learner",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Rapscallion",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Reclaiming your Roots",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Researching the Blot",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Resigned",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Rich Parents",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Rider of Paresh",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Rough and Ready",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Sacred Avenger",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Sacred Conduit",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Sacred Touch",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Scouting for Fiends",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Secrets of the Sphinx",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Seeking Adventure",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Shadow Child",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Shiv",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Skeptic",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Soul-Drinker",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Sprint",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Stage Magic",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Starchild",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Stealthy Escape",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Storyteller",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Strength of the Land",
+      "markdownPath": null,
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Strength of the Sun",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Strong Arm, Supple Wrist",
+      "markdownPath": null,
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Sword Scion",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Teaching Mistake",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "The City Protects",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "The Pathfinder’s Exile",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Threatening Defender",
+      "markdownPath": null,
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Thrown-Together Fashion",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Toilcrafter",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Treerazer’s Bane",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Trickster",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Tunnel Fighter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Tusked",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Unorthodox Strategy",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Vindictive",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Walking Ward",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Warrior Poet",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Warsmith",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Wasp Whisperer",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Wealthy Dabbler",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Weapon Style",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Wharf Rat",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Whisper Woods Hunter",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Wisdom in the Flesh",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Without a Past",
+      "markdownPath": null,
+      "category": "Social",
+      "type": null
+    },
+    {
+      "name": "Zest for Battle",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Ambassador",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Anatomist",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Combat",
+      "type": "Basic"
+    },
+    {
+      "name": "Armor Expert",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Combat",
+      "type": "Basic"
+    },
+    {
+      "name": "Aspiring Bard",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Azlant Fanatic",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Bad Reputation",
+      "markdownPath": null,
+      "category": "Faction (The Sczarni)",
+      "type": null
+    },
+    {
+      "name": "Battlefield Caster",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Birthmark",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Faith",
+      "type": "Basic"
+    },
+    {
+      "name": "Brastlewark Businessman",
+      "markdownPath": null,
+      "category": "Social",
+      "type": "Basic"
+    },
+    {
+      "name": "Brute",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Bully",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Social",
+      "type": "Basic"
+    },
+    {
+      "name": "Calistrian Prostitute",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Captain's Blade",
+      "markdownPath": null,
+      "category": "Faction - Andoran",
+      "type": null
+    },
+    {
+      "name": "Carefully Hidden",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Caretaker",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Faith",
+      "type": "Basic"
+    },
+    {
+      "name": "Child of the Street",
+      "markdownPath": null,
+      "category": "Social",
+      "type": "Basic"
+    },
+    {
+      "name": "Child of the Temple",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Faith",
+      "type": "Basic"
+    },
+    {
+      "name": "Chivalrous",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Classically Schooled",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": "Magic",
+      "type": "Basic"
+    },
+    {
+      "name": "Cliff Jumper",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Comparative Religion",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction (The Silver Crusade)"
+    },
+    {
+      "name": "Conspiracy Hunter",
+      "markdownPath": null,
+      "category": null,
+      "type": "Council of Thieves"
+    },
+    {
+      "name": "Courageous",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Courageous",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": null
+    },
+    {
+      "name": "Dangerously Curious",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Deep Marker",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Deft Dodger",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Desperate Focus",
+      "markdownPath": null,
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Devotee of a Dead God",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Devotee of the Green",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Dilettante Artist",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Earning Your Freedom",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Ease of Faith",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Elven Reflexes",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Etymologist",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Excitable",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Explorer",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Extremely Fashionable",
+      "markdownPath": null,
+      "category": null,
+      "type": "Equipment"
+    },
+    {
+      "name": "Eyes and Ears of the City",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Failed Apprentice",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Fanatic",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Fashionable",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Fast-Talker",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Focused Mind",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Forlorn",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Framed (Dropout)",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Framed (Family Honor)",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Freed Slave",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Freedom Fighter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": null
+    },
+    {
+      "name": "Goldfinger",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Grounded",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Guardian of the Forge",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Historian",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Horse Lord",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Indomitable",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Indomitable Faith",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Infernal Influence",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Insider Knowledge",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Into Enemy Territory",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Issan",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Keeper of the Veil",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Keleshite Princess",
+      "markdownPath": null,
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Kobold's Neighbor",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Legacy of Sand",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Looking for Work",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Love Lost (Orphaned)",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Love Lost (Widowed)",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Mathematical Prodigy",
+      "markdownPath": null,
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Merchant of Katheer",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Merchant’s Child",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Militant Merchant",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Militia Veteran",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Mind Over Matter",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Missing Child (Sibling)",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Missing Child (Son or Daughter)",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Missionary",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Narrows Survivor",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Nightstall Urchin",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Noble Born Lebeda",
+      "markdownPath": null,
+      "category": null,
+      "type": null
+    },
+    {
+      "name": "Noble Born Lodovka",
+      "markdownPath": null,
+      "category": null,
+      "type": null
+    },
+    {
+      "name": "Noble Born Orlovsky",
+      "markdownPath": null,
+      "category": null,
+      "type": null
+    },
+    {
+      "name": "Outcast",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Pesh Dealer",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Pesh Drug Addict (addicted friend)",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Pesh Drug Addict (personal addiction)",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Pioneer",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Poverty-Stricken",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Proper Training",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Reactionary",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Resilient",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "River Rat",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Rostlander",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Ruthless",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Savannah Child",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Scholar of Ruins",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Scholar of the Great Beyond",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Seeker of Brightness",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Shadow Diplomat",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Shield Bearer",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Sovyrian Pantheist",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Spirits in the Stone",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Successful Shirker",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Suspicious",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Teachers Pet",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Theoretical Magician",
+      "markdownPath": null,
+      "category": null,
+      "type": "Basic"
+    },
+    {
+      "name": "Tomb Raider",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Trouper",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Under Siege",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Unhappy Childhood (Religious)",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Unhappy Childhood (Tortured)",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "Uwaga Highlander",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Vagabond Child",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Venicaan Medic",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Warrior of Old",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Watchdog",
+      "markdownPath": null,
+      "category": null,
+      "type": "Faction"
+    },
+    {
+      "name": "Watching Taldor",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Well-Informed",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Westcrown Firebrand",
+      "markdownPath": null,
+      "category": null,
+      "type": "Campaign"
+    },
+    {
+      "name": "World Traveler",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Youthful Mischief",
+      "markdownPath": null,
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Zealot",
+      "markdownPath": null,
+      "category": "Gnome",
+      "type": "Race"
+    },
+    {
+      "name": "Air-Touched",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Alchemical Adept",
+      "markdownPath": null,
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Alchemical Intuition",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Arcane Revitalization",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Arcane Temper",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Ascendant Recollection",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Bladed Magic",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Classically Schooled",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Cross-Disciplined",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Cross-Knowledge",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Dangerously Curious",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Desperate Resolve",
+      "markdownPath": null,
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Desperate Speed",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Earth-Touched",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Eldritch Delver",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Enduring Mutagen",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Flame-Touched",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Focused Burn",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Focused Mind",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Gifted Adept",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Greater Link",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Greater Purpose",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Hedge Magician",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Kin Bond",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Knowledgeable Caster",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Linked Surge",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Magic Crafter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Magical Knack",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Magical Lineage",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Magical Talent",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Malleable Magic",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Mathematical Prodigy",
+      "markdownPath": null,
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Meticulous Concoction",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Outcast's Intuition",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Partial Protege",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Perfectionist's Brew",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Possessed",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Pragmatic Activator",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Precise Treatment",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Reluctant Apprentice",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Resilient Caster",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Self-Taught Scholar",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Shrouded Casting",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Skeptic",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Storm-Touched",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Strength Foretold",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Tenacious Shifting",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Twinned Presence",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Unscathed",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Unseen but Not Undone",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Unstable Mutagen",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Volatile Conduit",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Water-Touched",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Magic"
+    },
+    {
+      "name": "Beacon of Faith",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Birthmark",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Blessed",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Caretaker",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Child of the Temple",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Devotee of the Green",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Disdainful Defender",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Ease of Faith",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Fate's Favored",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Fearless Defiance",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Focused Disciple",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "History of Heresy",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Indomitable Faith",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Inspired",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Loyalty across Lifetimes",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Martial Manuscript",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Oathbound",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Omen",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Perpetual Companion",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Planar Savant",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Principled",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Prophesied",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Reincarnated",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Sacred Conduit",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Sacred Touch",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Scholar of the Great Beyond",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Schooled Inquisitor",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Spirit Sense",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Tireless Avenger",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Wanderer's Shroud",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Zealous Striker",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Faith"
+    },
+    {
+      "name": "Anatomist",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Armor Expert",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Axe to Grind",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Battlefield Disciple",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Black Powder Bravado",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Black Powder Fortune",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Black Powder Interjection",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Bloodthirsty",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Bullied",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Cold and Calculating",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Courageous",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Dedicated Defender",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Deft Dodger",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Dirty Fighter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Dispelled Battler",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Easy Way or the Hard Way",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Evasive Sting",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Faith's Hunter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Fencer",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Hidden Hand",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Hunter's Knack",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Indelible Ire",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Just Like New",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Killer",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Kin Guardian",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Larger Than Life",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Martial Performer",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Nature's Mimic",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Never Stop Shooting",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Reactionary",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Reckless",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Reckless Contempt",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Resilient",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Resolve of the Rejected",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Scarred Descendant",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Startling Report",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Surprise Weapon",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Tactician",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Unblemished Barrel",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Vigilant Battler",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Combat"
+    },
+    {
+      "name": "Acrobat",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Adopted",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Ambitious",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Artisan",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Bastard",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Beast Bond",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Bruising Intellect",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Bully",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Canter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Charming",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Child of the Streets",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Civilized",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Criminal",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Destined Diplomat",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Fast Talker",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Friend in Every Town",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Grief-Filled",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Harvester",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Imposing Scion",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Influence",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Knowing the Enemy",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Life of Toil",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Mentored",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Mercenary",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Merchant",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Natural-Born Leader",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Ordinary",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Orphaned",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Poverty-Stricken",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Rich Parents",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Savage",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Seeker",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Simple Disciple",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Style Sage",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Suspicious",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Talented",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Tireless Logic",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Trustworthy",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Truth's Agent",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Unintentional Linguist",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Unnatural Revenge",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Unpredictable",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Veiled Disciple",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Weathered Emissary",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Worldly",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Social"
+    },
+    {
+      "name": "Brewmaster",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Goldsniffer",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Tunnel Fighter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Forlorn",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Warrior of Old",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Animal Friend",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Rapscallion",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Elven Reflexes",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Failed Apprentice",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Freedom Fighter",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Well-Informed",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Almost Human",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Brute",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Outcast",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Scrapper",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Scholar of Ruins",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "World Traveler",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Blood of Dragons",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Deathtouched",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Fiend Blood",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Race"
+    },
+    {
+      "name": "Asmodean Demon Hunter",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Calistrian Courtesan",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Child of Nature",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Corpse Cannibal",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Divine Warrior",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Ear for Music",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Eyes and Ears of the City",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Flame of the Dawnflower",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Fortified Drinker",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Guardian of the Forge",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Magic Is Life",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Pain Is Pleasure",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Patient Optimist",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Shadow Whispers",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Starchild",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Undead Slayer",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Veteran of Battle",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Voice of Monsters",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Wisdom in the Flesh",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Wrecking Wrath",
+      "markdownPath": null,
+      "category": null,
+      "type": "Religion"
+    },
+    {
+      "name": "Desert Child",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Frontier-Forged",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Highlander",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Log Roller",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Militia Veteran",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "River Rat",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Savanna Child",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Sea-Souled",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Surface Stranger",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Tundra Child",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Vagabond Child",
+      "markdownPath": null,
+      "category": null,
+      "type": "Regional"
+    },
+    {
+      "name": "Attached",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Avarice",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Dependent",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Doubt",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Family Ties",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Headstrong",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Hedonistic",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Lovesick",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Meticulous",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Paranoid",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Power-Hungry",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Pride",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Provincial",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Sentimental",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Vain",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Xenophobic",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    },
+    {
+      "name": "Zealous",
+      "markdownPath": "ultimateCampaign/characterBackground/traits.md",
+      "category": null,
+      "type": "Drawback"
+    }
+  ]
+}

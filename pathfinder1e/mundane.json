@@ -410,7 +410,8 @@
     "Cost": 4,
     "Weight": 0,
     "Source": "CRB",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "FlatfileId": "mundane:ale:2"
   },
   {
     "Name": "Ale, Dwarven Stout",
@@ -431,7 +432,8 @@
     "Cost": 40,
     "Weight": 0,
     "Source": "HoG",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "FlatfileId": "mundane:ale-luglurch:2"
   },
   {
     "Name": "Applejack",
@@ -445,7 +447,8 @@
     "Cost": 8,
     "Weight": 0,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "FlatfileId": "mundane:applejack:2"
   },
   {
     "Name": "Baijiu",
@@ -501,7 +504,8 @@
     "Cost": 200,
     "Weight": 128,
     "Source": "UE",
-    "Subtype": "Beverage"
+    "Subtype": "Beverage",
+    "FlatfileId": "mundane:mead:2"
   },
   {
     "Name": "Mead, linnorm",
