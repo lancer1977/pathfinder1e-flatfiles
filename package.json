@@ -30,6 +30,7 @@
     "refresh:family-shapes": "node scripts/refresh-pf1-family-shapes.mjs",
     "validate:source-docs": "node scripts/validate-pf1-source-docs.mjs",
     "validate:family-shapes": "node scripts/validate-pf1-family-shapes.mjs",
+    "validate:future-overlay": "node scripts/validate-pf1-future-overlay.mjs",
     "refresh:monsters": "node scripts/refresh-pf1-monsters.mjs",
     "refresh:encounters": "node scripts/refresh-pf1-encounters.mjs"
   }

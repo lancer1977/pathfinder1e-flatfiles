@@ -2,7 +2,7 @@
 import { execFileSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
-import { fileURLToPath } from 'url';
+import { fileURLToPath, pathToFileURL } from 'url';
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(scriptDir, '..');
@@ -16,6 +16,51 @@ const shouldPull = !process.argv.includes('--no-pull');
 const spellsFile = path.join(repoRoot, 'pathfinder1e', 'spells.json');
 const monstersFile = path.join(repoRoot, 'pathfinder1e', 'monster.json');
 const sourceIndexFile = path.join(repoRoot, 'sources', 'pf1-srd-markdown-source-index.json');
+const futureOverlayFamilies = [
+  {
+    folder: 'classes',
+    overlayFamily: 'classes',
+    parser: parseGenericMarkdown,
+    targets: [
+      { family: 'classes', filePath: path.join(repoRoot, 'pathfinder1e', 'characterClass.json') },
+    ],
+  },
+  {
+    folder: 'skills',
+    overlayFamily: 'skills',
+    parser: parseGenericMarkdown,
+    targets: [
+      { family: 'skills', filePath: path.join(repoRoot, 'pathfinder1e', 'skills.json') },
+    ],
+  },
+  {
+    folder: 'equipment',
+    overlayFamily: 'equipment',
+    parser: parseGenericMarkdown,
+    targets: [
+      { family: 'equipment-armor', filePath: path.join(repoRoot, 'pathfinder1e', 'armor.json') },
+      { family: 'equipment-weapons', filePath: path.join(repoRoot, 'pathfinder1e', 'weapon.json') },
+      { family: 'equipment-mundane', filePath: path.join(repoRoot, 'pathfinder1e', 'mundane.json') },
+      { family: 'equipment-items', filePath: path.join(repoRoot, 'pathfinder1e', 'magicItems.json') },
+    ],
+  },
+  {
+    folder: 'feats',
+    overlayFamily: 'feats',
+    parser: parseGenericMarkdown,
+    targets: [
+      { family: 'feats', filePath: path.join(repoRoot, 'pathfinder1e', 'feats.json') },
+    ],
+  },
+  {
+    folder: 'traits',
+    overlayFamily: 'traits',
+    parser: parseGenericMarkdown,
+    targets: [
+      { family: 'traits', filePath: path.join(repoRoot, 'pathfinder1e', 'traits.json') },
+    ],
+  },
+];
 
 function runGit(args, options = {}) {
   const output = execFileSync('git', args, {
@@ -124,6 +169,23 @@ function firstHeading(text) {
   );
 }
 
+export function parseGenericMarkdown(filePath) {
+  const text = fs.readFileSync(filePath, 'utf8');
+  const frontMatter = parseFrontMatter(text);
+  const fields = parseDataviewFields(text);
+  const title = firstHeading(text) ?? frontMatter.aliases?.replace(/^\[|\]$/g, '') ?? null;
+  if (!title) return null;
+
+  return {
+    key: normalizeName(title),
+    title,
+    relativePath: path.relative(upstreamCache, filePath).replaceAll(path.sep, '/'),
+    updated: frontMatter.updated || null,
+    source: fields.source ?? null,
+    description: cleanMarkdownLinks(sectionText(text, 'Description')),
+  };
+}
+
 function sectionText(text, heading) {
   const pattern = new RegExp(`^#{2,3}\\s+${heading}\\s*$`, 'im');
   const match = text.match(pattern);
@@ -202,7 +264,7 @@ function parseMonsterMarkdown(filePath) {
   };
 }
 
-function indexMarkdownRecords(rootDir, parser) {
+export function indexMarkdownRecords(rootDir, parser) {
   const records = [];
   const byKey = new Map();
 
@@ -214,6 +276,18 @@ function indexMarkdownRecords(rootDir, parser) {
   }
 
   return { records, byKey };
+}
+
+function overlayGeneric(record, markdown) {
+  if (!markdown) return record;
+  return {
+    ...record,
+    SrdMarkdownPath: markdown.relativePath,
+    SrdMarkdownTitle: markdown.title,
+    SrdMarkdownUpdated: markdown.updated,
+    SrdSource: markdown.source,
+    SrdDescription: markdown.description,
+  };
 }
 
 function overlaySpell(record, markdown) {
@@ -258,7 +332,7 @@ function overlayMonster(record, markdown) {
   };
 }
 
-function updateFamily({ family, filePath, markdownIndex, overlay }) {
+export function updateFamily({ family, filePath, markdownIndex, overlay }) {
   const records = readJson(filePath);
   const updatedRecords = records.map((record) => overlay(record, markdownIndex.byKey.get(normalizeName(record.Name))));
   const coverage = updatedRecords.filter((record) => record.SrdMarkdownPath).length;
@@ -276,6 +350,31 @@ function updateFamily({ family, filePath, markdownIndex, overlay }) {
       .map((record) => record.Name)
       .sort((left, right) => left.localeCompare(right)),
   };
+}
+
+function collectFutureFamilies() {
+  const families = [];
+
+  for (const config of futureOverlayFamilies) {
+    const rootDir = path.join(upstreamCache, config.folder);
+    const markdownIndex = indexMarkdownRecords(rootDir, config.parser);
+    if (markdownIndex.records.length === 0) {
+      continue;
+    }
+
+    for (const target of config.targets) {
+      families.push(
+        updateFamily({
+          family: target.family,
+          filePath: target.filePath,
+          markdownIndex,
+          overlay: overlayGeneric,
+        }),
+      );
+    }
+  }
+
+  return families;
 }
 
 function main() {
@@ -296,6 +395,7 @@ function main() {
       markdownIndex: monstersIndex,
       overlay: overlayMonster,
     }),
+    ...collectFutureFamilies(),
   ];
 
   writeJson(sourceIndexFile, {
@@ -313,4 +413,6 @@ function main() {
   console.log(`upstream commit: ${upstreamCommit}`);
 }
 
-main();
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main();
+}

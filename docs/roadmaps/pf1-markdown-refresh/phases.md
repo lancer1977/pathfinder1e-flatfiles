@@ -62,7 +62,7 @@ Manual correction rules:
 - [x] Extract bestiary statblock and description values into `Srd*` fields
 - [x] Record the upstream commit in a source index
 - [x] Validate SRD overlay coverage against generated flatfiles
-- [ ] Extend overlay to new upstream folders if classes, skills, equipment, feats, or traits are added
+- [x] Extend overlay to new upstream folders if classes, skills, equipment, feats, or traits are added
 
 Current scope:
 
@@ -86,7 +86,7 @@ Current scope:
 - [x] Enrich `race.json`
 - [x] Enrich `racialtrait.json`
 - [x] Enrich `traits.json`
-- [ ] Enrich `monster.json`
+- [x] Enrich `monster.json`
 - [x] Enrich `encounters.json`
 - [x] Enrich `encountertitles.json`
 - [x] Decide whether `archtype.json` should be renamed after downstream importer compatibility is verified
