@@ -24,6 +24,7 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - spell flatfiles
 - skill flatfiles
 - trait flatfiles
+- monster flatfiles
 - supporting lookup, item, rules, race, monster, encounter, and equipment data
 
 ## Source Model
@@ -101,3 +102,4 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - [x] Add markdown enrichment for ammunition
 - [x] Add markdown enrichment for class abilities
 - [ ] Extend SRD overlay if the upstream repository adds classes, skills, equipment, feats, or traits
+- [x] Keep the legacy `archtype.json` filename as the compatibility label for the existing payload shape

@@ -36,6 +36,11 @@ const familyConfigs = [
     file: path.join(repoRoot, 'pathfinder1e', 'magicItems.json'),
   },
   {
+    family: 'monster',
+    file: path.join(repoRoot, 'pathfinder1e', 'monster.json'),
+    minimumCoverage: 100,
+  },
+  {
     family: 'mundane',
     file: path.join(repoRoot, 'pathfinder1e', 'mundane.json'),
   },
@@ -75,13 +80,23 @@ function main() {
     }
 
     const markdownCoverage = records.filter((record) => record.MarkdownPath).length;
-    if (markdownCoverage !== records.length) {
+    if (typeof config.minimumCoverage === 'number') {
+      if (markdownCoverage < config.minimumCoverage) {
+        throw new Error(
+          `family ${config.family} has insufficient markdown coverage: ${markdownCoverage}/${records.length}`,
+        );
+      }
+    } else if (markdownCoverage !== records.length) {
       throw new Error(
         `family ${config.family} has incomplete markdown coverage: ${markdownCoverage}/${records.length}`,
       );
     }
 
-    for (const record of records) {
+    const matchedRecords = typeof config.minimumCoverage === 'number'
+      ? records.filter((record) => record.MarkdownPath)
+      : records;
+
+    for (const record of matchedRecords) {
       const relativePath = record.MarkdownPath;
       const absolutePath = path.join('/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e', relativePath);
       if (!fs.existsSync(absolutePath)) {
