@@ -56,6 +56,7 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 ## Smoke Refresh Command
 
 - `npm run smoke:refresh` runs the full PF1 refresh, validation, and family export pipeline and verifies the grouped export manifest exists.
+- The refresh smoke uses the source index to validate every current PF1 family, so the contract expands as the flatfile set grows.
 
 ## Backup Groups
 
