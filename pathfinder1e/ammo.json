@@ -6,7 +6,9 @@
     "DamageType": "Piercing",
     "Source": "CRB",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Bleeding",
@@ -14,7 +16,9 @@
     "Weight": 0,
     "Source": "EoG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Blunt",
@@ -23,7 +27,9 @@
     "DamageType": "Bludgeoning",
     "Source": "APG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Durable",
@@ -31,7 +37,9 @@
     "Weight": 2,
     "Source": "EoG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Dye",
@@ -39,7 +47,9 @@
     "Weight": 2,
     "Source": "EoG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Flight",
@@ -48,7 +58,9 @@
     "DamageType": "Piercing",
     "Source": "APG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Lodestone",
@@ -56,7 +68,9 @@
     "Weight": 2,
     "Source": "EoG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Pheromone",
@@ -64,7 +78,9 @@
     "Weight": 2,
     "Source": "EoG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Raining",
@@ -72,7 +88,9 @@
     "Weight": 2,
     "Source": "EoG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Slow Burn",
@@ -80,7 +98,9 @@
     "Weight": 2,
     "Source": "EoG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Smoke",
@@ -89,7 +109,9 @@
     "DamageType": "Piercing",
     "Source": "APG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Splintercloud",
@@ -97,7 +119,9 @@
     "Weight": 2,
     "Source": "EoG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Tanglefoot",
@@ -105,7 +129,9 @@
     "Weight": 2,
     "Source": "EoG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Thistle",
@@ -114,7 +140,9 @@
     "DamageType": "Piercing",
     "Source": "AA",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Trip",
@@ -122,7 +150,9 @@
     "Weight": 2,
     "Source": "EoG",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Arrow, Whistling",
@@ -130,7 +160,9 @@
     "Weight": 2,
     "Source": "UC",
     "AmmoType": "Arrow",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Crossbow Bolt",
@@ -138,7 +170,9 @@
     "Weight": 2,
     "Source": "CRB",
     "AmmoType": "Bolt",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bolt, Crossbow",
@@ -146,7 +180,9 @@
     "Weight": 2,
     "Source": "CRB",
     "AmmoType": "Bolt",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bolt, Acid",
@@ -154,7 +190,9 @@
     "Weight": 2,
     "Source": "AP15",
     "AmmoType": "Bolt",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bolt, Drow Poison",
@@ -162,7 +200,9 @@
     "Weight": 2,
     "Source": "AP15",
     "AmmoType": "Bolt",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bolt, Fire",
@@ -171,7 +211,9 @@
     "DamageType": "Fire",
     "Source": "AP15",
     "AmmoType": "Bolt",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bullet, Groaning",
@@ -179,7 +221,9 @@
     "Weight": 0,
     "Source": "AA",
     "AmmoType": "Sling",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bullet, Sling",
@@ -187,7 +231,9 @@
     "Weight": 0,
     "Source": "CRB",
     "AmmoType": "Sling",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bullet, Smoke",
@@ -195,7 +241,9 @@
     "Weight": 0,
     "Source": "PCS",
     "AmmoType": "Sling",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Dart, Blowgun",
@@ -203,7 +251,9 @@
     "Weight": 1,
     "Source": "CRB",
     "AmmoType": "Dart",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Firearm Bullet",
@@ -211,7 +261,9 @@
     "Weight": 2,
     "Source": "UC",
     "AmmoType": "Bullet",
-    "Quantity": 1
+    "Quantity": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Alchemical cartridge, paper",
@@ -220,7 +272,9 @@
     "Source": "UC",
     "AmmoType": "Bullet",
     "Quantity": 1,
-    "Misfire": 1
+    "Misfire": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Alchemical cartridge, dragon’s breath",
@@ -229,7 +283,9 @@
     "Source": "UC",
     "AmmoType": "Bullet",
     "Quantity": 1,
-    "Misfire": 1
+    "Misfire": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Alchemical cartridge, flare",
@@ -238,7 +294,9 @@
     "Source": "UC",
     "AmmoType": "Bullet",
     "Quantity": 1,
-    "Misfire": 1
+    "Misfire": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Alchemical cartridge, salt shot",
@@ -247,7 +305,9 @@
     "Source": "UC",
     "AmmoType": "Bullet",
     "Quantity": 1,
-    "Misfire": 1
+    "Misfire": 1,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Pellets",
@@ -256,7 +316,9 @@
     "Source": "UC",
     "AmmoType": "Bullet",
     "Quantity": 1,
-    "Misfire": 30
+    "Misfire": 30,
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   },
   {
     "Name": "Bullet, adamantine",
@@ -265,6 +327,8 @@
     "Source": "UC",
     "AmmoType": "Bullet",
     "Quantity": 1,
-    "Special": "Adamantine"
+    "Special": "Adamantine",
+    "MarkdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+    "MarkdownTitle": "Weapons"
   }
 ]

@@ -1,0 +1,201 @@
+{
+  "generatedAt": "2026-05-21T03:17:08.907Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/ammo.json",
+  "markdownCoverage": 32,
+  "totalRecords": 32,
+  "records": [
+    {
+      "name": "Arrow, Common",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "CRB"
+    },
+    {
+      "name": "Arrow, Bleeding",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "EoG"
+    },
+    {
+      "name": "Arrow, Blunt",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "APG"
+    },
+    {
+      "name": "Arrow, Durable",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "EoG"
+    },
+    {
+      "name": "Arrow, Dye",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "EoG"
+    },
+    {
+      "name": "Arrow, Flight",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "APG"
+    },
+    {
+      "name": "Arrow, Lodestone",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "EoG"
+    },
+    {
+      "name": "Arrow, Pheromone",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "EoG"
+    },
+    {
+      "name": "Arrow, Raining",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "EoG"
+    },
+    {
+      "name": "Arrow, Slow Burn",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "EoG"
+    },
+    {
+      "name": "Arrow, Smoke",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "APG"
+    },
+    {
+      "name": "Arrow, Splintercloud",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "EoG"
+    },
+    {
+      "name": "Arrow, Tanglefoot",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "EoG"
+    },
+    {
+      "name": "Arrow, Thistle",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "AA"
+    },
+    {
+      "name": "Arrow, Trip",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "EoG"
+    },
+    {
+      "name": "Arrow, Whistling",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "UC"
+    },
+    {
+      "name": "Crossbow Bolt",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "CRB"
+    },
+    {
+      "name": "Bolt, Crossbow",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "CRB"
+    },
+    {
+      "name": "Bolt, Acid",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "AP15"
+    },
+    {
+      "name": "Bolt, Drow Poison",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "AP15"
+    },
+    {
+      "name": "Bolt, Fire",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "AP15"
+    },
+    {
+      "name": "Bullet, Groaning",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "AA"
+    },
+    {
+      "name": "Bullet, Sling",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "CRB"
+    },
+    {
+      "name": "Bullet, Smoke",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "PCS"
+    },
+    {
+      "name": "Dart, Blowgun",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "CRB"
+    },
+    {
+      "name": "Firearm Bullet",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "UC"
+    },
+    {
+      "name": "Alchemical cartridge, paper",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "UC"
+    },
+    {
+      "name": "Alchemical cartridge, dragon’s breath",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "UC"
+    },
+    {
+      "name": "Alchemical cartridge, flare",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "UC"
+    },
+    {
+      "name": "Alchemical cartridge, salt shot",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "UC"
+    },
+    {
+      "name": "Pellets",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "UC"
+    },
+    {
+      "name": "Bullet, adamantine",
+      "markdownPath": "ultimateEquipment/armsAndArmor/weapons.md",
+      "category": null,
+      "source": "UC"
+    }
+  ]
+}

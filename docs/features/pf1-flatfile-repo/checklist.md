@@ -43,6 +43,10 @@
 - [x] Add trait validation helper
 - [x] Add source-doc enrichment helper for armor, feats, magic items, mundane gear, and weapons
 - [x] Add source-doc validation helper for armor, feats, magic items, mundane gear, and weapons
+- [x] Add source-doc enrichment helper for armor features, ammunition, specific armor, specific weapons, and weapon features
+- [x] Add source-doc validation helper for armor features, ammunition, specific armor, specific weapons, and weapon features
+- [x] Add source-doc enrichment helper for class abilities
+- [x] Add source-doc validation helper for class abilities
 - [x] Add upstream SRD markdown validation helper
 - [x] Add enriched family validation helpers
 
@@ -59,6 +63,8 @@
 - [x] Generate merged spell flatfile from vault and legacy seeds
 - [x] Generate merged trait flatfile from vault and legacy seeds
 - [x] Generate source-linked flatfiles for armor, feats, magic items, mundane gear, and weapons
+- [x] Generate source-linked flatfiles for armor features, ammunition, specific armor, specific weapons, and weapon features
+- [x] Generate source-linked flatfiles for class abilities
 - [x] Generate SRD markdown source index with upstream commit and match counts
 
 ## Validation

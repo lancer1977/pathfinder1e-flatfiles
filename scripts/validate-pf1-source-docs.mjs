@@ -12,6 +12,22 @@ const familyConfigs = [
     file: path.join(repoRoot, 'pathfinder1e', 'armor.json'),
   },
   {
+    family: 'armorFeatures',
+    file: path.join(repoRoot, 'pathfinder1e', 'armorFeatures.json'),
+  },
+  {
+    family: 'ammo',
+    file: path.join(repoRoot, 'pathfinder1e', 'ammo.json'),
+  },
+  {
+    family: 'classAbility',
+    file: path.join(repoRoot, 'pathfinder1e', 'classAbility.json'),
+  },
+  {
+    family: 'classAbility.UnchainedMonk',
+    file: path.join(repoRoot, 'pathfinder1e', 'classAbility.UnchainedMonk.json'),
+  },
+  {
     family: 'feats',
     file: path.join(repoRoot, 'pathfinder1e', 'feats.json'),
   },
@@ -24,8 +40,20 @@ const familyConfigs = [
     file: path.join(repoRoot, 'pathfinder1e', 'mundane.json'),
   },
   {
+    family: 'specificArmor',
+    file: path.join(repoRoot, 'pathfinder1e', 'specificArmor.json'),
+  },
+  {
+    family: 'specificWeapon',
+    file: path.join(repoRoot, 'pathfinder1e', 'specificWeapon.json'),
+  },
+  {
     family: 'weapon',
     file: path.join(repoRoot, 'pathfinder1e', 'weapon.json'),
+  },
+  {
+    family: 'weaponfeature',
+    file: path.join(repoRoot, 'pathfinder1e', 'weaponfeature.json'),
   },
 ];
 

@@ -1,0 +1,5571 @@
+{
+  "generatedAt": "2026-05-21T03:17:08.905Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/classAbility.json",
+  "markdownCoverage": 927,
+  "totalRecords": 927,
+  "records": [
+    {
+      "name": "Infused Curative",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Anaesthetic",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Power Over Death",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bomb",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lesser Simulacrum",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rebirth",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Simulacrum",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Clone",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Breath Mastery",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Disease Resistance",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Uncanny Dodge",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cognatogen",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Languages",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Perfect Recall",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bottled Ally I",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bottled Ally II",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bottled Ally III",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bottled Ally IV",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bottled Ally V",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bottled Ally VI",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bomb",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Precognition",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Psychic Senses",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Remote Consciousness",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Precognition",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Master Precognition",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bomb",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Simple Reanimation",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Create Undead",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Create Greater Undead",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Alchemy",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bomb",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Brew Potion",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mutagen",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Throw Anything",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Discovery",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Poison Resistance",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Poison Use",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swift Alchemy",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swift Poisoning",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Poison Immunity",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Persistent Mutagen",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Instant Alchemy",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Grand Discovery",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sneak Attack",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Torturers Eye",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bleeding Attack",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cruel Anatomist",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Torturous Transformation 1",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Torturous Transformation 2",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Crippling Strike",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Torturous Transformation 3",
+      "markdownPath": "ultimateCombat/classArchetypes/alchemist.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Evil",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Detect Good",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Smite Good",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Touch Of Corruption",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unholy Resilience",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Cowardice",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cruelty",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Plague Bringer",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Channel Negative Energy",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fiendish Boon",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Despair",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Vengeance",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Sin",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Depravity",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unholy Champion",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells per Day",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Enhance Arrows",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Imbue Arrow",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Seeker Arrow",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Phase Arrow",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hail of Arrows",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arrow of Death",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells per Day",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ranged Legerdemain",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sneak Attack",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Impromptu Sneak Attack",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tricky Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "At 7th level, an arcane trickster can use this ability twice per day.",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Invisible Thief",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Surprise Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blood Focus",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cantrips",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spellbooks",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Scribe Scroll",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "School Supremacy",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sneak Attack",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Death Attack",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Poison Use",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Save Bonus against Poison",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Uncanny Dodge",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hidden Weapons",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "True Death",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Uncanny Dodge",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Quiet Death",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hide in Plain Sight",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swift Death",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Angel of Death",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Destructive",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Battle Scavenger",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Savage Grapple",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Pit Fighter",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Savage Grapple",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Raging Drunk",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Elemental Fury",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Skilled Thrower",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Invulnerability",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Extreme Endurance",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fast Rider",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bestial Mount",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Naked Courage",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Natural Toughness",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fast Movement",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rage",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rage Power",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Uncanny Dodge",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trap Sense",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Uncanny Dodge",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Damage Reduction",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Rage",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Indomitable Will",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tireless Rage",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mighty Rage",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sixth Sense",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Keen Senses",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hardy",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Endure Elements",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Big Game Hunter",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Jotungrip",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Massive Weapons",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Evade Reach",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Titanic Rage",
+      "markdownPath": "classes/barbarian.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Archivist",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Naturalist",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lore Master",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Magic Lore",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Jack of All Trades",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lamentable Belaborment",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Probable Path",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Pedantic Lecture",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Satire",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Heraldic Expertise",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mockery",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wide Audience",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Glorious Epic",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Scandal",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dweomercraft",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Magical Talent",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Counterspell",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Extended Performance",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Expanded Repertoire",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arcane Bond",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Suppression",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wand Mastery",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Metamagic Mastery",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stealspell",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Stealspell",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Master of Deception",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sneakspell",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trap Sense",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sneak Attack",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slumber Song",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dramatic Subtext",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mass Slumber Song",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Catching",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Inspiring Blow",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Incite Rage",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Song of the Fallen",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Berserkergang",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Battle Song",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sea Shanty",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Whistle the Wind",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "World Traveler",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Familiar",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sea Legs",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Still Water",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Call the Storm",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bardic Knowledge",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bardic Performance",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cantrips",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Countersong",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Distraction",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fascinate",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Inspire Courage",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Versatile Performance",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Well Versed",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Inspire Competence",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lore Master",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Suggestion",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dirge Of Doom",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Inspire Greatness",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Jackof All Trades",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Soothing Performance",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Frightening Tune",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Inspire Heroics",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mass Suggestion",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deadly Performance",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Disappearing Act",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Madcap Prank",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Gladhanding",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Streetwise",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Harmless Performer",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Quick Change",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slip through the Crowd",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bloodline",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bloodrage",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fast Movement",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Uncanny Dodge",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blood Casting",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Uncanny Dodge",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Damage Reduction",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Bloodrage",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Indomitable Will",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tireless Rage",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mighty Rage",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Martial Maneuvers",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unarmed Strike",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Brawlers Flurry",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "AC Bonus",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Brawler Strike",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Knockout",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Awesome Blow",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Armor Proficiency",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "In or Out of the Saddle",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Battlefield Agility",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mounted Acrobatics",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mounted Dervish",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Erratic Charge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Transfixing Charge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sworn Defense",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Intercept",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Warding Charge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Defensive Challenge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Far Challenge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Careful Aim",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Infuriating Aim",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Versatile Challenge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Supreme Aim",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Gifted Firearm",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swift Powder",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Banner",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mount",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Banner of Solace",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Awesome Pennon",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Challenge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mount",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mount",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Order",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tactician",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cavaliers Charge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Expert Trainer",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Banner",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Tactician",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mighty Charge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Demanding Challenge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Banner",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Master Tactician",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Supreme Charge",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tactician",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Drill Instructor",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tactical Advantage",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Strategic Supremacy",
+      "markdownPath": "ultimateCombat/classArchetypes/cavalier.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Diminished Spellcasting",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Legions Blessing",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Domains",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Master Tactician",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Caster Support",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tactical Expertise",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Single-Minded",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Public Speaker",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sermonic Performance",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spontaneous Casting",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Willing Healer",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Channel Energy",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Combat Medic",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Merciful Healing",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "True Healer",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Languages",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Channel Energy",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Domains",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Osirons",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Skills",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spontaneous Casting",
+      "markdownPath": "classes/cleric.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells per Day",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blood of Dragons",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Natural Armor Increase",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ability Boost",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bloodline Feat",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dragon Bite",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Breath Weapon",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blindsense",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dragon Form",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wings",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Nature Bond",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Empathy",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Totem Transformation",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Totemic Summons",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Shape",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Nature Bond",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Empathy",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Totem Transformation",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "While using totem transformation, the bat shaman may speak normally and can cast speak with animals",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Totemic Summons",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Shape",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Nature Bond",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Empathy",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Totem Transformation",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Totemic Summons",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Shape",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Languages",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Chaotic Evil Good Lawful Spells",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Nature Bond",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Nature Sense",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Orisons",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spontaneous Casting",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Empathy",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Woodland Stride",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trackless Step",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Resist Natures Lure",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Shape",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Venom Immunity",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "A Thousand Faces",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Timeless Body",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Favored Terrain",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Path of Trees",
+      "markdownPath": "classes/druid.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Canny Defense",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Precise Strike",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Crippling Critical",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Reaction",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Parry",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Enhanced Mobility",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Combat Reflexes",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Grace",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Riposte",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Acrobatic Charge",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Elaborate Defense",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deflect Arrows",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "No Retreat",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Diverse Training",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells per Day",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Critical",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hawkeye",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trick Shot",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Expert Archer",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Safe Shot",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Evasive Archer",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Volley",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ranged Defense",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deflective Shield",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Armored Defense",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fortification",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Indestructible",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Close Control",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Close Combatant",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Menacing Stance",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "No Escape",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stand Still",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Mastery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Skills",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dirty Maneuvers",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Catch Off-Guard",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Payback",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deadly Surprise",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Razor-Sharp Chair Leg",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Craven Combatant",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sweeping Prank",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Treacherous Blow",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "At 17th level, the cad can use this ability as a full-round action to attempt a dirty trick maneuver against a number of enemies equal to 2 + his Dexterity bonus",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ultimate Payback",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deadshot",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Crossbow Expert",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Deadshot",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Quick Sniper",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Deadshot",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Safe Shot",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Pinpoint Targeting",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Meteor Shot",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Penetrating Shot",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Burst Of Speed",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Desert Stride",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rapid Attack",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lightning Strike",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Skilled Rider",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spear Training",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spinning Lance",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Banner",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Piercing Lance",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Leaping Lance",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Mastery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deceptive Strike",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Elusive",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Singleton",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Timely Tip",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Interference",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Reversal",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Skills",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fame",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Agility",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Leaping Attack",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rapid Attack",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fleet Footed",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Whirlwind Blitz",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stand Firm",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Phalanx Fighting",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ready Pike",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deft Shield",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shield Ally",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Irresistibile Advance",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shielded Fortress",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Pole Fighting",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Steadfast Pike",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Polearm Training",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Flexible Flanker",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sweeping Fend",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Step Aside",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Polearm Parry",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Mastery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Active Defense",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shield Fighter",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shield Buffet",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shield Guard",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shield Mastery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shield Ward",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bravery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Armor Training 1",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Training 1",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Armor Training 2",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Training 2",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Armor Training 3",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Training 3",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Armor Training 4",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Training 4",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Armor Mastery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Mastery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Defensive Parry",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Disarming Strike",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Steel Net",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Counterattack",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Strategic Training",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tactical Awareness",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tactician",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cooperative Combatant",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Battle Insight",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Strapped Shield",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hardbuckler",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Knockback Smash",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hammer and Anvil",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Buckler Defense",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Balanced Bashing",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Buckler Defense",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Burst Barrier",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tower Shield Training",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tower Shield Specialist",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tower Shield Defense",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Immediate Repositioning",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tower Shield Evasion",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Defensive Flurry",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Twin Blades",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Doublestrike",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Balance",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Equal Opportunity",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Perfect Balance",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deft Doublestrike",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deadly Defense",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unarmed Style",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unarmed Style",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Harsh Training",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Harsh Training",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tough Guy",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tough Guy",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Training ",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Training",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Clever Wrestler",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Clever Wrestler",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trick Throw",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trick Throw",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Takedown",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Takedown",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Eye Gouge",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Eye Gouge",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sucker Punch",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sucker Punch",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sheer Toughness",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sheer Toughness",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Mastery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Mastery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tough as Nails",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unflinching",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Heroic Recovery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Heroic Defiance",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Quick Recovery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stalwart",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unlimited Endurance",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Miraculous Recovery",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unbreakable Mind",
+      "markdownPath": "classes/fighter.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Grit",
+      "markdownPath": "ultimateCombat/classArchetypes/gunslinger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Gunsmith",
+      "markdownPath": "ultimateCombat/classArchetypes/gunslinger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deeds",
+      "markdownPath": "ultimateCombat/classArchetypes/gunslinger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Nimble",
+      "markdownPath": "ultimateCombat/classArchetypes/gunslinger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "ultimateCombat/classArchetypes/gunslinger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Gun Training",
+      "markdownPath": "ultimateCombat/classArchetypes/gunslinger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "True Grit",
+      "markdownPath": "ultimateCombat/classArchetypes/gunslinger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Animal Companion",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Animal Focus",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Chaotic Evil Good and Lawful Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Track",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Empathy",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hunter Tactics",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Teamwork Feat",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Woodland Stride",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swift Tracker",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Master Hunter",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Domain",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Judgment",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Monster Lore",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Orisons",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stern Gaze",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cunning Initiative",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Detect Alignment",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Track",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Solo Tactics",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bane",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Discern Lies",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Teamwork Feat",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Second Judgment",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stalwart",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Bane",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Exploit Weakness",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Third Judgment",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slayer",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "True Judgment",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Inquisition",
+      "markdownPath": "ultimateCombat/classArchetypes/inquisitor.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Alchemy",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Inspiration",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trapfinding",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Poison Resistance",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Poison Use",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Investigator Talent",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Keen Recollection",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trap Sense",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sneak Attack",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swift Alchemy",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "True Inspiration",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lore",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Languages",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Lore",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "True Lore",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arcane Pool",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Combat",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spellstrike",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Magus Arcana",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Recall",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Knowledge Pool",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Medium Armor",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Spell Combat",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fighter Training",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Spell Recall",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Heavy Armor",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Spell Combat",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Counterstrike",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Spell Access",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "True Magus",
+      "markdownPath": "ultimateCombat/classArchetypes/magus.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Drunken Ki",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Drunken Strength",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Drunken Courage",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Drunken Resilience",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Firewater Breath",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Redirection",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unbalancing Counter",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Flowing Dodge",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Elusive Target",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Volley Spell",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Punishing Kick",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Steal Ki",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Life Funnel",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Life from a Stone",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sipping Demon",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Iron Monk",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bastion Stance",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Iron Limb Defense",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Adamantine Monk",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Vow of Silence",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Flurry Of Blows",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stunning Fist",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unarmed Strike",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Evasion",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fast Movement",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Maneuver Training",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Still Mind",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ac Bonus",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki Pool",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slow Fall",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "High Jump",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Purity Of Body",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wholeness Of Body",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Evasion",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Diamond Body",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Abundant Step",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Diamond Soul",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Quivering Palm",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Timeless Body",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Toungue Of The Sun And Moon",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Empty Body",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Perfect Self",
+      "markdownPath": "classes/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells per Day",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Combined Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Synthesis",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Martial Training",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "ultimateCombat/classes/ninja.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Poison Use",
+      "markdownPath": "ultimateCombat/classes/ninja.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sneak Attack",
+      "markdownPath": "ultimateCombat/classes/ninja.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki Pool",
+      "markdownPath": "ultimateCombat/classes/ninja.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "No Trace",
+      "markdownPath": "ultimateCombat/classes/ninja.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Uncanny Dodge",
+      "markdownPath": "ultimateCombat/classes/ninja.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Light Steps",
+      "markdownPath": "ultimateCombat/classes/ninja.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Uncanny Dodge",
+      "markdownPath": "ultimateCombat/classes/ninja.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hidden Master",
+      "markdownPath": "ultimateCombat/classes/ninja.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mystery",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/oracle.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Oracles Curse",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/oracle.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Orisons",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/oracle.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Revelation",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/oracle.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mystery Spell",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/oracle.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Final Revelation",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/oracle.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shared Defense",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Divine Bond Divine Defender",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Smite Evil Hospitaler",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Channel Positive Energy Hospitaler",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Healing",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Smite Evil Sacred Servant",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells Sacred Servant",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Divine Bond Sacred Servant",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Call Celestial Ally",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Good",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Detect Evil",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Smite Evil",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Divine Grace",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lay On Hands",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Courage",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Divine Health",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mercy",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Channel Positive Energy",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Divine Bond",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Resolve",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Justice",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Faith",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Righteousness",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Holy Champion",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Smite Evil Undead Scourge",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aura Of Life",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Undead Annihilation",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Power of Faith",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shining Light",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Skilled Rider",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Divine Bond",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Knights Charge",
+      "markdownPath": "classes/paladin.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bardic Knowledge",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deep Pockets",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Master Scribe",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Aid",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Live to Tell the Tale",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Pathfinding",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bardic Performance",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Epic Tales",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Whispering Campaign",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Inspire Action",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Call Down the Legends",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Epic Tales",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lay of the Exalted Dead",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rangers Focus",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Terrain Bond",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rangers Luck",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Inspired Movement",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Rangers Luck",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hunters Tricks",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Favored Enemy",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Track",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Empathy",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Endurance",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Favored Terrain",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hunters Bond",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Woodland Stride",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swift Tracker",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Evasion",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Quarry",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Camouflage",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Evasion",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hide In Plain Sight",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Quarry",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Master Hunter",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Urban Ranger",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Favored Community",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trapfinding",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Push Through",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blend In",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Invisibility Trick",
+      "markdownPath": "classes/ranger.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hidden Blade",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sneak Stab",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blade Sense",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Skills",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sneak Attack",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trapfinding",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Armor",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Evasion",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rogue Talent",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trap Sense",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Uncanny Dodge",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Uncanny Dodge",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Advanced Talents",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Master Strike",
+      "markdownPath": "classes/rogue.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Challenge",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mount",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Order",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Resolve",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon Expertise",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mounted Archer",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Banner",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Resolve",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Honorable Stand",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Demanding Challenge",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Banner",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "True Resolve",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Last Stand",
+      "markdownPath": "ultimateCombat/classes/samurai.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon and Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hide in Plain Sight",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Evasion",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Darkvision",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Uncanny Dodge",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rogue Talent",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shadow Illusion",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Shadow",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shadow Call",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shadow Jump",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Defensive Roll",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Uncanny Dodge",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slippery Mind",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shadow Power",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Evasion",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shadow Master",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Orisons",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shamans Familiar",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spirit",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spirit Magic",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hex",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wandering Spirit",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wandering Hex",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Spirit",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "True Spirit",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Manifest",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "True Wandering Spirit",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bardic Knowledge",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cantrips",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Raging Song",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Scribe Scroll",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Inspired Rage",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Well Versed",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rage Powers",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Song of Marching",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Kenning",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Song of Strength",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lore Master",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dirge of Doom",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Song of the Fallen",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Master Skald",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Studied Target",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Track",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slayer Talents",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sneak Attack",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stalker",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Advanced Talents",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swift Tracker",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slayer’s Advance",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Quarry",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Quarry",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Master Slayer",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bloodline",
+      "markdownPath": "classes/sorcerer.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes/sorcerer.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes/sorcerer.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cantrips",
+      "markdownPath": "classes/sorcerer.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Eschew Materials",
+      "markdownPath": "classes/sorcerer.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cantrips",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Eidolon",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Life Link",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Monster I",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bond Senses",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Monster II",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shield Ally",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Monster III",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Makers Call",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Monster IV",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Transposition",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Monster V",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aspect",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Monster VI",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Shield Ally",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Monster VII",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Life Bond",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Monster VIII",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Merge Forms",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Monster IX",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Greater Aspect",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Gate",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Twin Eidolon",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/summoner.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Panache",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deeds",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bravery",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swashbuckler Finesse",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Nimble",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Daring",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swashbuckler Weapon Training",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swashbuckler Weapon Mastery",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blessings",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Focus Weapon",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Orisons",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spontaneous Casting",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Channel Energy",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sacred Weapon",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sacred Armor",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Aspect of War",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cantrips",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/witch.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hex",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/witch.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Patron Spells",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/witch.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/witch.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/witch.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Witchs Familiar",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/witch.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Major Hex",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/witch.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Grand Hex",
+      "markdownPath": "ultimateMagic/spellcastingClassOptions/witch.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spells",
+      "markdownPath": "classes/wizard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Weapon And Armor Proficiency",
+      "markdownPath": "classes/wizard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Languages",
+      "markdownPath": "classes/wizard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arcane Bond",
+      "markdownPath": "classes/wizard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arcane School",
+      "markdownPath": "classes/wizard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cantrips",
+      "markdownPath": "classes/wizard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Scribe Scroll",
+      "markdownPath": "classes/wizard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spellbooks",
+      "markdownPath": "classes/wizard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "classes/wizard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Versatile Performance",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Feral Focus",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Precise Summoned Animal",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild Shape",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summon Pack",
+      "markdownPath": "classes.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arcane Strike",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rallying Cry",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bladethirst ",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mass Bladethirst ",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arcane Bond",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feats",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arcane Armor",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arcane Armor",
+      "markdownPath": "classes/bard.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Flurry of Blows",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stunning Fist",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unarmed Strike",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Evasion",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fast Movement",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki Pool",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki Strike",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki Power 1",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Still Mind",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Purity of Body",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Style Strike",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki Power 3",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Evasion",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tongue of the Sun and Moon",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Timeless Body",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Flawless Mind",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Perfect Self",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "generatedAt": "2026-05-21T03:17:08.914Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/specificWeapon.json",
+  "markdownCoverage": 81,
+  "totalRecords": 81,
+  "records": [
+    {
+      "name": "Assassin's Dagger",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bastard's Sting",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Beaststrike Club",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blade of Binding",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blade of the Rising Sun",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blade of the Sword-Saint",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bloodletting Kukri",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bloodthirst Dagger",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Boulderhead Mace",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Burrowing Bullet",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cutthroat's Apprentice",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dagger of Doubling",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dagger of Venom",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Demonsorrow Curve Blade",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Disarming Blade",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dragoncatch Guisarme",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dragon's Doom",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dust Bolt",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dustburst Bullet",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dwarfbond hammer",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dwarven Thrower",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Earthenflail",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Everflowing Aspergillum",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fighter's Fork",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Firedrake Pistol",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Flame Tongue",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Frost Brand",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Frostbite Sling",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ghoul's Lament",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Gloom Blade",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Guarding Blade",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Heartswood Spear",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hellscourge",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Holy Avenger",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hurricane Quarterstaff",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hushing Arrow",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Javelin of Lightning",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lance of Jousting",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lash of the Howler",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Life-Drinker",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Luck Blade",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mace of Smiting",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mace of Terror",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Nine Lives Stealer",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Oathbow",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Pistol of the Infinite Sky",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Polarity Hammer",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Quarterstaff of Vaulting",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rapier of Puncturing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ricochet Hammer",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Scimitar of the Spellthief",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Screaming Bolt",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Searing Arrow",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shatterspike",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shieldsplitter Lance",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shifter's Sorrow",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sizzling Arrow",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slaying Arrow",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sleep Arrow",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sparkwake Starknife",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spider's Fang",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spirit Blade",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spirit Caller",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Summoner's Sorrow",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sun Blade",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Swift Obsidian Greataxe",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sword of Life Stealing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sword of Subtlety",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sword of the Planes",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Sylvan Scimitar",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tangle Bolt",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ten-ring sword",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tracer Bullet",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trident of Fish Command",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trident of Stability",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Trident of Warning",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Triton's Trident",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Undercutting Axe",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Valor's Minion",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Void Scythe",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Warbringer",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    }
+  ]
+}

@@ -7,6 +7,39 @@ const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(scriptDir, '..');
 const vaultRoot = '/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e';
 
+function slugify(value) {
+  return String(value ?? '').toLowerCase().replace(/[^a-z0-9]+/g, '');
+}
+
+function pageExists(relativePath) {
+  return fs.existsSync(path.join(vaultRoot, relativePath));
+}
+
+function resolveClassAbilityMarkdown(record) {
+  const normalizedClass = String(record.ClassName ?? '').trim();
+  const classAlias = normalizedClass === 'Paldin' ? 'Paladin' : normalizedClass;
+  const candidates = [];
+
+  if (classAlias === 'Unchained Monk') {
+    candidates.push('advanced/coreClasses/monk.md', 'classes/monk.md');
+  }
+
+  const slug = slugify(classAlias);
+  candidates.push(
+    `classes/${slug}.md`,
+    `ultimateCombat/classArchetypes/${slug}.md`,
+    `ultimateCombat/classes/${slug}.md`,
+    `advanced/coreClasses/${slug}.md`,
+    `ultimateMagic/spellcastingClassOptions/${slug}.md`,
+  );
+
+  const relativePath = candidates.find((candidate) => pageExists(candidate)) ?? 'classes.md';
+  return {
+    title: path.basename(relativePath, '.md').replace(/[-_]/g, ' '),
+    relativePath,
+  };
+}
+
 const familyConfigs = [
   {
     family: 'armor',
@@ -21,6 +54,18 @@ const familyConfigs = [
     },
   },
   {
+    family: 'armorFeatures',
+    legacyFile: path.join(repoRoot, 'pathfinder1e', 'armorFeatures.json'),
+    outputFile: path.join(repoRoot, 'pathfinder1e', 'armorFeatures.json'),
+    sourceIndexFile: path.join(repoRoot, 'sources', 'pf1-armor-feature-source-index.json'),
+    resolveMarkdown() {
+      return {
+        title: 'Armor Special Abilities',
+        relativePath: 'ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md',
+      };
+    },
+  },
+  {
     family: 'feats',
     legacyFile: path.join(repoRoot, 'pathfinder1e', 'feats.json'),
     outputFile: path.join(repoRoot, 'pathfinder1e', 'feats.json'),
@@ -29,6 +74,39 @@ const familyConfigs = [
       return {
         title: 'Feats',
         relativePath: 'feats.md',
+      };
+    },
+  },
+  {
+    family: 'classAbility',
+    legacyFile: path.join(repoRoot, 'pathfinder1e', 'classAbility.json'),
+    outputFile: path.join(repoRoot, 'pathfinder1e', 'classAbility.json'),
+    sourceIndexFile: path.join(repoRoot, 'sources', 'pf1-class-ability-source-index.json'),
+    resolveMarkdown(record) {
+      return resolveClassAbilityMarkdown(record);
+    },
+  },
+  {
+    family: 'classAbility.UnchainedMonk',
+    legacyFile: path.join(repoRoot, 'pathfinder1e', 'classAbility.UnchainedMonk.json'),
+    outputFile: path.join(repoRoot, 'pathfinder1e', 'classAbility.UnchainedMonk.json'),
+    sourceIndexFile: path.join(repoRoot, 'sources', 'pf1-class-ability-unchained-monk-source-index.json'),
+    resolveMarkdown() {
+      return {
+        title: 'Monk',
+        relativePath: 'advanced/coreClasses/monk.md',
+      };
+    },
+  },
+  {
+    family: 'ammo',
+    legacyFile: path.join(repoRoot, 'pathfinder1e', 'ammo.json'),
+    outputFile: path.join(repoRoot, 'pathfinder1e', 'ammo.json'),
+    sourceIndexFile: path.join(repoRoot, 'sources', 'pf1-ammo-source-index.json'),
+    resolveMarkdown() {
+      return {
+        title: 'Weapons',
+        relativePath: 'ultimateEquipment/armsAndArmor/weapons.md',
       };
     },
   },
@@ -100,6 +178,30 @@ const familyConfigs = [
     },
   },
   {
+    family: 'specificArmor',
+    legacyFile: path.join(repoRoot, 'pathfinder1e', 'specificArmor.json'),
+    outputFile: path.join(repoRoot, 'pathfinder1e', 'specificArmor.json'),
+    sourceIndexFile: path.join(repoRoot, 'sources', 'pf1-specific-armor-source-index.json'),
+    resolveMarkdown() {
+      return {
+        title: 'Armor Special Abilities',
+        relativePath: 'ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md',
+      };
+    },
+  },
+  {
+    family: 'specificWeapon',
+    legacyFile: path.join(repoRoot, 'pathfinder1e', 'specificWeapon.json'),
+    outputFile: path.join(repoRoot, 'pathfinder1e', 'specificWeapon.json'),
+    sourceIndexFile: path.join(repoRoot, 'sources', 'pf1-specific-weapon-source-index.json'),
+    resolveMarkdown() {
+      return {
+        title: 'Weapon Special Abilities',
+        relativePath: 'ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md',
+      };
+    },
+  },
+  {
     family: 'mundane',
     legacyFile: path.join(repoRoot, 'pathfinder1e', 'mundane.json'),
     outputFile: path.join(repoRoot, 'pathfinder1e', 'mundane.json'),
@@ -155,6 +257,18 @@ const familyConfigs = [
       return {
         title: titleByPath[relativePath] ?? 'Equipment',
         relativePath,
+      };
+    },
+  },
+  {
+    family: 'weaponfeature',
+    legacyFile: path.join(repoRoot, 'pathfinder1e', 'weaponfeature.json'),
+    outputFile: path.join(repoRoot, 'pathfinder1e', 'weaponfeature.json'),
+    sourceIndexFile: path.join(repoRoot, 'sources', 'pf1-weapon-feature-source-index.json'),
+    resolveMarkdown() {
+      return {
+        title: 'Weapon Special Abilities',
+        relativePath: 'ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md',
       };
     },
   },

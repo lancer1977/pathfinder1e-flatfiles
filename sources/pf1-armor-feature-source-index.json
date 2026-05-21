@@ -1,0 +1,411 @@
+{
+  "generatedAt": "2026-05-21T03:17:08.893Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/armorFeatures.json",
+  "markdownCoverage": 67,
+  "totalRecords": 67,
+  "records": [
+    {
+      "name": "Fortification, Light",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fortification, Medium",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fortification, Heavy",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Adhesive",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Animated",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arrow Catching",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Arrow Deflection",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Balanced",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bashing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Benevolent",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bitter",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Blinding",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bolstering",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Brawling",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Champion",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Clangorous",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Creeping",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dastard",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deathless",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Defiant",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Delving",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Determination",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Energy Resistance",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Energy Resistance, Greater",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Energy Resistance, Improved",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Etherealness",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Expeditious",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ghost Touch",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Glamered",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Grinding",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Harmonizing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hosteling",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Impervious",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Shadow",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Slick",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Invulnerability",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Jousting",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Martyring",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Merging",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mirrored",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Poison-Resistant",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Putrid",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Radiant",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rallying",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ramming",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Reflecting",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Righteous",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shadow",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shadow, Greater",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shadow, Improved",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slick",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slick, Greater",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Slick, Improved",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Resistance 13",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Resistance 15",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Resistance 17",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Resistance 19",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Storing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stanching",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Titanic",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unbound",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Undead Controlling",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unrighteous",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Vigilant",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Warding",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wild",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wyrmsbreath",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    }
+  ]
+}

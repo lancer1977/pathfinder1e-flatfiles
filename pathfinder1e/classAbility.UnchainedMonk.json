@@ -6,48 +6,62 @@
     "Level": 10,
     "Sacrifice": "Jack Of All Trades",
     "Description": "At 10th level, an arcane duelist gainsMedium Armor Proficiency and can cast bard spells in medium armor with no chance of arcane spell failure. At 16th level, he gains Heavy Armor Proficiencyand can cast bard spells in heavy armor with no arcane spell failure. ",
-    "ClassName": "Bard"
+    "ClassName": "Bard",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Name": "Bonus Feat",
     "Archtype": "Unchained Monk",
     "Level": 1,
     "ClassName": "Unchained Monk",
-    "Description": "At 1st level, 2nd level, and every 4 levels thereafter, a monk can select a bonus feat. These feats must be taken from the following list: Catch Off-Guard, Combat Reflexes, Deflect Arrows, Dodge, Improved Grapple, Scorpion Style, and Throw Anything. At 6th level, the following feats are added to the list: Gorgon’s Fist, Improved Bull Rush, Improved Disarm, Improved Feint, Improved Trip, and Mobility. At 10th level, the following feats are added to the list: Improved Critical, Medusa’s Wrath, Snatch Arrows, and Spring Attack. A monk need not have any of the prerequisites normally required for these feats to select them."
+    "Description": "At 1st level, 2nd level, and every 4 levels thereafter, a monk can select a bonus feat. These feats must be taken from the following list: Catch Off-Guard, Combat Reflexes, Deflect Arrows, Dodge, Improved Grapple, Scorpion Style, and Throw Anything. At 6th level, the following feats are added to the list: Gorgon’s Fist, Improved Bull Rush, Improved Disarm, Improved Feint, Improved Trip, and Mobility. At 10th level, the following feats are added to the list: Improved Critical, Medusa’s Wrath, Snatch Arrows, and Spring Attack. A monk need not have any of the prerequisites normally required for these feats to select them.",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Name": "Flurry of Blows",
     "Archtype": "Unchained Monk",
     "Level": 1,
     "ClassName": "Unchained Monk",
-    "Description": "At 1st level, a monk can make a flurry of blows as a full-attack action. When making a flurry of blows, the monk can make one additional attack at his highest base attack bonus. This additional attack stacks with the bonus attacks from haste and other similar effects. When using this ability, the monk can make these attacks with any combination of his unarmed strikes and weapons that have the monk special weapon quality. He takes no penalty for using multiple weapons when making a flurry of blows, but he does not gain any additional attacks beyond what’s already granted by the flurry for doing so. (He can still gain additional attacks from a high base attack bonus, from this ability, and from haste and similar effects). \r\n At 11th level, a monk can make an additional attack at his highest base attack bonus whenever he makes a flurry of blows. This stacks with the first attack from this ability and additional attacks from haste and similar effects."
+    "Description": "At 1st level, a monk can make a flurry of blows as a full-attack action. When making a flurry of blows, the monk can make one additional attack at his highest base attack bonus. This additional attack stacks with the bonus attacks from haste and other similar effects. When using this ability, the monk can make these attacks with any combination of his unarmed strikes and weapons that have the monk special weapon quality. He takes no penalty for using multiple weapons when making a flurry of blows, but he does not gain any additional attacks beyond what’s already granted by the flurry for doing so. (He can still gain additional attacks from a high base attack bonus, from this ability, and from haste and similar effects). \r\n At 11th level, a monk can make an additional attack at his highest base attack bonus whenever he makes a flurry of blows. This stacks with the first attack from this ability and additional attacks from haste and similar effects.",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Name": "Stunning Fist",
     "Archtype": "Unchained Monk",
     "Level": 1,
     "ClassName": "Unchained Monk",
-    "Description": "At 1st level, the monk gains Stunning Fist as a bonus feat, even if he does not meet the prerequisites.\r\nAt 4th level, and every 4 levels thereafter, the monk gains the ability to apply a new condition to the target of his Stunning Fist. This condition replaces stunning the target for 1 round, and a successful saving throw still negates the effect.\r\nAt 4th level, the monk can choose to make the target fatigued. At 8th level, he can make the target sickened for 1 minute.\r\nAt 12th level, he can make the target staggered for 1d6+1 rounds.\r\nAt 16th level, he can permanently blind or deafen the target.\r\nAt 20th level, he can paralyze the target for 1d6+1 rounds. The monk must choose which condition will apply before the attack roll is made. These effects do not stack with themselves (a creature fatigued by Stunning Fist cannot become exhausted if hit by Stunning Fist again), but additional hits do increase the duration."
+    "Description": "At 1st level, the monk gains Stunning Fist as a bonus feat, even if he does not meet the prerequisites.\r\nAt 4th level, and every 4 levels thereafter, the monk gains the ability to apply a new condition to the target of his Stunning Fist. This condition replaces stunning the target for 1 round, and a successful saving throw still negates the effect.\r\nAt 4th level, the monk can choose to make the target fatigued. At 8th level, he can make the target sickened for 1 minute.\r\nAt 12th level, he can make the target staggered for 1d6+1 rounds.\r\nAt 16th level, he can permanently blind or deafen the target.\r\nAt 20th level, he can paralyze the target for 1d6+1 rounds. The monk must choose which condition will apply before the attack roll is made. These effects do not stack with themselves (a creature fatigued by Stunning Fist cannot become exhausted if hit by Stunning Fist again), but additional hits do increase the duration.",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Name": "Unarmed Strike",
     "Archtype": "Unchained Monk",
     "Level": 1,
     "ClassName": "Unchained Monk",
-    "Description": "At 1st level, a monk gains Improved Unarmed Strike as a bonus feat. A monk’s attacks can be with fists, elbows, knees, and feet. This means that a monk can make unarmed strikes with his hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk can apply his full Strength bonus on damage rolls for all his unarmed strikes. A monk’s unarmed strikes deal lethal damage, although he can choose to deal nonlethal damage with no penalty on his attack roll. He can make this choice while grappling as well.\r\nA monk’s unarmed strike is treated as both a manufactured weapon and a natural weapon for the purpose of spells and effects that enhance or improve either manufactured weapons or natural weapons."
+    "Description": "At 1st level, a monk gains Improved Unarmed Strike as a bonus feat. A monk’s attacks can be with fists, elbows, knees, and feet. This means that a monk can make unarmed strikes with his hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk can apply his full Strength bonus on damage rolls for all his unarmed strikes. A monk’s unarmed strikes deal lethal damage, although he can choose to deal nonlethal damage with no penalty on his attack roll. He can make this choice while grappling as well.\r\nA monk’s unarmed strike is treated as both a manufactured weapon and a natural weapon for the purpose of spells and effects that enhance or improve either manufactured weapons or natural weapons.",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Name": "Evasion",
     "Archtype": "Unchained Monk",
     "Level": 2,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "A monk gains an enhancement bonus to his land speed, as shown on Table: Monk Unchained. A monk in armor or carrying a medium or heavy load loses this extra speed.",
     "Name": "Fast Movement",
     "Archtype": "Unchained Monk",
     "Level": 3,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "A monk gains a pool of ki points, supernatural energy he can use to accomplish amazing feats. The number of points in a monk’s ki pool is equal to 1/2 his monk level + his Wisdom modifier. As long as he has at least 1 point in his ki pool, he can make a ki strike.",
@@ -55,14 +69,18 @@
     "SpellLike": "Su",
     "Archtype": "Unchained Monk",
     "Level": 3,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "",
     "Name": "Ki Strike",
     "Archtype": "Unchained Monk",
     "Level": 3,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "At 4th level and every 2 levels thereafter, a monk can select one ki power. These powers allow the monk to perform amazing feats of mystical power and acrobatic prowess by expending points from his ki pool. Once a ki power is selected, it cannot be changed. Some ki powers require the monk to be of a specific level or higher before they can be chosen.",
@@ -70,7 +88,9 @@
     "SpellLike": "Su",
     "Archtype": "Unchained Monk",
     "Level": 4,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "At 4th level, a monk gains a +2 bonus on saving throws against enchantment spells and effects.",
@@ -78,7 +98,9 @@
     "SpellLike": "Ex",
     "Archtype": "Unchained Monk",
     "Level": 4,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "At 5th level, a monk gains immunity to all diseases, including supernatural and magical diseases.",
@@ -86,7 +108,9 @@
     "SpellLike": "Ex",
     "Archtype": "Unchained Monk",
     "Level": 5,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "At 5th level, a monk can learn one type of style strike. Whenever he makes a flurry of blows, he can designate one of his unarmed strikes as a style strike. This attack is resolved as normal, but it has an additional effect depending on the type of strike chosen. At 9th level, and every 4 levels thereafter, a monk learns an additional style strike. He must choose which style strike to apply before the attack roll is made. At 15th level, he can designate up to two of his unarmed strikes each round as a style strike, and each one can be a different type. The monk can choose from any of the following strikes.",
@@ -94,7 +118,9 @@
     "SpellLike": "Ex",
     "Archtype": "Unchained Monk",
     "Level": 5,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "",
@@ -102,6 +128,8 @@
     "Archtype": "Unchained Monk",
     "Level": 8,
     "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk",
     "FlatfileId": "classAbility.UnchainedMonk:ki-power:2"
   },
   {
@@ -110,7 +138,9 @@
     "SpellLike": "Ex",
     "Archtype": "Unchained Monk",
     "Level": 9,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "At 13th level, a monk can understand and speak with any living creature, as if under a permanent tongues effect.",
@@ -118,7 +148,9 @@
     "SpellLike": "Ex",
     "Archtype": "Unchained Monk",
     "Level": 13,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "At 17th level, a monk no longer takes penalties to his ability scores for aging and cannot be magically aged. Any such penalties that he has already taken, however, remain in place. Age bonuses still accrue, and the monk still dies of old age when his time is up.",
@@ -126,20 +158,26 @@
     "SpellLike": "Ex",
     "Archtype": "Unchained Monk",
     "Level": 17,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "At 20th level, a monk becomes a magical creature. He is forevermore treated as an outsider rather than a humanoid (or whatever his original creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/chaotic, which allows him to ignore the first 10 points of damage from any attack made by a nonchaotic weapon. Unlike other outsiders, the monk can still be brought back from the dead as if he were a member of his previous creature type. Finally, the monk gains the ability to enter a state of perfect calm. During this time, the monk can take no actions, but he does regain ki at the rate of 1 point per 10 minutes spent at calm. He cannot use this ability to gain an amount of ki in excess of his maximum.",
     "Name": "Flawless Mind",
     "Archtype": "Unchained Monk",
     "Level": 19,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   },
   {
     "Description": "At 20th level, the monk has reached the highest levels of his martial arts school. The monk gains one additional attack at his highest base attack bonus when using flurry of blows, and his dodge bonus to AC increases by 2.",
     "Name": "Perfect Self",
     "Archtype": "Unchained Monk",
     "Level": 20,
-    "ClassName": "Unchained Monk"
+    "ClassName": "Unchained Monk",
+    "MarkdownPath": "advanced/coreClasses/monk.md",
+    "MarkdownTitle": "Monk"
   }
 ]

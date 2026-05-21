@@ -6,7 +6,9 @@
     "CL": "7th",
     "Craft": "Craft Magic Arms and Armor, confusion",
     "Price": "16,175 gp",
-    "Description": "Each metal bit of this suit of +1 studded leather looks more like a tiny sneering face than a simple stud. Once per day the wearer of the armor may command the mouths to unleash a torrent of verbal abuse directed against every hostile creature within 60 feet who can see and hear the wearer. Each such creature must make a DC 16 Will saving throw to avoid suffering an overwhelming compulsion to attack the wearer for the next 7 rounds. If the creature is unable to attack the wearer on its next turn, or attacking the wearer would put the creature at risk (moving through a threatened square, charging into a pit, and so on) it can act normally that turn. This is a mind-affecting sonic effect, and has no effect on creatures that do not use a spoken language."
+    "Description": "Each metal bit of this suit of +1 studded leather looks more like a tiny sneering face than a simple stud. Once per day the wearer of the armor may command the mouths to unleash a torrent of verbal abuse directed against every hostile creature within 60 feet who can see and hear the wearer. Each such creature must make a DC 16 Will saving throw to avoid suffering an overwhelming compulsion to attack the wearer for the next 7 rounds. If the creature is unable to attack the wearer on its next turn, or attacking the wearer would put the creature at risk (moving through a threatened square, charging into a pit, and so on) it can act normally that turn. This is a mind-affecting sonic effect, and has no effect on creatures that do not use a spoken language.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 2,
@@ -15,7 +17,9 @@
     "CL": "12th",
     "Craft": "Craft Magic Arms and Armor, bless",
     "Price": "18,900 gp",
-    "Description": "Ten 100-gp gems adorn this +3 banded mail. Once per week, the armor allows its wearer to require that an attack roll made against him be rerolled. He must take whatever consequences come from the second roll. The wearer's player must decide whether to have the attack roll rerolled before damage is rolled."
+    "Description": "Ten 100-gp gems adorn this +3 banded mail. Once per week, the armor allows its wearer to require that an attack roll made against him be rerolled. He must take whatever consequences come from the second roll. The wearer's player must decide whether to have the attack roll rerolled before damage is rolled.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 3,
@@ -24,7 +28,9 @@
     "CL": "3rd",
     "Craft": "Craft Magic Arms and Armor, alter self, creator must have 5 ranks in Acrobatics and Escape Artist",
     "Price": "12,160 gp",
-    "Description": "This suit of +1 leather gives its wearer the ability to twist and contort her body in virtually any direction. She gains a +5 bonus on Escape Artist checks, a +5 bonus on Acrobatics checks to reduce damage from falls, a +5 bonus to CMD, and DR 5/piercing or slashing."
+    "Description": "This suit of +1 leather gives its wearer the ability to twist and contort her body in virtually any direction. She gains a +5 bonus on Escape Artist checks, a +5 bonus on Acrobatics checks to reduce damage from falls, a +5 bonus to CMD, and DR 5/piercing or slashing.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 4,
@@ -33,7 +39,9 @@
     "CL": "15th",
     "Craft": "Craft Magic Arms and Armor, mass charm monster",
     "Price": "25,400 gp",
-    "Description": "This +2 breastplate typically bears the image of a rampant grizzly bear or other impressive predator. It bestows a commanding aura upon its wearer. The wearer gains a +2 competence bonus on all Charisma checks, including Charisma-based skill checks. The wearer also gains a +2 competence bonus to his Leadership score. Friendly troops within 360 feet of the user become braver than normal, gaining a +2 resistance bonus on saving throws against fear. Since the effect arises in great part from the distinctiveness of the armor, it does not function if the wearer hides or conceals herself in any way."
+    "Description": "This +2 breastplate typically bears the image of a rampant grizzly bear or other impressive predator. It bestows a commanding aura upon its wearer. The wearer gains a +2 competence bonus on all Charisma checks, including Charisma-based skill checks. The wearer also gains a +2 competence bonus to his Leadership score. Friendly troops within 360 feet of the user become braver than normal, gaining a +2 resistance bonus on saving throws against fear. Since the effect arises in great part from the distinctiveness of the armor, it does not function if the wearer hides or conceals herself in any way.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 5,
@@ -42,7 +50,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, rope trick",
     "Price": "15,200 gp",
-    "Description": "This battered +1 mithral breastplate bears a resemblance to a stylized turtle shell. On command, its wearer can vanish inside the armor, leaving the breastplate behind while she stays safely hidden in an extradimensional space. This space is barely large enough for the wearer to sit comfortably, but does provides breathable air and light to see by. The wearer cannot perceive the environs around the armor while inside. A second command word returns the wearer to the armor's location, wearing the armor. If the wearer can't return to the space the armor is in, she is instead shunted to the nearest empty space that can contain her, but no longer wearing the armor. If the breastplate is destroyed, the wearer immediately returns to the square the armor was in when it was destroyed. Successfully dispelling the armor likewise returns the wearer, though in this case still wearing the armor."
+    "Description": "This battered +1 mithral breastplate bears a resemblance to a stylized turtle shell. On command, its wearer can vanish inside the armor, leaving the breastplate behind while she stays safely hidden in an extradimensional space. This space is barely large enough for the wearer to sit comfortably, but does provides breathable air and light to see by. The wearer cannot perceive the environs around the armor while inside. A second command word returns the wearer to the armor's location, wearing the armor. If the wearer can't return to the space the armor is in, she is instead shunted to the nearest empty space that can contain her, but no longer wearing the armor. If the breastplate is destroyed, the wearer immediately returns to the square the armor was in when it was destroyed. Successfully dispelling the armor likewise returns the wearer, though in this case still wearing the armor.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 6,
@@ -51,7 +61,9 @@
     "CL": "9th",
     "Craft": "Craft Magic Arms and Armor, water walk",
     "Price": "23,850 gp",
-    "Description": "This +1 breastplate is made of shining amber metal and decorated with faint motifs of the waves and water. It allows the wearer to continually utilize the effects of the spell water walk. If a creature puts on the armor while underwater, the wearer is borne toward the surface at a rate of 60 feet per round."
+    "Description": "This +1 breastplate is made of shining amber metal and decorated with faint motifs of the waves and water. It allows the wearer to continually utilize the effects of the spell water walk. If a creature puts on the armor while underwater, the wearer is borne toward the surface at a rate of 60 feet per round.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 7,
@@ -60,7 +72,9 @@
     "CL": "13th",
     "Craft": "Craft Magic Arms and Armor, cat's grace, feather fall, and limited wish, wish, or miracle",
     "Price": "18,910 gp",
-    "Description": "Rather than the hide of a cat, this extremely supple suit of jet-black +1 shadow leather armor grants a portion of the grace and fortune of a feline. It has no armor check penalty or maximum Dexterity bonus. The wearer receives a +5 competence bonus on Acrobatics checks and takes only half normal damage from falling. When the wearer's hit points would be reduced to a negative amount equal to her Constitution score from an attack or spell, the armor falls to pieces and is destroyed, and the wearer takes only half damage from the attack or spell."
+    "Description": "Rather than the hide of a cat, this extremely supple suit of jet-black +1 shadow leather armor grants a portion of the grace and fortune of a feline. It has no armor check penalty or maximum Dexterity bonus. The wearer receives a +5 competence bonus on Acrobatics checks and takes only half normal damage from falling. When the wearer's hit points would be reduced to a negative amount equal to her Constitution score from an attack or spell, the armor falls to pieces and is destroyed, and the wearer takes only half damage from the attack or spell.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 8,
@@ -69,7 +83,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, fly, creator must be good",
     "Price": "22,400 gp",
-    "Description": "This +3 chainmail is so fine and light that it can be worn under normal clothing without betraying its presence. It has a maximum Dexterity bonus of +8, an armor check penalty of –2, and an arcane spell failure chance of 15%. It is considered light armor and allows the wearer to use fly on command (as the spell) once per day."
+    "Description": "This +3 chainmail is so fine and light that it can be worn under normal clothing without betraying its presence. It has a maximum Dexterity bonus of +8, an armor check penalty of –2, and an arcane spell failure chance of 15%. It is considered light armor and allows the wearer to use fly on command (as the spell) once per day.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 9,
@@ -78,7 +94,9 @@
     "CL": "15th",
     "Craft": "Craft Magic Arms and Armor, daylight, sunburst",
     "Price": "81,250 gp",
-    "Description": "This glowing +1 half-plate is decorated with various images of the sun and depictions of nature. At will, the wearer can command the armor to shine with a daylight spell for 10 minutes. Once per day, the wearer can command it to shine as per the sunburst spell. The sunburst is centered on the wearer and the wearer is immune to its effects."
+    "Description": "This glowing +1 half-plate is decorated with various images of the sun and depictions of nature. At will, the wearer can command the armor to shine with a daylight spell for 10 minutes. Once per day, the wearer can command it to shine as per the sunburst spell. The sunburst is centered on the wearer and the wearer is immune to its effects.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 10,
@@ -87,7 +105,9 @@
     "CL": "13th",
     "Craft": "Craft Magic Arms and Armor, contagion",
     "Price": "52,260 gp",
-    "Description": "This plate armor is fashioned to make the wearer appear to be a demon. Glowing red energy emanates from sigils engraved on the armor's key plates and joints, and the runes intermittently surge with fiendish power. This +4 full plate allows the wearer to make claw attacks that deal 1d10 points of damage, strike as +1 weapons, and afflict the target as if she had been struck by a contagion spell (Fortitude DC 14 negates). Use of contagion requires a normal melee attack with the claws. The \"claws\" are built into the armor's vambraces and gauntlets, and cannot be disarmed. A suit of demon armor is infused with evil, and as a result it bestows one negative level on any nonevil creature wearing it. This negative level persists as long as the armor is worn and disappears when the armor is removed. The negative level cannot be overcome in any way (including restoration spells) while the armor is worn."
+    "Description": "This plate armor is fashioned to make the wearer appear to be a demon. Glowing red energy emanates from sigils engraved on the armor's key plates and joints, and the runes intermittently surge with fiendish power. This +4 full plate allows the wearer to make claw attacks that deal 1d10 points of damage, strike as +1 weapons, and afflict the target as if she had been struck by a contagion spell (Fortitude DC 14 negates). Use of contagion requires a normal melee attack with the claws. The \"claws\" are built into the armor's vambraces and gauntlets, and cannot be disarmed. A suit of demon armor is infused with evil, and as a result it bestows one negative level on any nonevil creature wearing it. This negative level persists as long as the armor is worn and disappears when the armor is removed. The negative level cannot be overcome in any way (including restoration spells) while the armor is worn.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 11,
@@ -96,7 +116,9 @@
     "CL": "—",
     "Craft": "Price 16,500 gp; Aura no aura (nonmagical); CL —; Weight 50 lbs.",
     "Price": "3,300 gp",
-    "Description": "This suit of full plate is made of dragonhide, rather than metal, so druids can wear it. It is otherwise identical to masterwork full plate."
+    "Description": "This suit of full plate is made of dragonhide, rather than metal, so druids can wear it. It is otherwise identical to masterwork full plate.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 12,
@@ -105,7 +127,9 @@
     "CL": "—",
     "Craft": "na",
     "Price": "16,500 gp",
-    "Description": "This full plate is made of adamantine, giving its wearer damage reduction 3/—."
+    "Description": "This full plate is made of adamantine, giving its wearer damage reduction 3/—.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 13,
@@ -114,7 +138,9 @@
     "CL": "—",
     "Craft": "na",
     "Price": "5,150 gp",
-    "Description": "This extremely light chainmail is made of very fine mithral links. This armor is treated, in all ways, like light armor, including when determining proficiency. The armor has an arcane spell failure chance of 20%, a maximum Dexterity bonus of +4, and an armor check penalty of –2."
+    "Description": "This extremely light chainmail is made of very fine mithral links. This armor is treated, in all ways, like light armor, including when determining proficiency. The armor has an arcane spell failure chance of 20%, a maximum Dexterity bonus of +4, and an armor check penalty of –2.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 14,
@@ -123,7 +149,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, grease, invisibility, touch of the sea",
     "Price": "11,160 gp",
-    "Description": "This +1 slick leather armor is made of shining, slippery eelskin that allows the wearer to move with deadly grace and sudden swiftness, especially underwater. When immersed in water, enchanted eelskin gains the shadow property and grants the wearer a swim speed of 30 feet and the ability to breathe water. In addition, during a surprise round the wearer can act as if she had a full round of actions, rather than a single standard action, as long as those actions do not require leaving the water. If she does leave the water, her surprise round turn immediately ends."
+    "Description": "This +1 slick leather armor is made of shining, slippery eelskin that allows the wearer to move with deadly grace and sudden swiftness, especially underwater. When immersed in water, enchanted eelskin gains the shadow property and grants the wearer a swim speed of 30 feet and the ability to breathe water. In addition, during a surprise round the wearer can act as if she had a full round of actions, rather than a single standard action, as long as those actions do not require leaving the water. If she does leave the water, her surprise round turn immediately ends.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 15,
@@ -132,7 +160,9 @@
     "CL": "9th",
     "Craft": "Craft Magic Arms and Armor, fabricate",
     "Price": "10,650 gp",
-    "Description": "Shined to a mirror finish, this suit of +2 full plate is decorated with gold inlay. As a move action when the wearer is mounted, the plates of the armor expand and reposition to protect the wearer's mount. In this form, the armor becomes a suit of +2 banded mail for the wearer and a suit of +1 banded mail barding worn by the mount. A second move action merges it back into +2 full plate. Equestrian plate cannot transform and protect a mount more than one size larger than its wearer or a creature that cannot wear barding. It can create exotic barding, however, such as for a griffon or dragon. If extra enhancements or spells are placed upon equestrian plate in full plate form, they affect only the wearer's armor when the suit is split. Effects on the barding are suppressed when it is merged into the armor. If either suit of armor is broken while separated, the other half immediately gains the broken condition as well. Destroying one suit destroys the other as well."
+    "Description": "Shined to a mirror finish, this suit of +2 full plate is decorated with gold inlay. As a move action when the wearer is mounted, the plates of the armor expand and reposition to protect the wearer's mount. In this form, the armor becomes a suit of +2 banded mail for the wearer and a suit of +1 banded mail barding worn by the mount. A second move action merges it back into +2 full plate. Equestrian plate cannot transform and protect a mount more than one size larger than its wearer or a creature that cannot wear barding. It can create exotic barding, however, such as for a griffon or dragon. If extra enhancements or spells are placed upon equestrian plate in full plate form, they affect only the wearer's armor when the suit is split. Effects on the barding are suppressed when it is merged into the armor. If either suit of armor is broken while separated, the other half immediately gains the broken condition as well. Destroying one suit destroys the other as well.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 16,
@@ -141,7 +171,9 @@
     "CL": "10th",
     "Craft": "Craft Magic Arms and Armor, instant summons",
     "Price": "12,650 gp",
-    "Description": "This item normally looks like a heavy steel brooch or cloak clasp, often depicting a heavy helm or sturdy shield. On command, the brooch transforms in a clatter of metallic plates and panels to instantly cover the wearer in a complete suit of +1 full plate, with the design of the brooch displayed on the armor's breastplate. The same command word causes the armor to transform into the brooch. The brooch only transforms if the wearer's armor slot is unoccupied, thus it won't work if the wearer is already armored. The brooch associated with this armor weighs less than a pound and occupies the neck slot when in this form."
+    "Description": "This item normally looks like a heavy steel brooch or cloak clasp, often depicting a heavy helm or sturdy shield. On command, the brooch transforms in a clatter of metallic plates and panels to instantly cover the wearer in a complete suit of +1 full plate, with the design of the brooch displayed on the armor's breastplate. The same command word causes the armor to transform into the brooch. The brooch only transforms if the wearer's armor slot is unoccupied, thus it won't work if the wearer is already armored. The brooch associated with this armor weighs less than a pound and occupies the neck slot when in this form.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 17,
@@ -150,7 +182,9 @@
     "CL": "11th",
     "Craft": "Craft Magic Arms and Armor, creator cannot be a divine spellcaster",
     "Price": "25,400 gp",
-    "Description": "A massive skull adorns the chest piece of this suit of +1 banded mail, and smaller gilted images of defaced holy symbols cover the other parts of the armor. The wearer of the armor cannot cast divine spells or use any spell-like supernatural ability gained from a connection to a deity. The wearer gains SR 19 against any divine-origin spell, spell-like ability, or supernatural ability (such as a domain granted power or ability from an outsider serving a deity), and treats the armor's enhancement bonus as +2 higher against creatures with these abilities."
+    "Description": "A massive skull adorns the chest piece of this suit of +1 banded mail, and smaller gilted images of defaced holy symbols cover the other parts of the armor. The wearer of the armor cannot cast divine spells or use any spell-like supernatural ability gained from a connection to a deity. The wearer gains SR 19 against any divine-origin spell, spell-like ability, or supernatural ability (such as a domain granted power or ability from an outsider serving a deity), and treats the armor's enhancement bonus as +2 higher against creatures with these abilities.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 18,
@@ -159,7 +193,9 @@
     "CL": "15th",
     "Craft": "Craft Magic Arms and Armor, giant form I (ogre, hill giant, stone giant, fire giant, frost giant, or troll) or giant form II (cloud giant or storm giant)",
     "Price": "Ogre 19,660 gp; Hill Giant 23,415 gp; Stone, fire, or frost giant 27,165 gp; Troll 29,665 gp; Cloud giant 34,665 gp; Storm giant 38,415 gp",
-    "Description": "This drooping, many-folded suit of +3 hide armor is made from the tanned skin of an actual giant. Once per day on command, the wearer can grow to match the size of the appropriate giant, as if using giant form I (ogre, hill giant, stone giant, fire giant, frost giant, or troll) or giant form II (cloud giant or storm giant). This transformation lasts up to 15 minutes, and ends when the wearer commands. Most good folk consider wearing the skins of intelligent creatures to be abhorrent. Giants gain a +2 morale bonus on attack and damage rolls against the wearer, or +4 if the wearer's armor is made from the same kind of giant as the attacker."
+    "Description": "This drooping, many-folded suit of +3 hide armor is made from the tanned skin of an actual giant. Once per day on command, the wearer can grow to match the size of the appropriate giant, as if using giant form I (ogre, hill giant, stone giant, fire giant, frost giant, or troll) or giant form II (cloud giant or storm giant). This transformation lasts up to 15 minutes, and ends when the wearer commands. Most good folk consider wearing the skins of intelligent creatures to be abhorrent. Giants gain a +2 morale bonus on attack and damage rolls against the wearer, or +4 if the wearer's armor is made from the same kind of giant as the attacker.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 19,
@@ -168,7 +204,9 @@
     "CL": "9th",
     "Craft": "Craft Magic Arms and Armor, polymorph, resist fire",
     "Price": "44,215 gp",
-    "Description": "Crafted from the flayed skin of a barbed devil, this imposing +2 spiked hide armor weighs half the normal weight. When its wearer rages, the armor's spikes elongate and the hide bonds to her skin, providing fire resistance 10. Any creature that strikes the wearer with a melee weapon, unarmed strike, or a natural weapon while the spikes are elongated takes 1d8+6 points of piercing damage from the armor's barbs (unless using a weapon with reach). While the wearer is enraged, spells that cause additional damage to evil outsiders deal that increased damage to her. A barbarian with fiend totem rage powers gains additional benefits from hamatula hide. If she has the lesser fiend totem rage power, she gains a +1 profane bonus to Armor Class while raging. If she has the fiend totem rage power, the damage caused by her barbs increases to 2d8+6 and stacks with the barbed defense granted by the armor. If she has the greater fiend totem ability, she gains fire resistance 20 when raging."
+    "Description": "Crafted from the flayed skin of a barbed devil, this imposing +2 spiked hide armor weighs half the normal weight. When its wearer rages, the armor's spikes elongate and the hide bonds to her skin, providing fire resistance 10. Any creature that strikes the wearer with a melee weapon, unarmed strike, or a natural weapon while the spikes are elongated takes 1d8+6 points of piercing damage from the armor's barbs (unless using a weapon with reach). While the wearer is enraged, spells that cause additional damage to evil outsiders deal that increased damage to her. A barbarian with fiend totem rage powers gains additional benefits from hamatula hide. If she has the lesser fiend totem rage power, she gains a +1 profane bonus to Armor Class while raging. If she has the fiend totem rage power, the damage caused by her barbs increases to 2d8+6 and stacks with the barbed defense granted by the armor. If she has the greater fiend totem ability, she gains fire resistance 20 when raging.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 20,
@@ -177,7 +215,9 @@
     "CL": "13th",
     "Craft": "Craft Magic Arms and Armor, fabricate, make whole, resist energy, and limited wish or miracle",
     "Price": "137,650 gp",
-    "Description": "Invincible armor shifts between three different appearances, but always weighs the same and protects as +2 impervious moderate fortification full plate. As an immediate action, the wearer can change the armor into heavy plate that blocks slashing attacks (DR 10/bludgeoning or piercing), thickly layered chainmail that blocks piercing attacks (DR 10/bludgeoning or slashing), or overlapping metal scales that block bludgeoning attacks (DR 10/piercing or slashing). In addition, invincible armor provides the wearer with 5 points of resistance to acid, cold, electricity, fire, and sonic, and is itself unharmed by damage from any of these energy types."
+    "Description": "Invincible armor shifts between three different appearances, but always weighs the same and protects as +2 impervious moderate fortification full plate. As an immediate action, the wearer can change the armor into heavy plate that blocks slashing attacks (DR 10/bludgeoning or piercing), thickly layered chainmail that blocks piercing attacks (DR 10/bludgeoning or slashing), or overlapping metal scales that block bludgeoning attacks (DR 10/piercing or slashing). In addition, invincible armor provides the wearer with 5 points of resistance to acid, cold, electricity, fire, and sonic, and is itself unharmed by damage from any of these energy types.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 21,
@@ -186,7 +226,9 @@
     "CL": "10th",
     "Craft": "Craft Magic Arms and Armor, righteous might, spell resistance",
     "Price": "61,300 gp",
-    "Description": "Mail of malevolence hangs in rags and tatters and acts as nonmagical chainmail to wearers who lack at least a moderate evil aura (Core Rulebook 266). When worn by a sufficiently evil character, it instead functions as +2 unrighteous chainmail. Mail of malevolence does not bestow a negative level on good wearers. The wearer of mail of malevolence gains SR 21, but only against spells with the good descriptor. In addition, whenever the wearer channels negative energy to harm living creatures, she heals a like amount of damage herself regardless of whether she is living or undead."
+    "Description": "Mail of malevolence hangs in rags and tatters and acts as nonmagical chainmail to wearers who lack at least a moderate evil aura (Core Rulebook 266). When worn by a sufficiently evil character, it instead functions as +2 unrighteous chainmail. Mail of malevolence does not bestow a negative level on good wearers. The wearer of mail of malevolence gains SR 21, but only against spells with the good descriptor. In addition, whenever the wearer channels negative energy to harm living creatures, she heals a like amount of damage herself regardless of whether she is living or undead.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 22,
@@ -195,7 +237,9 @@
     "CL": "3rd",
     "Craft": "Craft Magic Arms and Armor, obscuring mist",
     "Price": "2,250 gp",
-    "Description": "The fine links of this +1 chain shirt form a pattern of roiling clouds. On command once per day, the wearer can transform it into thick fog that fills his space and provides concealment (20% miss chance). This mist moves with the character. Effects that disperse the mist or destroy it cause the armor to reform into its solid shape on the character's body, as does speaking the command word or entering a place where the fog-magic doesn't function (such as underwater). If the character tries to don another suit of armor while the mistmail is in fog form, it reforms at the character's feet."
+    "Description": "The fine links of this +1 chain shirt form a pattern of roiling clouds. On command once per day, the wearer can transform it into thick fog that fills his space and provides concealment (20% miss chance). This mist moves with the character. Effects that disperse the mist or destroy it cause the armor to reform into its solid shape on the character's body, as does speaking the command word or entering a place where the fog-magic doesn't function (such as underwater). If the character tries to don another suit of armor while the mistmail is in fog form, it reforms at the character's feet.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 23,
@@ -204,7 +248,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, haste",
     "Price": "26,500 gp",
-    "Description": "As a free action, the wearer of this fine set of +1 mithral full plate can activate it, enabling him to act as though affected by a haste spell for up to 10 rounds each day. The duration of the haste effect need not be consecutive rounds. The armor has an arcane spell failure chance of 25%, a maximum Dexterity bonus of +3, and an armor check penalty of –3. It is considered medium armor, except that you must be proficient in heavy armor to avoid taking nonproficiency penalties."
+    "Description": "As a free action, the wearer of this fine set of +1 mithral full plate can activate it, enabling him to act as though affected by a haste spell for up to 10 rounds each day. The duration of the haste effect need not be consecutive rounds. The armor has an arcane spell failure chance of 25%, a maximum Dexterity bonus of +3, and an armor check penalty of –3. It is considered medium armor, except that you must be proficient in heavy armor to avoid taking nonproficiency penalties.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 24,
@@ -213,7 +259,9 @@
     "CL": "10th",
     "Craft": "Craft Magic Arms and Armor, alter self, invisibility",
     "Price": "8,910 gp",
-    "Description": "This +1 shadow leather armor causes the wearer's skin to warp and distort into a welter of horrid scarification. The armor itself disappears from view under this coat of scars and the wearer's face appears as a loathsome, eyeless veil of flesh. This change is illusory, similar to glamered armor; however, morlock hide does cause the wearer's arms and legs to extend and her posture to become hunched. She gains a +2 circumstance bonus on Acrobatics, Climb, and Escape Artist checks, and she can move through narrow spaces while squeezing at normal speed and with no penalty to AC or on attack rolls."
+    "Description": "This +1 shadow leather armor causes the wearer's skin to warp and distort into a welter of horrid scarification. The armor itself disappears from view under this coat of scars and the wearer's face appears as a loathsome, eyeless veil of flesh. This change is illusory, similar to glamered armor; however, morlock hide does cause the wearer's arms and legs to extend and her posture to become hunched. She gains a +2 circumstance bonus on Acrobatics, Climb, and Escape Artist checks, and she can move through narrow spaces while squeezing at normal speed and with no penalty to AC or on attack rolls.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 25,
@@ -222,7 +270,9 @@
     "CL": "9th",
     "Craft": "Craft Magic Arms and Armor, bleed, invisibility, silence",
     "Price": "12,405 gp",
-    "Description": "This silk +1 shadow padded armor is as dark as night and stitched with thread the color of dried blood. When worn by a rogue with the bleed talent, it increases the bleed damage of the rogue's sneak attacks by +1."
+    "Description": "This silk +1 shadow padded armor is as dark as night and stitched with thread the color of dried blood. When worn by a rogue with the bleed talent, it increases the bleed damage of the rogue's sneak attacks by +1.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 26,
@@ -231,7 +281,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, contagion, stinking cloud",
     "Price": "2,565 gp",
-    "Description": "This muddy brown +1 hide armor carries a fetid stench like raw sewage, and occasionally sprouts angry and uncomfortable-looking blisters. Creatures other than the wearer are repulsed by the otyugh armor's vile putridity. Any creature ending its turn adjacent to the wearer becomes sickened (Fortitude DC 13 negates) for as long as it remains adjacent to the wearer and for 1 round thereafter. A creature that strikes the wearer with a bite attack is affected the same way, even if it possesses exceptional reach and attacks while not adjacent to the wearer. If the wearer is swallowed whole, the attacker is automatically sickened and must succeed at a DC 13 Fortitude save at the beginning of its turn or be forced to regurgitate and drop the wearer harmlessly in an adjacent square (though the wearer is knocked prone during the regurgitation). Creatures with the scent ability suffer a –2 penalty to their saving throw against the stench of the otyugh armor. These abilities are poison effects; creatures immune to poison are immune to these effects as well. The wearer is immune to this effect. The wearer gains a +2 competence bonus on saves against disease, poison, and any effect that would cause her to become nauseated or sickened."
+    "Description": "This muddy brown +1 hide armor carries a fetid stench like raw sewage, and occasionally sprouts angry and uncomfortable-looking blisters. Creatures other than the wearer are repulsed by the otyugh armor's vile putridity. Any creature ending its turn adjacent to the wearer becomes sickened (Fortitude DC 13 negates) for as long as it remains adjacent to the wearer and for 1 round thereafter. A creature that strikes the wearer with a bite attack is affected the same way, even if it possesses exceptional reach and attacks while not adjacent to the wearer. If the wearer is swallowed whole, the attacker is automatically sickened and must succeed at a DC 13 Fortitude save at the beginning of its turn or be forced to regurgitate and drop the wearer harmlessly in an adjacent square (though the wearer is knocked prone during the regurgitation). Creatures with the scent ability suffer a –2 penalty to their saving throw against the stench of the otyugh armor. These abilities are poison effects; creatures immune to poison are immune to these effects as well. The wearer is immune to this effect. The wearer gains a +2 competence bonus on saves against disease, poison, and any effect that would cause her to become nauseated or sickened.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 27,
@@ -240,7 +292,9 @@
     "CL": "11th",
     "Craft": "Craft Magic Arms and Armor, freedom of movement, tongues, water breathing",
     "Price": "24,650 gp",
-    "Description": "This +1 full plate is decorated with a wave and fish motif and often has tiny fins and scales worked into the design. Although the armor remains as heavy and bulky as normal full plate, the wearer of plate armor of the deep is treated as unarmored for purposes of Swim checks. The wearer can breathe underwater and can converse with any water-breathing creature with a language."
+    "Description": "This +1 full plate is decorated with a wave and fish motif and often has tiny fins and scales worked into the design. Although the armor remains as heavy and bulky as normal full plate, the wearer of plate armor of the deep is treated as unarmored for purposes of Swim checks. The wearer can breathe underwater and can converse with any water-breathing creature with a language.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 28,
@@ -249,7 +303,9 @@
     "CL": "13th",
     "Craft": "Craft Magic Arms and Armor, dimensional anchor, mind blank, neutralize poison, resist energy, stone to flesh, and prismatic sphere, prismatic spray, or prismatic wall",
     "Price": "160,650 gp",
-    "Description": "This resplendent suit of +3 full plate shimmers and shifts between all the colors of the rainbow. A single color dominates the others at any given time. As a swift action, the wearer can change the dominant color. This color remains dominant until the wearer changes it again. When the wearer of prismatic plate is struck by a prismatic spray, or when he passes through a prismatic sphere or prismatic wall, he ignores the effect that matches the dominant armor color. He receives no special protection against the other colors of those spells. In addition to this benefit, each color provides a unique type of protection."
+    "Description": "This resplendent suit of +3 full plate shimmers and shifts between all the colors of the rainbow. A single color dominates the others at any given time. As a swift action, the wearer can change the dominant color. This color remains dominant until the wearer changes it again. When the wearer of prismatic plate is struck by a prismatic spray, or when he passes through a prismatic sphere or prismatic wall, he ignores the effect that matches the dominant armor color. He receives no special protection against the other colors of those spells. In addition to this benefit, each color provides a unique type of protection.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 29,
@@ -258,7 +314,9 @@
     "CL": "9th",
     "Craft": "Craft Magic Arms and Armor, bull's strength",
     "Price": "5,165 gp",
-    "Description": "This +2 hide armor is made from rhinoceros hide. In addition to granting a +2 enhancement bonus to AC, it has a –1 armor check penalty and deals an additional 2d6 points of damage on any successful charge attack made by the wearer, including a mounted charge."
+    "Description": "This +2 hide armor is made from rhinoceros hide. In addition to granting a +2 enhancement bonus to AC, it has a –1 armor check penalty and deals an additional 2d6 points of damage on any successful charge attack made by the wearer, including a mounted charge.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 30,
@@ -267,7 +325,9 @@
     "CL": "8th",
     "Craft": "Craft Magic Arms and Armor, creeping doom, spell turning, vermin shape II",
     "Price": "32,350 gp",
-    "Description": "This +3 breastplate is crafted from the carapace of a giant scarab beetle, enchanted to be as hard and reflective as polished steel. The wearer suffers only half damage from vermin swarms and gains a +2 resistance bonus on saving throws against the extraordinary abilities of vermin swarms. In addition, once per day on command, the wearer can transform the scarab breastplate into a swarm of scarab beetles that skitter from her chest to attack creatures nearby. This swarm has statistics identical to an army ant swarm and attacks any creatures within its space. The wearer can command the swarm to move (including changing the shape of the swarm) as a move action, but the swarm must remain adjacent to her. If the swarm is reduced to 0 hit points, if the wearer is forced to move away from the swarm, or if the wearer commands it to return to her as a move action, the swarm crawls back onto the wearer's torso and returns to armor form. While the swarm is active, the wearer is not considered to be wearing the scarab breastplate (except for purposes of commanding the swarm) and gains no defensive benefits from it. A druid of 6th level wearing a scarab breastplate can use her wild shape ability to duplicate vermin shape I. At 8th level, she can also use it to duplicate vermin shape II."
+    "Description": "This +3 breastplate is crafted from the carapace of a giant scarab beetle, enchanted to be as hard and reflective as polished steel. The wearer suffers only half damage from vermin swarms and gains a +2 resistance bonus on saving throws against the extraordinary abilities of vermin swarms. In addition, once per day on command, the wearer can transform the scarab breastplate into a swarm of scarab beetles that skitter from her chest to attack creatures nearby. This swarm has statistics identical to an army ant swarm and attacks any creatures within its space. The wearer can command the swarm to move (including changing the shape of the swarm) as a move action, but the swarm must remain adjacent to her. If the swarm is reduced to 0 hit points, if the wearer is forced to move away from the swarm, or if the wearer commands it to return to her as a move action, the swarm crawls back onto the wearer's torso and returns to armor form. While the swarm is active, the wearer is not considered to be wearing the scarab breastplate (except for purposes of commanding the swarm) and gains no defensive benefits from it. A druid of 6th level wearing a scarab breastplate can use her wild shape ability to duplicate vermin shape I. At 8th level, she can also use it to duplicate vermin shape II.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 31,
@@ -276,7 +336,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, augury, creator must be an oracle with the desired revelation",
     "Price": "10,300 gp",
-    "Description": "This +1 chainmail is attuned to a particular oracular mystery and contains a revelation associated with that mystery (see the oracle class description in the Advanced Player's Guide). Its design and coloration are typically suggestive of its related mystery. While wearing the armor, an oracle has access to that revelation and may use it as if she had it as a normal class feature. The oracle must have the appropriate mystery to use the armor; for example, a soothsayer's raiment (battlecry) is only usable by an oracle of battle. If the wearer already has that revelation and the revelation grants an ability with a limited number of uses per day, the oracle can use that ability one additional time per day. This ability has no effect if the armor is worn by a non-oracle. For divination spells with a percentage-based chance of success (such as augury and divination), the wearer's chance increases by +5."
+    "Description": "This +1 chainmail is attuned to a particular oracular mystery and contains a revelation associated with that mystery (see the oracle class description in the Advanced Player's Guide). Its design and coloration are typically suggestive of its related mystery. While wearing the armor, an oracle has access to that revelation and may use it as if she had it as a normal class feature. The oracle must have the appropriate mystery to use the armor; for example, a soothsayer's raiment (battlecry) is only usable by an oracle of battle. If the wearer already has that revelation and the revelation grants an ability with a limited number of uses per day, the oracle can use that ability one additional time per day. This ability has no effect if the armor is worn by a non-oracle. For divination spells with a percentage-based chance of success (such as augury and divination), the wearer's chance increases by +5.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 32,
@@ -285,10 +347,14 @@
     "CL": "11th",
     "Craft": "Craft Magic Arms and Armor, ironwood, shillelagh, wood shape",
     "Price": "29,350 gp",
-    "Description": "The warden of the woods is a suit of +3 greenwood splint mail made of strips of laminated greenwood that flex with the wearer's movement but stiffen when struck in battle. This armor is treated in all ways like medium armor, including when determining proficiency. The armor has an arcane spell failure chance of 25%, a maximum Dexterity bonus of +2, and an armor check penalty of –4. As a move action, the wearer can snap a strip of wood loose from the armor. The strip lengthens into a weapon of a type chosen by the armor's wearer. It can become a +1 greenwood club, a +1/+1 greenwood quarterstaff, or a +1 keen greenwood wooden stake. If the wearer creates a club or quarterstaff in this way, it gains the benefits of the shillelagh spell with a duration of 1 minute. Each weapon removed from the warden of the woods reduces the armor's enhancement bonus by 1. Consequently, a maximum of three such weapons can be separated from the armor at any given time. The greenwood weapons keep their enhancement bonuses only while they're in the wearer's hands, though they remain masterwork weapons for other wielders. The wearer can reintegrate a weapon back into the warden of the woods as a move action and restore the lost enhancement bonus. Each day at dawn, the armor regenerates any missing strips (regaining its full enhancement bonus), and any weapons still detached from the armor crumble into dust."
+    "Description": "The warden of the woods is a suit of +3 greenwood splint mail made of strips of laminated greenwood that flex with the wearer's movement but stiffen when struck in battle. This armor is treated in all ways like medium armor, including when determining proficiency. The armor has an arcane spell failure chance of 25%, a maximum Dexterity bonus of +2, and an armor check penalty of –4. As a move action, the wearer can snap a strip of wood loose from the armor. The strip lengthens into a weapon of a type chosen by the armor's wearer. It can become a +1 greenwood club, a +1/+1 greenwood quarterstaff, or a +1 keen greenwood wooden stake. If the wearer creates a club or quarterstaff in this way, it gains the benefits of the shillelagh spell with a duration of 1 minute. Each weapon removed from the warden of the woods reduces the armor's enhancement bonus by 1. Consequently, a maximum of three such weapons can be separated from the armor at any given time. The greenwood weapons keep their enhancement bonuses only while they're in the wearer's hands, though they remain masterwork weapons for other wielders. The wearer can reintegrate a weapon back into the warden of the woods as a move action and restore the lost enhancement bonus. Each day at dawn, the armor regenerates any missing strips (regaining its full enhancement bonus), and any weapons still detached from the armor crumble into dust.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
-    "ID": 33
+    "ID": 33,
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 34,
@@ -297,7 +363,9 @@
     "CL": "17th",
     "Craft": "Craft Magic Arms and Armor, disintegrate",
     "Price": "50,170 gp",
-    "Description": "This +1 heavy steel shield is made of metal, but its color is a flat black that seems to absorb light. Once every 2 days, on command, it can disintegrate an object that it touches, as the spell but requiring a melee touch attack. This effect only functions as an attack—it can't be activated to target a creature or weapon as it strikes the shield."
+    "Description": "This +1 heavy steel shield is made of metal, but its color is a flat black that seems to absorb light. Once every 2 days, on command, it can disintegrate an object that it touches, as the spell but requiring a melee touch attack. This effect only functions as an attack—it can't be activated to target a creature or weapon as it strikes the shield.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 35,
@@ -306,7 +374,9 @@
     "CL": "12th",
     "Craft": "Craft Magic Arms and Armor, bull's strength, shape stone, flesh to stone",
     "Price": "19,170 gp",
-    "Description": "The front of this +1 bashing heavy steel shield looks as though it is crafted from hundreds of bits of rubble and larger stones. When used to make a shield bash attack, stones fall from shield and cling to the target of the shield bash. The target must succeed at a DC 14 Fortitude saving throw or be entangled for 1d4 rounds. Once per day on command, the target's wielder can choose to petrify the target of a shield bash instead. The target must succeed at a DC 16 Fortitude saving throw or become petrified for 1 minute."
+    "Description": "The front of this +1 bashing heavy steel shield looks as though it is crafted from hundreds of bits of rubble and larger stones. When used to make a shield bash attack, stones fall from shield and cling to the target of the shield bash. The target must succeed at a DC 14 Fortitude saving throw or be entangled for 1d4 rounds. Once per day on command, the target's wielder can choose to petrify the target of a shield bash instead. The target must succeed at a DC 16 Fortitude saving throw or become petrified for 1 minute.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 36,
@@ -315,7 +385,9 @@
     "CL": "9th",
     "Craft": "Craft Magic Arms and Armor, wall of stone",
     "Price": "16,180 gp",
-    "Description": "Once per day on command, this +2 tower shield can transform into a solid, 1-foot-thick, 10-foot-by-10-foot wall of masonry with a battlement on top and an arrow slit in each 5-foot length. The wall acts as cover just like any physical wall. The wielder can touch the wall with one hand and command it to revert to a tower shield either resting on the ground and balanced against his hand or strapped to his arm in the normal fashion. The wall has all the characteristics of any other foot-thick wall of masonry (hardness 8, 90 hit points, break DC 35). Attacks sufficient to destroy the wall cause it to immediately transform back into a shield, which loses half its hit points and gains the broken condition. The shield remains in wall form until destroyed or commanded to return to shield form. The wall cannot appear in a space too small to accommodate it."
+    "Description": "Once per day on command, this +2 tower shield can transform into a solid, 1-foot-thick, 10-foot-by-10-foot wall of masonry with a battlement on top and an arrow slit in each 5-foot length. The wall acts as cover just like any physical wall. The wielder can touch the wall with one hand and command it to revert to a tower shield either resting on the ground and balanced against his hand or strapped to his arm in the normal fashion. The wall has all the characteristics of any other foot-thick wall of masonry (hardness 8, 90 hit points, break DC 35). Attacks sufficient to destroy the wall cause it to immediately transform back into a shield, which loses half its hit points and gains the broken condition. The shield remains in wall form until destroyed or commanded to return to shield form. The wall cannot appear in a space too small to accommodate it.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 37,
@@ -324,7 +396,9 @@
     "CL": "12th",
     "Craft": "Craft Magic Arms and Armor, bull's strength, animate objects",
     "Price": "36,170 gp",
-    "Description": "This +1 animated bashing heavy steel shield rattles in anticipation during battle. When loosed into the air to defend its wearer, the belligerent shield attacks as well as defends. Each round starting the round after animation, the shield makes a single shield bash attack against a foe of its wearer's choice within the wearer's reach. This works as a standard shield bash attack using the wearer's normal attack bonus with the shield, except that the wearer retains the shield bonus to AC, and while the shield's attack is treated as an off-hand attack, the wearer does not take off-hand penalties on her own attacks unless she is fighting with two weapons herself. If the wearer has any feats or abilities that benefit shield bashing attacks, they apply to attacks made by the belligerent shield."
+    "Description": "This +1 animated bashing heavy steel shield rattles in anticipation during battle. When loosed into the air to defend its wearer, the belligerent shield attacks as well as defends. Each round starting the round after animation, the shield makes a single shield bash attack against a foe of its wearer's choice within the wearer's reach. This works as a standard shield bash attack using the wearer's normal attack bonus with the shield, except that the wearer retains the shield bonus to AC, and while the shield's attack is treated as an off-hand attack, the wearer does not take off-hand penalties on her own attacks unless she is fighting with two weapons herself. If the wearer has any feats or abilities that benefit shield bashing attacks, they apply to attacks made by the belligerent shield.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 38,
@@ -333,7 +407,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, major creation",
     "Price": "4,655 gp",
-    "Description": "This unassuming +1 buckler has an array of small tools and implements embedded into the backside of its rim, able to be folded and snapped out for use at a moment's notice to attack, defend, or accomplish roguish tasks. A burglar's buckler grants the wielder a +2 competence bonus on Disable Device and Sleight of Hand checks, combat maneuver checks made to perform dirty tricks, and to CMD against dirty tricks. Once per day on command, the wielder may transform a burglar's buckler into any mundane tool weighing 1 to 5 pounds, such as a crowbar, hammer, saw, small shovel, grappling hook, artisan's tools, or thieves' tools. The burglar's buckler retains its normal hardness and hit points in this form and can be converted back into shield form on command."
+    "Description": "This unassuming +1 buckler has an array of small tools and implements embedded into the backside of its rim, able to be folded and snapped out for use at a moment's notice to attack, defend, or accomplish roguish tasks. A burglar's buckler grants the wielder a +2 competence bonus on Disable Device and Sleight of Hand checks, combat maneuver checks made to perform dirty tricks, and to CMD against dirty tricks. Once per day on command, the wielder may transform a burglar's buckler into any mundane tool weighing 1 to 5 pounds, such as a crowbar, hammer, saw, small shovel, grappling hook, artisan's tools, or thieves' tools. The burglar's buckler retains its normal hardness and hit points in this form and can be converted back into shield form on command.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 39,
@@ -342,7 +418,9 @@
     "CL": "6th",
     "Craft": "Craft Magic Arms and Armor, Scribe Scroll, creator must be at least 6th level",
     "Price": "3,153 gp",
-    "Description": "This +1 light wooden shield has a leather strip on the back on which a spellcaster can scribe a single spell as on a scroll. A spell so scribed requires half the normal cost in raw materials. The strip cannot accommodate spells of higher than 3rd level. The strip is reusable. A random caster's shield has a 50% chance of having a single medium scroll spell on it. The spell is divine (01–80 on d%) or arcane (81–100). A caster's shield has a 5% arcane spell failure chance. The price of the shield is modified by the value of the scroll spell if one is currently scribed."
+    "Description": "This +1 light wooden shield has a leather strip on the back on which a spellcaster can scribe a single spell as on a scroll. A spell so scribed requires half the normal cost in raw materials. The strip cannot accommodate spells of higher than 3rd level. The strip is reusable. A random caster's shield has a 50% chance of having a single medium scroll spell on it. The spell is divine (01–80 on d%) or arcane (81–100). A caster's shield has a 5% arcane spell failure chance. The price of the shield is modified by the value of the scroll spell if one is currently scribed.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 40,
@@ -351,7 +429,9 @@
     "CL": "11th",
     "Craft": "Craft Magic Arms and Armor, Scribe Scroll",
     "Price": "10,153 gp",
-    "Description": "This +3 light wooden shield acts in all ways like a caster's shield, but the strip can accommodate spells of up to 5th level."
+    "Description": "This +3 light wooden shield acts in all ways like a caster's shield, but the strip can accommodate spells of up to 5th level.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 41,
@@ -360,7 +440,9 @@
     "CL": "7th",
     "Craft": "Craft Magic Arms and Armor, feather fall, overland flight",
     "Price": "13,170 gp",
-    "Description": "This gold-edged +2 blinding heavy steel shield is impossibly light and handy despite its size. It has no armor check penalty or arcane spell failure chance, and it allows the wielder to use feather fall on himself once per day. A creature wearing celestial armor while wielding a celestial shield may command the armor to provide overland flight rather than fly once per day."
+    "Description": "This gold-edged +2 blinding heavy steel shield is impossibly light and handy despite its size. It has no armor check penalty or arcane spell failure chance, and it allows the wielder to use feather fall on himself once per day. A creature wearing celestial armor while wielding a celestial shield may command the armor to provide overland flight rather than fly once per day.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 42,
@@ -369,7 +451,9 @@
     "CL": "6th",
     "Craft": "Craft Magic Arms and Armor, shrink item",
     "Price": "8,170 gp",
-    "Description": "Three times per day, this +2 heavy steel shield can be commanded to transform into a +2 tower shield. It can stay in tower shield form for 1 minute or until it is commanded to take its normal form again (a swift action). A collapsible tower's weight does not change when it takes tower shield form."
+    "Description": "Three times per day, this +2 heavy steel shield can be commanded to transform into a +2 tower shield. It can stay in tower shield form for 1 minute or until it is commanded to take its normal form again (a swift action). A collapsible tower's weight does not change when it takes tower shield form.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 43,
@@ -378,7 +462,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, remove fear, shield of faith",
     "Price": "7,170 gp",
-    "Description": "This +2 heavy steel shield has a distinct curve to its shape and often bears the device of a valiant knight. The wearer of this shield gains a +2 bonus on Reflex saves against effects that originate or burst from a point outside his own square, as though he had cover. It does not protect against spread effects. This bonus does not stack with that granted by actual cover or give cover to any creature other than the wearer. In addition, the dragonslayer's shield grants its wielder a +2 morale bonus on Will saves against the frightful presence ability."
+    "Description": "This +2 heavy steel shield has a distinct curve to its shape and often bears the device of a valiant knight. The wearer of this shield gains a +2 bonus on Reflex saves against effects that originate or burst from a point outside his own square, as though he had cover. It does not protect against spread effects. This bonus does not stack with that granted by actual cover or give cover to any creature other than the wearer. In addition, the dragonslayer's shield grants its wielder a +2 morale bonus on Will saves against the frightful presence ability.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 44,
@@ -387,7 +473,9 @@
     "CL": "13th",
     "Craft": "Craft Magic Arms and Armor, Turn Undead, death ward, etherealness",
     "Price": "52,620 gp",
-    "Description": "This +2 ghost-touch tower shield is engraved with funerary runes depicting the peaceful rest of the contented dead. The wielder of an elysian shield is immune to the create spawn ability of undead, and once per day as an immediate action can negate a single energy drain, ability drain, or ability damage attack by an undead creature. In addition, once per day as a standard action, the wielder can release a wave of positive energy that panics undead, as the Turn Undead feat (Will DC 20 negates)."
+    "Description": "This +2 ghost-touch tower shield is engraved with funerary runes depicting the peaceful rest of the contented dead. The wielder of an elysian shield is immune to the create spawn ability of undead, and once per day as an immediate action can negate a single energy drain, ability drain, or ability damage attack by an undead creature. In addition, once per day as a standard action, the wielder can release a wave of positive energy that panics undead, as the Turn Undead feat (Will DC 20 negates).",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 45,
@@ -396,7 +484,9 @@
     "CL": "7th",
     "Craft": "Craft Magic Arms and Armor, etherealness, resilient sphere, shield",
     "Price": "46,030 gp",
-    "Description": "This +1 arrow deflection ghost-touch mithral tower shield glows with a perpetual bluish radiance. Infused with magical force, a force tower renders its wielder immune to magic missiles and also allows its wielder to use its arrow deflection special ability to deflect magical rays and ranged touch attacks. The Reflex save DC to deflect such attacks is equal to 20 + the level of the spell (or 1/2 the class level or Hit Dice of the creature that created the effect, if a supernatural effect). If a spell or effect creates multiple rays or attacks, the force tower deflects only one of them per round."
+    "Description": "This +1 arrow deflection ghost-touch mithral tower shield glows with a perpetual bluish radiance. Infused with magical force, a force tower renders its wielder immune to magic missiles and also allows its wielder to use its arrow deflection special ability to deflect magical rays and ranged touch attacks. The Reflex save DC to deflect such attacks is equal to 20 + the level of the spell (or 1/2 the class level or Hit Dice of the creature that created the effect, if a supernatural effect). If a spell or effect creates multiple rays or attacks, the force tower deflects only one of them per round.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 46,
@@ -405,7 +495,9 @@
     "CL": "11th",
     "Craft": "Craft Magic Arms and Armor, wall of iron",
     "Price": "19,180 gp",
-    "Description": "The wearer of this +1 tower shield may, as a full-round action, transform the shield into a 1-inch-thick cube of iron that springs into being around him, completely enclosing his space. The cube has hardness 10 and 30 hit points per side. This cube grants the wearer total cover against everything outside the cube, including (as it is perfectly sealed) swarms and gas attacks. The inside of the cube is dark, and air cannot get in or out so the wearer must hold his breath starting on the third round after activating the cube. Attacks sufficient to destroy one side of the cube cause it to immediately transform back into a shield, which loses half its hit points and gains the broken condition. Otherwise, the cube reverts to shield form upon command, if the wearer moves from his current space, or if the wearer falls unconscious or dies."
+    "Description": "The wearer of this +1 tower shield may, as a full-round action, transform the shield into a 1-inch-thick cube of iron that springs into being around him, completely enclosing his space. The cube has hardness 10 and 30 hit points per side. This cube grants the wearer total cover against everything outside the cube, including (as it is perfectly sealed) swarms and gas attacks. The inside of the cube is dark, and air cannot get in or out so the wearer must hold his breath starting on the third round after activating the cube. Attacks sufficient to destroy one side of the cube cause it to immediately transform back into a shield, which loses half its hit points and gains the broken condition. Otherwise, the cube reverts to shield form upon command, if the wearer moves from his current space, or if the wearer falls unconscious or dies.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 47,
@@ -414,7 +506,9 @@
     "CL": "10th",
     "Craft": "Craft Magic Arms and Armor, summon nature's ally IV",
     "Price": "9,170 gp",
-    "Description": "This +2 heavy steel shield is fashioned to appear to be a roaring lion's head. Three times per day as a free action, the lion's head can be commanded to attack (independently of the shield wearer), biting with the wielder's base attack bonus (including multiple attacks, if the wielder has them) and dealing 2d6 points of damage. This attack is in addition to any actions performed by the wielder."
+    "Description": "This +2 heavy steel shield is fashioned to appear to be a roaring lion's head. Three times per day as a free action, the lion's head can be commanded to attack (independently of the shield wearer), biting with the wielder's base attack bonus (including multiple attacks, if the wielder has them) and dealing 2d6 points of damage. This attack is in addition to any actions performed by the wielder.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 48,
@@ -423,7 +517,9 @@
     "CL": "—",
     "Craft": "na",
     "Price": "120 gp",
-    "Description": "This nonmagical heavy steel shield is made out of living steel. It has no enhancement bonus, but its material and construction can damage metal weapons that strike it. Whenever the wielder of a metal weapon (other than one made of adamantine) rolls a natural 1 on an attack against a creature wielding this shield, the item must make a DC 20 Fortitude save or gain the broken condition. If the weapon already has the broken condition, it is instead destroyed."
+    "Description": "This nonmagical heavy steel shield is made out of living steel. It has no enhancement bonus, but its material and construction can damage metal weapons that strike it. Whenever the wielder of a metal weapon (other than one made of adamantine) rolls a natural 1 on an attack against a creature wielding this shield, the item must make a DC 20 Fortitude save or gain the broken condition. If the weapon already has the broken condition, it is instead destroyed.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 49,
@@ -432,7 +528,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, bull's strength, control water, hydraulic push",
     "Price": "14,170 gp",
-    "Description": "The device of this +1 bashing heavy steel shield features a magical image of the trackless seas, complete with rolling waves and crashing whitecaps. When used to make a shield bash attack, the shield's wielder can make a trip attack as a free action against the same target without provoking an attack of opportunity from the creature being tripped. On command, the wielder can make the shield produce a gallon of fresh drinkable water. Once per day on command, the wielder can use the maelstrom shield to emit a stream of water as the hydraulic push spell."
+    "Description": "The device of this +1 bashing heavy steel shield features a magical image of the trackless seas, complete with rolling waves and crashing whitecaps. When used to make a shield bash attack, the shield's wielder can make a trip attack as a free action against the same target without provoking an attack of opportunity from the creature being tripped. On command, the wielder can make the shield produce a gallon of fresh drinkable water. Once per day on command, the wielder can use the maelstrom shield to emit a stream of water as the hydraulic push spell.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 50,
@@ -441,7 +539,9 @@
     "CL": "—",
     "Craft": "na",
     "Price": "1,020 gp",
-    "Description": "This heavy shield is made of mithral and is thus much lighter than a standard steel shield. It has a 5% arcane spell failure chance and no armor check penalty."
+    "Description": "This heavy shield is made of mithral and is thus much lighter than a standard steel shield. It has a 5% arcane spell failure chance and no armor check penalty.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 51,
@@ -450,7 +550,9 @@
     "CL": "14th",
     "Craft": "Craft Magic Arms and Armor, shield",
     "Price": "36,155 gp",
-    "Description": "Once per round as an immediate action, this +3 arrow deflection buckler can be used to block an incoming melee attack. When used in this way, the buckler's enhancement bonus increases by +2 against that attack. The buckler's user must decide to use this ability before the attack roll is made. When the shield's user blocks a melee attack in this way, it cannot use its arrow deflection special ability for 1 round."
+    "Description": "Once per round as an immediate action, this +3 arrow deflection buckler can be used to block an incoming melee attack. When used in this way, the buckler's enhancement bonus increases by +2 against that attack. The buckler's user must decide to use this ability before the attack roll is made. When the shield's user blocks a melee attack in this way, it cannot use its arrow deflection special ability for 1 round.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 52,
@@ -459,7 +561,9 @@
     "CL": "15th",
     "Craft": "Craft Magic Arms and Armor, cat's grace, spell resistance",
     "Price": "25,180 gp",
-    "Description": "This +2 spell resistance (13) tower shield grants a +4 resistance bonus on Reflex saving throws against spells and spell-like abilities. Once per day, when the wearer succeeds at a saving throw against a spell or spell-like ability that allows a Reflex saving throw for half damage, she may spend an immediate action to instead take no damage from that spell or spell-like ability."
+    "Description": "This +2 spell resistance (13) tower shield grants a +4 resistance bonus on Reflex saving throws against spells and spell-like abilities. Once per day, when the wearer succeeds at a saving throw against a spell or spell-like ability that allows a Reflex saving throw for half damage, she may spend an immediate action to instead take no damage from that spell or spell-like ability.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 53,
@@ -468,7 +572,9 @@
     "CL": "6th",
     "Craft": "Craft Magic Arms and Armor, magic missile",
     "Price": "5,580 gp",
-    "Description": "This +1 heavy steel shield is covered in spines. It acts as a normal spiked shield. On command up to three times per day, the shield's wearer can fire one of the shield's spines. A fired spine has a +1 enhancement bonus, a range increment of 120 feet, and deals 1d10 points of damage (19–20/×2). Fired spines regenerate each day."
+    "Description": "This +1 heavy steel shield is covered in spines. It acts as a normal spiked shield. On command up to three times per day, the shield's wearer can fire one of the shield's spines. A fired spine has a +1 enhancement bonus, a range increment of 120 feet, and deals 1d10 points of damage (19–20/×2). Fired spines regenerate each day.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 54,
@@ -477,7 +583,9 @@
     "CL": "6th",
     "Craft": "Craft Magic Arms and Armor, bull's strength, gust of wind",
     "Price": "15,170 gp",
-    "Description": "The face of this +1 bashing heavy steel shield swirls with the image of swirling clouds, driving rain, or falling snow. When used to make a shield bash attack, the shield's wielder can make a bull rush maneuver as a free action against her target without provoking an attack of opportunity from the creature being bull rushed. Once per day on command, the wielder can cause the tempest shield to emit a stream of high-powered air as the gust of wind spell."
+    "Description": "The face of this +1 bashing heavy steel shield swirls with the image of swirling clouds, driving rain, or falling snow. When used to make a shield bash attack, the shield's wielder can make a bull rush maneuver as a free action against her target without provoking an attack of opportunity from the creature being bull rushed. Once per day on command, the wielder can cause the tempest shield to emit a stream of high-powered air as the gust of wind spell.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 55,
@@ -486,7 +594,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, bull's strength, burning hands, pyrotechnics",
     "Price": "14,170 gp",
-    "Description": "This +1 bashing heavy steel shield burns with an internal fire upon its boss, gaining the flaming weapon special ability when used to make shield bash attacks. On command, the wielder can make the shield belch forth smoke as a smokestick, but this smoke does not impair the shield user's vision. Once per day, the wielder may cause the volcanic shield to erupt in a cascade of brimstone as the flaming hands spell."
+    "Description": "This +1 bashing heavy steel shield burns with an internal fire upon its boss, gaining the flaming weapon special ability when used to make shield bash attacks. On command, the wielder can make the shield belch forth smoke as a smokestick, but this smoke does not impair the shield user's vision. Once per day, the wielder may cause the volcanic shield to erupt in a cascade of brimstone as the flaming hands spell.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 56,
@@ -495,7 +605,9 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, fly",
     "Price": "17,257 gp",
-    "Description": "This heavy wooden shield has a +3 enhancement bonus. Arching bird wings are carved into the face of the shield. Once per day, it can be commanded to fly (as the spell), carrying the wielder. The shield can carry up to 133 pounds and move at 60 feet per round, or up to 266 pounds and move at 40 feet per round."
+    "Description": "This heavy wooden shield has a +3 enhancement bonus. Arching bird wings are carved into the face of the shield. Once per day, it can be commanded to fly (as the spell), carrying the wielder. The shield can carry up to 133 pounds and move at 60 feet per round, or up to 266 pounds and move at 40 feet per round.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 57,
@@ -504,7 +616,9 @@
     "CL": "9th",
     "Craft": "Craft Magic Arms and Armor, remove fear, shield of faith",
     "Price": "20,170 gp",
-    "Description": "This +4 heavy steel shield acts in all ways as a dragonslayer's shield, except it grants a +6 morale bonus on Will saves against the frightful presence ability instead of a +2 morale bonus."
+    "Description": "This +4 heavy steel shield acts in all ways as a dragonslayer's shield, except it grants a +6 morale bonus on Will saves against the frightful presence ability instead of a +2 morale bonus.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   },
   {
     "ID": 58,
@@ -513,6 +627,8 @@
     "CL": "5th",
     "Craft": "Craft Magic Arms and Armor, animate dead",
     "Price": "2,159 gp",
-    "Description": "This +1 light steel shield is wrapped in a layer of gray skin. Once per day, the wearer can animate the skin as a human zombie under her control, as if she had created it with animate dead, for a period of 5 minutes. When the time expires, the zombie returns to the shield. If the zombie is destroyed or cannot reach the shield by the time it expires, placing the shield on a Medium humanoid corpse for 1 hour recreates the shield's skin."
+    "Description": "This +1 light steel shield is wrapped in a layer of gray skin. Once per day, the wearer can animate the skin as a human zombie under her control, as if she had created it with animate dead, for a period of 5 minutes. When the time expires, the zombie returns to the shield. If the zombie is destroyed or cannot reach the shield by the time it expires, placing the shield on a Medium humanoid corpse for 1 hour recreates the shield's skin.",
+    "MarkdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+    "MarkdownTitle": "Armor Special Abilities"
   }
 ]

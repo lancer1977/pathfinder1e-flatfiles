@@ -11,4 +11,6 @@ Do not store application code here.
 - `pf1-dataseeds-payload-index.json` records the mirrored payload families and counts.
 - Family-specific source indexes record markdown coverage for enriched outputs.
 - `pf1-armor-source-index.json`, `pf1-feat-source-index.json`, `pf1-magic-item-source-index.json`, `pf1-mundane-source-index.json`, and `pf1-weapon-source-index.json` track the source-doc anchored families.
+- `pf1-ammo-source-index.json`, `pf1-armor-feature-source-index.json`, `pf1-specific-armor-source-index.json`, `pf1-specific-weapon-source-index.json`, and `pf1-weapon-feature-source-index.json` track the extended source-doc anchored families.
+- `pf1-class-ability-source-index.json` and `pf1-class-ability-unchained-monk-source-index.json` track the class-ability source-doc anchored families.
 - `pf1-srd-markdown-source-index.json` records the upstream SRD markdown commit and overlay coverage for supported families.

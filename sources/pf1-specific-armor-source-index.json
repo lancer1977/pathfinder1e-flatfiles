@@ -1,0 +1,356 @@
+{
+  "generatedAt": "2026-05-21T03:17:08.913Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/specificArmor.json",
+  "markdownCoverage": 58,
+  "totalRecords": 58,
+  "records": [
+    {
+      "name": "Armor Of Insults",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Banded Mail of Luck",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Boneless Leather",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Breastplate of Command",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Breastplate of Vanishing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Buccaneer's Breastplate",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Catskin Leather",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Celestial Armor",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Daystar Half-Plate",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Demon Armor",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dragonhide Plate",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dwarven Plate",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Elven Chain",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Enchanted Eelskin",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Equestrian Plate",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Folding Plate",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Forsaken Banded Mail",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Giant-Hide Armor",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Hamatula Hide",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Invincible Armor",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mail of Malevolence",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mistmail",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mithral full plate of speed",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Morlock Hide",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Murderer's Blackcloth",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Otyugh Hide",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Plate Armor of the Deep",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Prismatic Plate",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Rhino Hide",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Scarab Breastplate",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Soothsayer's Raiment",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Warden of the Woods",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Absorbing Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Avalanche Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Battlement Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Belligerent Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Burglar's Buckler",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Caster's Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Caster's Shield, Greater",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Celestial Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Collapsible Tower",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dragonslayer's Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Elysian Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Force Tower",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fortress Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lion's Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Living Steel Heavy Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Maelstrom Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mithral Heavy Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Quick Block Buckler",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Ward Tower Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spined Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tempest Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Volcanic Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Winged Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wyrmslayer's Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Zombie Skin Shield",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities.md",
+      "category": null,
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "generatedAt": "2026-05-21T03:17:08.915Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/weaponfeature.json",
+  "markdownCoverage": 91,
+  "totalRecords": 91,
+  "records": [
+    {
+      "name": "Adaptive",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Advancing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Allying",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Anarchic",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Anchoring",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Axiomatic",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bane",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Benevolent",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Brilliant Energy",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Called",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Conductive",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Conserving",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Corrosive",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Corrosive Burst",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Courageous",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cruel",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Cunning",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dancing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Deadly",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Defending",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Defiant",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Designating, Greater",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Designating, Lesser",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dispelling",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dispelling Burst",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Disruption",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Distance",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dry Load",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Dueling",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "endless ammunition",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Flaming",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Flaming Burst",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Frost",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Furious",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Furyborn",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ghost Touch",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Glamered",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Glorious",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Grayflame",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Grounding",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Guardian",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Heartseeker",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Holy",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Huntsman",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Icy Burst",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Igniting",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Impact",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Impervious",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Invigorating",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Jurist",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Keen",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki Focus",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki Intensifying",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lifesurge",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Limning",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lucky",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Lucky, Greater",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Menacing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Merciful",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mighty Cleaving",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Mimetic",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Negating",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Neutralizing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Nimble Shot",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Nullifying",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ominous",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Phase Locking",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Planar",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Quenching",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Reliable",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Reliable, Greater",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Repositioning",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Returning",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Seaborne",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Second Chance",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Seeking",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shock",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Shocking Burst",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Speed",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spell Storing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Spellstealing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stalking",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Thawing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Throwing",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Thundering",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Transformative",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unholy",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Valiant",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Vicious",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Vorpal",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Wounding",
+      "markdownPath": "ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities.md",
+      "category": null,
+      "source": null
+    }
+  ]
+}

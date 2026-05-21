@@ -1,0 +1,123 @@
+{
+  "generatedAt": "2026-05-21T03:17:08.907Z",
+  "vaultRoot": "/home/lancer1977/vaults/rpgs/RPG Vault/10_Rules/Pathfinder 1e",
+  "legacyFile": "pathfinder1e/classAbility.UnchainedMonk.json",
+  "markdownCoverage": 19,
+  "totalRecords": 19,
+  "records": [
+    {
+      "name": "Arcane Armor",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Bonus Feat",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Flurry of Blows",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Stunning Fist",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Unarmed Strike",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Evasion",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Fast Movement",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki Pool",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki Strike",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki power",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Still Mind",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Purity of Body",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Style Strike",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Ki power",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Improved Evasion",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Tongue of the Sun and Moon",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Timeless Body",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Flawless Mind",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    },
+    {
+      "name": "Perfect Self",
+      "markdownPath": "advanced/coreClasses/monk.md",
+      "category": null,
+      "source": null
+    }
+  ]
+}
