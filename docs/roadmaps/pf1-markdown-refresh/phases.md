@@ -45,6 +45,7 @@ Normalization rules:
 - [x] Add repeatable comparison checks
 - [x] Add source drift reporting
 - [x] Document manual correction rules
+- [x] Add source-repo refresh smoke tests for the flatfile repo itself
 
 Manual correction rules:
 

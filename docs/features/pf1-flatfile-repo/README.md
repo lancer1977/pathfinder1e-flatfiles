@@ -52,6 +52,10 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 
 - `npm run export:families` writes grouped family snapshots under `exports/pf1-family-snapshots/` with a manifest for review and downstream packaging.
 
+## Smoke Refresh Command
+
+- `npm run smoke:refresh` runs the full PF1 refresh, validation, and family export pipeline and verifies the grouped export manifest exists.
+
 ## Backup Groups
 
 - `adventure`: encounters, encounter titles
@@ -78,6 +82,7 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - [x] Add enriched family validation checks
 - [x] Define shared label and alias normalization rules
 - [x] Add family-oriented export helper for grouped family snapshots
+- [x] Add source-repo refresh smoke tests for the flatfile repo itself
 - [ ] Add markdown enrichment for weapons and weapon features
 - [ ] Add markdown enrichment for armor and armor features
 - [ ] Add markdown enrichment for mundane gear and magic items
