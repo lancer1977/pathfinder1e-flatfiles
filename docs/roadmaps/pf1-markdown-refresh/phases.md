@@ -12,6 +12,7 @@
 
 - [x] Export every root DataSeeds PF1 `.js` payload as raw backup JSON
 - [x] Organize raw backup payloads by family group
+- [x] Add a family-oriented export helper for grouped flatfile snapshots
 - [x] Generate a raw backup manifest with record counts and SHA-256 hashes
 - [x] Convert every root DataSeeds PF1 `.js` payload to `.json`
 - [x] Preserve current payload shape for compatibility

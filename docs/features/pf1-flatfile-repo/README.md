@@ -48,6 +48,10 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - `PF1_SRD_MARKDOWN_CACHE=...` changes the local cache directory.
 - `npm run update:srd -- --no-pull` reuses the current local cache.
 
+## Family Export Command
+
+- `npm run export:families` writes grouped family snapshots under `exports/pf1-family-snapshots/` with a manifest for review and downstream packaging.
+
 ## Backup Groups
 
 - `adventure`: encounters, encounter titles
@@ -73,6 +77,7 @@ This repo stores generated PF1 flatfiles outside the app repo. The baseline is a
 - [x] Add SRD markdown overlay validation
 - [x] Add enriched family validation checks
 - [x] Define shared label and alias normalization rules
+- [x] Add family-oriented export helper for grouped family snapshots
 - [ ] Add markdown enrichment for weapons and weapon features
 - [ ] Add markdown enrichment for armor and armor features
 - [ ] Add markdown enrichment for mundane gear and magic items
